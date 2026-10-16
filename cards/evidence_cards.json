@@ -1,0 +1,1973 @@
+[
+  {
+    "card_id": "E001",
+    "doc_id": "P7568dc39102f",
+    "doi": "10.1021/jacs.3c13288",
+    "publication_reference": "Bai et al., JACS 2024, 146, 9665-9678; PDF Published April 1, 2024",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "read_scope": "正文结果、讨论、结论及主要方法；参考文献未逐条核实；SI 未获取配对",
+    "visually_reviewed_pages": [
+      7
+    ],
+    "conditions": "H 型池；0.1 M Na2SO4 + 8 mM NaNO3；主要比较 pH 12；恒电位电解 2 h；电极制备及面积口径见 PDF pp.10-11。",
+    "claims": [
+      {
+        "id": "E001-C1",
+        "type": "author_reported_observation",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "statement": "在该 Cu2O 纳米立方体体系，+0.10 V_RHE 下 Cu(I) 仍占主导、NO2- 为主要产物；-0.30 V_RHE 下高 NH3 选择性与 Cu(0) 增多相关。作者报告该电位近表面约 92% Cu(0)，operando XANES 在 1 h 后约 85% Cu(0)。不同数字来自不同探测深度和方法，不能互换。"
+      },
+      {
+        "id": "E001-C2",
+        "type": "author_reported_observation",
+        "pages": [
+          3
+        ],
+        "statement": "-0.30 V_RHE 时报告 NH3 FE 88 ± 5%，产率 45 ± 3 μmol h^-1 cm^-2；不与其他浓度、电解液或面积口径直接排名。"
+      },
+      {
+        "id": "E001-C3",
+        "type": "literature_assignment",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "该文将 Raman 1128、1266 cm^-1 归属于吸附 NO2- 的对称及反对称 N-O 伸缩；1190、1526 cm^-1 与 NH2OH 相关。适用范围是该体系及相应实验条件；不据此唯一确定所有材料的吸附构型。"
+      },
+      {
+        "id": "E001-C4",
+        "type": "author_reported_observation",
+        "pages": [
+          7
+        ],
+        "statement": "作者明确指出 Cu2O 还原形成纳米结构金属 Cu 后，表面等离激元效应显著增强 Raman 信号；Figure 5b 的 NO3RR 谱另有人为放大五倍。图页已目视核对。"
+      }
+    ],
+    "title": "Electrocatalytic Nitrate and Nitrite Reduction toward Ammonia Using Cu2 O Nanocubes: Active Species and Reaction Mechanisms",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 14,
+    "sha256": "7568dc39102f8745867d44facafd44f904c7dc06fc9099d19b0fd2bf5a3be797",
+    "mechanism": "这篇的主要价值是将选择性、时间/电位依赖工作态与表面/体相多种测量对应起来。对原始 Cu2O 的结论不能直接外推为所有 Cu 催化剂的唯一活性价态。",
+    "limits": [
+      "作者也未完全排除少量残余 Cu(I) 的作用。",
+      "文中电动力学解释依赖 pH、覆盖度模型及传质假设；正文明确限定未缓冲碱性条件。",
+      "Raman 强度同时受覆盖度、增强因子和处理尺度影响，不能单凭峰强定量反应速率。",
+      "本轮未把 1040 cm^-1 指认为本篇直接验证的峰；该文正文讨论的硝酸根相关峰包括 1005 和 1098 cm^-1。"
+    ],
+    "writing": "写作优先讨论工作态与电荷分配；绘图保留强度缩放说明；若要将目标样品峰强解释为速率，需先控制光学条件、归一化、重构/增强效应并与独立产物速率关联。",
+    "figure": "核对原始图页、坐标、电位、谱学类型和缩放后再绘图。",
+    "experiment": "为实际样品核对电位标尺和电解液条件，建立原位谱与同条件产物/电荷记录的对应关系；NO2RR 可作为区分步骤的可选研究，不作为当前样品必须补做的性能实验。",
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E002",
+    "doc_id": "P740d52430018",
+    "doi": "10.1002/anie.202516401",
+    "publication_reference": "Guo et al., Angew. Chem. Int. Ed. 2026, 65, e16401; filename says 2025 and is not a publication-date authority",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "正文至总结；SI 中引用的图表未独立读到，不计为已核查",
+    "visually_reviewed_pages": [
+      6
+    ],
+    "conditions": "0.5 M Na2SO4 + 0.1 M PBS + 100 ppm NO3--N；三电极体系；注意 ppm 以 N 计。",
+    "claims": [
+      {
+        "id": "E002-C1",
+        "type": "author_reported_observation",
+        "pages": [
+          4
+        ],
+        "statement": "Cu-NCOM 在 -0.7 V_RHE 报告 NH3 FE 96.7% 和 NH3 分电流 -19.9 mA cm^-2；最大产率 10.5 mol h^-1 g_Cu^-1 出现在 -0.8 V。两个最优值不是同一个电位，且分母是 Cu 质量。"
+      },
+      {
+        "id": "E002-C2",
+        "type": "author_interpretation",
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "statement": "作者用 KIE、DMPO-EPR、OH 区间 Raman 分峰和 AIMD 支持含氧官能团富集水合阳离子/调节供氢的解释。最高氧含量样品并非最高 NH3 FE；Figure 4j 为四个样品的峰形关联。"
+      },
+      {
+        "id": "E002-C3",
+        "type": "author_model_result",
+        "pages": [
+          9
+        ],
+        "statement": "作者模型比较 Cu-N3O1 邻近界面 Na+ 与体相 Na+ 的情况，得到更有利的硝酸根吸附及 *NO 加氢自由能。模拟为所选模型结果，不能当作所有催化剂的实测路径。"
+      }
+    ],
+    "title": "Oxygen‐Incorporation‐Engineered Interfacial Water Modulation on Single‐Atom Cu Sites for Enhanced Dilute Nitrate Electroreduction",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 11,
+    "sha256": "740d524300188f3d32103c6f3a83e1181168b5845d27aa0ed3172add74b3bd94",
+    "mechanism": "支持把吸附与供氢/HER 竞争放在同一框架内；四个材料点的关联不足以建立对所有电解液和材料通用的定量火山规律。",
+    "limits": [
+      "Cu 第一配位层和载体含氧官能团同时变化，不能把全部增益只归因于界面水。",
+      "KIE 按总电流计算时可能混入 HER 的变化；更可靠的迁移验证应尽量比较 NH3 速率或分电流。",
+      "FTIR 为差谱，正文 pp.4-5 与图注 p.6 的正负峰/积累/消耗叙述需要结合参考谱和 SI 方法复核；不单凭峰向上解释积累。",
+      "该文 1070、1230、1401 等是其 FTIR 归属，不作为另一项目的 Raman 指认依据。"
+    ],
+    "writing": "实验优先同时跟踪 NH3 FE、NH3 分电流及可测的 H2，而非只追求更大总电流或更强 *H 信号；比较最佳 FE 与最佳产率时保持电位和分母。",
+    "figure": "核对原始图页、坐标、电位、谱学类型和缩放后再绘图。",
+    "experiment": "如实际样品存在适配的分子位点，可做小范围改性量/电位筛选，检验是否出现目标产物与 HER 的竞争窗口；阳离子替换须控制 pH、离子强度和参比换算。",
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E003",
+    "doc_id": "Pe28f7214e240",
+    "doi": "10.1002/anie.202521064",
+    "publication_reference": "Zhang et al., Angew. Chem. Int. Ed. 2026, 65, e21064; filename says 2025",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "read_scope": "主要正文含设备扩展与总结；SI 未配对阅读，正文对 SI 的描述仅算作者报告",
+    "visually_reviewed_pages": [
+      8
+    ],
+    "conditions": "H 型池主要测试 1 M KOH + 0.1 M NO3-；Figure 2a LSV 标明 80% iR 补偿；流动池/FOR 配对另有浓度、面积和槽压，不混用。",
+    "claims": [
+      {
+        "id": "E003-C1",
+        "type": "author_reported_observation",
+        "pages": [
+          4,
+          5
+        ],
+        "statement": "优化 Ni4N/Cu 电极报告在 +0.05 V_RHE 约 1.2 A cm^-2、NH3 FE 100 ± 0.7%。原文误差照录，不将中心值超过物理上限解读为额外反应效率。"
+      },
+      {
+        "id": "E003-C2",
+        "type": "author_interpretation",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "正文联合讨论 EIS 吸附拟电容、CV/H-UPD、电解液有无 NO3-、DMPO-EPR 和 DFT，以支持 H 生成、界面迁移及消耗的协同解释。EPR 在加入 NO3- 后降低，被作者解释为消耗增强，不能据此等同为活性降低。"
+      },
+      {
+        "id": "E003-C3",
+        "type": "author_reported_observation",
+        "pages": [
+          4
+        ],
+        "statement": "Ni 配比提高到优化点后，继续增加会降低 NH3 FE，作者归因为增强 HER 竞争；并非 Ni 或供氢位点越多越好。"
+      },
+      {
+        "id": "E003-C4",
+        "type": "figure_checked_model_result",
+        "pages": [
+          7,
+          8,
+          9
+        ],
+        "statement": "Figure 4 的纵轴是 Free Energy。水解离 -1.16 eV 等在图上是始末态自由能变化；正文多处称其 barrier。仅凭此图不能把负自由能变化作为负活化能或已求得的动力学势垒。p.9 还分别讨论 PDS/RDS 及迁移，不可混同。"
+      }
+    ],
+    "title": "Intrinsic Ni0 –Niδ+ Pairs in Anti‐Perovskite NiNNi3 Act as Hydrogen Radical Emitters for Cu Enabling Promoted Electrocatalytic Nitrate Reduction",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 14,
+    "sha256": "e28f7214e240c772dbb0fec2bfb87d6b3dbd787c71d32cb3983efa737859931b",
+    "mechanism": "可借鉴将供氢与利用分开验证的证据结构。材料是 Ni4N/Cu 相界面；普通 CuNi 合金、分子修饰 CuNi 不自动具有相同位点或氢溢流路径。",
+    "limits": [
+      "EIS 拟电容、H-UPD 和捕获自由基信号受模型、基线及竞争吸附影响，不能独立直接测出唯一迁移方向。",
+      "未读到 SI 的数值与原始谱，故暂不把正文援引的 SI 当成本轮直接核验。",
+      "配对电解槽的 0.8 V、1 cm2 条件与 25 cm2 放大时 3-6 V 等条件不同，不能拼接为同一器件表现。",
+      "p.10 将仅电费成本与完整 LCOA 分开；引用经济性必须保留系统边界。"
+    ],
+    "writing": "将实际 CuNi 研究写成可验证的协同假设，优先检查改性是否改变氨选择性与竞争通道；不能直接借本篇替实际样品确认 Ni 价态、空间位点或氢溢流。",
+    "figure": "核对原始图页、坐标、电位、谱学类型和缩放后再绘图。",
+    "experiment": "在统一预处理、实际组分与负载量基础上，比较目标样品/真实 CuNi 对照的 NH3 FE 和分电流；有能力时再用有无硝酸根下的供氢相关表征建立联证。",
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E004",
+    "doc_id": "P6d1495d75055",
+    "doi": "10.1021/jacs.6c04283",
+    "publication_reference": "Wang et al., JACS 2026, 148, 22949-22961; PDF Published May 26, 2026 (Zotero date June 10 differs)",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "read_scope": "正文机制、结论、方法和 SI 入口；参考文献未逐项核查；SI 标为 DOCX，不能只搜索 PDF 判断不存在",
+    "visually_reviewed_pages": [],
+    "conditions": "H 型池，Nafion 117；1 M KOH + 2000 ppm NO3-（非 NO3--N）；碳纸 1 cm2，1 mg_cat cm^-2；60 mL 阴极液，恒电位 20 min，750 rpm。见 PDF pp.5,9-10。",
+    "claims": [
+      {
+        "id": "E004-C1",
+        "type": "author_reported_observation",
+        "pages": [
+          6
+        ],
+        "statement": "-0.8 V_RHE 时 DNCS-CuCOF 报告 NH3 FE 94%、10.6 mg h^-1 mg_cat^-1，对照 CuCOF 为 78%、7.1 mg h^-1 mg_cat^-1。按作者原单位保留；不混成 g_Cu 归一化。"
+      },
+      {
+        "id": "E004-C2",
+        "type": "author_interpretation",
+        "pages": [
+          3,
+          4,
+          7
+        ],
+        "statement": "作者以局部 Cu-N 结构、pH 依赖、KIE、原位光谱和理论模型支持邻近双 N 位点参与局部供质子。材料同时发生介孔化、Cu 含量和位点变化，不能将差异唯一归因于一种机制。"
+      },
+      {
+        "id": "E004-C3",
+        "type": "author_model_result",
+        "pages": [
+          8,
+          9
+        ],
+        "statement": "该文分别报告 *NO→*NHO 的上坡自由能 0.44→0.30 eV，以及 *NO+*H→*NHO 的动力学势垒 0.66→0.06 eV。两组物理量必须分开引用。"
+      },
+      {
+        "id": "E004-C4",
+        "type": "author_reported_observation",
+        "pages": [
+          5,
+          6,
+          10
+        ],
+        "statement": "p.10 说明产率和 FE 误差棒来自至少三个独立样品；同页给出 15N 标记、两种氨定量和测试条件，可用于规划证据交叉核对，而非替用户已有样品补写方法。"
+      }
+    ],
+    "title": "Proton-Feeding Dual-N Claw Sites in a Copper-Covalent Organic Framework Promote Hydrogenation Kinetics for Electrocatalytic Nitrate Reduction",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 13,
+    "sha256": "6d1495d75055b6737ccb5812f441abe446de5d1b779f211061960632f5d4b397",
+    "mechanism": "对分子修饰研究有启发的是把局部供质子功能与结构、酸碱响应和动力学分别对应。该 COF 的 DNCS 结构不等于 PyCEE 或任意含 N 官能团。",
+    "limits": [
+      "p.3 结果段将 TMT 列为缩合单体，而 p.9 的 CuCOF 合成列表未相应列出 TMT；复制具体合成前须查 SI/原始记录，不能擅自修正。",
+      "p.6 以 ICP-OES 确定 electrochemically accessible Cu 计算 TOF；ICP 测总量不天然等于可及位点数量，位点计数假设需另查。",
+      "本文 CV 扫速斜率的解释与 E003 不可直接统一；必须核对横纵轴、峰定义和单位。",
+      "Raman 和 FTIR 有不同峰位与选择规则，不把 FTIR 标注搬进 Raman。"
+    ],
+    "writing": "实际分子改性样品应先证明分子存在/保留，再评价改性量依赖与产物分配；局部质子环境作为待验证解释，不因含 N 或性能提高就视为已证明。",
+    "figure": "核对原始图页、坐标、电位、谱学类型和缩放后再绘图。",
+    "experiment": "在实际电解液中设计目标样品与同处理 CuNi 的配对比较；若选择 pH/KIE 诊断，保持参比校准、传质和产物定量一致；具体条件待实际记录确认。",
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E005",
+    "doc_id": "P0a9d019296e4",
+    "doi": "10.1021/acsnano.5c13950",
+    "publication_reference": "Chen et al., ACS Nano; local PDF is an ASAP/proof with XXXX pagination, final volume/pages not verified",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "正文结果、理论、总结和合成；配对 SI 按标题与作者核对后定向读取，不称全部 SI 已读",
+    "visually_reviewed_pages": [],
+    "supplements": [
+      {
+        "doc_id": "P6209195a8e89",
+        "read_pages": [
+          [
+            1,
+            6
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            48,
+            50
+          ]
+        ],
+        "identity_basis": "SI 第一页标题与作者与正文一致；56 页中仅上述页已定向阅读"
+      }
+    ],
+    "conditions": "H 型池：0.1 M KHCO3，0.5 mg_cat cm^-2，1 cm2，阴/阳各 30 mL，CO2 10 sccm；流动池改用 1 M KHCO3 阴极液、1 M KOH 阳极液、CO2 30 sccm。见 SI pp.4-5。",
+    "claims": [
+      {
+        "id": "E005-C1",
+        "type": "author_reported_observation",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "statement": "H 型池最优 c-Cu2O-C60(2#) 为约 7.2 wt% C60，在 -1.2 V_RHE 报告 C2+ FE 60.4%，并在该器件条件报告 100 h；流动池则高比例 4#（39.3 wt%）更有利。不能拼接成同一配比、同一器件的综合记录。"
+      },
+      {
+        "id": "E005-C2",
+        "type": "author_interpretation",
+        "pages": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "statement": "作者用 XPS/Cu LMM、TEM、CV、原位 Raman 及 DFT 支持 C60 调节 Cu+/Cu0 界面和稳定性的解释，同时明确 XAS 的轻微位移/配位数变化不能独立确证 Cu-C 配位。"
+      },
+      {
+        "id": "E005-C3",
+        "type": "internal_tension",
+        "pages": [
+          6,
+          8
+        ],
+        "statement": "正文将 C60 的电子接受、电子给予和 electron buffer 用于不同解释；p.8 的某一缺陷模型明确说 C60 不能直接从 Cu 接受电子以维持 Cu+。因此只能按构型和条件表述，不沉淀为普适的单向吸电子机制。"
+      },
+      {
+        "id": "E005-C4",
+        "type": "supplement_checked_observation",
+        "pages": [
+          5
+        ],
+        "supplement_doc_id": "P6209195a8e89",
+        "supplement_pages": [
+          32,
+          49,
+          50
+        ],
+        "statement": "SI p.49 将 60.4%、100 h 明确列在 H-cell 的 2# 样品；p.32/50 的 100 h 后 XPS 亦对应 2#。保留该明确关联，正文总结对流动池 4# 与 100 h 的连写需避免照搬。"
+      }
+    ],
+    "title": "Interplay of [C60 ]Fullerene and Cu2 O Nanocrystals for Stable CO2 Electroreduction to C2+ Products",
+    "journal": "ACS Nano",
+    "page_count": 11,
+    "sha256": "0a9d019296e4200eb4fd3fd60a34d02007ccd3795bd2e80923ae46b934787d3f",
+    "mechanism": "是富勒烯稳定界面和配比依赖的相关参照，不能直接证明 PyCEE-CuNi 的 NO3RR 机制。最有价值的迁移问题是工作态、界面是否形成及配比/器件如何改变竞争反应。",
+    "limits": [
+      "局部 PDF 尚非最终卷页版；正式引文前查最终元数据。",
+      "p.8 DFT 与 SI p.6 说明模型未显式考虑电解液、表面活性剂、工作电位等因素，不能称为真实工况完整模拟。",
+      "Cdl 同时受润湿性/界面电容改变影响，不能直接等同活性位点数。",
+      "跨 CO2RR→NO3RR、C60→功能化分子、Cu2O→CuNi 均为迁移推断；需要实际样品证据。"
+    ],
+    "writing": "写作将电子调节/界面稳定保留为有来源的设计动机，图中只画实测支持的电荷方向；选配比时把 FE 与分电流、分散性和反应器条件一起记录。",
+    "figure": "核对原始图页、坐标、电位、谱学类型和缩放后再绘图。",
+    "experiment": "优先检查实际改性量和反应前后组成/谱学变化；不因为本文采用甲苯，就强制给当前项目追加甲苯空白对照。",
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E006",
+    "doc_id": "P3fadeae16313",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "正文 pp.1-7；图像未独立目视，SI 未读。",
+    "conditions": "H 型池；0.05 M K2SO4，KNO3 和负载量有系统变化；主要比较 -1.3 V_RHE、0.5 M KNO3、0.1 mg_cat cm^-2。",
+    "mechanism": "作者提出局部质子接力同时调节位点开放和底物稳定；模型的 NO3 吸附 PDS 自由能为 0.98→0.24 eV。PDS 与活化能不同。",
+    "limits": [
+      "配体 pKa、配位场、长度及孔结构并非全部独立；五点火山关联不足以唯一分离质子效应。",
+      "循环稳定性图注为 15 个 1 h 周期，正文另列连续 65 h；引用时须区分测试，不能合并。",
+      "回到 OCP 的谱学可逆性支持动态配位解释，但未直接记录每个分子的解配位速率。"
+    ],
+    "writing": "将 pKa 与环境匹配作为设计动机，明确优化条件；不把任意含 N 分子都写成已证实的质子接力。",
+    "figure": "把配体系列、酸碱响应和可逆谱学放在同一证据链；不同 pH 最优数据分开标注。",
+    "experiment": "若实际修饰分子酸碱性可测，比较 pH 响应并控制电位标尺、传质和稳定性；先写出电子效应与质子接力两种解释的不同预测。",
+    "title": "Auxiliary Linker-Enabled Local Protonation Boosts the Ammonia Electrosynthesis in Heterometallic Metal–Organic Frameworks",
+    "doi": "10.1021/jacs.5c20755",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 10,
+    "sha256": "3fadeae16313785ce824a644603fd8495e6c76bb43b20fbc1f0b34386099e3e0",
+    "claims": [
+      {
+        "id": "E006-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          5
+        ],
+        "statement": "顺序金属化和安装 L1-L5 辅助配体得到 PCN-800Co-L；单晶到单晶转换提供结构可比性。L3 的 pKa 约 8.1，pH 扫描最优接近 8，提示供质子能力需要匹配环境酸碱性。"
+      },
+      {
+        "id": "E006-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5
+        ],
+        "statement": "pH 约 7 的主要对比中 L3 报告 NH3 FE 91.1%、177.6 mg h^-1 mg_cat^-1；调整至近 pH 8 后报告 97.9%、195.3 mg h^-1 mg_cat^-1。摘要高值与基础条件不是一组数据。"
+      },
+      {
+        "id": "E006-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "原位 Raman 以 711 cm^-1 Zr-O 作为内标，记录 Co-O/吸附硝酸根随电位及回到 OCP 的可逆变化；作者据此结合计算提出配体质子化后暂时解配位、再配位的循环。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E007",
+    "doc_id": "Pc6f4ba546851",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "正文 pp.1-9；图注文本已读，图像和 SI 未独立核查；本地为未最终卷页化版本。",
+    "conditions": "Ar 饱和 1 M KOH + 0.1 M KNO3；H 型三电极比较与 MEA 测试分别记录。",
+    "mechanism": "Pt 生成氢、ZIF 储存/中转、Cu 消耗的空间分工，是作者结合对照与计算提出的解释，不能由 EPR 信号单独确认路径。",
+    "limits": [
+      "将独立组分活性按质量相加后的剩余值称为 57.54% 协同贡献，依赖线性可加基准，不是直接测得各位点反应分数。",
+      "KIE>1 不足以唯一定位 RDS；t-BuOH 也可能改变溶剂/吸附，需扰动对照。",
+      "正文提及未闭合 FE 的 NO/N2 等解释包含推测，不能当作已经定量的氮平衡。"
+    ],
+    "writing": "比较氢的生成和利用，保留 FE/产率最优电位不同；不要直接把三元 ZIF 氢中转写成实际 CuNi 样品已发生的过程。",
+    "figure": "突出 Pt-Cu、Pt@ZIF、Cu@ZIF 与三元物的对照关系，并将自由能图和 NEB 图分开。",
+    "experiment": "优先检验实际体系是否提高 NH3 分电流且降低竞争通道，再选择能区分氢中转与纯面积/电子效应的结构或接触对照。",
+    "title": "Managing Active Hydrogen Species on Ternary Copper-Based Catalyst for Efficient Electrochemical Ammonia Synthesis from Nitrate",
+    "doi": "10.1021/jacs.5c21149",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 11,
+    "sha256": "c6f4ba5468514c3f1ad00556fc1c18eb0fbc7077cb811218c578ed23ef20a355",
+    "claims": [
+      {
+        "id": "E007-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          4
+        ],
+        "statement": "Pt@ZIF@Cu 在 -0.8 V_RHE 报告 NH3 产率 4.6 mmol h^-1 mg_cat^-1，最佳 FE 97% 在 -0.6 V；无 ZIF 的 Pt-Cu 对照偏向 HER，说明混入供氢金属本身不足以保证 NO3RR。"
+      },
+      {
+        "id": "E007-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "有无 NO3- 的 DMPO-EPR、吸附拟电容/CV、t-BuOH 扰动联合支持活性氢参与；额外按 NH3 产率计算的 KIE 为复合物 1.18、Cu NWs 1.96（-0.8 V），比仅总电流 KIE 更贴近产物问题。"
+      },
+      {
+        "id": "E007-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7,
+          9
+        ],
+        "statement": "作者给出 ZIF→Cu 的 NEB 动力学势垒约 0.50 eV，与前面自由能步长 +0.27 eV 不同；MEA 在 1.4 A cm^-2 报告 8.34 mmol h^-1 mg_cat^-1，另在 1.6 A cm^-2 做 24 h 稳定性。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E008",
+    "doc_id": "Pfde08e41a5da",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "read_scope": "正文 pp.1-6，未独立查看图像或 SI。",
+    "conditions": "定制 H-cell；1 M KOH + 0.5 M KNO3；Cu5 与 pdc 桥联 Cu5-pdc-Cu5 比较。",
+    "mechanism": "屏蔽某些位点可能改变反应网络而提高整体效率；文章的三质子传递布局属于结构与计算支持的机制解释，不是由活性增益单独证明。",
+    "limits": [
+      "桥联同时改变电子结构、晶体堆积、稳定性和位点可及性；不能把提升唯一归给一个遮挡动作。",
+      "自由能阶梯中的上坡步不能自动称为动力学势垒/RDS。",
+      "文章将其电流程序称 NPV；不能据此把用户现有阶梯恒电位数据也改称 NPV。"
+    ],
+    "writing": "用本篇挑战活性位点越多越好的直觉，同时保留可比性和结构变化的边界。",
+    "figure": "将原子位点编号、所推测迁移网络和实际检测证据分层；单分子与集合电极数据分面呈现。",
+    "experiment": "如果修饰量增大但活性先升后降，可比较位点可及性/选择性和输运变化，不立即判为最优电子效应。",
+    "title": "Elevating the Efficiency of Ammonia Synthesis by Dredging the Migration Hinges of Reactive Species",
+    "doi": "10.1021/jacs.6c01425",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 7,
+    "sha256": "fde08e41a5da375dc45ef2040c1fbd864052138e77d0378d45495184ac390394",
+    "claims": [
+      {
+        "id": "E008-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3
+        ],
+        "statement": "单晶结构表明 pdc 桥联并封闭部分 Cu 位点；作者提出由此改善反应物种在邻近位点间的交流。报告最大 NH3 FE 98.2% 在 -0.2 V_RHE，最大产率 4.75 mmol mmol_cat^-1 h^-1 在 -0.5 V；分母不是催化剂质量。"
+      },
+      {
+        "id": "E008-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          4
+        ],
+        "statement": "DMPO-EPR、OH/水红外强度比、OCP 加料响应和电流响应支持桥联物水活化/底物响应不同，但没有直接拍到所画的三个质子协同迁移。"
+      },
+      {
+        "id": "E008-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5
+        ],
+        "statement": "MCBJ 单分子电导为 Cu5-pdc-Cu5 的 10^-4.27 G0 与 Cu5 的 10^-2.90 G0；集合电极 EIS 却表现桥联物电荷转移电阻更小。单分子电导与工作电极整体传输不是同一指标。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E009",
+    "doc_id": "P8089baac7ac1",
+    "read_pages": [
+      1,
+      6,
+      8,
+      10
+    ],
+    "read_scope": "摘要及结构、性能、operando 机制的重点页；p.10 为重点段落阅读，非全篇逐页阅读；图像和 SI 未核查。",
+    "conditions": "H 型池；0.1 M KOH + 0.1 M KNO3；Cu/Ru-300 与未热处理、800°C 分相样品等比较。",
+    "mechanism": "作者提出 Cu/Ru 电子相互作用、Cu/CuRu 串联以及纳米腔中间体限域协同；多种结构因素同时变化，不能只用一种解释覆盖。",
+    "limits": [
+      "热处理同时改变界面密度、粒径、表面组分和空腔，因果分离仍依赖额外结构对照。",
+      "DEMS 的不同 m/z 可能有碎片/重叠，不能只按强弱唯一确定路径。",
+      "Raman 内标归一化仍依赖硝酸根浓度与光学条件，不等于直接速率测量。"
+    ],
+    "writing": "区分合金和相界面；用工作态与条件化能效描述结果。",
+    "figure": "把结构演化和性能趋势对齐，避免仅展示最佳材料；不要把不同电位峰值拼成一组。",
+    "experiment": "若研究目标强调界面协同，优先设计能独立改变接触/几何而保持组分尽量一致的对照。",
+    "title": "Engineering Cu/Ru Heterointerface-Shelled Nanocavities by the Kirkendall Effect for Highly Efficient Nitrate Electroreduction to Ammonia",
+    "doi": "10.1021/jacs.5c11097",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 14,
+    "sha256": "8089baac7ac18ff4936c1550b3802ec09a1ea00e81027de01d0b56e0673dc08c",
+    "claims": [
+      {
+        "id": "E009-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          8
+        ],
+        "statement": "300°C 样品兼有中空腔和丰富 Cu/Ru 相界面；更高温发生分相。XRD 未见合金化的峰位变化，作者定义的是异相界面，不能写成 CuRu 合金。"
+      },
+      {
+        "id": "E009-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          8
+        ],
+        "statement": "-0.1 V_RHE 报告 NH3 FE 97.4%、152.6 mg h^-1 mg_metal^-1；最高能效 41.4% 在 0 V_RHE，不与最佳 FE 合并。TOF 按 Cu 或 Ru 总负载分别算，位点分母有假设。"
+      },
+      {
+        "id": "E009-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          10
+        ],
+        "statement": "operando XAS 显示还原电位下 Cu 接近金属态，撤电位后回到 OCP 类状态；Raman 中间体信号随电位先增后降，正文明确提到生成与消耗同时加快。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E010",
+    "doc_id": "P37836d9f6bab",
+    "read_pages": [
+      1,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "低浓度性能、水/氢机制、计算及结论重点页；非全篇逐页；未目视图像或读 SI。",
+    "conditions": "中性低浓度 5-50 mM 硝酸根体系；具体电解液配方/负载须回查未读的方法/SI。",
+    "mechanism": "作者提出拉伸应变调节 Ni 位点吸附和 Fe 周围界面水；Fe 掺入、应变与化学作用难完全独立。",
+    "limits": [
+      "KIE 数值或超过某阈值不能独立确证唯一 RDS/隧穿机制。",
+      "捕获剂下仍保留 FE 不能唯一证明 CPET；残留信号也受捕获效率影响。",
+      "不能将 NiFe 的位点分工直接照搬到 CuNi。"
+    ],
+    "writing": "低浓度条件单列，公开报告正文与总结的数值差异；不择优选高值。",
+    "figure": "用浓度、产物分流和氢相关信号的联动图支持匹配关系，而非将强 EPR 画成必然高活性。",
+    "experiment": "比较浓度响应与 NH3 分电流，控制传质；应变假设需有可分离的结构证据。",
+    "title": "Tuning Intermediate Adsorption and Interfacial Water Networks via Lattice Strain of NiFe Alloys Boosts Low‐Concentration Nitrate Electroreduction",
+    "doi": "10.1002/adma.73761",
+    "journal": "Advanced Materials",
+    "page_count": 12,
+    "sha256": "37836d9f6bab8bd77af83533ba2c6992ce8066ad7dea5ce85b3c8c2535d345d8",
+    "claims": [
+      {
+        "id": "E010-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5
+        ],
+        "statement": "正文报告 NiFe-T1.4 最佳 FE 95.47% 在 -0.6 V_RHE，产率 8.57 mg h^-1 cm^-2 在 -0.8 V；5 mM 下报告 FE 81.81% 和产率 4.37 mg h^-1 cm^-2。不同浓度与电位保持分别记录。"
+      },
+      {
+        "id": "E010-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "作者以 OH Raman 分峰、浓度梯度 EPR、KIE 和理论支持氢供应与含氮中间体消耗匹配；DMPO-H 在加硝酸根后衰减更快，被解释为利用增强。"
+      },
+      {
+        "id": "E010-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          8,
+          10
+        ],
+        "statement": "模型给出 *NO→*N 的解离势垒由 1.11 降至 0.94 eV；结论段另出现产率 8.92、FE 95.8%，与正文/摘要数字不一致，暂按正文对应条件保留并标记待核。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E011",
+    "doc_id": "P353b34b5802f",
+    "read_pages": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "证据包选中完整句段，非全篇/完整页面阅读；重点为 pH、共催化剂、产物和 H 相关机制。",
+    "conditions": "Ar 饱和中性 0.5 M Na2SO4 + 0.1 M NaNO3；文中电位采用 SCE，不能直接与 RHE 数值比较。",
+    "mechanism": "把分子中心的底物/OH 竞争与载体氢供给作为两个瓶颈分别调节，而非只有分子能级变化一种解释。",
+    "limits": [
+      "未独立读到全部 pH 和 PEDOT:PSS 对照细节，不能声称所有导电/润湿因素均已排除。",
+      "高导电聚合物也会改变分散、润湿和界面电容；吸附氢与自由基并非可互换概念。",
+      "FTIR 约 2100 cm^-1 的归属属于作者判断，应有条件核查，不能迁为 Raman 标准。"
+    ],
+    "writing": "为分子修饰研究提供功能分解：底物竞争、供氢和电荷传输分别论证。",
+    "figure": "电位明确标 SCE；pH 变化与共催化剂添加分层展示。",
+    "experiment": "在实际 CuNi/分子体系先检查 pH 与分子稳定性，再选择功能相近但电子/质子作用不同的材料对照。",
+    "title": "Boosting Cobalt Porphyrin for Selective Nitrate Electroreduction",
+    "doi": "10.1002/anie.202523415",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 8,
+    "sha256": "353b34b5802ff961d569e120bdefefa8066c6716a202c232ae33afb7cd7d32c9",
+    "claims": [
+      {
+        "id": "E011-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          2
+        ],
+        "statement": "作者提出 CoTPP 对 NO3- 和 OH- 均有较强吸附，碱性条件存在 OH- 竞争；选择中性环境并加入含羰基导电聚合物 PBFDO。"
+      },
+      {
+        "id": "E011-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          4,
+          5
+        ],
+        "statement": "CoTPP/CNT/PBFDO 报告较宽范围接近 100% NH3 FE 和约五倍产率提高；摘要产率 5.3 mg h^-1 cm^-2；引入 PEDOT:PSS 等比较帮助检验单纯导电性解释。"
+      },
+      {
+        "id": "E011-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "CV 计数可及 CoTPP 后计算 TOF 6.3 s^-1；EPR、FTIR、D2O/TBA 和计算被用于支持 PBFDO 改善水活化及氢供应。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E012",
+    "doc_id": "Pa495efa95b9a",
+    "read_pages": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      10,
+      11
+    ],
+    "read_scope": "证据包选中完整句段；重点为电荷系列、反离子、物理混合对照和回收，非全文逐页；SI 未读。",
+    "conditions": "中性电解液；Pd@带不同正电荷有机笼比较，详细配方/负载须核查方法；主要性能比较 -0.8 V_RHE。",
+    "mechanism": "作者同时提出静电富集硝酸根、Pd 电子调节以及反离子参与形成笼自由基后供氢，尚不能压缩成单一静电机制。",
+    "limits": [
+      "电荷密度变化也改变局部电子结构与反离子分布，无法把全部增益只归于富集。",
+      "物理混合对照支持近邻效应，但不独立确定氢迁移的唯一微观路径。",
+      "海水来源、硝酸根是否补加和实际氮平衡应进一步查 SI；不直接声称所有真实海水条件通用。"
+    ],
+    "writing": "分清带电功能、反离子与金属活性位点，按分别的证据叙述。",
+    "figure": "并列电荷系列、反离子替换与物理混合，直接显示每个对照解决的问题。",
+    "experiment": "若用户分子带电，需考虑离子强度/反离子/空间接触，优先选择能区分静电富集与供氢效应的低成本扰动。",
+    "title": "Interfacial Charge‐Regulated Microenvironments Enabled by Ionic Organic Cages for Boosting Electrocatalytic Nitrate Reduction to Ammonia",
+    "doi": "10.1002/anie.4155022",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 13,
+    "sha256": "a495efa95b9a4a0186cf0106504e70731206dce9a86adbb4336b72b2ca3c029b",
+    "claims": [
+      {
+        "id": "E012-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7
+        ],
+        "statement": "24+、12+ 与中性类比物主要比较中分别报告 25.70/19.34/12.30 mg h^-1 mg_cat^-1 和 NH3 FE 95.44/85.67/79.64%；无 Pd 笼产氨很少。"
+      },
+      {
+        "id": "E012-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "Cl- 换为 BF4- 后文中未见相同 EPR 信号；独立有机笼与 Pd@中性笼的物理混合仅 15.78 mg h^-1 mg_cat^-1、FE 83.93%，低于紧密集成结构，支持空间邻近的重要性。"
+      },
+      {
+        "id": "E012-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          10,
+          11
+        ],
+        "statement": "作者以 DFT/COHP 支持吸附与活化变化，另研究海水干扰物和氨回收；正文 20 h 海水稳定与 100 h 集成去除/回收应分开引用。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E013",
+    "doc_id": "P2d434027016e",
+    "read_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "选中完整句段重点阅读，非全篇；未独立目视图像或核对 SI。",
+    "conditions": "流动池，基础 0.8 M KOH + 0.2 M KNO3；高电流测试另用 2 M KNO3，须分开。",
+    "mechanism": "醇改性重排氢键/阳离子水合与界面富集，同时影响 *H 和 H· 的平衡；这是联合证据支持的作者解释。",
+    "limits": [
+      "疏水性、传质、K+ 富集和电子效应同时变化，不能唯一归因于自由基。",
+      "捕获剂和 EPR 不能单独证明从表面脱附的 H· 承担全部加氢。",
+      "FTIR 与 Raman 的峰归属必须分开；总电流阶跃仍非 NH3 速率。"
+    ],
+    "writing": "把氢覆盖、通量与利用率拆开，用本篇作为氢越多越好的反例。",
+    "figure": "电解液浓度与电流条件明确分面；同时展示产物分流和物种证据。",
+    "experiment": "在实际体系比较改性量对 NH3 分电流/HER 的影响，若做润湿或阳离子扰动，保持传质和离子强度可比。",
+    "title": "Modulating Hydrogen Species for Efficient and Sustainable Nitrate Electroreduction to Ammonia",
+    "doi": "10.1002/anie.202524803",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 8,
+    "sha256": "2d434027016ef362dde54586a8eaed549b9a355472dcfc1354a5aa41197f9b5f",
+    "claims": [
+      {
+        "id": "E013-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3
+        ],
+        "statement": "1-dodecanol 修饰 Cu/C 在基础电解液 -0.5 V_RHE 报告 FE 96.7%、1.76 mmol cm^-2 h^-1；摘要的 98.9%、4.50 mmol cm^-2 h^-1、1 A cm^-2 来自更浓硝酸根条件，不可混成同一条件。"
+      },
+      {
+        "id": "E013-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "作者结合水区 ATR-SEIRAS、K+ 界面行为、EPR 和计算，提出修饰使吸附 *H 覆盖较低而可用 H· 自由基更多，减少 HER 并改善 NOx 反应。"
+      },
+      {
+        "id": "E013-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "本篇的设计目标与单纯增加吸附氢覆盖不同：模型提示过高 *H 覆盖会影响 *NO 激活并有利 HER，需区分氢的物种、位置和周转。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E014",
+    "doc_id": "Pe57f11ad3d50",
+    "read_pages": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "完整句段证据包；性能、同位素、双迁移与模型重点阅读，非全文逐页；SI 未核查。",
+    "conditions": "0.1 M KOH + 0.1 M KNO3；Co 掺杂 Sr2CuWO6 双钙钛矿，最佳 x=0.3。",
+    "mechanism": "功能互补的双向反应物种转移，不是所有深度加氢都在 Cu 完成；位点分工与 E007 的 Cu 作为主要加氢位点不同。",
+    "limits": [
+      "Bode 频率区与具体步骤的对应需要电路/动力学模型，不能作唯一直接成像。",
+      "掺杂伴随位点间距、电子态和相结构变化；完整因果分离尚需更多对照。",
+      "转移自由能只说明所选初末态相对稳定，不证明迁移速率。"
+    ],
+    "writing": "避免固化 Cu 负责哪一步、第二金属只供氢的通用叙事。",
+    "figure": "用两种颜色标作者提出的氢和中间体流向，实验证据与模型分层。",
+    "experiment": "按实际体系提出不同位点分工的竞争模型，选择反应物/产物响应或空间接触扰动，而非仅凭组分协同下结论。",
+    "title": "Dual–Spillover Mediated Highly Efficient Electrocatalytic Nitrate Reduction to Ammonia Over Co–Doped Sr2 CuWO6 Double Perovskite",
+    "doi": "10.1002/aenm.70928",
+    "journal": "Advanced Energy Materials",
+    "page_count": 12,
+    "sha256": "e57f11ad3d50da558c2dfb96ac4e38404d70b0636044f553021b50e09b5ab270",
+    "claims": [
+      {
+        "id": "E014-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          5,
+          6
+        ],
+        "statement": "Sr2Cu0.7Co0.3WO6 报告 -0.7 V_RHE NH3 FE 93%、47.2 mg h^-1 mg_cat^-1；Cu 端元易积累 NO2-，Co 端元 NO2- 很少；UV-vis 与 NMR/15N 联证产品。"
+      },
+      {
+        "id": "E014-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          8,
+          9
+        ],
+        "statement": "t-BuOH 下 NH3 仍生成，作者据此结合端元对照提出自由/吸附氢贡献不同，但残余反应不能单独证明两条迁移路径。该段无捕获剂基准 FE 83.4% 与摘要 93% 并非一条可直接替换记录。"
+      },
+      {
+        "id": "E014-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          9,
+          10
+        ],
+        "statement": "作者提出 Co→Cu 的氢转移和 Cu→Co 的 NO2 中间体转移；模型 Co 对 *NO2 吸附自由能 -4.55 eV、Cu -2.52 eV，转移热力学有利，不等于已算出迁移活化能。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E015",
+    "doc_id": "P6c816df87777",
+    "read_pages": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "性能、工作态和机制重点句段阅读，非全文；未目视图像或核查 SI。",
+    "conditions": "Ar 饱和 1 M KOH + 0.1 M KNO3；CuOx 位于 CNT 内、Ru 位于外，电池扩展另列。",
+    "mechanism": "内部氧化铜通过限域与电子耦合稳定外部 Ru 并辅助水活化，是作者的 inside-out 分工解释；不能预设所有 Cu/Ru 体系都同样分工。",
+    "limits": [
+      "XAS 为平均结构，不能由未见散射峰排除所有少量/表面物种。",
+      "Cu-UPD 位点计数有沉积化学计量和可及性假设；TOF 不等于无假设的真实单个位点速率。",
+      "能效/成本必须保留电位、槽配置与回收边界，不能把 19.1 kWh/kg 直接移作其他样品全流程能耗。"
+    ],
+    "writing": "以此提醒活性相和位点分工依赖空间架构，避免只凭金属名称跨体系借用机制。",
+    "figure": "用内外位置、双元素工作态和产物分配对应展示，不只画未经验证的电子箭头。",
+    "experiment": "对实际多组分材料先确认组分位置和工作态，再讨论谁供氢、谁加氢；优先建立同条件产物证据。",
+    "title": "Inside-out-engineered CuOx /Ru sites for efficient electrochemical nitrate reduction to ammonia",
+    "doi": "10.1073/pnas.2537982123",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "page_count": 10,
+    "sha256": "6c816df877771da705195cfc1b663a99fcca90efd28a1be0f91a617630dd6038",
+    "claims": [
+      {
+        "id": "E015-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          2,
+          5
+        ],
+        "statement": "CuOx@CNT/Ru 报告 -0.7 V_RHE NH3 产率 146.37±3.41 mg h^-1 mg_cat^-1；最佳 FE 99.1±0.9% 与能效 43.5±0.9% 在 0 V_RHE，不是最大产率的电位。"
+      },
+      {
+        "id": "E015-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7
+        ],
+        "statement": "作者用双边 operando XAS 论证内部 Cu 多保持氧化态且未见 Cu-Ru 合金特征，外部 Ru 是主要还原中心；与金属 Cu 主导的其他体系并不相同。"
+      },
+      {
+        "id": "E015-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          8
+        ],
+        "statement": "Cu-UPD 估算可及位点后给出位点归一化 TOF；加入硝酸根后 DMPO-H 明显消耗，用于支持生成与利用匹配。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E016",
+    "doc_id": "P15d2144a7286",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "脉冲参数、动态结构、机制与计量重点句段，非全文逐页；图像未目视。 本轮另目视核对 PDF pp. 3，其他图/SI 未因此视为全部核查。",
+    "conditions": "H-cell，0.5 M K2SO4 + 0.01 M KNO3；电位为饱和 Ag/AgCl 且未 iR 校正。代表程序 EP=0.2 V/2 s，EN=-1.4 V/50 s。",
+    "mechanism": "将氧化诱导结构/吸附构型变化与无氧化时的微环境/覆盖度效应分开讨论。",
+    "limits": [
+      "自由能模型与谱带支持吸附构型解释，不是吸附几何的直接电影。",
+      "脉冲 FE 的带符号/绝对电荷、时间基准、预处理和电解液补充须逐项核对，不能只比较还原脉冲电流。",
+      "用户已有阶梯恒电位响应不是本篇交替脉冲方法。"
+    ],
+    "writing": "用不同脉冲区间的反例界定机制，不把任何脉冲增益都归因于 Cu+。",
+    "figure": "同时画完整波形、参比、占空比、产物与工作态时序；比较按完整周期计量。",
+    "experiment": "只有拟采用脉冲时才规划，并先检验无氧化与有氧化两个区间能否区分覆盖/传质与结构机制。",
+    "visually_reviewed_pages": [
+      3
+    ],
+    "title": "Steering the catalyst structure and intermediates adsorption configuration during pulsed nitrate electroreduction",
+    "doi": "10.1038/s41467-025-65391-x",
+    "journal": "Nature Communications",
+    "page_count": 11,
+    "sha256": "15d2144a7286f05185b62e22a034b7fdeb9ab2945cf06d16629c854668c51f2a",
+    "claims": [
+      {
+        "id": "E016-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3
+        ],
+        "statement": "作者报告优化脉冲 NH3 FE 94.1%、2.3 mg h^-1 cm^-2；恒电位最大 FE 57.2% 与 0.7 mg h^-1 cm^-2。比较必须保留脉冲两段与参比。"
+      },
+      {
+        "id": "E016-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          4,
+          7
+        ],
+        "statement": "较正 EP 区间存在周期氧化/还原及 Cu+/氧化物变化，作者据此结合光谱/模型提出 *NO 从 top 转 side-on；更负、不发生可辨氧化的 EP 区间仍有增强，说明脉冲增益不能一概归于重构。"
+      },
+      {
+        "id": "E016-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          8
+        ],
+        "statement": "方法明确首次做 300 s 氧化预处理后换液，并将 EP 与 EN 两段电荷计入总电荷；这些处理影响 FE 与稳态公平比较。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E017",
+    "doc_id": "Pd8672507427f",
+    "read_pages": [
+      1,
+      3,
+      5,
+      10,
+      11,
+      12,
+      13,
+      14,
+      19,
+      21,
+      24,
+      25
+    ],
+    "read_scope": "45 页未编辑稿中的性能、机制和方法重点句段；不是 45 页全部精读；未独立查看 SI/图像。",
+    "conditions": "H 型池 1 M KOH + 0.1 M KNO3，自支撑电极；MEA 长稳与混合电池属于另外装置。",
+    "mechanism": "适度金属-载体相互作用兼顾 Ru 上底物吸附与水解离，而非相互作用越强越好。",
+    "limits": [
+      "本地为 article in press 未编辑版本，正式引用前核对最终版/勘误。",
+      "跨载体改变的几何、电子与水化环境相关，单个频率峰不能唯一识别步骤。",
+      "长期测试需核对补液、换液、金属流失和产物定量，稳定电压本身不足。"
+    ],
+    "writing": "将工作电位、半电池能效、MEA 寿命和经济模型分开，避免拼接最佳值。",
+    "figure": "以载体系列的吸附/供氢平衡解释性能，不只呈现最优单点。",
+    "experiment": "若研究分子作为载体调节，应检验过强吸附/高底物浓度是否抑制后续转化，并保持装置条件一致。",
+    "title": "Modulated metal-support interactions for efficient nitrate electroreduction at positive potentials",
+    "doi": "10.1038/s41467-026-69802-5",
+    "journal": "Nature Communications",
+    "page_count": 45,
+    "sha256": "d8672507427f9c506e0462cf710e9f62ef60a0247159c0b71e209d5e405ee39d",
+    "claims": [
+      {
+        "id": "E017-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          21
+        ],
+        "statement": "Ru-Co(OH)2 报告 +0.1 V_RHE 近 100% NH3 FE、+0.2 V_RHE 半电池能效 49.5%；200 mA cm^-2、1200 h 为 MEA 长稳，不是把上述半电池电位同时保持 1200 h。"
+      },
+      {
+        "id": "E017-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          10,
+          13,
+          14
+        ],
+        "statement": "Ru 负载在 Co/Ni/Fe 氢氧化物上系统比较；EIS/CV、水区 Raman、SCN- 和 TBA 扰动用于支持吸附与供氢共同调节，Ru 簇为作者判定的主要活性中心。"
+      },
+      {
+        "id": "E017-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          11,
+          12
+        ],
+        "statement": "0.5 M NO3- 时 FE 反而下降，作者归因于 NO2- 到 NH3 转化受阻；文中 TEA 成本 979.92 美元/吨依赖补充说明的边界，不可用作当前市场价格或通用成本。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E018",
+    "doc_id": "Pae84e37ac7c3",
+    "read_pages": [
+      1,
+      2,
+      3,
+      8,
+      10,
+      14,
+      15,
+      18,
+      22,
+      23,
+      24
+    ],
+    "read_scope": "41 页未编辑稿的性能、HUPD、路径和计量方法重点句段；未全篇逐页，未独立目视图像。",
+    "conditions": "Ar 饱和 1 M KOH，KNO3 1-1000 mM；低浓度用 0.6 cm2/30 mL，高浓度另用 0.25 cm2/70 mL。HOR 配对电解独立记录。",
+    "mechanism": "Ag 的硝酸根活化与 Ru 的氢/亚硝酸根转化串联，HUPD 可及性和 OH 周转共同影响效率。",
+    "limits": [
+      "KIE 接近 1 不等于质子不参与，也不能单独确定速控步骤。",
+      "HUPD 相关峰需与载体/氧化还原背景区分；覆盖度计算有模型依赖。",
+      "成本低于 1.15 美元/kg 依赖氢来源、废水原料及模型边界，不能当现货价格或完全免费阳极过程。"
+    ],
+    "writing": "优先用可及氢及位点再生的条件性解释，保留半/全电池和燃料投入边界。",
+    "figure": "将浓度、几何面积、半电池能效和配对全槽数据明确分组，注明换液。",
+    "experiment": "仅在采用类似表面时考虑 HUPD 验证；先检查实际样品峰归属，再把产物分电流与氢相关响应联系起来。",
+    "title": "Exploiting underpotential deposited hydrogen enables energy-efficient nitrate electroreduction to ammonia",
+    "doi": "10.1038/s41467-026-71299-x",
+    "journal": "Nature Communications",
+    "page_count": 41,
+    "sha256": "ae84e37ac7c3d0ef24ffb4d19ff7e47b7f36c0412bb23c74c9e43847323f7c3e",
+    "claims": [
+      {
+        "id": "E018-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          8,
+          10
+        ],
+        "statement": "AgRu-15 中 Ag 倾向产生 NO2-、Ru 倾向深度还原；NH3 FE 在 +0.2/+0.1/0 V_RHE 分别为 87.9/99.5/100%；1 M NO3-、0 V 时 NH3 分电流 2.2 A cm^-2。"
+      },
+      {
+        "id": "E018-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          14,
+          15
+        ],
+        "statement": "Ru-Hatop 谱带在加 NO3- 后降低，结合 CO stripping、CV/EIS 和覆盖度模型支持 HUPD 参与；作者将 OH 亲和与位点再生共同纳入解释。"
+      },
+      {
+        "id": "E018-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          22,
+          24
+        ],
+        "statement": "方法写明各浓度对应电极面积/体积不同；HOR 配对 100 h 测试换液 9 次，每 11-12 h 一次。半电池能效公式以 1.23 V 的 OER 基准构造，不等于 HOR 全槽实测总能效。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E019",
+    "doc_id": "P2fd0c43e88f6",
+    "read_pages": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "性能、缺陷对照、路径和电子计量重点句段；未逐页全文/未目视图像。",
+    "conditions": "主要反应是 NO2- 还原；Co 双晶界/堆垛层错电极；1 M NO2- 高电流、0.1 M NO2-+3 mM NO3- 模拟等离子吸收液分别记录。",
+    "mechanism": "TB/SF 改变 Co 吸附/加氢，集成工艺强化上下游通量匹配；并非仅提高材料 FE 就证明空气制氨整体经济。",
+    "limits": [
+      "退火也可能改变粒径/表面，缺陷密度相关不能完全排除共变。",
+      "混合底物产物来源分摊有计量假设，需检查氮平衡和副产物。",
+      "等离子约 9.06 MJ/mol NOx 的能耗不能从全流程评价中省略。"
+    ],
+    "writing": "明确 NO2RR 与 NO3RR 的边界，按正确电子数比较 FE。",
+    "figure": "缺陷密度与活性对齐，并将上游空气活化和下游电解分别画能量/物料流。",
+    "experiment": "只有研究实际混合 NOx/缺陷问题时才引入相应测试；不把 NO2RR 性能自动列为当前项目必做。",
+    "title": "Ampere-level ammonia synthesis through grain boundary engineering",
+    "doi": "10.1038/s44160-026-01026-3",
+    "journal": "Nature Synthesis",
+    "page_count": 11,
+    "sha256": "2fd0c43e88f66116cbce608c3e4262262d3d91effdaac40bdaaec2ff84a76415",
+    "claims": [
+      {
+        "id": "E019-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          5
+        ],
+        "statement": "TB/SF-Co 在 1 M NO2-、-0.6 V 报告 NH3 分电流 -1.73 A cm^-2、FE 96.7%；不能列入同条件 NO3RR 性能表。"
+      },
+      {
+        "id": "E019-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6
+        ],
+        "statement": "退火降低 TB+SF 密度并降低产率，支持缺陷-性能关联；痕量 NO3- 可在 OCP 与 Co 发生自发氧化还原，工作时再还原 Co(OH)2，说明混合底物影响活性相。"
+      },
+      {
+        "id": "E019-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          9
+        ],
+        "statement": "等离子-电解集成要分别计入空气活化与电解能耗；FE 公式明确 NO2-→NH3 用 6e、NO3-→NH3 用 8e，混合进料按分量计算。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E020",
+    "doc_id": "P08c890bbc41a",
+    "read_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "read_scope": "预活化、产物校验、毒化干扰和计算重点句段；未全文逐页或目视图像/SI。",
+    "conditions": "1 M KOH + 100 mM KNO3；Au8S2/Au8Se2 预活化后比较；产率以 mg_Au 归一化。",
+    "mechanism": "配体脱除建立可及金位点，S/Se 调节吸附和水活化；作者由 *NO 积累及模型提出加氢瓶颈。",
+    "limits": [
+      "本文模型自由能与动力学势垒的术语/单位仍需看具体计算，不能自动照搬 RDS。",
+      "峰积累可能意味着消耗较慢，和更多峰代表更快生成不是同一个结论。",
+      "TOF/产率分母与普通 mg_cat 或面积不可直接排名。"
+    ],
+    "writing": "把检测干扰作为毒化实验解释边界；承认工作态与合成态区别。",
+    "figure": "预活化前后分开标样品名，配体损失与产物/结构联证，而非只放初始晶体图。",
+    "experiment": "任何捕获/毒化剂使用前先做检测回收率与基质空白；若干扰比色，应改用独立方法核对产物。",
+    "title": "Nonmetallic Modified Atomically Precise Octagold Nanoclusters for Electrocatalytic Nitrate Reduction to Ammonia",
+    "doi": "10.1021/jacs.5c15788",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 10,
+    "sha256": "08c890bbc41a56d117bb3eea1e606c1228c71caf4ee2f09527d2f3872b09773d",
+    "claims": [
+      {
+        "id": "E020-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          3,
+          4
+        ],
+        "statement": "作者用 P 溶出、HR-ESI-MS/31P NMR 和 XAS 支持预活化后每簇失去一个 dppm、暴露 Au 位点；结构精确的前驱体并不等于完整不变的工作态。"
+      },
+      {
+        "id": "E020-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          5,
+          6
+        ],
+        "statement": "A-Au8S2 报告最高 FE 98.34%、1108.47 mg h^-1 mg_Au^-1；NMR/比色与15N 联证氨来源；120 h 长稳采用 2 mL/min 连续流动的 H 型池。"
+      },
+      {
+        "id": "E020-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7
+        ],
+        "statement": "KSCN 显著压低电流和硝酸根吸附，但作者明确无法给出毒化后的 NH3 FE/产率，因为 KSCN 严重干扰靛酚蓝检测。不能把电流毒化当作已验证的产氨毒化。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E021",
+    "doc_id": "P927c88edde8b",
+    "read_pages": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "read_scope": "产物耐受、碳壳保护及回收重点句段；非全文逐页，图像/SI 未独立核查。",
+    "conditions": "基础 0.1 M KOH + 0.1 M KNO3；加 NH4Cl 胁迫用 1 M KOH + 1 M KNO3；回收流动池用 1 M KOH + 0.1 M KNO3。",
+    "mechanism": "碳壳既防止 Co 流失，又被作者解释为弱化产物吸附/促进脱附；结构保护与产物移除共同影响寿命。",
+    "limits": [
+      "NH4Cl 加料同时改变 NH3/NH4+、Cl- 和离子强度；新生成氨须扣除预加背景并做完整物料衡算。",
+      "LSV 重合不独立证明所有表面物种不变。",
+      "有限元模拟依赖传输/吸附参数，不等于直接测得纳米界面浓度。"
+    ],
+    "writing": "把合成、耐产物性和分离三个目标拆开，区别本征催化与移除产物带来的稳定性。",
+    "figure": "注明三种测试电解液，画气液两相采样和回收边界。",
+    "experiment": "若实际长稳因产物积累衰减，可先检验背景扣除与产物暴露响应；不是所有研究都需立即搭建回收装置。",
+    "title": "Ammonia‐Resistant Carbon‐Encapsulated Cobalt Catalyst for Electrocatalytic Nitrate Reduction to Volatile Ammonia",
+    "doi": "10.1002/anie.7866851",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 11,
+    "sha256": "927c88edde8b8065ddc5e8ce8d8b33e3fa4db94984d7e009e9272366660b5cb8",
+    "claims": [
+      {
+        "id": "E021-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          4,
+          5
+        ],
+        "statement": "Co@C 报告最佳 NH3 FE 92.4% 在 -0.8 V_RHE；产率随更负电位提高，不能将 FE 与 -1 V 最大产率合并。"
+      },
+      {
+        "id": "E021-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "预加 NH4Cl 的静态胁迫中碳包覆 Co 比裸 Co 更耐受，作者用较少 Co 溶出支持壳层保护；同时回收氨可降低局部产物暴露。"
+      },
+      {
+        "id": "E021-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          8
+        ],
+        "statement": "连续 72 h 流动测试中，强碱下挥发 NH3 被 Ar 携带进入 HCl 捕集；性能、分离和回收需以气液总量共同核算。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E022",
+    "doc_id": "P32a35e4500ea",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "read_scope": "阳离子系列、电荷/水环境与装置重点句段；非全文逐页；参比的完整方法尚未核实。",
+    "conditions": "翼状碳同轴纳米缆 W-CCNs；主要为 0.1 M KNO3 加 2 M Li+/Na+/Cs+ 的中性体系；另有纯 0.1 M MNO3 和碱性对照。",
+    "mechanism": "阳离子同时调节局部电场、溶剂水和底物/氢竞争；不能仅按离子半径或吸附最强预测总性能。",
+    "limits": [
+      "0.1 M KNO3 本身含 K+，所谓 cation-free control 应理解为未额外添加目标阳离子，不能写成无阳离子。",
+      "加盐同时改变离子强度、活度、导电与溶解性；高浓度 K2SO4 限制导致系列并不完全等价。",
+      "本轮尚未核对电位参比，不与其他 RHE 数据直接排名。"
+    ],
+    "writing": "把平衡机制写为本条件的解释，避免将 Na+ 最优升级为通用规律。",
+    "figure": "浓度、阴离子和参比明确标注；总电流与产物分电流分别展示。",
+    "experiment": "阳离子筛选应控制阴离子、pH、离子强度及参比转换，优先选少量有区分价值的条件。",
+    "title": "Steering Intermediate Coupling by Alkali‐Metal Cations for Efficient Nitrate Electroreduction to Ammonia",
+    "doi": "10.1002/ange.3670039",
+    "journal": "Angewandte Chemie",
+    "page_count": 10,
+    "sha256": "32a35e4500ea766236cc6ac0785caebdc8e06372c86e49671a3648b80145a5bf",
+    "claims": [
+      {
+        "id": "E022-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3
+        ],
+        "statement": "-1.0 V（参比待核）与 2 M 外加阳离子条件，Na+/Cs+/Li+ 的 NH3 产率分别为 94.9/37.6/13.5 g h^-1 g_cat^-1；作者明确总电流也包含 HER，需分析 NH3 才能确定趋势。"
+      },
+      {
+        "id": "E022-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "statement": "作者以 FTIR/界面电场模型支持 Cs+ 偏中间体稳定、Li+ 偏界面水/供氢，Na+ 在本系列获得平衡；纯硝酸盐对照用于检查硫酸根混杂。"
+      },
+      {
+        "id": "E022-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          8
+        ],
+        "statement": "流动池另按面积报告约 5.6 mg h^-1 cm^-2、150 mA cm^-2；Cu-WCCNs 也报告 Na+ 优势，但不足以证明所有材料中 Na+ 永远最优。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E023",
+    "doc_id": "P978b50c143aa",
+    "read_pages": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "read_scope": "动态供电、性能与机理重点句段；非逐页全文，图像/SI 未核查。",
+    "conditions": "H-cell：1 M KOH + 0.1 M KNO3；SnCu111 与 SnCu100/未掺 Sn 对照；MEA 与自然日照测试另列。",
+    "mechanism": "孤立 Sn 与 Cu111 的非对称电荷环境被作者用于解释水活化、覆盖/氢化及抗波动选择性；动力电源与稳态测量需分别验证。",
+    "limits": [
+      "晶面与掺杂可能伴随其他结构差异，需参考结构可比性。",
+      "自然日照 FE 属于分时采样，需结合电荷/时间积分判断总产氨，不能按平均电位直接估算。",
+      "宽 FE 窗口不自动等于低全流程能耗或低成本。"
+    ],
+    "writing": "突出动态工况适用性并保留日夜/启停边界，避免以最佳单点替动态运行。",
+    "figure": "将电压、电流、光强和分时产物/电荷对应画出，分开 H-cell 与 MEA。",
+    "experiment": "若未来使用波动电源，可先做小规模波形/启停复现；现有稳态项目无需仅因该文强行扩大到光伏系统。",
+    "title": "Direct Solar Power‐Driven Durable Ammonia Electrosynthesis From Nitrate Under Fluctuating Voltage Conditions",
+    "doi": "10.1002/anie.3133042",
+    "journal": "Angewandte Chemie (PDF header candidate)",
+    "page_count": 12,
+    "sha256": "978b50c143aacfb482e424c5c63aee49f00fa67aa25683c20afab3e5905838b0",
+    "claims": [
+      {
+        "id": "E023-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          6
+        ],
+        "statement": "SnCu111 在 H-cell 报告跨约 800 mV 窗口 NH3 FE>90%；这与单点最大 FE 是不同评价目标。"
+      },
+      {
+        "id": "E023-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          6,
+          7
+        ],
+        "statement": "直接太阳能驱动 MEA 在八个自然日内经历 1.6-2.9 V 波动和日启停，FE 约 81-94%；不能写成恒定 300 mA cm^-2 连续 192 h。"
+      },
+      {
+        "id": "E023-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          9
+        ],
+        "statement": "按 NH3 产率的 KIE 随 Sn 引入降低；模型 SnCu111 的 PDS 是 NH3 脱附，上坡自由能 0.22 eV，对照 Cu111 0.37 eV，提醒不能将 *NO 加氢固定为所有 Cu 体系瓶颈。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E024",
+    "doc_id": "P6e20f5591cdb",
+    "read_pages": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      12,
+      13
+    ],
+    "read_scope": "性能、脉冲计量和配对电解重点句段，机理以作者概述为主；非全文逐页，尚未核查图像/SI。",
+    "conditions": "1 M NaOH + 0.1 M NaNO3；静态 -0.6 V_RHE；脉冲 -0.5 V/1 s 后 -0.7 V/2 s；LSV 未 iR 校正。",
+    "mechanism": "作者提出 Cu 活化/脱氧、Ni 供氢、W 动态氢储存的三元分工；多组分和脉冲协同，尚需逐组分对照与工作态证据支持实际样品迁移。",
+    "limits": [
+      "NO3RR 的8电子多步过程可能有不同并行路径，DEMS 碎片不唯一。",
+      "静态与脉冲比较需按完整周期电荷、实际电位与时间评价，不按算术平均电位等价。",
+      "配对阳极的甘油输入、产物分离及衰减须纳入系统边界。"
+    ],
+    "writing": "报告阳极衰减和 NO3- 高浓度抑制，不只保留最好性能。",
+    "figure": "波形和各组分对照先呈现，阴极/阳极与全槽表现分别展示。",
+    "experiment": "实际 CuNi 体系可借鉴供氢/利用分解，但不因本篇添加 W 就认定必须做三元；选择能检验现有假设的最小对照。",
+    "title": "Sustainable Ammonia Electrosynthesis Coupled With Glycerol Valorization via an Adaptive Tri‐Component Catalyst",
+    "doi": "10.1002/anie.202522014",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 16,
+    "sha256": "6e20f5591cdbe88036e348c5f1faf821d912c5b533fc92cdce02a59bf77ce24b",
+    "claims": [
+      {
+        "id": "E024-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          6,
+          8
+        ],
+        "statement": "Cu-Cu2O/Ni-NiO/WO3@NF 在脉冲条件报告 NH3 FE 97.1%、43.87 mg h^-1 cm^-2；14 个 1 h 周期的稳定性不是长期工业寿命。"
+      },
+      {
+        "id": "E024-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "更高 NO3- 浓度超过优化点后性能下降，作者解释供氢不足/中间体积累；NMR、15N 和空白核对产物。较高 Cdl 本身不能作为已证明本征活性更高。"
+      },
+      {
+        "id": "E024-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          12,
+          13
+        ],
+        "statement": "甘油氧化配对降低槽压并产甲酸；阳极 E6 在第三周期后出现活性衰减，不能用阴极稳定性替全槽稳定性。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E025",
+    "doc_id": "Pfc04ed2c1f60",
+    "read_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "read_scope": "光热、性能、组成和控制设计的重点句段；非全文逐页，未独立目视光热图像或核查 SI。",
+    "conditions": "Cu 簇/单原子共存于 N 掺杂碳；NO3- 浓度用 mg-N/L，光照/无光和不同温度/浓度分开。完整电解液配方尚待方法核查。",
+    "mechanism": "作者提出 Cu 簇 LSPR 光热、单原子/簇之间中间体迁移与 N 碳水活化联合作用，不能仅由光照电流增长确证局部热机制。",
+    "limits": [
+      "光照会同时影响温度、传质、光学增强和电荷行为，需要等温暗态/热通量等对照才能分离。",
+      "mg-N/L 与 mg-NO3/L 不可直接等同，FE 与选择性/去除率也应分别记录。",
+      "电能成本若未计光源/收集/加热输入，不是全流程能效。"
+    ],
+    "writing": "将人工酶作为设计比喻，实际迁移和温度效应仍按证据分别叙述。",
+    "figure": "画同一温度基准、光强、工作电位与产物的对应关系；避免用雷达图掩盖指标口径不同。",
+    "experiment": "只有实际研究光热时才加入等温控制；常规 CuNi 项目可借鉴位点分工与界面传输问题，不必扩大到光照平台。",
+    "title": "Photothermal‐Responsive Artificial Enzyme Assembly Engineering for Near‐Unity Nitrate‐to‐Ammonia Electrocatalysis",
+    "doi": "10.1002/anie.8218979",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 14,
+    "sha256": "fc04ed2c1f604ebff5e2c6d26d7444975e07e9f1c21f40a1ad45f662559fe882",
+    "claims": [
+      {
+        "id": "E025-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3
+        ],
+        "statement": "HAADF/元素与结构分析被作者用于提出单原子邻近 Cu 簇；N 缺陷 EPR 在成键后淬灭，但信号消失不能单独排除所有缺陷对催化的作用。"
+      },
+      {
+        "id": "E025-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "-0.8 V_RHE 光照时正文报告 9847.2 μg h^-1 cm^-2；480 mg-N/L 时另报告 20762.1 μg h^-1 cm^-2。结论出现 22623.9，条件未在本轮关联清楚，不择高值使用。"
+      },
+      {
+        "id": "E025-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          9,
+          10,
+          11
+        ],
+        "statement": "作者结合 FDTD/DGTD、红外热像、EIS、外部加热对照以及流动/室外装置讨论局部光热与传输；图注存在外加热对照，但本轮未核该对照的完整数值。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E026",
+    "doc_id": "P459b37298df7",
+    "read_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "产物转变、显式溶剂/电场与微观动力学重点句段；非逐页全文，图像/SI 未核查。",
+    "conditions": "CO2RR，Cu/SiO2 与 C60-Cu/SiO2；代表电位 -1.1 V_RHE；电解液细节需 SI。",
+    "mechanism": "曲率表面的吸附偶极与界面电场改变 COOH* 稳定及反应路径；C60 的作用依赖承载方式和反应条件。",
+    "limits": [
+      "CO 选择性变化与模型支持活性位点解释，但不能仅凭产物转变排除 Cu 位点变化。",
+      "电子缓冲、直接活性位点与界面稳定是不同可竞争解释，C60 参与不必都沿同一路径。",
+      "CO2RR 结论不能直接证明功能化 C60 在 NO3RR 的具体活性位点。"
+    ],
+    "writing": "文献背景同时保留 C60 的多种角色，以实际证据决定使用哪种解释。",
+    "figure": "模型注明 pH、电位标尺、溶剂与电场；对比不同活性位点而非默认单一电子箭头。",
+    "experiment": "若实际样品声称分子直接催化，需有适当独立分子/金属和构型控制，而不只依赖复合后性能更好。",
+    "title": "C60 Fullerene as the Active Site for CO2 Electroreduction",
+    "doi": "10.1002/anie.202511924",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 9,
+    "sha256": "459b37298df7a58e01752801203f2eec76cc1b24f1add3b9c827f14ab5fabc50",
+    "claims": [
+      {
+        "id": "E026-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3
+        ],
+        "statement": "加入 C60 后 CO FE 报告达到 85.5%、C2H4 很少，作者据此结合模型提出 C60 不只是电子调节剂，而能成为 COOH* 相关反应位点。"
+      },
+      {
+        "id": "E026-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          6
+        ],
+        "statement": "作者指出静态 CHE 对 RHE 标尺的 pH 依赖与真实界面处理有限，纳入显式水、零电荷电位及电场；不同溶剂构型和分布不应以一个优化结构替代。"
+      },
+      {
+        "id": "E026-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "pH-电场耦合微观动力学给出随吸附能/pH 转变的限速步骤；不是用一个自由能最大上坡就宣称所有条件同一 RDS。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E027",
+    "doc_id": "P1d46075e0863",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
+    "read_scope": "C60 合成角色、光谱、HER 性能与模型重点句段，非逐页全文；负号提取异常处不定量使用。",
+    "conditions": "C60 与贵金属盐水分散体系合成后研究碱性 HER；Ru/C60-300 为 300°C 处理样品，1 M KOH 中评价。",
+    "mechanism": "C60 可在不同阶段承担还原剂、锚定剂、电子调节和界面水活化角色；实际效应不能由电子受体标签一概推断。",
+    "limits": [
+      "Tafel 41 mV/dec 不是唯一确定 Volmer-Heyrovsky 路径的证据。",
+      "Cdl 不同可能还反映润湿性和载体电容，不能无条件等同 Ru 位点数。",
+      "本地文本部分负号损坏，定量能量/频移应回看原图。"
+    ],
+    "writing": "区分制备阶段与工作阶段的电荷方向，引用 HER 只作为供氢相关参照。",
+    "figure": "分面表示合成电子转移与工作态电子调节，不画成单向恒定抽电子。",
+    "experiment": "实际修饰后先核实分子保留、金属尺寸和工作态；HER 变强既可能供氢也可能竞争，需产品联证。",
+    "title": "C60 Fullerene‐Induced Reduction of Metal Ions: Synthesis of C60 ‐Metal Cluster Heterostructures with High Electrocatalytic Hydrogen‐Evolution Performance",
+    "doi": "10.1002/anie.202414149",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 9,
+    "sha256": "1d46075e0863f02ffc185228a03e77030a25d93bd70c09b726df71a6d45f9004",
+    "claims": [
+      {
+        "id": "E027-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "statement": "作者以 C60 同时还原/锚定 Rh、Ir、Pt、Pd、Au、Ru，得到约 1.4-2.7 nm 金属簇；描述的是合成阶段电子转移。"
+      },
+      {
+        "id": "E027-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          4
+        ],
+        "statement": "退火后 Ru XPS 和 C60 Ag(2) Raman 位移被解释为 Ru→C60 电荷转移增强；不应与前述合成时的还原角色混为同一阶段、同一方向。"
+      },
+      {
+        "id": "E027-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "报告碱性 HER 约 99% FE、100 h 后过电位增加约 37 mV；CO stripping/气体定量与计算用于支持 Ru 活性和界面水解离。此处产物是 H2，不是 NO3RR 氢利用。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E028",
+    "doc_id": "Pc555b5c909aa",
+    "read_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "分散/电子效应、活性归一化和路径重点句段，非逐页全文；未独立目视图像/SI。",
+    "conditions": "Pd metallene/C60 fullerenolamine 的乙醇氧化；1 M KOH + 1 M ethanol；原文电位为 SCE。",
+    "mechanism": "FA 的空间分散和 Pd 电子贫化可能同时改变 OH/CO 类中间体行为，性能增强并非仅电子作用。",
+    "limits": [
+      "PdO 电荷法也依赖氧化层计量与修饰后的可及性，ECSA 并非无假设真值。",
+      "CO2 红外信号说明路径存在，不自动给出完整 C1 碳收支/选择性。",
+      "醇氧化阳极的电子/吸附结论不能直接证明阴极 NO3RR。"
+    ],
+    "writing": "同时考虑空间与电子作用，注明配体异构混合与测试反应范围。",
+    "figure": "质量与面积归一图并列，等电荷产品检测明确写出；避免把示意配体位置画成唯一实测结构。",
+    "experiment": "实际分子改性可分开检查分散、可及性和电子态，再用产品结果确定哪个因素影响目标反应。",
+    "title": "Electronic Modulation and Active Site Exposure Using C60 Fullerenolamine Enable High‐Performance Alcohol Oxidation on Pd Metallene Catalysts",
+    "doi": "10.1002/anie.202506044",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 10,
+    "sha256": "c555b5c909aa905959dd0191f412df1c925cb5561b1df27c4e46e4ab89c2f0e5",
+    "claims": [
+      {
+        "id": "E028-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          5
+        ],
+        "statement": "FA 功能化位置图注为任意示意，实际有多种异构体；作者以 PdO 还原电荷计算 ECSA，FA-Pdene 345.7、Pdene 325.9 cm2 mg_Pd^-1。这不是实际 PyCEE 的结构证据。"
+      },
+      {
+        "id": "E028-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5
+        ],
+        "statement": "FA-Pdene 的质量活性 4123 对 Pdene 2669.2 mA mg_Pd^-1，比表面积归一活性 12.0 对 8.2 mA cm_Pd^-2；有助于分别讨论可及面积和单位面积响应。"
+      },
+      {
+        "id": "E028-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "statement": "CO stripping、ATR-FTIR 和等 50 C 后的 NMR 联用于耐毒化及 C1/C2 路径；正文 EIS 解释偏电荷转移而 CV 扫速又提示扩散限制，需按各自测试区间解释。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E029",
+    "doc_id": "Pf9ca25e3f026",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "read_scope": "C60 动态再生、同位素与尿素性能重点句段，非逐页全文；详细电解条件和 SI 未全部核查。 本轮另目视核对 PDF pp. 5，其他图/SI 未因此视为全部核查。",
+    "conditions": "Cu–SiO2–C60，CO2 与 NO3−/NO2− 耦合制尿素；性能电位为 RHE，但 Figure 4b 的 C60 CV 电位为 Fc/Fc+，两者不可直接比较；确切电解液组成需查 SI。",
+    "mechanism": "作者提出 C60 接受来自 Cu 的电子、维持 Cuδ+，随后还原 NO3− 至 NO2− 而自身再生，形成闭合电子转移循环。核心是可反复再生而非无限容量的电子储库。",
+    "limits": [
+      "混合氮源同位素结果受浓度、交换和周转影响，不能外推所有体系中 NO3− 只充当电子介体。",
+      "NO3− 与 NO2− 生成尿素分别对应 16 e− 和 12 e−，FE 口径必须区分。",
+      "SCN− 毒化还需核查尿素分析干扰；C60 单独无显著 CO2RR 仅适用于本论文条件，与其他 C60 活性位论文并不构成直接矛盾。",
+      "原位峰位恢复支持电荷转变，不能直接证明用户分子改性 CuNi 存在同一循环。",
+      "Figure 4b 为 Fc/Fc+ 标尺，而尿素性能为 RHE；不能把两个图上的 −1.3/−1.0 等数字视为同一电位。"
+    ],
+    "writing": "电荷缓冲论证应明确电子去向和再生步骤，并把动态扰动证据写在静态能带示意之前。",
+    "figure": "画出电子接受、化学再氧化与底物转化三步，箭头标记实验证据；NO3/NO2 同位素混合实验单独画条件。",
+    "experiment": "可借鉴先充电、再开路加底物、监测产物和可逆谱峰的实验逻辑，设计前须确认自身材料的可辨识信号与空白干扰。",
+    "visually_reviewed_pages": [
+      5
+    ],
+    "title": "Closing Electron Transfer Loop to Boost Electrocatalytic Urea Synthesis",
+    "doi": "10.1002/anie.202517450",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 7,
+    "sha256": "f9ca25e3f026a01e90c7e29223dce30db9b102b60d037d9aa570e393dc36db07",
+    "claims": [
+      {
+        "id": "E029-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          4
+        ],
+        "statement": "作者报告 −1.3 V 下尿素产率 385.9 mmol h−1 g−1、FE 27.6%；无碳源或无氮源对照无尿素。该反应 FE 不能与 NO3RR 的 NH3 FE 横向排序。"
+      },
+      {
+        "id": "E029-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          5
+        ],
+        "statement": "先在无含氮底物时还原 C60，再于开路加入 NO3− 或 NO2−：NO3− 触发再氧化响应和 NO2− 生成；C60 Ag2 峰由 1467 移至 1463 cm−1 后，加入 NO3− 回到 1467，加入 NO2− 未同样恢复。该扰动比单次 XPS 位移更直接检验电荷再生。"
+      },
+      {
+        "id": "E029-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "CO2+NO2− 条件下尿素产率 231.8 mmol h−1 g−1，三次循环后约剩一半；混合 15NO3− 和 14NO2− 的实验中作者主要观察到未标记尿素，解释为电解液 NO2− 提供主要氮源、NO3− 参与电子再生。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E030",
+    "doc_id": "P2f2572dcd803",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "柔性 Cu3 的结构响应、耦合和计算约束重点句段，非逐页全文；未全部核查 SI 和长期测试协议。 本轮另目视核对 PDF pp. 5,6，其他图/SI 未因此视为全部核查。",
+    "conditions": "CO 饱和 0.1 M KHCO3 + 0.1 M KNO3，Cu3-flex 与 Cu3-rigid；RHE。碳源为 CO，不是 CO2。",
+    "mechanism": "作者提出柔性 Cu3 随 CO/NO3 共吸附调整 Cu–Cu 间距，稳定相邻中间体并促进两次 C–N 耦合；结构适配与电子/可及性变化可能共存。",
+    "limits": [
+      "NO3 质子化 1.85 eV、刚性体系 NOH 到 N 的 6.26 eV 为所示路径的自由能变化，不自动等于过渡态活化能。",
+      "耦合步骤 ΔG 下降不意味着没有动力学势垒；不同固定/弛豫协议的结果不可直接混用。",
+      "CO 换为 CO2 后性能降低，不能把该尿素性能移植到 CO2/NO3 体系。",
+      "本地一个附件文件名误含其他论文 SI 标识，已按 PDF 正文身份和哈希绑定本论文，不能按文件名引用。"
+    ],
+    "writing": "区分柔性结构证据、匹配对照、计算预测三层；先写真实碳源与测量条件，再讨论位点间距。",
+    "figure": "结构适配示意注明模型；计算图显式标注 fixed/unfixed，并用 ΔG 而非 activation barrier 标注未做过渡态的能量。",
+    "experiment": "结构柔性假设应设计反应前/中/后的可逆响应和刚柔对照，同时检查 ECSA、电子态与电荷转移是否共变。",
+    "visually_reviewed_pages": [
+      5,
+      6
+    ],
+    "title": "Efficient Urea Electrosynthesis on a Cu3 Molecular Catalyst with Dynamically Adaptive Intercopper Spacings",
+    "doi": "10.1021/jacs.5c15109",
+    "journal": "Journal of the American Chemical Society",
+    "page_count": 9,
+    "sha256": "2f2572dcd803c34706a5d0e04375e5122e7e298051569f9cb0b8cbcffb8db6ed",
+    "claims": [
+      {
+        "id": "E030-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "statement": "−0.6 V 时 Cu3-flex 的尿素分电流 6.0 mA cm−2、FE 69±4%、产率 122±8 mmol gcat−1 h−1；Cu3-rigid FE 约 7%。15N 标记 1H/15N NMR 用于确认尿素氮源。"
+      },
+      {
+        "id": "E030-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5
+        ],
+        "statement": "研磨/超声改变颗粒尺度后尿素性能变化较小，CuO/Cu2O 对照尿素产率低于 6 mmol g−1 h−1；支持不宜仅用粒径或价态解释，但这些对照未匹配全部分子结构和电子因素。"
+      },
+      {
+        "id": "E030-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "statement": "原位 Raman 与 operando Cu K-edge XAS 支持结构动态响应。Figure 4 的 C–N 耦合比较固定吸附后的 Cu3-flex 框架，Figure 5 路径计算允许全部原子弛豫，两种约束需分开描述。"
+      },
+      {
+        "id": "E030-C4",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6
+        ],
+        "statement": "正文报告电解中 EXAFS 出现较短的 Cu–Cu 散射路径 2.4–2.5 Å，初始路径约 3.3–3.4 Å；模型中桥式 CO 对应 3.3→2.5 Å。实验拟合距离与模型距离须注明来源，不能当作所有三条 Cu–Cu 键同步收缩。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  },
+  {
+    "card_id": "E031",
+    "doc_id": "Pcca38e150d36",
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10
+    ],
+    "read_scope": "共价/物理涂层对照、性能、稳定性和谱学重点句段，非逐页全文；未全面核查 SI。",
+    "conditions": "PDMS-Cu2O/C 的 CO2RR 流动池；主要性能 1 M KOH，另有 0.5 M KHCO3；ATR-IRAS 为 0.1 M KOH，Raman 为 CO2 饱和 1 M KOH。",
+    "mechanism": "作者将 Cu–O–Si 共价调控与疏水/亲气微环境共同联系到 CO*/CHO* 吸附和非对称 C–C 耦合。",
+    "limits": [
+      "正文一处将液/气产品与 GC/NMR 的对应写反，引用分析方法前须核对 SI；不能照抄该句。",
+      "接触角、孔隙、无序与电子态共变，物理涂层对照增强解释力但未唯一隔离电子效应。",
+      "该论文为 PDMS/Cu2O/C，不能因附件名或先验印象写成 COF。",
+      "乙烯选择性保持依赖电极背面处理及电解液更新，不是无维护的全电解槽寿命。"
+    ],
+    "writing": "微环境效应按润湿/传质、结构、电子三层写，并列给出物理包覆与共价修饰对照。",
+    "figure": "谱图标电解液，性能图标 FE 与分电流及实际工况；稳定性图标刷新/预处理事件。",
+    "experiment": "分子修饰 CuNi 若考虑疏水效应，先用润湿性、覆盖量与匹配物理混合对照区分传质和键合；只将其作为设计逻辑。",
+    "title": "Covalent Elaboration of Confined Surfaces Steers C─C Coupling Pathway for Selective Electrochemical CO2 Reduction at Ampere‐Level",
+    "doi": "10.1002/anie.202508366",
+    "journal": "Angewandte Chemie International Edition",
+    "page_count": 11,
+    "sha256": "cca38e150d3686a4f2031b6a9dec02904a40d5313b231ae06a04071f966520e4",
+    "claims": [
+      {
+        "id": "E031-C1",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          3,
+          4
+        ],
+        "statement": "共价 PDMS-Cu2O/C 与物理涂层 Cu2O/C@PDMS 对照结合 MAS NMR、Raman 和 XAS 检查 Cu–O–Si；共价样品同时改变局部无序、电子态和 CO2 吸附，不能归因于单一接触角。"
+      },
+      {
+        "id": "E031-C2",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          1,
+          5,
+          6,
+          10
+        ],
+        "statement": "作者报告乙烯 FE 71%、乙烯分电流 513.6 mA cm−2；乙烯/乙醇比在 400 mA cm−2 达 15.35。0.5 M KHCO3 下另报乙烯 FE 62.39%、分电流 442.88 mA cm−2，不能拼接成同一最优工况。"
+      },
+      {
+        "id": "E031-C3",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          6,
+          7
+        ],
+        "statement": "−500 mA cm−2 稳定测试约 43 h，乙烯 FE 前 10 h >65%、随后 >55%，作者要求碳电极背面 PTFE 预处理和更换电解液；过多 PDMS 反而增加 HCOOH/H2。"
+      },
+      {
+        "id": "E031-C4",
+        "type": "agent_summary_of_author_text",
+        "pages": [
+          7,
+          8
+        ],
+        "statement": "Raman 约 280/360 cm−1 被归为吸附 CO 受限转动/Cu–CO；ATR-IRAS 1484 cm−1 归为 CHO*。两种谱学使用不同电解液，不能视为同一操作条件下同时观察到的完整路径。"
+      }
+    ],
+    "identity_status": "DOI_present_in_first_two_PDF_pages"
+  }
+]

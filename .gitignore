@@ -1,0 +1,20 @@
+# Local copyrighted sources and extraction artifacts
+*.pdf
+*.sqlite
+*.sqlite-*
+*.db
+*.docx
+*.xlsx
+texts/
+reading_packets_local/
+figures_local/
+backups_local/
+local_config.json
+**/library-location.md
+__pycache__/
+*.pyc
+validation_deps/
+.env
+.env.*
+*.pem
+*.key
