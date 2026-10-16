@@ -1,0 +1,36 @@
+{
+  "snapshot_date": "2026-10-16",
+  "papers": 91,
+  "new_papers": 60,
+  "previous_papers": 31,
+  "claims": 279,
+  "new_primary_research": 57,
+  "new_reviews": 3,
+  "new_sources": {
+    "existing_local_zotero": 49,
+    "publisher_open_access": 11
+  },
+  "reading_scope": "5 main-section reviews; 86 focused passage reviews. Not full main-text/SI reading.",
+  "date_boundary": "E032 has 2027 issue date and unresolved online date; not counted as confirmed recent publication",
+  "new_visually_reviewed_pages": {
+    "E054": [
+      4
+    ],
+    "E055": [
+      7
+    ],
+    "E071": [
+      5
+    ],
+    "E076": [
+      3
+    ],
+    "E088": [
+      6
+    ],
+    "E090": [
+      6
+    ]
+  },
+  "source_policy": "Only authored cards, metadata and code are portable; copyrighted sources and local configs are excluded."
+}

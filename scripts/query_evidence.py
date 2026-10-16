@@ -18,7 +18,7 @@ def search(query,limit=6):
 def main():
     a=argparse.ArgumentParser(description=__doc__)
     a.add_argument('query',nargs='?',default=''); a.add_argument('--card'); a.add_argument('--limit',type=int,default=6)
-    a.add_argument('--corpus',type=Path,help='Local extracted corpus, never uploaded')
+    a.add_argument('--corpus',type=Path,action='append',help='Local extracted corpus; repeat for multiple dated corpora')
     a.add_argument('--source-pages',help='For --card only; PDF pages e.g. 3,5-6')
     args=a.parse_args()
     cards=load_cards()
@@ -28,11 +28,13 @@ def main():
         print(json.dumps(cards[0],ensure_ascii=False,indent=2))
         if args.source_pages:
             cfg=ROOT/'local_config.json'
-            configured=json.loads(cfg.read_text(encoding='utf-8')).get('source_corpus') if cfg.exists() else None
-            corpus=args.corpus or os.environ.get('ELECTROCATALYSIS_CORPUS') or configured
-            if not corpus: a.error('Set --corpus, ELECTROCATALYSIS_CORPUS, or local_config.json source_corpus')
-            target=Path(corpus)/'texts'/(cards[0]['doc_id']+'.json')
-            if not target.exists(): a.error(f'Local source missing: {target}')
+            configured=json.loads(cfg.read_text(encoding='utf-8')) if cfg.exists() else {}
+            env=os.environ.get('ELECTROCATALYSIS_CORPUS')
+            corpora=args.corpus or ([env] if env else configured.get('source_corpora') or ([configured['source_corpus']] if configured.get('source_corpus') else []))
+            if not corpora: a.error('Set --corpus, ELECTROCATALYSIS_CORPUS, or local_config.json source_corpora')
+            targets=[Path(corpus)/'texts'/(cards[0]['doc_id']+'.json') for corpus in corpora]
+            target=next((p for p in targets if p.exists()),None)
+            if target is None:a.error('This paper is absent from configured local corpora')
             wanted=set()
             for part in args.source_pages.split(','):
                 bounds=[int(x) for x in part.split('-')]

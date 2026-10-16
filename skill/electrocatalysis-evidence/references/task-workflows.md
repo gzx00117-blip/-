@@ -41,3 +41,7 @@ Review relevant complete sections, not just abstract/search hits. Record focused
 New records require: card ID, DOI/doc ID/hash, title, actual read scope/pages, conditions, page-level claims with evidence type, mechanism, limits, and writing/figure/experiment use. Keep author observations, author/model interpretation and transfer advice separate. E006–E031 claims initially summarize author text; category detail should be refined from the actual passage before a strong mechanistic claim.
 
 Add papers in a dated batch, maintain old versions and run library validation. Validate counts, DOI uniqueness, locator bounds, meaningful retrieval, source identity and optional full-page access. Full-text/PDF/source packet/image artifacts remain outside the portable repository. No native model memory or scheduled job is created by updating cards.
+
+## Added 60-paper synthesis
+
+Consult `analysis/新增60篇学习总结.md` when a decision involves H sources/probes, opposite modifier effects, working-state facets/spins, isotope regeneration, mass-normalization or device boundaries. These examples change interpretation; do not force all assays on every project. Use `scripts/check_faraday.py` before a rate/current comparison and retain unresolved differences. Dates, review scope and figure inspection are separate verification dimensions.

@@ -1,17 +1,18 @@
 # Electrocatalysis Evidence — 电催化证据库与 Skill
 
-31 个独立 DOI 的论文分析、99 条可定位论断，用于论文写作、科学绘图和实验规划。以 NO3RR、Cu/Ni、供氢与分子微环境为主，包含富勒烯、CO2RR、尿素耦合和相邻反应作为有边界的设计参考。
+91 个独立论文身份、279 条可定位论断，用于论文写作、科学绘图和实验规划。本轮新增60篇：49篇既有本地/Zotero来源、11篇出版社开放获取来源；其中57篇原始研究、3篇综述。以 NO3RR、Cu/Ni、供氢与分子微环境为主，相邻光/热催化只作为有边界的参考。
 
-**阅读范围**：前 5 篇阅读正文主要部分，后 26 篇按问题阅读重点段落；逐卡记录 PDF 页码与范围。不是全部 31 篇正文/SI 的逐字通读，不代表近三年全部顶刊，也不是模型权重训练。分析由 AI 完成，尚未经独立实验或人工逐项复核。
+**阅读范围**：前5篇阅读正文主要部分，其余86篇按问题阅读重点段落；逐卡记录PDF页码与范围。不是91篇正文/SI的逐字通读，不代表近三年全部顶刊，也不是模型权重训练。E032刊期2027，网络首发日待核，不计作已确认近三年出版记录。分析由AI完成，尚未经独立实验或人工逐项复核。
 
 ## 从这里开始
 
-- [31 篇论文目录](analysis/31篇论文索引.md)：DOI、题目和卡片链接。
+- [91篇论文目录](analysis/91篇论文索引.md)：DOI、题目和卡片链接。
+- [新增60篇目录](analysis/新增60篇论文索引.md)与[本轮学习总结](analysis/新增60篇学习总结.md)：新增证据、相反结果和复核项。
 - [跨论文分析与使用框架](analysis/跨论文分析与使用框架.md)：机制、反例、证据边界、写作/图/实验路线。
 - [Skill](skill/electrocatalysis-evidence/SKILL.md)：让代理检索、核查与应用知识。
 - [机器可读卡片](cards/evidence_cards.json)：claim ID、PDF 页码、条件、解释、限制和迁移建议。
 
-所有页码均为 **1 起始 PDF 文件页**，不一定是期刊印刷页码。DOI 在对应 PDF 首两页核对；最终卷页/出版日期未全部外部核验。
+所有页码均为 **1 起始 PDF 文件页**，不一定是期刊印刷页码。DOI 在对应PDF中核对；E077印刷DOI定位为p.11，并以Crossref核验身份。最终卷页/出版日期未全部外部核验。
 
 ## 安装与调用
 
@@ -22,6 +23,7 @@ python scripts/install_skill.py
 python scripts/query_evidence.py "供氢"
 python scripts/query_evidence.py "C60 electron"
 python scripts/query_evidence.py --card E029
+python scripts/check_faraday.py --substrate NO3 --rate-mmol 1 --current-ma 214.41
 python scripts/validate_library.py
 ```
 
@@ -38,7 +40,7 @@ python scripts/install_skill.py --corpus "你的本地语料目录"
 python scripts/query_evidence.py --card E001 --source-pages 7-8
 ```
 
-也可通过 `--corpus` 或 `ELECTROCATALYSIS_CORPUS` 指定路径。本地路径配置被 Git 忽略。缺少原文时只使用卡片已支持的论断，需核对的新数值/谱峰应回到合法获取的论文。检索是关键词和少量中英同义词扩展，不是向量语义检索。
+可重复使用`--corpus`配置多个日期批次，或通过`ELECTROCATALYSIS_CORPUS`指定一个路径。本地路径配置被Git忽略。缺少原文时只使用卡片已支持的论断，新数值/谱峰回到合法获取的论文。检索是关键词和少量中英同义词扩展，不是向量语义检索。
 
 ## 使用边界
 

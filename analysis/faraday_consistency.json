@@ -1,0 +1,40 @@
+[
+  {
+    "card": "E071",
+    "basis": "2.36 mmol h−1 cm−2 NOx, n=6–8",
+    "reported_mA": 344,
+    "calculated_mA_range": [
+      379.50897300533336,
+      506.01196400711115
+    ],
+    "status": "pending_same-condition_raw_data_check"
+  },
+  {
+    "card": "E088",
+    "basis": "330 mgNH3 h−1 cm−2, n=8",
+    "reported_mA": 2000,
+    "calculated_mA": 4154.536446558238,
+    "status": "pending_source_data_check"
+  },
+  {
+    "card": "E090",
+    "basis": "116.2 mgNH3 h−1 cm−2, n=8",
+    "reported_mA": 1652,
+    "calculated_mA": 1462.90040936384,
+    "status": "pending_source_data_check"
+  },
+  {
+    "card": "E085",
+    "basis": "10.5 mmol h−1 cm−2 NO, n=5",
+    "reported_mA": 1415.3,
+    "calculated_mA": 1407.0777600833333,
+    "status": "within_1_percent_rounding"
+  },
+  {
+    "card": "E087",
+    "basis": "114.0 mgNH3 h−1 cm−2, n=8",
+    "reported_mA": 1437.5,
+    "calculated_mA": 1435.2034997201183,
+    "status": "within_1_percent_rounding"
+  }
+]
