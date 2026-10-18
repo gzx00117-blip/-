@@ -1,0 +1,39 @@
+{
+  "data_kind": "SYNTHETIC_TRAINING",
+  "matplotlib_version": "3.10.7",
+  "reports": [
+    {
+      "profile": "jacs",
+      "width_mm": 177.8,
+      "height_mm": 116,
+      "font": "Arial",
+      "font_pt": 8,
+      "out_of_canvas_text": [],
+      "svg": "jacs_training.svg",
+      "pdf": "jacs_training.pdf",
+      "png": "jacs_training.png"
+    },
+    {
+      "profile": "angew",
+      "width_mm": 178,
+      "height_mm": 116,
+      "font": "Arial",
+      "font_pt": 7.5,
+      "out_of_canvas_text": [],
+      "svg": "angew_training.svg",
+      "pdf": "angew_training.pdf",
+      "png": "angew_training.png"
+    },
+    {
+      "profile": "ncomms",
+      "width_mm": 180,
+      "height_mm": 116,
+      "font": "Arial",
+      "font_pt": 7.5,
+      "out_of_canvas_text": [],
+      "svg": "ncomms_training.svg",
+      "pdf": "ncomms_training.pdf",
+      "png": "ncomms_training.png"
+    }
+  ]
+}

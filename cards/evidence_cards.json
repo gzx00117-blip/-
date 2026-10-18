@@ -8094,5 +8094,2321 @@
         30
       ]
     ]
+  },
+  {
+    "card_id": "E092",
+    "doc_id": "E092",
+    "title": "Spin state and orbital engineering of cuprous oxide for efficient nitrate reduction.",
+    "doi": "10.1038/s41467-026-76420-8",
+    "journal": "Nature communications",
+    "date": "2026-08-15",
+    "pmcid": "PMC13575217",
+    "sha256": "683c73c759d8cfb3b74c497549ca89c7191c8a10a259383df782a708f6908e6a",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13575217/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 65,
+    "read_units": [
+      15,
+      30,
+      49,
+      63
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Co掺杂Cu2O；0.1 M KOH + 0.1 M KNO3，RDE 900 rpm；主性能不作iR补偿",
+    "claims": [
+      {
+        "claim_id": "E092-C1",
+        "statement": "在−0.3 V RHE附近正文报告约96% NH3 FE和约1.4 mM h−1 mg−1产率；摘要的峰值产率不能直接拼到该电位。",
+        "units": [
+          15
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E092-C2",
+        "statement": "作者把Co掺杂、轨道杂化与*NO相关中间体结合起来解释性能，并报告100 mA cm−2下100 h测试。",
+        "units": [
+          30
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E092-C3",
+        "statement": "Fig.3将不同金属、浓度、电流和耐久性分组，部分误差为三次独立电解的标准差。",
+        "units": [
+          63
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把掺杂筛选组织为结构—电子态—目标反应的可检验链条。",
+    "limits": [
+      "正文对电子转移方向的表述存在差异，需结合原始XAS/计算核查；吸附能不能自动称为动力学势垒。"
+    ],
+    "writing": "把掺杂筛选组织为结构—电子态—目标反应的可检验链条。",
+    "figure": "保留分层叙事，将3D柱改为二维点加误差；阶梯电流与FE按同一时间点对齐。",
+    "experiment": "用同批样品和相同电位核对电子态与产品分电流；不要只比较总电流。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 63,
+      "observed": "3列性能区加底部长时间曲线；FE和产率分开，红蓝双轴；产率子图使用装饰性3D柱。",
+      "recommended_remake": "保留分层叙事，将3D柱改为二维点加误差；阶梯电流与FE按同一时间点对齐。",
+      "recommended_software": "Origin或Matplotlib绘数据，Illustrator/Inkscape组图。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            49
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13575217/#Fig3"
+    }
+  },
+  {
+    "card_id": "E093",
+    "doc_id": "E093",
+    "title": "Operando Cu Aggregation-Induced Spin State Modulation in Fe-Cu Single Atom Catalyst for Enhanced Tandem Electrochemical Nitrate Reduction Reaction.",
+    "doi": "10.1021/jacs.6c00705",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2026-04-01",
+    "pmcid": "PMC13088231",
+    "sha256": "3b5f1faae17324c53f52b7a4cee01626af2c84658c7d4b4a2a9843155b35e8e5",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13088231/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 42,
+    "read_units": [
+      6,
+      14,
+      41
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "FeCu–N–C；1 M KOH + 0.5 M KNO3；20 h测试每2 h更换电解液",
+    "claims": [
+      {
+        "claim_id": "E093-C1",
+        "statement": "性能图明确把NH3 FE、NH3产率及NO2−产率分列，并注明20 h耐久试验中的换液。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E093-C2",
+        "statement": "Cu55@Fe–N–C模型中初步解离计算势垒从0.94降至0.66 eV；同图另列自由能与PDS。",
+        "units": [
+          6
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E093-C3",
+        "statement": "Fig.3以Fe/Cu双边operando XAS和EPR追踪Cu聚集及Fe高自旋信号。",
+        "units": [
+          41
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "初始单原子结构与运行中的Cu团簇/Fe电子态分开，串联由动态工作态支撑。",
+    "limits": [
+      "不能把初始双单原子结构画成整个运行过程始终不变；20 h是维护条件下测试。"
+    ],
+    "writing": "初始单原子结构与运行中的Cu团簇/Fe电子态分开，串联由动态工作态支撑。",
+    "figure": "统一R轴范围和参考谱缩放；每列写清元素与探测对象，用灰带定位而不放大局部信号。",
+    "experiment": "以电位或时间为共同坐标比较Cu聚集、Fe状态和NH3选择性。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 41,
+      "observed": "2×3等尺寸谱图矩阵，半透明竖带突出配位距离，Fe/Cu谱各有对照。",
+      "recommended_remake": "统一R轴范围和参考谱缩放；每列写清元素与探测对象，用灰带定位而不放大局部信号。",
+      "recommended_software": "Athena/Artemis处理XAS、Origin/Matplotlib绘曲线，Inkscape排版；此为复现建议。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13088231/#fig3"
+    }
+  },
+  {
+    "card_id": "E094",
+    "doc_id": "E094",
+    "title": "Reverse hydrogen spillover accelerates electrocatalytic nitrate reduction to ammonia on Ru/WO3-x in acidic media.",
+    "doi": "10.1038/s41467-026-69335-x",
+    "journal": "Nature communications",
+    "date": "2026-02-16",
+    "pmcid": "PMC13022183",
+    "sha256": "31c2dd0ca29f85e606d9ce9a94f5cde676e12c2a004bb5b11c0ed43fb7252e3b",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13022183/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 77,
+    "read_units": [
+      22,
+      34,
+      41,
+      58,
+      64,
+      74,
+      75
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Ru/WO3−x；1 M H2SO4 + 0.1 M KNO3；性能曲线80% iR，部分谱不补偿",
+    "claims": [
+      {
+        "claim_id": "E094-C1",
+        "statement": "性能极化用稳态恒电流并作80% iR补偿，−500 mA cm−2对应约+0.026 V RHE。",
+        "units": [
+          22
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E094-C2",
+        "statement": "作者提出WO3−x储存/输送质子到Ru的逆向氢溢流，并将其用于硫化物—硝酸盐配对装置。",
+        "units": [
+          34
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E094-C3",
+        "statement": "Fig.4区分计算H转移过渡态、2H标记DEMS与AIMD距离，用于检验供氢路径。",
+        "units": [
+          75
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把吸附位点与氢供给空间分离，使“逆向”有明确起点和终点。",
+    "limits": [
+      "正电位或较低Rct不能单独排除HER；半电池与配对装置能量边界不同。"
+    ],
+    "writing": "把吸附位点与氢供给空间分离，使“逆向”有明确起点和终点。",
+    "figure": "能量路径用Matplotlib输出，原子坐标经VESTA等导出透明背景图后组装；ΔG与TS分图。",
+    "experiment": "先用氘标记/潜阶验证氢来自支持体，再检验底物浓度竞争。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 74,
+      "observed": "Fig.3左侧堆叠DEMS，右侧大自由能路径，底部轨道和吸附比较；结构小图贴近相应能级。",
+      "recommended_remake": "能量路径用Matplotlib输出，原子坐标经VESTA等导出透明背景图后组装；ΔG与TS分图。",
+      "recommended_software": "VESTA作结构、Matplotlib作能量与谱图、Inkscape组图；作者披露Athena和VASPKIT等分析工具。",
+      "software_disclosure": [
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            41
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASPKIT",
+          "role": "DFT postprocessing",
+          "units": [
+            58
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            58,
+            64
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022183/#Fig3"
+    }
+  },
+  {
+    "card_id": "E095",
+    "doc_id": "E095",
+    "title": "Multi-modal characterization of nitrate reduction nano-catalysts with periodic strain distribution.",
+    "doi": "10.1038/s41467-026-70447-7",
+    "journal": "Nature communications",
+    "date": "2026-03-11",
+    "pmcid": "PMC13106681",
+    "sha256": "433e0ca40c1d10808205bde86539efd39356ce18f91e7a210b790fd2bd984ff7",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13106681/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 72,
+    "read_units": [
+      10,
+      14,
+      23,
+      46,
+      70
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "CuCoSn(OH)6/CoSn(OH)6；1 M KOH + 0.1 M KNO3；H-cell与MEA分开",
+    "claims": [
+      {
+        "claim_id": "E095-C1",
+        "statement": "H-cell报告97% FE；MEA报告400 mA cm−2下92.6% FE，不能混为相同测试。",
+        "units": [
+          10
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E095-C2",
+        "statement": "作者将4D-STEM应变、元素场和DFT映射联系起来，并明确吸附能空间图是定性共变描述。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E095-C3",
+        "statement": "Fig.3将应变—能量关系、多个颗粒的映射及周期分布并列，映射含100 nm尺度。",
+        "units": [
+          70
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "方法学贡献在于跨尺度测量能力加空间结构—性能解释，而非只增加材料种类。",
+    "limits": [
+      "映射中的吸附能来自模型，不是逐像素直接测量的吸附能；多颗粒不等于独立合成重复。"
+    ],
+    "writing": "方法学贡献在于跨尺度测量能力加空间结构—性能解释，而非只增加材料种类。",
+    "figure": "在每个映射标题标“model-derived”；以统一色标、尺度和模型残差保持可比较性。",
+    "experiment": "报告空间分辨率、精度、模型标定与跨颗粒验证，避免用单颗粒推断全部催化剂。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 70,
+      "observed": "上排双关系图，下排6颗粒图及散点分布；共享能量色标；散点保留分布。",
+      "recommended_remake": "在每个映射标题标“model-derived”；以统一色标、尺度和模型残差保持可比较性。",
+      "recommended_software": "4D-STEM专用分析/作者算法→CSV；Matplotlib热图与散点；Inkscape组合。",
+      "software_disclosure": [
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            23
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            46
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13106681/#Fig3"
+    }
+  },
+  {
+    "card_id": "E096",
+    "doc_id": "E096",
+    "title": "Aryl sulfur ligand-modulated silver catalysts with tailored binding affinity for selective nitrate-to-ammonia conversion.",
+    "doi": "10.1038/s41467-026-69385-1",
+    "journal": "Nature communications",
+    "date": "2026-02-10",
+    "pmcid": "PMC13000250",
+    "sha256": "c26d3a64758ad80cdacb689f9a442d406f672c0ae544b76146cd90fd0f0c5aa9",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13000250/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 59,
+    "read_units": [
+      11,
+      19,
+      27,
+      45,
+      57
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "芳香含硫配体修饰Ag纳米立方体；1 M KOH + 2000 ppm NO3−；MTBA为中性硫醚",
+    "claims": [
+      {
+        "claim_id": "E096-C1",
+        "statement": "MTBA修饰在−0.63 V RHE报告98.9% NH3 FE；其他配体有促进也有抑制。",
+        "units": [
+          11
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E096-C2",
+        "statement": "无NO3−时较强DMPO-H信号在加入NO3−后减弱，作者解释为生成与消耗的耦合。",
+        "units": [
+          19
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E096-C3",
+        "statement": "正文明确披露结构可视化使用VESTA；这不能推断其余数据图也由VESTA完成。",
+        "units": [
+          45
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "以一组可比较配体建立结构—选择性关系，比单一修饰前后对比更能解释设计原则。",
+    "limits": [
+      "MTBA不是自由硫醇；Raman强度/DMPO信号是条件性证据，不能直接换算氢化速率。"
+    ],
+    "writing": "以一组可比较配体建立结构—选择性关系，比单一修饰前后对比更能解释设计原则。",
+    "figure": "保留热图数值和固定0–100%色标；产率/能效高密度双轴可拆图，附配体名称对照。",
+    "experiment": "配体覆盖度、分子稳定性、面积/润湿与目标分电流同时核对。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 57,
+      "observed": "3列主框架加横跨宽图；FE用带数字蓝色热图，NMR和氮平衡单列。",
+      "recommended_remake": "保留热图数值和固定0–100%色标；产率/能效高密度双轴可拆图，附配体名称对照。",
+      "recommended_software": "VESTA（正文披露）用于结构；Origin/Matplotlib与Inkscape为数据和组版建议。",
+      "software_disclosure": [
+        {
+          "name": "VESTA",
+          "role": "structure visualization",
+          "units": [
+            45
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            27
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13000250/#Fig3"
+    }
+  },
+  {
+    "card_id": "E097",
+    "doc_id": "E097",
+    "title": "Electrocatalytic Nitrate Reduction to Hydroxylamine: Breaking the Activity-Selectivity Trade-Off by Designer Bifunctional Metal-Organic Frameworks.",
+    "doi": "10.1002/anie.202518171",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-02-04",
+    "pmcid": "PMC12970501",
+    "sha256": "070b1e09ba46b75075cb85c30f95bd773b9f04d30076250c423eff0a7070b055",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12970501/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 47,
+    "read_units": [
+      9,
+      14,
+      38,
+      43
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "NiMg-MOF-74；目标为NH2OH；Ni:Mg=6:4；H-cell/flow分列",
+    "claims": [
+      {
+        "claim_id": "E097-C1",
+        "statement": "H-cell在−0.8 V RHE报告NH2OH FE95.6%、28.9 mg h−1 cm−2，并用HPLC交叉核对NMR定量。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E097-C2",
+        "statement": "flow条件报告NH2OH FE92.3%、55.1 mg h−1 cm−2；Ni电子富集被用于弱化NH2OH结合、抑制进一步还原。",
+        "units": [
+          38
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E097-C3",
+        "statement": "Ni与Mg XPS向相反方向移动，被作者用作电荷重新分配的证据。",
+        "units": [
+          9
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "主动改变目标产物，展示“停止深度还原”也是可设计的问题。",
+    "limits": [
+      "NH2OH高选择性不能作为NH3高性能证据；XPS位移不是单独的电荷转移因果证明。"
+    ],
+    "writing": "主动改变目标产物，展示“停止深度还原”也是可设计的问题。",
+    "figure": "拟合需连同原始点、总拟合及残差保留；按最终尺寸统一无衬线字体，水比例须注明TGA假设。",
+    "experiment": "先确认目标是NH2OH还是NH3，安排对应的后续还原与定量交叉验证。",
+    "visual_review": {
+      "figure_id": "anie71130-fig-0002",
+      "figure_label": "FIGURE 2",
+      "caption_unit": 43,
+      "observed": "Fig.2为2×3矩阵，XPS分峰与TGA/水比例相邻，虚线/数值标出位移。",
+      "recommended_remake": "拟合需连同原始点、总拟合及残差保留；按最终尺寸统一无衬线字体，水比例须注明TGA假设。",
+      "recommended_software": "XPS专用拟合软件处理、Origin/Matplotlib重绘、Inkscape组版。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12970501/#anie71130-fig-0002"
+    }
+  },
+  {
+    "card_id": "E098",
+    "doc_id": "E098",
+    "title": "Unravelling the Ru-promoted dynamic evolution of Cobalt hydroxide during nitrate reduction towards ammonia production.",
+    "doi": "10.1038/s41467-026-70531-y",
+    "journal": "Nature communications",
+    "date": "2026-03-17",
+    "pmcid": "PMC13144419",
+    "sha256": "4508d11065c96def11d3ffdaafc24baae6a29deae86623ad0310e91fffbabffe",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13144419/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 63,
+    "read_units": [
+      4,
+      6,
+      23,
+      47,
+      60
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Ru修饰β-Co(OH)2/Ni foam；1 M KOH + 0.1 M KNO3；无iR补偿",
+    "claims": [
+      {
+        "claim_id": "E098-C1",
+        "statement": "以Ru/Pd/Au及未修饰样品比较，Co(OH)2-Ru在−0.7 V时电流超过1.1 A cm−2。",
+        "units": [
+          4
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E098-C2",
+        "statement": "作者解释为Ru同时促进OH终止表面动态循环和适宜*H覆盖，报告98±0.91 mg h−1 cm−2及97.7±0.90% FE。",
+        "units": [
+          23
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E098-C3",
+        "statement": "Ru负载量通过10/30/50沉积循环改变，30循环表现较优，表明用量并非越多越好。",
+        "units": [
+          6
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把结构变化视为需控制的反应过程，区分“初始稳定”和“工作态稳定”。",
+    "limits": [
+      "相近Cdl不能证明Ru不是活性位；必须控制Ni泡沫背景及Ru负载。"
+    ],
+    "writing": "把结构变化视为需控制的反应过程，区分“初始稳定”和“工作态稳定”。",
+    "figure": "按相同倍率配对前后图，标真实尺度；XPS不要用平滑曲线代替原始数据。",
+    "experiment": "同步测定Co溶出、OH物种及产品，而非只观察形貌保持。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 60,
+      "observed": "Fig.3前后两行SEM/TEM/EDX对应，底行3组XPS，尺度与元素色块可追踪。",
+      "recommended_remake": "按相同倍率配对前后图，标真实尺度；XPS不要用平滑曲线代替原始数据。",
+      "recommended_software": "Fiji校准和裁切，谱图用Origin/Matplotlib，Inkscape矩阵对齐。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            47
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144419/#Fig3"
+    }
+  },
+  {
+    "card_id": "E099",
+    "doc_id": "E099",
+    "title": "The Intricate Sabatier Optimality of Anion Electroreduction and Its Consequences for Nitrate Reduction.",
+    "doi": "10.1002/anie.3566312",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-05-07",
+    "pmcid": "PMC13285478",
+    "sha256": "334b3dd593b4958cf9892cb82b52312ea4d0647a9f8621cf9feaebdafa59760a",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13285478/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 51,
+    "read_units": [
+      6,
+      15,
+      23,
+      30,
+      51
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_theoretical_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "理论研究：阴离子特异吸附；NO3−→NO2−；CHE热力学范围",
+    "claims": [
+      {
+        "claim_id": "E099-C1",
+        "statement": "降低电位可抬高首个吸附阴离子中间体能级，同时使后续步骤更有利；不同步骤不能一律加同一个eU。",
+        "units": [
+          15
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E099-C2",
+        "statement": "当限制步骤分别释出和接受电子时，火山图顶点随电位移动。",
+        "units": [
+          23
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E099-C3",
+        "statement": "作者明确该吸附限制的判断基于热力学，独立于动力学和竞争吸氢等其他因素。",
+        "units": [
+          30
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "价值来自修正通行模型的适用边界，而不是更低的一根ΔG柱。",
+    "limits": [
+      "不是独立实测NH3产率；不能把NO3→NO2的结论直接当成全8e−通路证明。"
+    ],
+    "writing": "价值来自修正通行模型的适用边界，而不是更低的一根ΔG柱。",
+    "figure": "用同一模型参数重算各电位，保留轴标签和能量参考；自制演示要标模型而非实验。",
+    "experiment": "提出能够区分吸附限制和氢化限制的电位/浓度依赖预测。",
+    "visual_review": {
+      "figure_id": "anie72549-fig-0003",
+      "figure_label": "FIGURE 3",
+      "caption_unit": 51,
+      "observed": "Fig.3两幅上下对齐：多电位能级与移动火山图，三色统一表示电位，红箭头表示改变方向。",
+      "recommended_remake": "用同一模型参数重算各电位，保留轴标签和能量参考；自制演示要标模型而非实验。",
+      "recommended_software": "Matplotlib参数化计算与绘制，Inkscape注释；VASP为作者计算软件。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            6
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285478/#anie72549-fig-0003"
+    }
+  },
+  {
+    "card_id": "E100",
+    "doc_id": "E100",
+    "title": "Langmuir-Hinshelwood pathway enables 1000-h stable nitrate-to-ammonia electroreduction at 1 A cm-2.",
+    "doi": "10.1038/s41467-026-74321-4",
+    "journal": "Nature communications",
+    "date": "2026-06-09",
+    "pmcid": "PMC13402689",
+    "sha256": "9c7d04b1d76468f9ed95d4d2ced5ab6e4a565b34a49548dff1ae8d61e846679e",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13402689/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 74,
+    "read_units": [
+      10,
+      21,
+      24,
+      47,
+      70
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "RuCo与Co；1 M KOH为主；正文模型L–H对E–R；性能与耐久工况另核",
+    "claims": [
+      {
+        "claim_id": "E100-C1",
+        "statement": "作者以NO3−浓度依赖及微观动力学拟合区分RuCo的L–H与Co的混合途径；覆盖度是模型参数。",
+        "units": [
+          10
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E100-C2",
+        "statement": "总结同时报告135.53 mg h−1 cm−2、100% FE和1 A cm−2/1000 h；若视为同工况，速率—电流需复核。",
+        "units": [
+          21
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E100-C3",
+        "statement": "正文明确用VESTA可视化计算结构；另有VASP/VASPsol计算。",
+        "units": [
+          47
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "将反应级数、同位素与微动力学汇成有预测能力的途径检验。",
+    "limits": [
+      "135.53 mg NH3 h−1 cm−2按8e−约对应1.706 A cm−2，超过1 A；保留作者数字并待核条件，不能直接作榜单点。"
+    ],
+    "writing": "将反应级数、同位素与微动力学汇成有预测能力的途径检验。",
+    "figure": "模型曲线与实测点使用不同视觉语法；把拟合覆盖度明确标为estimated而非直接测量。",
+    "experiment": "比较能区分L–H和混合模型的浓度范围，并报告拟合不确定度及替代模型。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 70,
+      "observed": "3×3机制矩阵：EPR、CV、H电荷、KIE、捕获剂、浓度动力学；实验符号和模拟虚线区分。",
+      "recommended_remake": "模型曲线与实测点使用不同视觉语法；把拟合覆盖度明确标为estimated而非直接测量。",
+      "recommended_software": "VESTA（披露）结构、Athena/Artemis（披露）XAS；Matplotlib/Origin数据图。",
+      "software_disclosure": [
+        {
+          "name": "VESTA",
+          "role": "structure visualization",
+          "units": [
+            47
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            24
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            47
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13402689/#Fig3"
+    }
+  },
+  {
+    "card_id": "E101",
+    "doc_id": "E101",
+    "title": "The Key Steps and Distinct Performance Trends of Pyrrolic vs Pyridinic M-N-C Catalysts in Electrocatalytic Nitrate Reduction.",
+    "doi": "10.1021/jacs.5c09199",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-07-09",
+    "pmcid": "PMC12291458",
+    "sha256": "d50adf2764e956e5175cbd0926311d7a81e630443cc929fa8b14d8880129e2d7",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12291458/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 49,
+    "read_units": [
+      21,
+      23,
+      27,
+      31,
+      46
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "M–N–C配位系列；pH/电场耦合模型；MPc/CNT中性及碱性验证",
+    "claims": [
+      {
+        "claim_id": "E101-C1",
+        "statement": "使用结构较明确的MPc/CNT系列验证模型，以减轻热解材料多配位环境的混杂。",
+        "units": [
+          21
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E101-C2",
+        "statement": "相同分子结构在0.1 M KOH与0.5 M K2SO4、均0.1 M KNO3下表现出不同活性/选择性。",
+        "units": [
+          23
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E101-C3",
+        "statement": "Fig.3以两类配位的线性标度关系比较多个中间体，使用橙方形和蓝圆形区分。",
+        "units": [
+          46
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "设计—理论预测—独立实验系列验证，比仅对最优样做DFT解释更强。",
+    "limits": [
+      "标度相关不自动等于因果；RDS受电位、pH与模型影响，不能照抄一个*NO氢化步骤。"
+    ],
+    "writing": "设计—理论预测—独立实验系列验证，比仅对最优样做DFT解释更强。",
+    "figure": "重复小图应共享坐标和图例，把冗长拟合式移入表；保留拟合范围与误差。",
+    "experiment": "在预先选定的独立金属系列/pH条件下检验预测，而非只选择符合的样品。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 46,
+      "observed": "顶部四种位点结构，底部3×3标度关系；每格有符号、拟合和小结构。",
+      "recommended_remake": "重复小图应共享坐标和图例，把冗长拟合式移入表；保留拟合范围与误差。",
+      "recommended_software": "VESTA等展示真实优化结构，Matplotlib批量拟合与小倍图，Inkscape组合。",
+      "software_disclosure": [
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            31
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            27
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12291458/#fig3"
+    }
+  },
+  {
+    "card_id": "E102",
+    "doc_id": "E102",
+    "title": "Hydroxyl-rich nanocavities on perovskite enable nearly barrierless intramolecular hydrogen transfer for nitrate electroreduction to ammonia.",
+    "doi": "10.1038/s41467-026-74405-1",
+    "journal": "Nature communications",
+    "date": "2026-06-29",
+    "pmcid": "PMC13454618",
+    "sha256": "c89820157b3ee9e741a20b871e54659c67edd9842d4c34a2d214ada2c897f721",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13454618/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 69,
+    "read_units": [
+      7,
+      28,
+      67
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "表面纳米凹腔La0.4Sr0.6FeO3−δ；电化学Sr选择性浸出",
+    "claims": [
+      {
+        "claim_id": "E102-C1",
+        "statement": "ICP-OES等支持阴极辅助Sr浸出；化学浸出与电化学处理被分开比较。",
+        "units": [
+          7
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E102-C2",
+        "statement": "作者将凹腔、表面羟基网络和H迁移联系，报告−0.8 V RHE下97.81% FE及51.37 mg h−1 cm−2。",
+        "units": [
+          28
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E102-C3",
+        "statement": "Fig.3将水结构快照、RDF、H转移含TS能垒、DEMS及ATR-SEIRAS并列。",
+        "units": [
+          67
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "空间几何与氢键传递作为可验证结构变量，突出比单纯比表面积更具体的机制。",
+    "limits": [
+      "标题nearly barrierless是所选模型路径的结论，不等于所有步骤或真实电极零势垒；ATR-SEIRAS不是Raman。"
+    ],
+    "writing": "空间几何与氢键传递作为可验证结构变量，突出比单纯比表面积更具体的机制。",
+    "figure": "用VESTA/Blender分别做坐标结构和概念示意；TS图标出反应坐标，示意箭头标为proposed。",
+    "experiment": "控制浸出量、粗糙度与表面OH变化，检验哪一项能解释产品变化。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 67,
+      "observed": "上部水快照与能量/谱图，中下部宽自由能图，底部平面与凹腔的对照示意。",
+      "recommended_remake": "用VESTA/Blender分别做坐标结构和概念示意；TS图标出反应坐标，示意箭头标为proposed。",
+      "recommended_software": "VESTA/Avogadro用于结构、Matplotlib能量与谱图、Blender可选示意、Inkscape组图。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13454618/#Fig3"
+    }
+  },
+  {
+    "card_id": "E103",
+    "doc_id": "E103",
+    "title": "Dynamic catalytic interface driven three-step synergistic mechanism for boosting ammonia and hydroxylamine synthesis.",
+    "doi": "10.1038/s41467-026-75665-7",
+    "journal": "Nature communications",
+    "date": "2026-07-21",
+    "pmcid": "PMC13500717",
+    "sha256": "073de795d5be92042be8917f052bdf01a62bfc9017db6cc903a1511fa71895e4",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13500717/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 100,
+    "read_units": [
+      7,
+      29,
+      56,
+      60,
+      97
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "rCo(OH)2/CuNW；碱/中性及NH2OH捕获情景分列",
+    "claims": [
+      {
+        "claim_id": "E103-C1",
+        "statement": "−0.8 V时约6.06 mmol h−1 cm−2与1.3 A cm−2产品分电流相配；0.25 cm2电极的10.27 mmol不能与大面积条件混合。",
+        "units": [
+          7
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E103-C2",
+        "statement": "作者提出水网络、OH循环、逆向H溢流三阶段机制；环戊酮介导情景转向NH2OH。",
+        "units": [
+          29
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E103-C3",
+        "statement": "正文说明氢键统计采用自定义Python脚本，此为数据分析披露，不是全部绘图软件披露。",
+        "units": [
+          60
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "多阶段机制应分配每一阶段的独立证据和可推翻预测。",
+    "limits": [
+      "小电极归一化优势不能自动证明面积放大后保持；Raman水带拟合物种与E096不同，不能强行统一。"
+    ],
+    "writing": "多阶段机制应分配每一阶段的独立证据和可推翻预测。",
+    "figure": "水带拟合保留原始谱和残差；比例与峰位拆轴，彩虹谱改为有序渐变并标实际电位。",
+    "experiment": "同一处理序列中检验水网络→OH→H迁移各阶段，不用一个阻抗下降替代三者。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 97,
+      "observed": "Fig.3多谱联排：SHINERS拟合、比例、Bode、KIE、IR和DEMS；颜色多且有双轴。",
+      "recommended_remake": "水带拟合保留原始谱和残差；比例与峰位拆轴，彩虹谱改为有序渐变并标实际电位。",
+      "recommended_software": "Python（作者氢键统计披露）；Origin/Matplotlib拟合显示与Inkscape组图为建议。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            56
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "Python",
+          "role": "custom data analysis",
+          "units": [
+            60
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13500717/#Fig3"
+    }
+  },
+  {
+    "card_id": "E104",
+    "doc_id": "E104",
+    "title": "Modulating the Nitrate Reduction Pathway on Unconventional Phase Ultrathin Nanoalloys for Selective Ammonia Electrosynthesis.",
+    "doi": "10.1021/jacs.5c07490",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-06-19",
+    "pmcid": "PMC12232309",
+    "sha256": "87f1f8493784231a753efb270bd62fd95f37789c12e8ae8c64186cd4dd8a9ee5",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12232309/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 50,
+    "read_units": [
+      11,
+      43
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "2H/fcc/无定形晶态RhCu；中性Li/Na/K体系；阴阳离子配对控制",
+    "claims": [
+      {
+        "claim_id": "E104-C1",
+        "statement": "Na体系中2H-RhCu在−0.2 V RHE的NH3 FE81.1%，fcc总电流较大但NH3选择性较低。",
+        "units": [
+          11
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E104-C2",
+        "statement": "性能图分别比较晶相、阳离子、ECSA、同位素和定量方法，不能只保留最高FE。",
+        "units": [
+          43
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E104-C3",
+        "statement": "图中的FE(NH3)/(FE(NH3)+FE(NO2−))是限定两产物的比例，并非完整NH3 FE。",
+        "units": [
+          43
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "晶相和界面离子双变量组合能形成设计空间，但两者作用需分别识别。",
+    "limits": [
+      "不同盐影响离子强度/电导，Cdl随离子变化也不一定代表面积改变；不能把比例曲线当全FE。"
+    ],
+    "writing": "晶相和界面离子双变量组合能形成设计空间，但两者作用需分别识别。",
+    "figure": "拆成相效应、离子效应两图；材料与离子编码不复用，比较点附工况表。",
+    "experiment": "以同晶相下离子变化和同离子下晶相变化构成最小可解释比较。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 43,
+      "observed": "3列高密度11子图，材料色和离子色分组；末行长耐久与文献比较。",
+      "recommended_remake": "拆成相效应、离子效应两图；材料与离子编码不复用，比较点附工况表。",
+      "recommended_software": "Origin/Matplotlib进行多条件批量图，Inkscape排版；结构绘图软件正文未核得。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232309/#fig3"
+    }
+  },
+  {
+    "card_id": "E105",
+    "doc_id": "E105",
+    "title": "Ketazine-Linked Covalent Organic Framework for Metal-Free Electrocatalytic Nitrate-to-Ammonia Conversion.",
+    "doi": "10.1002/anie.6570629",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-06-03",
+    "pmcid": "PMC13411222",
+    "sha256": "cc3f34cb3dd5a2d75c0c7afb797a365353d1f21c1d0cf5b0c5c39d04422bf1b2",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13411222/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 46,
+    "read_units": [
+      22,
+      37,
+      44
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "F-Ketazine与n-Ketazine COF；无金属目标；中性0.1 N盐，沿用作者N口径",
+    "claims": [
+      {
+        "claim_id": "E105-C1",
+        "statement": "作者比较裸碳纸和COF负载电极，借此排除基底的主要NO3RR贡献。",
+        "units": [
+          22
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E105-C2",
+        "statement": "F-COF在−0.9 V RHE报告59.9% NH3 FE与1639.9 μmol h−1 mgCOF−1；同时改变结晶和结构。",
+        "units": [
+          37
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E105-C3",
+        "statement": "Fig.3列空白/OCP/基底、循环、15N-NMR和ATR-FTIR，是活性来源核验组合。",
+        "units": [
+          44
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "较低FE也可提出有意义的新催化位点问题，不能把顶刊价值压缩为FE接近100%。",
+    "limits": [
+      "框架含N，需同位素及溶出核验；氟化也改变结晶和形貌，不能把全部差异归于电子效应。"
+    ],
+    "writing": "较低FE也可提出有意义的新催化位点问题，不能把顶刊价值压缩为FE接近100%。",
+    "figure": "对照标签改水平短名称加表，循环显示点而非渐变柱；IR保留blank和真实时间序列。",
+    "experiment": "分开验证金属杂质、框架N损耗、基底背景及结晶差异。",
+    "visual_review": {
+      "figure_id": "anie72918-fig-0003",
+      "figure_label": "FIGURE 3",
+      "caption_unit": 44,
+      "observed": "2×2图：对照柱、循环双轴、同位素谱、随时间IR；空白线保留。",
+      "recommended_remake": "对照标签改水平短名称加表，循环显示点而非渐变柱；IR保留blank和真实时间序列。",
+      "recommended_software": "ChemDraw绘键连，Origin/Matplotlib数据，Inkscape组版。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13411222/#anie72918-fig-0003"
+    }
+  },
+  {
+    "card_id": "E106",
+    "doc_id": "E106",
+    "title": "Atomically Dispersed Cobalt on Ionic Carbon Nitrides for Selective and Efficient Nitrate Electroreduction to Ammonia.",
+    "doi": "10.1002/anie.2543286",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-03-09",
+    "pmcid": "PMC13080417",
+    "sha256": "9479bb00084e7e6e18ed015f23a831a70947742df8d2422352782f05073024ee",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13080417/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 24,
+    "read_units": [
+      10,
+      12,
+      18,
+      23
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "CoPHI离子碳氮化物；0.1 M KOH + 1 M KNO3；单原子Co",
+    "claims": [
+      {
+        "claim_id": "E106-C1",
+        "statement": "Co K-edge中观察Co–N峰且未见Co–Co特征，被作者用于支持高分散Co配位。",
+        "units": [
+          10
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E106-C2",
+        "statement": "作者报告−0.8 V RHE下46.1 mg h−1 mgcat−1和93.5% NH3 FE。",
+        "units": [
+          18
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E106-C3",
+        "statement": "性能图明确含无底物曲线、同位素NMR和六次循环；循环数不是连续寿命小时数。",
+        "units": [
+          12
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "支持体同时影响电荷传输和配位，需要避免把两个贡献当一个。",
+    "limits": [
+      "低配位EXAFS拟合存在模型依赖；正文比较中mgcat与mgCo分母不同，需统一后再排名。"
+    ],
+    "writing": "支持体同时影响电荷传输和配位，需要避免把两个贡献当一个。",
+    "figure": "文献散点附质量分母和工况，否则不画统一排名；6次循环写实际每次时长。",
+    "experiment": "同Co质量和同催化剂质量分别给出活性，保留空白支持体。",
+    "visual_review": {
+      "figure_id": "anie71737-fig-0003",
+      "figure_label": "FIGURE 3",
+      "caption_unit": 23,
+      "observed": "2行3小图加底部宽散点榜单；对照双色，图例较密。",
+      "recommended_remake": "文献散点附质量分母和工况，否则不画统一排名；6次循环写实际每次时长。",
+      "recommended_software": "Athena/Artemis分析配位，Origin/Matplotlib绘制，Inkscape组版（复现建议）。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13080417/#anie71737-fig-0003"
+    }
+  },
+  {
+    "card_id": "E107",
+    "doc_id": "E107",
+    "title": "In-situ electrochemical reconstruction and modulation of adsorbed hydrogen coverage in cobalt/ruthenium-based catalyst boost electroreduction of nitrate to ammonia.",
+    "doi": "10.1038/s41467-024-52780-x",
+    "journal": "Nature communications",
+    "date": "2024-10-03",
+    "pmcid": "PMC11450097",
+    "sha256": "3459dc6b7b2c209cf0f6e6998fdb242352e9a0827c1cbeabcaad64af87eb00a5",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11450097/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 64,
+    "read_units": [
+      11,
+      28,
+      62
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Co–B/Ru12，12为ICP原子比例；0.1 M NaOH与NO3−浓度系列",
+    "claims": [
+      {
+        "claim_id": "E107-C1",
+        "statement": "Fig.2的耐久实验每2 h换液，半电池能效与整装置能效不混同。",
+        "units": [
+          11
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E107-C2",
+        "statement": "作者用单实体电化学和同位置TEM追踪活化，将增加可接近位点与Co浸出重构联系。",
+        "units": [
+          28
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E107-C3",
+        "statement": "Fig.3同时比较HER/NO3RR、KIE、H电荷与Cdl归一化，重点是适量H而不是最大H。",
+        "units": [
+          62
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "同一颗粒/同一位置前后追踪提升结构变化解释力。",
+    "limits": [
+      "H电荷与覆盖密度需要积分/面积假设；性能提升可能含面积增加，不等于本征位点加速。"
+    ],
+    "writing": "同一颗粒/同一位置前后追踪提升结构变化解释力。",
+    "figure": "保留HER/NO3RR对照，去装饰网格与渐变，H电荷给积分边界和背景扣除。",
+    "experiment": "记录活化前后同位置结构、溶出和产品分电流，避免只比较首末LSV。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 62,
+      "observed": "Fig.3含横柱、KIE、多组时间线，重网格、渐变柱和球状点装饰较多。",
+      "recommended_remake": "保留HER/NO3RR对照，去装饰网格与渐变，H电荷给积分边界和背景扣除。",
+      "recommended_software": "Origin/Matplotlib曲线与积分，Fiji同位置图像配准，Inkscape组版。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450097/#Fig3"
+    }
+  },
+  {
+    "card_id": "E108",
+    "doc_id": "E108",
+    "title": "Fast Seawater Desalination Driven by Efficient Nitrate Reduction via Bimetallic Iron/Zinc Polyphthalocyanine Frameworks.",
+    "doi": "10.1002/anie.202506712",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2025-06-30",
+    "pmcid": "PMC12455387",
+    "sha256": "c690ead64909f10178fb226482a0bc1457f8af597e9243a9cf3ce2156e964999",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12455387/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 47,
+    "read_units": [
+      13,
+      14,
+      15,
+      45
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Fe/Zn聚酞菁，Fe8Zn1PPc；1 M NaOH + 0.5 M NaNO3；脱盐装置另列",
+    "claims": [
+      {
+        "claim_id": "E108-C1",
+        "statement": "通过Fe/Zn比例系列及单金属参照比较，电极负载记为0.8 mg cm−2。",
+        "units": [
+          13
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E108-C2",
+        "statement": "−0.85 V RHE报告99.02% FE和2.68 mmol h−1 cm−2；文中质量归一化值需核负载口径。",
+        "units": [
+          15
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E108-C3",
+        "statement": "主性能图将15N时间谱、宽电位FE、120 h测试与不同电解液分列。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把电催化与脱盐耦合时，清楚区分材料贡献和系统贡献。",
+    "limits": [
+      "2.68 mmol/cm2/h除以0.8 mg/cm2应约3.35 mmol/mg/h，而正文另报1.68，需核有效面积/总质量；不自动改值。"
+    ],
+    "writing": "把电催化与脱盐耦合时，清楚区分材料贡献和系统贡献。",
+    "figure": "性能图用平面白底；脱盐另做物料/能量流图，所有分母写清。",
+    "experiment": "核对实际负载质量和几何面积，系统端分别测盐去除、NH3回收和外部电耗。",
+    "visual_review": {
+      "figure_id": "anie202506712-fig-0003",
+      "figure_label": "Figure 3",
+      "caption_unit": 45,
+      "observed": "3列组合、底部长耐久，阳极/脱盐结果不挤在同一性能图；有渐变背景。",
+      "recommended_remake": "性能图用平面白底；脱盐另做物料/能量流图，所有分母写清。",
+      "recommended_software": "ChemDraw表示框架连接，Origin/Matplotlib绘制，Inkscape组图。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12455387/#anie202506712-fig-0003"
+    }
+  },
+  {
+    "card_id": "E109",
+    "doc_id": "E109",
+    "title": "Tiara Ni Clusters for Electrocatalytic Nitrate Reduction to Ammonia with 97% Faradaic Efficiency.",
+    "doi": "10.1021/jacs.5c04950",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-06-20",
+    "pmcid": "PMC12232310",
+    "sha256": "0f5958206bc70f603a5df643f6bc74fa4d4dc3932d9215ff5614aff1fefef181",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12232310/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 38,
+    "read_units": [
+      8,
+      27,
+      35
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Ni6(SC2H4COOH)12@CuFe-LDH；1 M KOH + 0.1 M NO3−",
+    "claims": [
+      {
+        "claim_id": "E109-C1",
+        "statement": "Ni6修饰使NH3 FE从约73%升到约97%，而0.91 mmol mg−1 h−1产率与原CuFe-LDH接近。",
+        "units": [
+          27
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E109-C2",
+        "statement": "LSV作90% iR补偿和1600 rpm搅拌；恒电位产物测试为1 h，不能把二者电流直接拼接。",
+        "units": [
+          8
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E109-C3",
+        "statement": "作者用NO2RR、原位谱和计算解释深度氢化及RDS改变。",
+        "units": [
+          27
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "选择性提高但产率近似，是电荷分配改变的清楚论点，不能硬写“全面加速”。",
+    "limits": [
+      "计算RDS与实验速率控制需分开；不同基准分母的文献点不能混画。"
+    ],
+    "writing": "选择性提高但产率近似，是电荷分配改变的清楚论点，不能硬写“全面加速”。",
+    "figure": "把“产率近似、FE提高”并排放大；示意用矢量元件，不必把通用H-cell放为最大视觉。",
+    "experiment": "优先核对产品与电荷闭合，检验HER或NO2−分流是否降低。",
+    "visual_review": {
+      "figure_id": "fig2",
+      "figure_label": "2",
+      "caption_unit": 35,
+      "observed": "Fig.2上方H-cell示意，随后产率/FE、空白、NMR，下方宽耐久；双色和淡填色。",
+      "recommended_remake": "把“产率近似、FE提高”并排放大；示意用矢量元件，不必把通用H-cell放为最大视觉。",
+      "recommended_software": "Origin/Matplotlib数据，ChemDraw簇的键连，Inkscape装置示意。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232310/#fig2"
+    }
+  },
+  {
+    "card_id": "E110",
+    "doc_id": "E110",
+    "title": "Reaction-driven formation of anisotropic strains in FeTeSe nanosheets boosts low-concentration nitrate reduction to ammonia.",
+    "doi": "10.1038/s41467-025-58940-x",
+    "journal": "Nature communications",
+    "date": "2025-04-16",
+    "pmcid": "PMC12000605",
+    "sha256": "80e5302122d952f9afa41c6211f996d64d717cbe34629dc8b6d0d88b8ae771f4",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12000605/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 54,
+    "read_units": [
+      16,
+      25,
+      41,
+      44,
+      52
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "FeTeSe纳米片；1 M KOH + 10 mM KNO3；反应驱动Se/Te部分浸出",
+    "claims": [
+      {
+        "claim_id": "E110-C1",
+        "statement": "−0.55 V RHE报告98.7±2.2% FE和21.16±1.49 mg h−1 mgcat−1；摘要最大产率来自其他电位。",
+        "units": [
+          16
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E110-C2",
+        "statement": "作者把阴离子浸出、O(H)掺入和各向异性应变联系，使用operando与反应后测量互证。",
+        "units": [
+          25
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E110-C3",
+        "statement": "Fig.3有OCP/加底物/反应时间序列，XAS、差分散射和结构示意分层。",
+        "units": [
+          52
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把被视为不稳定的浸出重新定义为受控活化，并给动态证据。",
+    "limits": [
+      "存在浸出不等于长期环境稳定；表面OH与应变共同改变，需避免单因解释。"
+    ],
+    "writing": "把被视为不稳定的浸出重新定义为受控活化，并给动态证据。",
+    "figure": "统一时间色序；差分曲线明确差分方向和缩放，OCP对照必须保留。",
+    "experiment": "测溶出质量与电极剩余量，并在匹配活化状态下对比产品。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 52,
+      "observed": "主谱加局部放大、共享时间热图、宽差分曲线、底部重构示意；颜色沿条件序列变化。",
+      "recommended_remake": "统一时间色序；差分曲线明确差分方向和缩放，OCP对照必须保留。",
+      "recommended_software": "Athena（披露）处理XAS；Origin/Matplotlib差谱，VESTA等结构，Inkscape组图。",
+      "software_disclosure": [
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            41
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            44
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12000605/#Fig3"
+    }
+  },
+  {
+    "card_id": "E111",
+    "doc_id": "E111",
+    "title": "Gradient-concentration RuCo electrocatalyst for efficient and stable electroreduction of nitrate into ammonia.",
+    "doi": "10.1038/s41467-024-50670-w",
+    "journal": "Nature communications",
+    "date": "2024-07-25",
+    "pmcid": "PMC11272931",
+    "sha256": "0bbfb4a69ded29d51ab489ec1661280824d4fa799f026873d7f53077b1b9224b",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11272931/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 60,
+    "read_units": [
+      6,
+      11,
+      29,
+      44,
+      57
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "梯度G-RuCo与非梯度NG-RuCo；1 M KOH + 2000 ppm NO3−；50% iR性能",
+    "claims": [
+      {
+        "claim_id": "E111-C1",
+        "statement": "深度XPS和入射角GIXRD共同支持Ru梯度，区别于仅做整体元素映射。",
+        "units": [
+          6
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E111-C2",
+        "statement": "720 h测试在−300 mA cm−2；另一1000 mA cm−2测试为381 h，不能写成1 A运行720 h。",
+        "units": [
+          11
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E111-C3",
+        "statement": "Fig.3用黑箭头明确标出长时间测试中的电解液更新。",
+        "units": [
+          57
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "把空间组分分布与应变/稳定性联系，给可量化的结构变量。",
+    "limits": [
+      "ppm NO3−不等于ppm N；更新电解液是运行条件的一部分。"
+    ],
+    "writing": "把空间组分分布与应变/稳定性联系，给可量化的结构变量。",
+    "figure": "保留维护箭头与FE时点；将电流档位和持续时间写进图内短注。",
+    "experiment": "在相同总Ru含量下比较梯度与非梯度，并跟踪溶出和深度结构。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 57,
+      "observed": "上排FE/电流/速率，下排转化和长时间曲线；宽耐久中换液箭头醒目。",
+      "recommended_remake": "保留维护箭头与FE时点；将电流档位和持续时间写进图内短注。",
+      "recommended_software": "Origin/Matplotlib及Inkscape；深度XPS分析应保留刻蚀条件。",
+      "software_disclosure": [
+        {
+          "name": "Athena/Artemis/Demeter",
+          "role": "XAS data processing",
+          "units": [
+            29
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        },
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            44
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272931/#Fig3"
+    }
+  },
+  {
+    "card_id": "E112",
+    "doc_id": "E112",
+    "title": "Lattice hydrogen transfer in titanium hydride enhances electrocatalytic nitrate to ammonia conversion.",
+    "doi": "10.1038/s41467-024-53833-x",
+    "journal": "Nature communications",
+    "date": "2024-11-03",
+    "pmcid": "PMC11532501",
+    "sha256": "7463146f1232f03a2872684d1ae8cc405ea205f21439fdc64c0b7495a17d898c",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11532501/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 38,
+    "read_units": [
+      11,
+      21,
+      36
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Ti纤维纸电化学氢化成TiH1.97/Ti；1 M KOH + 0.1 M KNO3",
+    "claims": [
+      {
+        "claim_id": "E112-C1",
+        "statement": "−0.7 V RHE下报告1.05 A cm−2、83.64 mg NH3 h−1 cm−2和99.11% FE。",
+        "units": [
+          11
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E112-C2",
+        "statement": "作者提出晶格H与活性H之间可逆平衡促进NO3RR，不应把晶格H库画成不需再生的无限源。",
+        "units": [
+          21
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E112-C3",
+        "statement": "Fig.3耐久每3 h更换电解液，产率和FE按小时计算。",
+        "units": [
+          36
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "固体储氢—表面氢的交换作为机制变量，需与直接水供氢区分。",
+    "limits": [
+      "所报速率/电流按8e−大致相近，但仍需同一积分窗口核验；误差说明中RSD与SD措辞需核。"
+    ],
+    "writing": "固体储氢—表面氢的交换作为机制变量，需与直接水供氢区分。",
+    "figure": "将耐久分为共享时间的电流、FE、产率三轨；不使用三纵轴。",
+    "experiment": "利用氘标记或预充氢/再生干预验证晶格H参与，区分一次性消耗与循环。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 36,
+      "observed": "上排性能，下方宽耐久含更新箭头，底排氮平衡和榜单；耐久三纵轴较拥挤。",
+      "recommended_remake": "将耐久分为共享时间的电流、FE、产率三轨；不使用三纵轴。",
+      "recommended_software": "Origin/Matplotlib共享时间子图，Inkscape概念循环；晶体模型用VESTA。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11532501/#Fig3"
+    }
+  },
+  {
+    "card_id": "E113",
+    "doc_id": "E113",
+    "title": "Maximized atom utilization in a high-entropy metallene via single atom alloying for boosted nitrate electroreduction to ammonia.",
+    "doi": "10.1038/s41467-025-63317-1",
+    "journal": "Nature communications",
+    "date": "2025-08-25",
+    "pmcid": "PMC12378968",
+    "sha256": "6f701778c1b7cabb797ec7f4d1444362a671dadc3868ae51569579a1380d9245",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12378968/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 56,
+    "read_units": [
+      12,
+      14,
+      44,
+      54
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "PdCuNiCoZn高熵metallene；0.1 M KNO3，中性/强碱分别报告",
+    "claims": [
+      {
+        "claim_id": "E113-C1",
+        "statement": "中性条件最大产率在−1.2 V，而最高FE95.4%在−0.6 V；二者不能配成一个点。",
+        "units": [
+          12
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E113-C2",
+        "statement": "15N与比色法交叉核验产品来源；中性−0.9 V循环50 h后FE仍高于85%。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E113-C3",
+        "statement": "Fig.3区分中性与碱性两组性能，误差来自三份独立制备样品。",
+        "units": [
+          54
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "高原子利用率需由厚度、组成系列及统一质量口径支撑，不是五元素名称本身。",
+    "limits": [
+      "加入更多元素也改变组成/结构；447 mg h−1 mg−1峰值与99% FE不默认同电位。"
+    ],
+    "writing": "高原子利用率需由厚度、组成系列及统一质量口径支撑，不是五元素名称本身。",
+    "figure": "用区块标题标pH；去渐变，保留独立样品点；记录质量归一化负载。",
+    "experiment": "用相近厚度和负载的元素删减系列检验哪些元素真正改变选择性。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 54,
+      "observed": "3列框架，中性和碱性分块，NMR和宽循环结尾；多渐变柱。",
+      "recommended_remake": "用区块标题标pH；去渐变，保留独立样品点；记录质量归一化负载。",
+      "recommended_software": "Origin/Matplotlib，Fiji形貌尺度，Inkscape组版。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            44
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12378968/#Fig3"
+    }
+  },
+  {
+    "card_id": "E114",
+    "doc_id": "E114",
+    "title": "Dynamic Reconstruction and Microenvironment Modulation of a Pd-Doped CuS Electrocatalyst for Nearly Unity-Efficiency Ammonia Electrosynthesis from Nitrate.",
+    "doi": "10.1021/jacs.5c16232",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-11-06",
+    "pmcid": "PMC12817242",
+    "sha256": "5a41e8f6ccb649b769f9cacd7d754e3254e7bbee77ae25d6ee03993008a9c159",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12817242/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 26,
+    "read_units": [
+      7,
+      21,
+      24
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Pd1/CuS预催化剂→金属Cu工作态；1 M KOH + 0.5 M KNO3",
+    "claims": [
+      {
+        "claim_id": "E114-C1",
+        "statement": "激活后Pd1/CuS在−0.5 V RHE实现接近100% NH3 FE，未掺杂对照低于63%。",
+        "units": [
+          7
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E114-C2",
+        "statement": "作者报告CuS动态转成金属相且Pd保持孤立，并讨论阳离子部分去溶剂化与氢键网络。",
+        "units": [
+          21
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E114-C3",
+        "statement": "Fig.3把时间Raman、Bode、反应后XPS及HAADF-STEM并列，显示工作态证据。",
+        "units": [
+          24
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "前驱体名称与真实工作态分开，才可把分子/界面调节放在正确表面上解释。",
+    "limits": [
+      "Raman热图亮度没有单独的反应速率含义；ΔG增加不能自动写动力学势垒升高。"
+    ],
+    "writing": "前驱体名称与真实工作态分开，才可把分子/界面调节放在正确表面上解释。",
+    "figure": "用统一热图尺度和定量色标；拟合加残差，Cu0/Cu+需Auger/XAS而非2p单独确认。",
+    "experiment": "原位跟踪硫损失、Pd状态和产品，与启动活化过程对齐。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 24,
+      "observed": "上排成对Raman热图及Bode，下排XPS、mapping、原子图；XPS显示raw与fit。",
+      "recommended_remake": "用统一热图尺度和定量色标；拟合加残差，Cu0/Cu+需Auger/XAS而非2p单独确认。",
+      "recommended_software": "Origin/Matplotlib热图，Fiji图像，XPS拟合软件，Inkscape排版。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12817242/#fig3"
+    }
+  },
+  {
+    "card_id": "E115",
+    "doc_id": "E115",
+    "title": "Well-Defined Cu Precatalysts Indicate Design Rules for Reactivity in Nitrate Electroreduction.",
+    "doi": "10.1021/jacs.5c09246",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-09-22",
+    "pmcid": "PMC12498389",
+    "sha256": "95cba843dbc15fd4f25380f3dd7ca62059f3f2daad4a88cfc77988d20de5e41f",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12498389/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 48,
+    "read_units": [
+      13,
+      34,
+      37,
+      45
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Cu形状/尺寸/氧化程度前驱体系列；0.1 M NaOH + 10 mM NaNO3",
+    "claims": [
+      {
+        "claim_id": "E115-C1",
+        "statement": "性能对比误差来自三支新制电极，NH3分电流同时报告几何与ECSA口径。",
+        "units": [
+          13
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E115-C2",
+        "statement": "作者强调工作态{111}/{100}比例和空间邻接共同影响反应，10 nm Cu球为优选。",
+        "units": [
+          34
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E115-C3",
+        "statement": "Fig.3中晶面比例误差由同样品0°、+25°、−25°倾转分析所得，并非三次独立合成。",
+        "units": [
+          45
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "明确定义前驱体—重构—工作态，避免由初始晶面直接跳到性能归因。",
+    "limits": [
+      "与E054单晶Cu(100)证据的条件与界面不同；不能宣布某晶面普遍最佳。"
+    ],
+    "writing": "明确定义前驱体—重构—工作态，避免由初始晶面直接跳到性能归因。",
+    "figure": "样品列顺序贯穿全稿；不同层级误差在图注分开，保留倾转方案。",
+    "experiment": "至少比较前后工作态及相同负载，确认几何和本征贡献是否一致。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 45,
+      "observed": "四列样品矩阵，TEM与ED逐列对应，底部取向图、积分谱和前后柱图。",
+      "recommended_remake": "样品列顺序贯穿全稿；不同层级误差在图注分开，保留倾转方案。",
+      "recommended_software": "Fiji/衍射分析工具处理原图；Origin/Matplotlib统计，Inkscape矩阵。",
+      "software_disclosure": [
+        {
+          "name": "Python",
+          "role": "custom data analysis",
+          "units": [
+            37
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12498389/#fig3"
+    }
+  },
+  {
+    "card_id": "E116",
+    "doc_id": "E116",
+    "title": "Revealing and modulating catalyst reconstruction for highly efficient electrosynthesis of ammonia.",
+    "doi": "10.1038/s41467-025-61075-8",
+    "journal": "Nature communications",
+    "date": "2025-07-04",
+    "pmcid": "PMC12227543",
+    "sha256": "6e90ce3d08ee9dc2668ad682fb68d0e97655851edfe9f6f12f5d0ce9533395f6",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12227543/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 91,
+    "read_units": [
+      5,
+      9,
+      55,
+      88
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Co6Ni4交错金属域异质结构；1 M KOH + 0.3 M KNO3",
+    "claims": [
+      {
+        "claim_id": "E116-C1",
+        "statement": "−0.476 V RHE报告99.21% FE和93.55 mg h−1 cm−2；1 A cm−2来自另一电位−0.276 V。",
+        "units": [
+          9
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E116-C2",
+        "statement": "亚微米元素图近似均匀，而纳米尺度线扫显示不均匀，支持相邻Co/Ni域而非均匀合金。",
+        "units": [
+          5
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E116-C3",
+        "statement": "Fig.3将Co、Co6Ni4的Raman与operando XANES、导电性和底物吸附串联。",
+        "units": [
+          88
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "用电子供给与NO3−吸附不匹配解释重构，比“Ni给电子所以更好”的静态句子更可检验。",
+    "limits": [
+      "半电池EE假设OER过电位为零；不可作为实测整槽能效。"
+    ],
+    "writing": "用电子供给与NO3−吸附不匹配解释重构，比“Ni给电子所以更好”的静态句子更可检验。",
+    "figure": "热图保持同一标尺；断轴明确或改上下小图；把导电/吸附写为相关证据而非单独证明。",
+    "experiment": "控制Co/Ni比例与总面积，测试供电/吸附平衡是否随底物浓度改变。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 88,
+      "observed": "3×3矩阵，成对Raman、XANES边移、导电与吸附；边移图断轴。",
+      "recommended_remake": "热图保持同一标尺；断轴明确或改上下小图；把导电/吸附写为相关证据而非单独证明。",
+      "recommended_software": "Origin/Matplotlib及Athena类XAS分析；Inkscape组版。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            55
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12227543/#Fig3"
+    }
+  },
+  {
+    "card_id": "E117",
+    "doc_id": "E117",
+    "title": "Cascade Electrocatalytic Reduction of Nitrate to Ammonia Using Bimetallic Covalent Organic Frameworks with Tandem Active Sites.",
+    "doi": "10.1002/anie.202507956",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2025-06-18",
+    "pmcid": "PMC12322651",
+    "sha256": "a6f8f479c4b941db2ce8bd09730dbb88e1818818429eb6ba12a705f6a134d839",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12322651/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 48,
+    "read_units": [
+      7,
+      31,
+      46
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "TTA-TPH-CuCo COF；0.5 M K2SO4，NO3−0.1/0.3/0.5 M",
+    "claims": [
+      {
+        "claim_id": "E117-C1",
+        "statement": "作者将Cu的初始2e−转化与Co相关界面的后续6e−氢化配合，报告0.3 M中20.8 mg h−1 cm−2和92.16% FE。",
+        "units": [
+          31
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E117-C2",
+        "statement": "Fig.3包含金属比例、底物浓度、电位和50次循环，误差为三次测量SD，未在该句确立独立合成。",
+        "units": [
+          46
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E117-C3",
+        "statement": "结构图和显微未观察到金属团簇支持高度分散，但单凭未见团簇不唯一确定配位。",
+        "units": [
+          7
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "串联位点需要功能分工证据和匹配比例，而非只写“双金属协同”。",
+    "limits": [
+      "循环次数不是连续小时；CuCo-COF的位点分工不能直接迁移到普通CuNi合金。"
+    ],
+    "writing": "串联位点需要功能分工证据和匹配比例，而非只写“双金属协同”。",
+    "figure": "Cu/Co比例图显示实际组成而不只前驱体投料；曲线编码和浓度编码分离。",
+    "experiment": "比较单金属、双金属和必要的物理混合基准，检验顺序中间体能否解释产物分流。",
+    "visual_review": {
+      "figure_id": "anie202507956-fig-0003",
+      "figure_label": "Figure 3",
+      "caption_unit": 46,
+      "observed": "3列性能图，等间距浓度分组，底部宽50循环，NMR与榜单并列。",
+      "recommended_remake": "Cu/Co比例图显示实际组成而不只前驱体投料；曲线编码和浓度编码分离。",
+      "recommended_software": "ChemDraw画框架键连，Origin/Matplotlib数据，Inkscape组图。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322651/#anie202507956-fig-0003"
+    }
+  },
+  {
+    "card_id": "E118",
+    "doc_id": "E118",
+    "title": "Mechanical and Covalent Tailoring of Copper Catenanes for Selective Aqueous Nitrate-to-Ammonia Electrocatalysis.",
+    "doi": "10.1021/jacs.4c18547",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-04-22",
+    "pmcid": "PMC12046556",
+    "sha256": "a033f06cf640a68f68ca1c3b4185f0c305dca6b8dd8c8157b32440202fd532bb",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12046556/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 51,
+    "read_units": [
+      7,
+      17,
+      21,
+      48
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Cu(I)机械互锁catenane；pH7、5×PBS；电荷/环尺寸系列",
+    "claims": [
+      {
+        "claim_id": "E118-C1",
+        "statement": "机械互锁被用于维持带多个正电基团的Cu(I)配位完整性，避免非互锁体系的动态混合物。",
+        "units": [
+          7
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E118-C2",
+        "statement": "正电catenane NH3 FE达到86%，负电对照较差，环尺寸也影响选择性。",
+        "units": [
+          21
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E118-C3",
+        "statement": "氘代后正电/中性体系NO2−占比升高，提示后续质子/氘转移影响深度转化。",
+        "units": [
+          17
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "局部电荷与机械约束共同控制稳定性和反应；给分子微环境设计更具体的结构变量。",
+    "limits": [
+      "正电基团数变化也改变电荷/完整性；不能把静电富集当唯一原因。"
+    ],
+    "writing": "局部电荷与机械约束共同控制稳定性和反应；给分子微环境设计更具体的结构变量。",
+    "figure": "ChemDraw保持真实连接和互锁关系；FE与产物选择性分开并标分母，浅色加边框/符号。",
+    "experiment": "用可比较电荷、环尺寸和稳定性数据判断哪种结构改变最有解释力。",
+    "visual_review": {
+      "figure_id": "fig6",
+      "figure_label": "Figure 6",
+      "caption_unit": 48,
+      "observed": "Fig.6上方分子结构和曲线，下方FE/TOF/产率/选择性四图，淡色统一样品。",
+      "recommended_remake": "ChemDraw保持真实连接和互锁关系；FE与产物选择性分开并标分母，浅色加边框/符号。",
+      "recommended_software": "ChemDraw分子图，Origin/Matplotlib数据，Inkscape布局；作者绘图软件未披露。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12046556/#fig6"
+    }
+  },
+  {
+    "card_id": "E119",
+    "doc_id": "E119",
+    "title": "Modulating Ru-Co bond lengths in Ru1Co single-atom alloys through crystal phase engineering for electrocatalytic nitrate-to-ammonia conversion.",
+    "doi": "10.1038/s41467-025-61232-z",
+    "journal": "Nature communications",
+    "date": "2025-07-01",
+    "pmcid": "PMC12214835",
+    "sha256": "47a30929f4cf55c0a94a67d6b43bb1ae101d72ea0b4dacfe89565d5c7ac8c35b",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12214835/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 118,
+    "read_units": [
+      6,
+      18,
+      115
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "Ru1Co hcp/fcc/hcp-fcc，Co/Ru约99.25/0.75；ppm NO3−-N口径",
+    "claims": [
+      {
+        "claim_id": "E119-C1",
+        "statement": "三种晶相保持近似Co/Ru组成，减少把组成差异误判为晶相效应。",
+        "units": [
+          6
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E119-C2",
+        "statement": "最大产率1.33 mg h−1 cm−2在−0.1 V，最大FE96.78%在0 V；1400 ppm NO3−-N为另一浓度。",
+        "units": [
+          18
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E119-C3",
+        "statement": "Fig.3将原子像、FFT、模拟衍射及强度剖面逐项对应；3D图为图像强度。",
+        "units": [
+          115
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "固定组成后比较相结构与键长，形成更清楚的结构变量。",
+    "limits": [
+      "图像亮点/3D峰高不是实测表面高度，也不能单独确认原子身份；需模型及多探测互证。"
+    ],
+    "writing": "固定组成后比较相结构与键长，形成更清楚的结构变量。",
+    "figure": "用同色ROI连接原图/线扫，3D强度图标intensity而非height；FFT量纲写清倒空间。",
+    "experiment": "控制组成、粒径、Ru分散及晶相，检验键长相关性是否超出这些共变量。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 115,
+      "observed": "上下两大行对照fcc与混相，彩框标ROI，FFT和强度线扫相邻。",
+      "recommended_remake": "用同色ROI连接原图/线扫，3D强度图标intensity而非height；FFT量纲写清倒空间。",
+      "recommended_software": "Fiji校准/线扫，VESTA晶体模型、衍射模拟工具，Matplotlib曲线，Inkscape组版。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12214835/#Fig3"
+    }
+  },
+  {
+    "card_id": "E120",
+    "doc_id": "E120",
+    "title": "Unlocking a Water Coordination Environment in Co-Based Metal-Organic Frameworks for Advanced Nitrate-to-Ammonia Electroreduction.",
+    "doi": "10.1021/jacs.5c07066",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-08-06",
+    "pmcid": "PMC12755198",
+    "sha256": "e06aaaaf692b45ecf634368b2406d4a66982ff0f2dd278939acb770c3e9427c4",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12755198/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 36,
+    "read_units": [
+      26,
+      34
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "HUST-38与HUST-39 Co-MOF；0.5 M K2SO4 + 0.1 M NO3−；0.15 mg cm−2",
+    "claims": [
+      {
+        "claim_id": "E120-C1",
+        "statement": "HUST-38报告−0.6 V RHE下95.7% FE、13.38 mg h−1 mgcat−1及96 h稳定性。",
+        "units": [
+          26
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E120-C2",
+        "statement": "HUST-38为3D水配位网络，而HUST-39为2D且配体不同，所以对照同时改变多项结构。",
+        "units": [
+          26
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E120-C3",
+        "statement": "Fig.3把t-BuOH扰动、DMPO-EPR、H/D及计算自由能配合使用，不能由一个探针确定H来源。",
+        "units": [
+          34
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "提出可交换配位水影响局部供氢的问题，但须正视对照结构不完全等同。",
+    "limits": [
+      "t-BuOH会改变界面/溶剂；DMPO信号与KIE并不唯一证明同一H通路。"
+    ],
+    "writing": "提出可交换配位水影响局部供氢的问题，但须正视对照结构不完全等同。",
+    "figure": "把大框结构图简化成共同视角，明确ΔG而非activation barrier；实验条件在两列对齐。",
+    "experiment": "优先设计水配位可逆干预并检查骨架保持，以减少3D/2D和配体差异混杂。",
+    "visual_review": {
+      "figure_id": "fig3",
+      "figure_label": "3",
+      "caption_unit": 34,
+      "observed": "2×3机制图配底部宽结构/能量示意，左右成对展示两种MOF与有无NO3−。",
+      "recommended_remake": "把大框结构图简化成共同视角，明确ΔG而非activation barrier；实验条件在两列对齐。",
+      "recommended_software": "ChemDraw/晶体软件显示配位，Origin/Matplotlib谱图，Inkscape组图。",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12755198/#fig3"
+    }
+  },
+  {
+    "card_id": "E121",
+    "doc_id": "E121",
+    "title": "Selective electrosynthesis of hydroxylamine from aqueous nitrate/nitrite by suppressing further reduction.",
+    "doi": "10.1038/s41467-024-54204-2",
+    "journal": "Nature communications",
+    "date": "2024-11-12",
+    "pmcid": "PMC11557954",
+    "sha256": "adf0754d2be88525991971408736e00f827dca5053b323be86dfdb58bc8b0ee6",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11557954/fullTextXML",
+    "schema_version": 2,
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 49,
+    "read_units": [
+      13,
+      14,
+      17,
+      36,
+      46
+    ],
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "document_kind": "primary_research",
+    "identity_status": "JATS article DOI matched canonical DOI; XML SHA256 checked",
+    "conditions": "ZnPc/CNT；NH2OH目标；1 M KOH + 1 M KNO3；NO2RR-肟另列",
+    "claims": [
+      {
+        "claim_id": "E121-C1",
+        "statement": "增加ZnPc覆盖度使NH2OH FE升高、NH3降低，但过量负载又出现性能下降。",
+        "units": [
+          13
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E121-C2",
+        "statement": "最高NH2OH FE53±1.7%在−0.80 V；最大277±7 mA cm−2分电流在−0.85 V。",
+        "units": [
+          14
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      },
+      {
+        "claim_id": "E121-C3",
+        "statement": "ATR-FTIR中向下带是NO3−消耗、向上带是NH2OH形成；不能抹掉负峰或按Raman归属迁移。",
+        "units": [
+          17
+        ],
+        "type": "agent_summary_of_author_text_with_explicit_audit_where_stated"
+      }
+    ],
+    "mechanism": "支持体本身可催化副反应，覆盖支持体也是选择性设计变量。",
+    "limits": [
+      "NO3RR与NO2RR成肟的64% FE须分开；目标是停在NH2OH，不是证明更高NH3。"
+    ],
+    "writing": "支持体本身可催化副反应，覆盖支持体也是选择性设计变量。",
+    "figure": "保留所有产物和未闭合电荷；示意箭头只表路径，除非有通量标定不要按宽度量化。",
+    "experiment": "空白CNT、负载梯度与NH2OH进一步还原测试可区分覆盖和本征位点作用。",
+    "visual_review": {
+      "figure_id": "Fig3",
+      "figure_label": "Fig. 3",
+      "caption_unit": 46,
+      "observed": "Fig.3中覆盖示意与性能并列，堆叠FE显示产物分配；色盲友好程度仍需冗余符号。",
+      "recommended_remake": "保留所有产物和未闭合电荷；示意箭头只表路径，除非有通量标定不要按宽度量化。",
+      "recommended_software": "ChemDraw绘ZnPc，Inkscape路径/覆盖示意，Origin/Matplotlib产品分配图。",
+      "software_disclosure": [
+        {
+          "name": "VASP",
+          "role": "electronic structure calculation",
+          "units": [
+            36
+          ],
+          "scope": "main-text software search; SI not reviewed; not a claim about all plotting tools"
+        }
+      ],
+      "other_plotting_software": "Not established in reviewed main-text passages; SI unreviewed. Do not infer from visual appearance.",
+      "status": "selected original figure visually inspected; not all figures reviewed",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11557954/#Fig3"
+    }
   }
 ]

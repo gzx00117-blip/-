@@ -1,0 +1,602 @@
+[
+  {
+    "card_id": "E092",
+    "doi": "10.1038/s41467-026-76420-8",
+    "source_sha256": "683c73c759d8cfb3b74c497549ca89c7191c8a10a259383df782a708f6908e6a",
+    "reviewed_claim_units": [
+      [
+        15
+      ],
+      [
+        30
+      ],
+      [
+        63
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "3185d4bf0871d2abd902ab0b90918e211dcdf93afd179c88795395e03cecf7b6",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E093",
+    "doi": "10.1021/jacs.6c00705",
+    "source_sha256": "3b5f1faae17324c53f52b7a4cee01626af2c84658c7d4b4a2a9843155b35e8e5",
+    "reviewed_claim_units": [
+      [
+        14
+      ],
+      [
+        6
+      ],
+      [
+        41
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "2c2b8f640407eb985c67f87823768c685a8ff75506e4dbb08edeac50885649de",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E094",
+    "doi": "10.1038/s41467-026-69335-x",
+    "source_sha256": "31c2dd0ca29f85e606d9ce9a94f5cde676e12c2a004bb5b11c0ed43fb7252e3b",
+    "reviewed_claim_units": [
+      [
+        22
+      ],
+      [
+        34
+      ],
+      [
+        75
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "cc294f8c25cd80f522f508750f30712b65ed19cf8c2d1fe2259a2dd4a7782f2a",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E095",
+    "doi": "10.1038/s41467-026-70447-7",
+    "source_sha256": "433e0ca40c1d10808205bde86539efd39356ce18f91e7a210b790fd2bd984ff7",
+    "reviewed_claim_units": [
+      [
+        10
+      ],
+      [
+        14
+      ],
+      [
+        70
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "aa0c3261d25cf15d5c2dccbb59afcd48866cfd8b1b219892bccd87431dc0e7dd",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E096",
+    "doi": "10.1038/s41467-026-69385-1",
+    "source_sha256": "c26d3a64758ad80cdacb689f9a442d406f672c0ae544b76146cd90fd0f0c5aa9",
+    "reviewed_claim_units": [
+      [
+        11
+      ],
+      [
+        19
+      ],
+      [
+        45
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "7d37f95207674e83aebb5c91182aa7b941ab7dbdc3bfad648432e4eee99321b6",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E097",
+    "doi": "10.1002/anie.202518171",
+    "source_sha256": "070b1e09ba46b75075cb85c30f95bd773b9f04d30076250c423eff0a7070b055",
+    "reviewed_claim_units": [
+      [
+        14
+      ],
+      [
+        38
+      ],
+      [
+        9
+      ]
+    ],
+    "figure_id": "anie71130-fig-0002",
+    "figure_sha256": "5a14b77db54a30eb112b267ba27ce6d1d07b04775e76151fae36fb733c757c5d",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E098",
+    "doi": "10.1038/s41467-026-70531-y",
+    "source_sha256": "4508d11065c96def11d3ffdaafc24baae6a29deae86623ad0310e91fffbabffe",
+    "reviewed_claim_units": [
+      [
+        4
+      ],
+      [
+        23
+      ],
+      [
+        6
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "879bc22d0ab0a6f6933bfee4bceab66bc2bce7888ba2b6312f6a32b4f2f102ee",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E099",
+    "doi": "10.1002/anie.3566312",
+    "source_sha256": "334b3dd593b4958cf9892cb82b52312ea4d0647a9f8621cf9feaebdafa59760a",
+    "reviewed_claim_units": [
+      [
+        15
+      ],
+      [
+        23
+      ],
+      [
+        30
+      ]
+    ],
+    "figure_id": "anie72549-fig-0003",
+    "figure_sha256": "3e868473ba4fe82586c1680f0ddda8d12b8f60664e82cc5b1e4f57bc79eee3c2",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E100",
+    "doi": "10.1038/s41467-026-74321-4",
+    "source_sha256": "9c7d04b1d76468f9ed95d4d2ced5ab6e4a565b34a49548dff1ae8d61e846679e",
+    "reviewed_claim_units": [
+      [
+        10
+      ],
+      [
+        21
+      ],
+      [
+        47
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "8e47dc0e021cd410eb725fec4c5d8dc71539da11ae8901c4f7328854cfc25dd2",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E101",
+    "doi": "10.1021/jacs.5c09199",
+    "source_sha256": "d50adf2764e956e5175cbd0926311d7a81e630443cc929fa8b14d8880129e2d7",
+    "reviewed_claim_units": [
+      [
+        21
+      ],
+      [
+        23
+      ],
+      [
+        46
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "5efca27c6ed9dabaeb74957421f32b485d33d37ee5de458b3df6ca40f53dd05e",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E102",
+    "doi": "10.1038/s41467-026-74405-1",
+    "source_sha256": "c89820157b3ee9e741a20b871e54659c67edd9842d4c34a2d214ada2c897f721",
+    "reviewed_claim_units": [
+      [
+        7
+      ],
+      [
+        28
+      ],
+      [
+        67
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "fd5e793a89ee0a7f971049315eeeed241eec8889e581115c9cd90a7da7802822",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E103",
+    "doi": "10.1038/s41467-026-75665-7",
+    "source_sha256": "073de795d5be92042be8917f052bdf01a62bfc9017db6cc903a1511fa71895e4",
+    "reviewed_claim_units": [
+      [
+        7
+      ],
+      [
+        29
+      ],
+      [
+        60
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "54d42535c8464d0925e5f8a85277c1c7b4559ae2f2de8bcc5e750e6dd971f0f7",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E104",
+    "doi": "10.1021/jacs.5c07490",
+    "source_sha256": "87f1f8493784231a753efb270bd62fd95f37789c12e8ae8c64186cd4dd8a9ee5",
+    "reviewed_claim_units": [
+      [
+        11
+      ],
+      [
+        43
+      ],
+      [
+        43
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "bb2b4023ad2a02f25aa30dc331ecf929467b404518bf055fa08c4057a058dd5d",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E105",
+    "doi": "10.1002/anie.6570629",
+    "source_sha256": "cc3f34cb3dd5a2d75c0c7afb797a365353d1f21c1d0cf5b0c5c39d04422bf1b2",
+    "reviewed_claim_units": [
+      [
+        22
+      ],
+      [
+        37
+      ],
+      [
+        44
+      ]
+    ],
+    "figure_id": "anie72918-fig-0003",
+    "figure_sha256": "c17bde5c447e2ee686b22b54855df10b50f35b9cb9f0239ebd917010ae7088d5",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E106",
+    "doi": "10.1002/anie.2543286",
+    "source_sha256": "9479bb00084e7e6e18ed015f23a831a70947742df8d2422352782f05073024ee",
+    "reviewed_claim_units": [
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ]
+    ],
+    "figure_id": "anie71737-fig-0003",
+    "figure_sha256": "065e200ec339501235b65f5267e9ad9470c5d17aafdcb3c80522711a1b804043",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E107",
+    "doi": "10.1038/s41467-024-52780-x",
+    "source_sha256": "3459dc6b7b2c209cf0f6e6998fdb242352e9a0827c1cbeabcaad64af87eb00a5",
+    "reviewed_claim_units": [
+      [
+        11
+      ],
+      [
+        28
+      ],
+      [
+        62
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "dca1ce5d48e8ee683e597895d042a39bfcf53cc7d0d13cfaeea3ea31d447ea61",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E108",
+    "doi": "10.1002/anie.202506712",
+    "source_sha256": "c690ead64909f10178fb226482a0bc1457f8af597e9243a9cf3ce2156e964999",
+    "reviewed_claim_units": [
+      [
+        13
+      ],
+      [
+        15
+      ],
+      [
+        14
+      ]
+    ],
+    "figure_id": "anie202506712-fig-0003",
+    "figure_sha256": "f8562374978c86685f50c14894704293c419643fb29fffab3f52ff94d591cc93",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E109",
+    "doi": "10.1021/jacs.5c04950",
+    "source_sha256": "0f5958206bc70f603a5df643f6bc74fa4d4dc3932d9215ff5614aff1fefef181",
+    "reviewed_claim_units": [
+      [
+        27
+      ],
+      [
+        8
+      ],
+      [
+        27
+      ]
+    ],
+    "figure_id": "fig2",
+    "figure_sha256": "6650bca268d76578a28ddf54a1b252e352d9443461816a77487b40811634644b",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E110",
+    "doi": "10.1038/s41467-025-58940-x",
+    "source_sha256": "80e5302122d952f9afa41c6211f996d64d717cbe34629dc8b6d0d88b8ae771f4",
+    "reviewed_claim_units": [
+      [
+        16
+      ],
+      [
+        25
+      ],
+      [
+        52
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "ef8bc4f7a63d903ba1b528820e5609c3614a84e7ca68d6ffdce8c19c109f6128",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E111",
+    "doi": "10.1038/s41467-024-50670-w",
+    "source_sha256": "0bbfb4a69ded29d51ab489ec1661280824d4fa799f026873d7f53077b1b9224b",
+    "reviewed_claim_units": [
+      [
+        6
+      ],
+      [
+        11
+      ],
+      [
+        57
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "916ac71aa0c6a8fc527995008277d7079b8bb87272eee3fb8ee4a64859f62fc9",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E112",
+    "doi": "10.1038/s41467-024-53833-x",
+    "source_sha256": "7463146f1232f03a2872684d1ae8cc405ea205f21439fdc64c0b7495a17d898c",
+    "reviewed_claim_units": [
+      [
+        11
+      ],
+      [
+        21
+      ],
+      [
+        36
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "0a6132b9cdd7a144be03373db46890570f1aa299eaaca9f500521888f521aed8",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E113",
+    "doi": "10.1038/s41467-025-63317-1",
+    "source_sha256": "6f701778c1b7cabb797ec7f4d1444362a671dadc3868ae51569579a1380d9245",
+    "reviewed_claim_units": [
+      [
+        12
+      ],
+      [
+        14
+      ],
+      [
+        54
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "9c56b100c9f4830be8b13430268d5c5ab4ea227c6b4accb18812191b898ceef8",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E114",
+    "doi": "10.1021/jacs.5c16232",
+    "source_sha256": "5a41e8f6ccb649b769f9cacd7d754e3254e7bbee77ae25d6ee03993008a9c159",
+    "reviewed_claim_units": [
+      [
+        7
+      ],
+      [
+        21
+      ],
+      [
+        24
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "d4d5bc0de6132b989bd0da03a6f758cf0c631e2e141f4938799c407686104292",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E115",
+    "doi": "10.1021/jacs.5c09246",
+    "source_sha256": "95cba843dbc15fd4f25380f3dd7ca62059f3f2daad4a88cfc77988d20de5e41f",
+    "reviewed_claim_units": [
+      [
+        13
+      ],
+      [
+        34
+      ],
+      [
+        45
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "59a2a4ce9ae55d838629c51be64783197e4763aa0ee135782ed548c32f7714e4",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E116",
+    "doi": "10.1038/s41467-025-61075-8",
+    "source_sha256": "6e90ce3d08ee9dc2668ad682fb68d0e97655851edfe9f6f12f5d0ce9533395f6",
+    "reviewed_claim_units": [
+      [
+        9
+      ],
+      [
+        5
+      ],
+      [
+        88
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "d1bf77c2284e860bf88cbe6b64137ad7cae96bbef57defc2074663d29f2ca617",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E117",
+    "doi": "10.1002/anie.202507956",
+    "source_sha256": "a6f8f479c4b941db2ce8bd09730dbb88e1818818429eb6ba12a705f6a134d839",
+    "reviewed_claim_units": [
+      [
+        31
+      ],
+      [
+        46
+      ],
+      [
+        7
+      ]
+    ],
+    "figure_id": "anie202507956-fig-0003",
+    "figure_sha256": "a5a2c886f291f4355d02629b3c70ed1be674d8ababf60f5a61efedf270adbfa7",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E118",
+    "doi": "10.1021/jacs.4c18547",
+    "source_sha256": "a033f06cf640a68f68ca1c3b4185f0c305dca6b8dd8c8157b32440202fd532bb",
+    "reviewed_claim_units": [
+      [
+        7
+      ],
+      [
+        21
+      ],
+      [
+        17
+      ]
+    ],
+    "figure_id": "fig6",
+    "figure_sha256": "73b28e388f9f2c1fe7f442a4f6a765a1658eff3ade2170ae304cd1b411210a72",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E119",
+    "doi": "10.1038/s41467-025-61232-z",
+    "source_sha256": "47a30929f4cf55c0a94a67d6b43bb1ae101d72ea0b4dacfe89565d5c7ac8c35b",
+    "reviewed_claim_units": [
+      [
+        6
+      ],
+      [
+        18
+      ],
+      [
+        115
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "15414326647c0ef50af0f5ce1893a1fdf492594b6bc1cd31f1cf5de4ef97624e",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E120",
+    "doi": "10.1021/jacs.5c07066",
+    "source_sha256": "e06aaaaf692b45ecf634368b2406d4a66982ff0f2dd278939acb770c3e9427c4",
+    "reviewed_claim_units": [
+      [
+        26
+      ],
+      [
+        26
+      ],
+      [
+        34
+      ]
+    ],
+    "figure_id": "fig3",
+    "figure_sha256": "1ec6a99d9f832e148d3287584d1a4b54645f7c3035efa02c77ec6b5f438a3a26",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  },
+  {
+    "card_id": "E121",
+    "doi": "10.1038/s41467-024-54204-2",
+    "source_sha256": "adf0754d2be88525991971408736e00f827dca5053b323be86dfdb58bc8b0ee6",
+    "reviewed_claim_units": [
+      [
+        13
+      ],
+      [
+        14
+      ],
+      [
+        17
+      ]
+    ],
+    "figure_id": "Fig3",
+    "figure_sha256": "884f1cdadb6b90eb2a62e404444abfd66cc7d40d7a32eab3b5a6acacc48db746",
+    "visual_review_date": "2026-10-18",
+    "scope": "one selected figure, not all figures or SI"
+  }
+]

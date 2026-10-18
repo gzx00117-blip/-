@@ -1,0 +1,17 @@
+# Manuscript arguments and scientific figures
+
+Resolve the library via `library-location.md`. Read `analysis/新增30篇学习总结.md`, `analysis/软件绘图与期刊风格实操.md` and the relevant cards, not all121. Consult `analysis/journal_profiles.json` for dated requirements; verify the exact journal, article type and submission stage again before actual submission.
+
+Keep three layers explicit: official requirement, observed published example, and our recommended reproduction workflow. Published figures are not evidence of an editor's private preferences or reason for acceptance. Success-only sampling cannot estimate acceptance effects. A palette or 3D rendering cannot replace scientific novelty or causal evidence.
+
+For each main figure, state the claim, which panel supports it, the strongest alternative explanation and what remains uncertain. Match source data to sample, batch, potential/reference/iR, area/loading, electrolyte, assay and time. Show independent repeats and define SD/SEM/CI; technical repeated readings do not become independent electrodes. Do not splice maximum FE, rate, current or lifetime from different conditions. Run Faraday checks before comparisons.
+
+Select software by task: Origin/Matplotlib for data; ChemDraw for chemical connectivity; VESTA for coordinate-based crystal/DFT visualization; Fiji for calibrated microscopy; Illustrator/Inkscape for vector assembly; Blender only when spatial concepts benefit. Authors' software is known only when explicitly disclosed: E096 U45 and E100 U47 name VESTA; E103 U60 names Python for hydrogen-bond analysis. Computation software does not establish the plotting tool. Unreviewed SI remains unreviewed.
+
+E092–E121 each have ONE visually inspected figure recorded in `visual_review` and `analysis/visual_reading_receipts.json`. Use the recorded figure label/ID; do not infer all figures are checked. E099 is theoretical NO3-to-NO2 work; E097/E121 target hydroxylamine. Source units in these cards are JATS paragraph/caption indices, not PDF pages. Use `--source-units`, not `--source-pages`.
+
+Generate editable training outputs with `scripts/make_figure_examples.py`, then `scripts/preflight_figures.py`. Training data and spectra are synthetic and conspicuously marked. Never use them as manuscript measurements. New real-data figures need separate versioned inputs and validation. Set final physical size before fonts/lines; retain SVG text and embedded-font PDF, and inspect at100% plus grayscale. Preserve original source images, calibration, crops, normalization/offsets, fits/residuals and editable files. Schematic arrows must distinguish measured support from proposed mechanisms.
+
+Current choices: JACS84.67/177.8 mm; Angew84/178 mm; Nature Communications88/180 mm. Fonts7.5–8 pt are OUR working presets; do not call them universal publisher requirements. Angew landscape TOC width conflicts110/115 mm between two official pages; use shared55×50 mm or confirm latest template. Do not transfer flagship Nature rules or cover sizes to these main figures.
+
+Useful patterns: E109 FE improvement at similar rate; E115 precursor-to-working-state comparison; E095 model-derived maps explicitly labeled; E111 maintenance marked in stability; E099/E101 potential/pH-dependent predictions. Avoid copying decorative3D bars (E092), heavy grids (E107), ambiguous multi-axis displays or unsupported peak assignments just because they were published. E100 and E108 numerical closure remains pending; E120 changes multiple structural factors.

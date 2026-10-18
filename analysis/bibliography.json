@@ -1,13 +1,11 @@
 [
   {
     "card_id": "E001",
-    "doc_id": "P7568dc39102f",
     "title": "Electrocatalytic Nitrate and Nitrite Reduction toward Ammonia Using Cu2 O Nanocubes: Active Species and Reaction Mechanisms",
     "doi": "10.1021/jacs.3c13288",
     "journal": "Journal of the American Chemical Society",
     "page_count": 14,
     "sha256": "7568dc39102f8745867d44facafd44f904c7dc06fc9099d19b0fd2bf5a3be797",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文结果、讨论、结论及主要方法；参考文献未逐条核实；SI 未获取配对",
     "read_pages": [
       1,
@@ -25,13 +23,11 @@
   },
   {
     "card_id": "E002",
-    "doc_id": "P740d52430018",
     "title": "Oxygen‐Incorporation‐Engineered Interfacial Water Modulation on Single‐Atom Cu Sites for Enhanced Dilute Nitrate Electroreduction",
     "doi": "10.1002/anie.202516401",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 11,
     "sha256": "740d524300188f3d32103c6f3a83e1181168b5845d27aa0ed3172add74b3bd94",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文至总结；SI 中引用的图表未独立读到，不计为已核查",
     "read_pages": [
       1,
@@ -47,13 +43,11 @@
   },
   {
     "card_id": "E003",
-    "doc_id": "Pe28f7214e240",
     "title": "Intrinsic Ni0 –Niδ+ Pairs in Anti‐Perovskite NiNNi3 Act as Hydrogen Radical Emitters for Cu Enabling Promoted Electrocatalytic Nitrate Reduction",
     "doi": "10.1002/anie.202521064",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 14,
     "sha256": "e28f7214e240c772dbb0fec2bfb87d6b3dbd787c71d32cb3983efa737859931b",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "主要正文含设备扩展与总结；SI 未配对阅读，正文对 SI 的描述仅算作者报告",
     "read_pages": [
       1,
@@ -73,13 +67,11 @@
   },
   {
     "card_id": "E004",
-    "doc_id": "P6d1495d75055",
     "title": "Proton-Feeding Dual-N Claw Sites in a Copper-Covalent Organic Framework Promote Hydrogenation Kinetics for Electrocatalytic Nitrate Reduction",
     "doi": "10.1021/jacs.6c04283",
     "journal": "Journal of the American Chemical Society",
     "page_count": 13,
     "sha256": "6d1495d75055b6737ccb5812f441abe446de5d1b779f211061960632f5d4b397",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文机制、结论、方法和 SI 入口；参考文献未逐项核查；SI 标为 DOCX，不能只搜索 PDF 判断不存在",
     "read_pages": [
       1,
@@ -97,13 +89,11 @@
   },
   {
     "card_id": "E005",
-    "doc_id": "P0a9d019296e4",
     "title": "Interplay of [C60 ]Fullerene and Cu2 O Nanocrystals for Stable CO2 Electroreduction to C2+ Products",
     "doi": "10.1021/acsnano.5c13950",
     "journal": "ACS Nano",
     "page_count": 11,
     "sha256": "0a9d019296e4200eb4fd3fd60a34d02007ccd3795bd2e80923ae46b934787d3f",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文结果、理论、总结和合成；配对 SI 按标题与作者核对后定向读取，不称全部 SI 已读",
     "read_pages": [
       1,
@@ -119,13 +109,11 @@
   },
   {
     "card_id": "E006",
-    "doc_id": "P3fadeae16313",
     "title": "Auxiliary Linker-Enabled Local Protonation Boosts the Ammonia Electrosynthesis in Heterometallic Metal–Organic Frameworks",
     "doi": "10.1021/jacs.5c20755",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "3fadeae16313785ce824a644603fd8495e6c76bb43b20fbc1f0b34386099e3e0",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文 pp.1-7；图像未独立目视，SI 未读。",
     "read_pages": [
       1,
@@ -139,13 +127,11 @@
   },
   {
     "card_id": "E007",
-    "doc_id": "Pc6f4ba546851",
     "title": "Managing Active Hydrogen Species on Ternary Copper-Based Catalyst for Efficient Electrochemical Ammonia Synthesis from Nitrate",
     "doi": "10.1021/jacs.5c21149",
     "journal": "Journal of the American Chemical Society",
     "page_count": 11,
     "sha256": "c6f4ba5468514c3f1ad00556fc1c18eb0fbc7077cb811218c578ed23ef20a355",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文 pp.1-9；图注文本已读，图像和 SI 未独立核查；本地为未最终卷页化版本。",
     "read_pages": [
       1,
@@ -161,13 +147,11 @@
   },
   {
     "card_id": "E008",
-    "doc_id": "Pfde08e41a5da",
     "title": "Elevating the Efficiency of Ammonia Synthesis by Dredging the Migration Hinges of Reactive Species",
     "doi": "10.1021/jacs.6c01425",
     "journal": "Journal of the American Chemical Society",
     "page_count": 7,
     "sha256": "fde08e41a5da375dc45ef2040c1fbd864052138e77d0378d45495184ac390394",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "正文 pp.1-6，未独立查看图像或 SI。",
     "read_pages": [
       1,
@@ -180,13 +164,11 @@
   },
   {
     "card_id": "E009",
-    "doc_id": "P8089baac7ac1",
     "title": "Engineering Cu/Ru Heterointerface-Shelled Nanocavities by the Kirkendall Effect for Highly Efficient Nitrate Electroreduction to Ammonia",
     "doi": "10.1021/jacs.5c11097",
     "journal": "Journal of the American Chemical Society",
     "page_count": 14,
     "sha256": "8089baac7ac18ff4936c1550b3802ec09a1ea00e81027de01d0b56e0673dc08c",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "摘要及结构、性能、operando 机制的重点页；p.10 为重点段落阅读，非全篇逐页阅读；图像和 SI 未核查。",
     "read_pages": [
       1,
@@ -197,13 +179,11 @@
   },
   {
     "card_id": "E010",
-    "doc_id": "P37836d9f6bab",
     "title": "Tuning Intermediate Adsorption and Interfacial Water Networks via Lattice Strain of NiFe Alloys Boosts Low‐Concentration Nitrate Electroreduction",
     "doi": "10.1002/adma.73761",
     "journal": "Advanced Materials",
     "page_count": 12,
     "sha256": "37836d9f6bab8bd77af83533ba2c6992ce8066ad7dea5ce85b3c8c2535d345d8",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "低浓度性能、水/氢机制、计算及结论重点页；非全篇逐页；未目视图像或读 SI。",
     "read_pages": [
       1,
@@ -216,13 +196,11 @@
   },
   {
     "card_id": "E011",
-    "doc_id": "P353b34b5802f",
     "title": "Boosting Cobalt Porphyrin for Selective Nitrate Electroreduction",
     "doi": "10.1002/anie.202523415",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 8,
     "sha256": "353b34b5802ff961d569e120bdefefa8066c6716a202c232ae33afb7cd7d32c9",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "证据包选中完整句段，非全篇/完整页面阅读；重点为 pH、共催化剂、产物和 H 相关机制。",
     "read_pages": [
       1,
@@ -235,13 +213,11 @@
   },
   {
     "card_id": "E012",
-    "doc_id": "Pa495efa95b9a",
     "title": "Interfacial Charge‐Regulated Microenvironments Enabled by Ionic Organic Cages for Boosting Electrocatalytic Nitrate Reduction to Ammonia",
     "doi": "10.1002/anie.4155022",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 13,
     "sha256": "a495efa95b9a4a0186cf0106504e70731206dce9a86adbb4336b72b2ca3c029b",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "证据包选中完整句段；重点为电荷系列、反离子、物理混合对照和回收，非全文逐页；SI 未读。",
     "read_pages": [
       1,
@@ -255,13 +231,11 @@
   },
   {
     "card_id": "E013",
-    "doc_id": "P2d434027016e",
     "title": "Modulating Hydrogen Species for Efficient and Sustainable Nitrate Electroreduction to Ammonia",
     "doi": "10.1002/anie.202524803",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 8,
     "sha256": "2d434027016ef362dde54586a8eaed549b9a355472dcfc1354a5aa41197f9b5f",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "选中完整句段重点阅读，非全篇；未独立目视图像或核对 SI。",
     "read_pages": [
       1,
@@ -274,13 +248,11 @@
   },
   {
     "card_id": "E014",
-    "doc_id": "Pe57f11ad3d50",
     "title": "Dual–Spillover Mediated Highly Efficient Electrocatalytic Nitrate Reduction to Ammonia Over Co–Doped Sr2 CuWO6 Double Perovskite",
     "doi": "10.1002/aenm.70928",
     "journal": "Advanced Energy Materials",
     "page_count": 12,
     "sha256": "e57f11ad3d50da558c2dfb96ac4e38404d70b0636044f553021b50e09b5ab270",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "完整句段证据包；性能、同位素、双迁移与模型重点阅读，非全文逐页；SI 未核查。",
     "read_pages": [
       1,
@@ -295,13 +267,11 @@
   },
   {
     "card_id": "E015",
-    "doc_id": "P6c816df87777",
     "title": "Inside-out-engineered CuOx /Ru sites for efficient electrochemical nitrate reduction to ammonia",
     "doi": "10.1073/pnas.2537982123",
     "journal": "Proceedings of the National Academy of Sciences",
     "page_count": 10,
     "sha256": "6c816df877771da705195cfc1b663a99fcca90efd28a1be0f91a617630dd6038",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "性能、工作态和机制重点句段阅读，非全文；未目视图像或核查 SI。",
     "read_pages": [
       1,
@@ -315,13 +285,11 @@
   },
   {
     "card_id": "E016",
-    "doc_id": "P15d2144a7286",
     "title": "Steering the catalyst structure and intermediates adsorption configuration during pulsed nitrate electroreduction",
     "doi": "10.1038/s41467-025-65391-x",
     "journal": "Nature Communications",
     "page_count": 11,
     "sha256": "15d2144a7286f05185b62e22a034b7fdeb9ab2945cf06d16629c854668c51f2a",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "脉冲参数、动态结构、机制与计量重点句段，非全文逐页；图像未目视。 本轮另目视核对 PDF pp. 3，其他图/SI 未因此视为全部核查。",
     "read_pages": [
       1,
@@ -336,13 +304,11 @@
   },
   {
     "card_id": "E017",
-    "doc_id": "Pd8672507427f",
     "title": "Modulated metal-support interactions for efficient nitrate electroreduction at positive potentials",
     "doi": "10.1038/s41467-026-69802-5",
     "journal": "Nature Communications",
     "page_count": 45,
     "sha256": "d8672507427f9c506e0462cf710e9f62ef60a0247159c0b71e209d5e405ee39d",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "45 页未编辑稿中的性能、机制和方法重点句段；不是 45 页全部精读；未独立查看 SI/图像。",
     "read_pages": [
       1,
@@ -361,13 +327,11 @@
   },
   {
     "card_id": "E018",
-    "doc_id": "Pae84e37ac7c3",
     "title": "Exploiting underpotential deposited hydrogen enables energy-efficient nitrate electroreduction to ammonia",
     "doi": "10.1038/s41467-026-71299-x",
     "journal": "Nature Communications",
     "page_count": 41,
     "sha256": "ae84e37ac7c3d0ef24ffb4d19ff7e47b7f36c0412bb23c74c9e43847323f7c3e",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "41 页未编辑稿的性能、HUPD、路径和计量方法重点句段；未全篇逐页，未独立目视图像。",
     "read_pages": [
       1,
@@ -385,13 +349,11 @@
   },
   {
     "card_id": "E019",
-    "doc_id": "P2fd0c43e88f6",
     "title": "Ampere-level ammonia synthesis through grain boundary engineering",
     "doi": "10.1038/s44160-026-01026-3",
     "journal": "Nature Synthesis",
     "page_count": 11,
     "sha256": "2fd0c43e88f66116cbce608c3e4262262d3d91effdaac40bdaaec2ff84a76415",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "性能、缺陷对照、路径和电子计量重点句段；未逐页全文/未目视图像。",
     "read_pages": [
       1,
@@ -404,13 +366,11 @@
   },
   {
     "card_id": "E020",
-    "doc_id": "P08c890bbc41a",
     "title": "Nonmetallic Modified Atomically Precise Octagold Nanoclusters for Electrocatalytic Nitrate Reduction to Ammonia",
     "doi": "10.1021/jacs.5c15788",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "08c890bbc41a56d117bb3eea1e606c1228c71caf4ee2f09527d2f3872b09773d",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "预活化、产物校验、毒化干扰和计算重点句段；未全文逐页或目视图像/SI。",
     "read_pages": [
       1,
@@ -424,13 +384,11 @@
   },
   {
     "card_id": "E021",
-    "doc_id": "P927c88edde8b",
     "title": "Ammonia‐Resistant Carbon‐Encapsulated Cobalt Catalyst for Electrocatalytic Nitrate Reduction to Volatile Ammonia",
     "doi": "10.1002/anie.7866851",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 11,
     "sha256": "927c88edde8b8065ddc5e8ce8d8b33e3fa4db94984d7e009e9272366660b5cb8",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "产物耐受、碳壳保护及回收重点句段；非全文逐页，图像/SI 未独立核查。",
     "read_pages": [
       1,
@@ -444,13 +402,11 @@
   },
   {
     "card_id": "E022",
-    "doc_id": "P32a35e4500ea",
     "title": "Steering Intermediate Coupling by Alkali‐Metal Cations for Efficient Nitrate Electroreduction to Ammonia",
     "doi": "10.1002/ange.3670039",
     "journal": "Angewandte Chemie",
     "page_count": 10,
     "sha256": "32a35e4500ea766236cc6ac0785caebdc8e06372c86e49671a3648b80145a5bf",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "阳离子系列、电荷/水环境与装置重点句段；非全文逐页；参比的完整方法尚未核实。",
     "read_pages": [
       1,
@@ -464,13 +420,11 @@
   },
   {
     "card_id": "E023",
-    "doc_id": "P978b50c143aa",
     "title": "Direct Solar Power‐Driven Durable Ammonia Electrosynthesis From Nitrate Under Fluctuating Voltage Conditions",
     "doi": "10.1002/anie.3133042",
     "journal": "Angewandte Chemie (PDF header candidate)",
     "page_count": 12,
     "sha256": "978b50c143aacfb482e424c5c63aee49f00fa67aa25683c20afab3e5905838b0",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "动态供电、性能与机理重点句段；非逐页全文，图像/SI 未核查。",
     "read_pages": [
       1,
@@ -484,13 +438,11 @@
   },
   {
     "card_id": "E024",
-    "doc_id": "P6e20f5591cdb",
     "title": "Sustainable Ammonia Electrosynthesis Coupled With Glycerol Valorization via an Adaptive Tri‐Component Catalyst",
     "doi": "10.1002/anie.202522014",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 16,
     "sha256": "6e20f5591cdbe88036e348c5f1faf821d912c5b533fc92cdce02a59bf77ce24b",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "性能、脉冲计量和配对电解重点句段，机理以作者概述为主；非全文逐页，尚未核查图像/SI。",
     "read_pages": [
       1,
@@ -504,13 +456,11 @@
   },
   {
     "card_id": "E025",
-    "doc_id": "Pfc04ed2c1f60",
     "title": "Photothermal‐Responsive Artificial Enzyme Assembly Engineering for Near‐Unity Nitrate‐to‐Ammonia Electrocatalysis",
     "doi": "10.1002/anie.8218979",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 14,
     "sha256": "fc04ed2c1f604ebff5e2c6d26d7444975e07e9f1c21f40a1ad45f662559fe882",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "光热、性能、组成和控制设计的重点句段；非全文逐页，未独立目视光热图像或核查 SI。",
     "read_pages": [
       1,
@@ -525,13 +475,11 @@
   },
   {
     "card_id": "E026",
-    "doc_id": "P459b37298df7",
     "title": "C60 Fullerene as the Active Site for CO2 Electroreduction",
     "doi": "10.1002/anie.202511924",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 9,
     "sha256": "459b37298df7a58e01752801203f2eec76cc1b24f1add3b9c827f14ab5fabc50",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "产物转变、显式溶剂/电场与微观动力学重点句段；非逐页全文，图像/SI 未核查。",
     "read_pages": [
       1,
@@ -544,13 +492,11 @@
   },
   {
     "card_id": "E027",
-    "doc_id": "P1d46075e0863",
     "title": "C60 Fullerene‐Induced Reduction of Metal Ions: Synthesis of C60 ‐Metal Cluster Heterostructures with High Electrocatalytic Hydrogen‐Evolution Performance",
     "doi": "10.1002/anie.202414149",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 9,
     "sha256": "1d46075e0863f02ffc185228a03e77030a25d93bd70c09b726df71a6d45f9004",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "C60 合成角色、光谱、HER 性能与模型重点句段，非逐页全文；负号提取异常处不定量使用。",
     "read_pages": [
       1,
@@ -563,13 +509,11 @@
   },
   {
     "card_id": "E028",
-    "doc_id": "Pc555b5c909aa",
     "title": "Electronic Modulation and Active Site Exposure Using C60 Fullerenolamine Enable High‐Performance Alcohol Oxidation on Pd Metallene Catalysts",
     "doi": "10.1002/anie.202506044",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 10,
     "sha256": "c555b5c909aa905959dd0191f412df1c925cb5561b1df27c4e46e4ab89c2f0e5",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "分散/电子效应、活性归一化和路径重点句段，非逐页全文；未独立目视图像/SI。",
     "read_pages": [
       1,
@@ -584,13 +528,11 @@
   },
   {
     "card_id": "E029",
-    "doc_id": "Pf9ca25e3f026",
     "title": "Closing Electron Transfer Loop to Boost Electrocatalytic Urea Synthesis",
     "doi": "10.1002/anie.202517450",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 7,
     "sha256": "f9ca25e3f026a01e90c7e29223dce30db9b102b60d037d9aa570e393dc36db07",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "C60 动态再生、同位素与尿素性能重点句段，非逐页全文；详细电解条件和 SI 未全部核查。 本轮另目视核对 PDF pp. 5，其他图/SI 未因此视为全部核查。",
     "read_pages": [
       1,
@@ -603,13 +545,11 @@
   },
   {
     "card_id": "E030",
-    "doc_id": "P2f2572dcd803",
     "title": "Efficient Urea Electrosynthesis on a Cu3 Molecular Catalyst with Dynamically Adaptive Intercopper Spacings",
     "doi": "10.1021/jacs.5c15109",
     "journal": "Journal of the American Chemical Society",
     "page_count": 9,
     "sha256": "2f2572dcd803c34706a5d0e04375e5122e7e298051569f9cb0b8cbcffb8db6ed",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "柔性 Cu3 的结构响应、耦合和计算约束重点句段，非逐页全文；未全部核查 SI 和长期测试协议。 本轮另目视核对 PDF pp. 5,6，其他图/SI 未因此视为全部核查。",
     "read_pages": [
       1,
@@ -623,13 +563,11 @@
   },
   {
     "card_id": "E031",
-    "doc_id": "Pcca38e150d36",
     "title": "Covalent Elaboration of Confined Surfaces Steers C─C Coupling Pathway for Selective Electrochemical CO2 Reduction at Ampere‐Level",
     "doi": "10.1002/anie.202508366",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 11,
     "sha256": "cca38e150d3686a4f2031b6a9dec02904a40d5313b231ae06a04071f966520e4",
-    "identity_status": "DOI_present_in_first_two_PDF_pages",
     "read_scope": "共价/物理涂层对照、性能、稳定性和谱学重点句段，非逐页全文；未全面核查 SI。",
     "read_pages": [
       1,
@@ -645,13 +583,11 @@
   },
   {
     "card_id": "E032",
-    "doc_id": "P0698b7df1193",
     "title": "Strain-tailored spin-state modulation of oxide-derived Cu toward efficient electrochemical nitrate-to-ammonia conversion",
     "doi": "10.1016/j.apcatb.2026.127206",
     "journal": "Applied Catalysis B: Environment and Energy",
     "page_count": 10,
     "sha256": "0698b7df119380f13f35ff63f74b6294437bcfc5e904694c187734392beb23b8",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -666,13 +602,11 @@
   },
   {
     "card_id": "E033",
-    "doc_id": "Pa98ae9ecca60",
     "title": "Promoting Water Dissociation and Acetylene Transfer to Lower the Energy Consumption of Ethylene Electrosynthesis via Microenvironment Regulation",
     "doi": "10.1002/anie.202521639",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 9,
     "sha256": "a98ae9ecca600f3f76c6c0b0bf66b1c3c04babcd4d1884470a712a8434bff249",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -685,13 +619,11 @@
   },
   {
     "card_id": "E034",
-    "doc_id": "P09378d7b9971",
     "title": "Differential Adsorption on Synergistic Cu─Cd Sites Enables Direct Hydrogenation in Acidic CO2 Electroreduction",
     "doi": "10.1002/anie.202522764",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 11,
     "sha256": "09378d7b9971d3f581ad98a4efeada268d6a5cffbfbfc23143281c8871ab095c",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -705,13 +637,11 @@
   },
   {
     "card_id": "E035",
-    "doc_id": "P739767e02167",
     "title": "Mesoporous Engineering of Single‐Atom Catalyst for Industry‐Level Electrocatalytic CO2 Reduction in Membrane Electrode Assemblies",
     "doi": "10.1002/anie.202523859",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 9,
     "sha256": "739767e02167564b29378b517c6edbd536f45ee95654d5fe873f2d2ef0c70f7c",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -725,13 +655,11 @@
   },
   {
     "card_id": "E036",
-    "doc_id": "P672db3171c9d",
     "title": "Hydrogen Radical‐Mediated Nitric Oxide Reduction to Ammonia Over Synergistic Pd0 /Pd2+ Dual Sites",
     "doi": "10.1002/anie.4927761",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 13,
     "sha256": "672db3171c9d4bf3e9128c102f3ce9a322055868c44ce1ce57a7dfc1c361e071",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       6,
@@ -744,13 +672,11 @@
   },
   {
     "card_id": "E037",
-    "doc_id": "Pf5476b52a002",
     "title": "Zn─F Diatomic Sites Promote Electrochemical C─N Coupling for the Synthesis of Amino Acids",
     "doi": "10.1002/anie.1293701",
     "journal": "Angewandte Chemie (PDF header candidate)",
     "page_count": 11,
     "sha256": "f5476b52a002d43463c614c6e546e9ddcaf788a3e0f8b06da558110bf280f988",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -764,13 +690,11 @@
   },
   {
     "card_id": "E038",
-    "doc_id": "P98bfd0c1fe9d",
     "title": "Electronic‐Geometric Pre‐Compensation Enables Intermetallic RhSb Bimetallenes for Efficient Nitrite Electroreduction",
     "doi": "10.1002/anie.9586956",
     "journal": "Angewandte Chemie (PDF header candidate)",
     "page_count": 12,
     "sha256": "98bfd0c1fe9d756c90fdf5b6a0d0d213a78c0d8546988d78e40793637aa9f717",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -785,13 +709,11 @@
   },
   {
     "card_id": "E039",
-    "doc_id": "P014d8661eb62",
     "title": "Built‐in Axial Electric Field‐Driven Electron‐Rich Monomolecular Co Sites for Promoting CO2 Electroreduction to CO Over Ultrawide Potential Window",
     "doi": "10.1002/anie.202511671",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 10,
     "sha256": "014d8661eb622b71e6f3731eff3d8aa894546e98840bf5d528ab0a803fafc045",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -805,13 +727,11 @@
   },
   {
     "card_id": "E040",
-    "doc_id": "P0c376c8cecdb",
     "title": "Dual‐Interfacial Electrocatalyst Enriching Surface Bonded H for Energy‐Efficient CO2 ‐to‐CH3 OH Conversion",
     "doi": "10.1002/adfm.202312970",
     "journal": "Advanced Functional Materials",
     "page_count": 8,
     "sha256": "0c376c8cecdb9e3c49ae7f7168a8c52e645a194057ace0502518448ed96c5422",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -824,13 +744,11 @@
   },
   {
     "card_id": "E041",
-    "doc_id": "P29eba4610d62",
     "title": "Role of Structural and Compositional Changes of Cu2 O Nanocubes in Nitrate Electroreduction to Ammonia",
     "doi": "10.1021/acsaem.4c02326",
     "journal": "ACS Applied Energy Materials",
     "page_count": 11,
     "sha256": "29eba4610d626a524d7638d2afc7a3cf95623e7d7c4670ca7251233c97fe4bcb",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -844,13 +762,11 @@
   },
   {
     "card_id": "E042",
-    "doc_id": "P8a7b9714147a",
     "title": "Lewis Acid Adsorption Promotes CO2 Enrichment for Efficient Formic Acid Electrosynthesis on Reconstructed Bi2 O2 CO3 in Acidic Media",
     "doi": "10.1002/anie.202512476",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 10,
     "sha256": "8a7b9714147afa059e0074a3b486b8ed405270a56022f1a8adc3317261d18112",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -862,13 +778,11 @@
   },
   {
     "card_id": "E043",
-    "doc_id": "Pb4f27b82a4e2",
     "title": "Atomic Coordination Engineering of Sub‐Nanometer Cu Clusters for Selective CO2 Electroreduction to Multi‐Carbon Alcohols",
     "doi": "10.1002/anie.202518377",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 11,
     "sha256": "b4f27b82a4e2c3176be61c2002a5dcaf2e235ccd42ccb3277895851ff5423df2",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       2,
@@ -880,13 +794,11 @@
   },
   {
     "card_id": "E044",
-    "doc_id": "Pc85ec6977826",
     "title": "Atomic Eu Substitution in Cu2 O Tailors C1 and C2+ Product Selectivity by Frustrated Deep Hydrogenation in Electrochemical CO2 Reduction",
     "doi": "10.1021/jacs.5c19360",
     "journal": "Journal of the American Chemical Society",
     "page_count": 14,
     "sha256": "c85ec6977826fde8d1363e940e45361edc0d3ed3d355473cc2372363689e125e",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -900,13 +812,11 @@
   },
   {
     "card_id": "E045",
-    "doc_id": "P883dcceab1a2",
     "title": "Sustainable synthesis of polymer-grade ethylene via electrified acetylene semihydrogenation",
     "doi": "10.1073/pnas.2505151122",
     "journal": "Proceedings of the National Academy of Sciences",
     "page_count": 10,
     "sha256": "883dcceab1a234475e4d1941f8fdda6942dd36eaaaea5348620ad0e0d4a343a1",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -920,13 +830,11 @@
   },
   {
     "card_id": "E046",
-    "doc_id": "P1041c782f3bc",
     "title": "Electrochemical Alkyne Semi‐Hydrogenation via Proton‐Coupled Electron Transfer on Cu(111) Surface",
     "doi": "10.1002/anie.202510192",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 9,
     "sha256": "1041c782f3bc673d79c3c606a89029223d24f051bc0c20e52c3203bbb1bd007c",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -938,13 +846,11 @@
   },
   {
     "card_id": "E047",
-    "doc_id": "Pbf98cf11fdae",
     "title": "Engineering the Cu(0)–Co2 C Interface via Reaction-Induced Reconstruction for CO2 Hydrogenation to C2+ Hydrocarbons",
     "doi": "10.1021/jacs.5c15658",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "bf98cf11fdaea08f98a7ddbaff970809ce9169a0b98fa2c15aad3ef712c068e1",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -958,13 +864,11 @@
   },
   {
     "card_id": "E048",
-    "doc_id": "P8f64dfea8f63",
     "title": "Steering the Selectivity of Carbon Dioxide Electroreduction from Single-Carbon to Multicarbon Products on Metal–Organic Frameworks via Facet Engineering",
     "doi": "10.1021/acs.nanolett.3c04092",
     "journal": "Nano Letters",
     "page_count": 10,
     "sha256": "8f64dfea8f634dee18468a6d7debd92318ffee856ccaaf69f78a6bd217f1d853",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -979,13 +883,11 @@
   },
   {
     "card_id": "E049",
-    "doc_id": "Pbbd2b6c7dfba",
     "title": "Nanoparticle-Single-Atom Tandem Catalyst within a Metal–Organic Framework for Efficient Ethylene Electrosynthesis",
     "doi": "10.1021/jacs.5c19451",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "bbd2b6c7dfba783248be898685385df6242cd9208b5fb7698c8d0d517d6cc5b6",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1000,13 +902,11 @@
   },
   {
     "card_id": "E050",
-    "doc_id": "P0c3602827035",
     "title": "Promoted Electrochemical CO2 Methanation over Ultrastable Cu(II)-VO Pair Sites in Cu-CeO2 Catalyst: Water Activation and Intermediate Adsorption Tuning",
     "doi": "10.1021/jacs.5c09230",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "0c36028270355c387441d90f61c51a78859420c8ade4aacab0577e3bab86f95e",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1019,13 +919,11 @@
   },
   {
     "card_id": "E051",
-    "doc_id": "Pb3d408045f3f",
     "title": "Polymer-tethered pyridine tunes activities of the two distinct CO2 electroreduction sites on Cu",
     "doi": "10.1038/s41467-025-66673-0",
     "journal": "Nature Communications",
     "page_count": 32,
     "sha256": "b3d408045f3fb75253da1e9a10531b9ed1100dcadfdae18b44bae5f96b53d3be",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1040,13 +938,11 @@
   },
   {
     "card_id": "E052",
-    "doc_id": "P789df652b7a0",
     "title": "Copper-stabilized bismuth subcarbonate electrocatalysts for durable large-scale formate production at kilowatt power",
     "doi": "10.1038/s41467-025-67274-7",
     "journal": "Nature Communications",
     "page_count": 32,
     "sha256": "789df652b7a08f533f52b798ff93a637410fb4bcc85bdd822be1632052915577",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       3,
@@ -1060,13 +956,11 @@
   },
   {
     "card_id": "E053",
-    "doc_id": "P721a19a5f7d1",
     "title": "Reversing the reduction sequence of aldehydes and nitriles for electrochemical C–N coupling",
     "doi": "10.1038/s44160-026-01036-1",
     "journal": "Nature Synthesis",
     "page_count": 11,
     "sha256": "721a19a5f7d104c9b05c639c5a6b59c772981cd6397011faea567b82c7d3eae3",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1079,13 +973,11 @@
   },
   {
     "card_id": "E054",
-    "doc_id": "P80e7532097a7",
     "title": "Electrochemical Nitrate Reduction with Low-Index Cu Single Crystals: Selectivity Trends in Alkaline Solution",
     "doi": "10.1021/jacs.6c05147",
     "journal": "Journal of the American Chemical Society (PDF header candidate)",
     "page_count": 12,
     "sha256": "80e7532097a7d3cb4f0f20fd924905889800ec90196da4f43a678f073347af18",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.4；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1098,13 +990,11 @@
   },
   {
     "card_id": "E055",
-    "doc_id": "Pade84cb96cbb",
     "title": "Hydrogel-Empowered Interfacial Reactive Hydrogen on Copper Enables Selective Nitrate-To-Ammonia Electrocatalysis",
     "doi": "10.1021/jacs.6c09690",
     "journal": "Journal of the American Chemical Society (PDF header candidate)",
     "page_count": 12,
     "sha256": "ade84cb96cbbc528f1ca24840e22c0803dfa0a6de9ac1a80838baf2491df2f34",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.7；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1120,13 +1010,11 @@
   },
   {
     "card_id": "E056",
-    "doc_id": "Pf253d85ee87b",
     "title": "Lattice-Nitrogen-Mediated Electrochemical Nitrate Reduction Boosted by Single-Atom Antimony Doping",
     "doi": "10.1021/jacs.6c12366",
     "journal": "Journal of the American Chemical Society (PDF header candidate)",
     "page_count": 11,
     "sha256": "f253d85ee87bba7a78ea2749302f8aa346ef9e24bfe90e46a0cb772e172b8546",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1139,13 +1027,11 @@
   },
   {
     "card_id": "E057",
-    "doc_id": "P61940820c248",
     "title": "Low‐Coordination Indium Single‐Atom Sites Anchored on a Metal‐Organic Framework Single‐Layer Boosts Electroreduction of CO2 Into Formic Acid",
     "doi": "10.1002/anie.202511132",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 6,
     "sha256": "61940820c24827f286228129fa8b14c8085ec131860859be2ad7ad6626c1ef7c",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1157,13 +1043,11 @@
   },
   {
     "card_id": "E058",
-    "doc_id": "P3e0e1edf846c",
     "title": "Recent Advances in MOF−Based Dual−Atom Catalysts for CO2 Reduction",
     "doi": "10.1002/chem.202500636",
     "journal": "Chemistry – A European Journal",
     "page_count": 11,
     "sha256": "3e0e1edf846c2d663cbb866619aac39a6e7ce49d35b8f9ca9dcb5e8554a993f5",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1177,13 +1061,11 @@
   },
   {
     "card_id": "E059",
-    "doc_id": "Pfe5b493961ab",
     "title": "Dual-metal sites in MOF synergistic boosting NH3 production under low-nitrate concentration",
     "doi": "10.26599/nr.2025.94907592",
     "journal": "Nano Research",
     "page_count": 7,
     "sha256": "fe5b493961ab266858e6bf318d0ff13c52b827472ffe6c3be5a8c28e4fb0f39a",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1195,13 +1077,11 @@
   },
   {
     "card_id": "E060",
-    "doc_id": "Pc1cbaaea419e",
     "title": "Nitrate-Driven Proton-Coupled Photoelectron Transfer Enables Cascade C–N Coupling of Lactic Acid to Alanine",
     "doi": "10.1021/jacs.6c07088",
     "journal": "Journal of the American Chemical Society",
     "page_count": 12,
     "sha256": "c1cbaaea419e5fb659f458eb85ca30c5748e8c8c2635e38091b3abe2a2b9f267",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1216,13 +1096,11 @@
   },
   {
     "card_id": "E061",
-    "doc_id": "Pc50eda7976c3",
     "title": "Fullerene Network‐Buffered Platinum Nanoparticles Toward Efficient and Stable Electrochemical Ammonia Oxidation Reaction for Hydrogen Production",
     "doi": "10.1002/anie.202505180",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 27,
     "sha256": "c50eda7976c327cef93f2a9e13552ad01a50ede0c941f3a027bf0485fa45a377",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       8,
@@ -1237,13 +1115,11 @@
   },
   {
     "card_id": "E062",
-    "doc_id": "P696b65f4c58c",
     "title": "Electrochemical and chemical cascade catalysis for efficient hexamethylenetetramine synthesis over mesoporous copper nanotips",
     "doi": "10.1038/s41467-026-73384-7",
     "journal": "Nature Communications",
     "page_count": 29,
     "sha256": "696b65f4c58cf6e06d4325725ab1246ba21f952c565e777cdb12361799899340",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       6,
@@ -1259,13 +1135,11 @@
   },
   {
     "card_id": "E063",
-    "doc_id": "P47f55bd10121",
     "title": "Coupled spin-coordination self-adaptation drives efficient nitrate to ammonia conversion",
     "doi": "10.1038/s41467-026-77163-2",
     "journal": "Nature Communications (PDF header candidate)",
     "page_count": 13,
     "sha256": "47f55bd101213d277025c174f23603acc1ba316fb107957fb3c46d5e6ae7bc72",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1281,13 +1155,11 @@
   },
   {
     "card_id": "E064",
-    "doc_id": "P8f4a922f402f",
     "title": "Recent Advances in Electrocatalytic Hydrogenation Reactions on Copper‐Based Catalysts",
     "doi": "10.1002/adma.202307913",
     "journal": "Advanced Materials",
     "page_count": 41,
     "sha256": "8f4a922f402fb776ce5f5590141bcf1b3d50d9748d7c6d8c2d0fadef3e5cd786",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1301,13 +1173,11 @@
   },
   {
     "card_id": "E065",
-    "doc_id": "P600b6926d85b",
     "title": "Steering CO2 Electroreduction Pathway via Tuning Microenvironment of Cobalt Center in Molecular Catalysts",
     "doi": "10.1021/acsnano.5c09554",
     "journal": "ACS Nano",
     "page_count": 11,
     "sha256": "600b6926d85b0a48c924d7b86cf05d5eeb28af81c3b97b1836ba92b620a24442",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1320,13 +1190,11 @@
   },
   {
     "card_id": "E066",
-    "doc_id": "P96fd3384cd4d",
     "title": "Phase Engineering of Amorphous Ru‐O‐C60 for Efficient Electrosynthesis of Sulfoxides",
     "doi": "10.1002/adma.202520300",
     "journal": "Advanced Materials",
     "page_count": 12,
     "sha256": "96fd3384cd4de1bd4a5fd47bf3b1ed714249997c2ed149c3861af331e5f77ae6",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1339,13 +1207,11 @@
   },
   {
     "card_id": "E067",
-    "doc_id": "Peb506ad6d125",
     "title": "Precise Dual-Metal Pairs Enable Ultrafast Structural Response for CO2 -to-Ethylene Photoconversion",
     "doi": "10.1021/jacs.5c12465",
     "journal": "Journal of the American Chemical Society",
     "page_count": 11,
     "sha256": "eb506ad6d1253d615ab5a59ea45108ab91e54d0319e9f0acf22b536803b79d58",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1358,13 +1224,11 @@
   },
   {
     "card_id": "E068",
-    "doc_id": "Pd7da53a13b4b",
     "title": "Pulsed potential–assisted Cuδ+ -enriched CuCo@TiO2 enables high-efficiency nitrate electroreduction to ammonia",
     "doi": "10.1016/j.apcatb.2026.126764",
     "journal": "Applied Catalysis B: Environment and Energy",
     "page_count": 12,
     "sha256": "d7da53a13b4b9d70ecfc00b8e16d2aac024178047a0cd6586f0efa25a3a4fcc5",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1377,13 +1241,11 @@
   },
   {
     "card_id": "E069",
-    "doc_id": "Pb5db55f8db3d",
     "title": "Engineering Multivalent Copper Catalysts From Cu‐MOF Towards High‐Performance C2 Electrosynthesis",
     "doi": "10.1002/anie.202524816",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 12,
     "sha256": "b5db55f8db3df0831d17b5ca4a61731576badda8e32a832840e628bf37b684f5",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1398,13 +1260,11 @@
   },
   {
     "card_id": "E070",
-    "doc_id": "Pe021507e36a7",
     "title": "Palladium‐Doping‐Enabled Interface Synergy for Superb Ampere Level Ammonia Electrosynthesis From Nitrate",
     "doi": "10.1002/anie.2794664",
     "journal": "Angewandte Chemie",
     "page_count": 10,
     "sha256": "e021507e36a7fef9791369783919646164f372c69939ff1e1d98e6819fbe8296",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1412,20 +1272,15 @@
       6,
       7
     ],
-    "document_kind": "primary_research",
-    "doi_aliases": [
-      "10.1002/ange.2794664"
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E071",
-    "doc_id": "P2fb88a5ddd55",
     "title": "Plasma-Enabled Electrocatalytic Reduction of Nitrogen Oxides to Ammonia over Cu-N-P Catalysts",
     "doi": "10.1021/acscatal.6c01004",
     "journal": "ACS Catalysis",
     "page_count": 13,
     "sha256": "2fb88a5ddd55bafdee6c8f2ffe8ad17a3964f22ca20ab05f6ebf32a97d9e8a99",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.5；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1441,13 +1296,11 @@
   },
   {
     "card_id": "E072",
-    "doc_id": "P016c77676b18",
     "title": "Insight into the Behavior of Interstitial Electrons in CuZn Alloy‐Functionalized Covalent Organic Framework Catalysts for Enhanced CO2 Electroreduction",
     "doi": "10.1002/anie.202517420",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 15,
     "sha256": "016c77676b180a35d0afcf0fa9c69150e19057626e82e6555ea3cc04284d0fc1",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1461,13 +1314,11 @@
   },
   {
     "card_id": "E073",
-    "doc_id": "P1095c32aa577",
     "title": "Oxygen‐Bridged Dual Catalytic Sites Enable Asymmetric C─C Coupling for Efficient CO2 Electroreduction to Ethanol",
     "doi": "10.1002/anie.202524425",
     "journal": "Angewandte Chemie International Edition",
     "page_count": 13,
     "sha256": "1095c32aa5778b475b03a7e1bac87e834ccb5a1b77bcc55c4aa6848e478ccf25",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1480,13 +1331,11 @@
   },
   {
     "card_id": "E074",
-    "doc_id": "P260c05b50292",
     "title": "Bicarbonate-Dependence for Pd-Catalyzed CO2 Hydrogenation to Formate over an Electronegativity-Induced Bimetallic Center",
     "doi": "10.1021/jacs.5c04023",
     "journal": "Journal of the American Chemical Society",
     "page_count": 15,
     "sha256": "260c05b50292ab82907c12cb6acdc786b0fef17d7d1e2e7b9bf82cc9f5fd0e3e",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1499,13 +1348,11 @@
   },
   {
     "card_id": "E075",
-    "doc_id": "Pff99b6b46988",
     "title": "Synergistic Effects of Fe2 O3 Clusters and Iron Phthalocyanine on Carbon Nanotubes for Enhanced Electrochemical Nitrate Reduction",
     "doi": "10.1002/asia.70496",
     "journal": "Chemistry – An Asian Journal",
     "page_count": 18,
     "sha256": "ff99b6b4698874dc1827e4f96c9d8d3fe0b941f562c0403a2c9e345f6314718d",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1519,13 +1366,11 @@
   },
   {
     "card_id": "E076",
-    "doc_id": "P4bd7988641fb",
     "title": "Ligand-tuning copper in coordination polymers for efficient electrochemical C–C coupling",
     "doi": "10.1038/s41467-024-50791-2",
     "journal": "Nature Communications",
     "page_count": 11,
     "sha256": "4bd7988641fb85fb9a51b3bcb9937ab975cca59a73d4fdb931d1d616e29b9956",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.3；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1539,13 +1384,11 @@
   },
   {
     "card_id": "E077",
-    "doc_id": "Pdeed4ac5b3ca",
     "title": "Ampere-level furfurylamine electrosynthesis enabled by high-density atomic copper sites and a well-engineered electrolysis reactor",
     "doi": "10.1126/sciadv.aed7671",
     "journal": "Science Advances",
     "page_count": 12,
     "sha256": "deed4ac5b3cac6b227fd8b53d137206e2980e676052696a066acb9ebeff14065",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1558,13 +1401,11 @@
   },
   {
     "card_id": "E078",
-    "doc_id": "Pf2ca333171c1",
     "title": "Fullerenes as Unique Modular Carbon Building Blocks for Advanced Electrocatalysis",
     "doi": "10.1002/smtd.202501278",
     "journal": "Small Methods",
     "page_count": 18,
     "sha256": "f2ca333171c1fb932e620213d34d134cbedd4cf91835439468bd9e2b25c946ff",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1576,13 +1417,11 @@
   },
   {
     "card_id": "E079",
-    "doc_id": "Pa76f1e43bc0e",
     "title": "Unraveling the Dynamic Low-Spin State Evolution of Single-Fe-Atom Sites for Efficient CO2 Electroreduction",
     "doi": "10.1021/jacs.5c13466",
     "journal": "Journal of the American Chemical Society",
     "page_count": 10,
     "sha256": "a76f1e43bc0e861d1da9e73b852b8367514e3c9d5001eee00864b13730e005fd",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1596,13 +1435,11 @@
   },
   {
     "card_id": "E080",
-    "doc_id": "P0bd4302250d5",
     "title": "Cu-MOF and CuBi Double-Perovskite Composites for Selective CO2 Electroreduction to HCOOH",
     "doi": "10.1021/acssuschemeng.4c06093",
     "journal": "ACS Sustainable Chemistry & Engineering",
     "page_count": 8,
     "sha256": "0bd4302250d5b449e16abb6a0f8a9c509db8115264f66dfdcf550d08142fb06b",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1616,13 +1453,11 @@
   },
   {
     "card_id": "E081",
-    "doc_id": "P7fc23b885454",
     "title": "Defect-induced triple synergistic modulation in copper for superior electrochemical ammonia production across broad nitrate concentrations",
     "doi": "10.1038/s41467-024-47025-w",
     "journal": "Nature Communications",
     "page_count": 14,
     "sha256": "7fc23b8854548f91cd1fd6fe8009ab4700ef922c0930c06d6715d99de61bb922",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1631,24 +1466,15 @@
       8,
       10
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        4,
-        1
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E082",
-    "doc_id": "P68ead8726aef",
     "title": "Stabilizing Cu0-Cuδ+ sites via ohmic contact interface engineering for ampere-level nitrate electroreduction to ammonia",
     "doi": "10.1038/s41467-025-63996-w",
     "journal": "Nature Communications",
     "page_count": 13,
     "sha256": "68ead8726aeffb79b53a7c06a8fa4aba6af2a1829f71b2ebd4fe053a7d5f0ea9",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1658,24 +1484,15 @@
       8,
       9
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2025,
-        10,
-        8
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E083",
-    "doc_id": "Pe117f33a3452",
     "title": "Insights into lattice oxygen and strains of oxide-derived copper for ammonia electrosynthesis from nitrate",
     "doi": "10.1038/s41467-025-58811-5",
     "journal": "Nature Communications",
     "page_count": 12,
     "sha256": "e117f33a3452a2893fed1bc7c0e114d681f1897c9bd1896f6dd377abcc71c2ad",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1686,24 +1503,15 @@
       11,
       12
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2025,
-        4,
-        11
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E084",
-    "doc_id": "P2837951594d4",
     "title": "Size-effect induced controllable Cu0-Cu+ sites for ampere-level nitrate electroreduction coupled with biomass upgrading",
     "doi": "10.1038/s41467-025-57097-x",
     "journal": "Nature Communications",
     "page_count": 11,
     "sha256": "2837951594d44c1ed1dbc861a16daff05cb99febeb5586916d0622cfb1e1452e",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1712,24 +1520,15 @@
       5,
       8
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2025,
-        3,
-        10
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E085",
-    "doc_id": "P83c229944a1f",
     "title": "Electrosynthesis of NH3 from NO with ampere-level current density in a pressurized electrolyzer",
     "doi": "10.1038/s41467-025-56548-9",
     "journal": "Nature Communications",
     "page_count": 10,
     "sha256": "83c229944a1f558bd9f99580369338945d76d13d7896d207a6b13ffd8d9baedc",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1738,24 +1537,15 @@
       7,
       9
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2025,
-        2,
-        1
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E086",
-    "doc_id": "Pdcb5e1710f76",
     "title": "Isolating Cu-Zn active-sites in Ordered Intermetallics to Enhance Nitrite-to-Ammonia Electroreduction",
     "doi": "10.1038/s41467-024-53897-9",
     "journal": "Nature Communications",
     "page_count": 11,
     "sha256": "dcb5e1710f766086b06dd9a8ded55d13894dc9e1bb7421cb6cda7c6a90649091",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1764,24 +1554,15 @@
       5,
       9
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        11,
-        23
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E087",
-    "doc_id": "P8e2389aa94fe",
     "title": "Efficient tandem electroreduction of nitrate into ammonia through coupling Cu single atoms with adjacent Co3O4",
     "doi": "10.1038/s41467-024-48035-4",
     "journal": "Nature Communications",
     "page_count": 11,
     "sha256": "8e2389aa94fe8ef409e7bff997a0448897fd6a08860ee05d5d174ad39f5a0ba3",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1791,24 +1572,15 @@
       6,
       8
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        4,
-        29
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E088",
-    "doc_id": "Pbd3f8db0a2bd",
     "title": "Sustainable conversion of alkaline nitrate to ammonia at activities greater than 2 A cm−2",
     "doi": "10.1038/s41467-024-45534-2",
     "journal": "Nature Communications",
     "page_count": 12,
     "sha256": "bd3f8db0a2bd084bd57a1926fe6e7f8a74facffde97e242bb7072ddc66ad7e5e",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.6；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1818,24 +1590,15 @@
       6,
       7
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        2,
-        10
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E089",
-    "doc_id": "P936dce839129",
     "title": "Integrating few-atom layer metal on high-entropy alloys to catalyze nitrate reduction in tandem",
     "doi": "10.1038/s41467-024-53427-7",
     "journal": "Nature Communications",
     "page_count": 12,
     "sha256": "936dce83912954b519e73a22111684a83425fc62eb775f1d589738432a68fcf5",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1845,24 +1608,15 @@
       8,
       11
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        10,
-        18
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E090",
-    "doc_id": "P916f6b78ccca",
     "title": "Unconventional phase metal heteronanostructures with tunable exposed interface for efficient tandem nitrate electroreduction to ammonia",
     "doi": "10.1038/s41467-025-63013-0",
     "journal": "Nature Communications",
     "page_count": 14,
     "sha256": "916f6b78ccca58d615ce1eb10644cb6430c99f4caa5cb535168508882c47b23d",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。 另目视核查PDF pp.6；仅这些页计为图像/版面核查。",
     "read_pages": [
       1,
@@ -1872,24 +1626,15 @@
       7,
       9
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2025,
-        8,
-        16
-      ]
-    ]
+    "document_kind": "primary_research"
   },
   {
     "card_id": "E091",
-    "doc_id": "P8b2cf99705c2",
     "title": "Ampere-level reduction of pure nitrate by electron-deficient Ru with K+ ions repelling effect",
     "doi": "10.1038/s41467-024-55230-w",
     "journal": "Nature Communications",
     "page_count": 12,
     "sha256": "8b2cf99705c26ecafde1768eb76a192723bee56acca4d4371129b740f7f4576d",
-    "identity_status": "printed DOI in PDF; source SHA256 checked",
     "read_scope": "问题导向的正文重点句段阅读（机制/结果/条件/边界），非全文逐页精读；SI 与原始图像未另计已读，除非另列核查记录。",
     "read_pages": [
       1,
@@ -1898,13 +1643,576 @@
       7,
       11
     ],
-    "document_kind": "primary_research",
-    "crossref_published_date": [
-      [
-        2024,
-        12,
-        30
-      ]
-    ]
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E092",
+    "title": "Spin state and orbital engineering of cuprous oxide for efficient nitrate reduction.",
+    "doi": "10.1038/s41467-026-76420-8",
+    "journal": "Nature communications",
+    "date": "2026-08-15",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 65,
+    "sha256": "683c73c759d8cfb3b74c497549ca89c7191c8a10a259383df782a708f6908e6a",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      15,
+      30,
+      49,
+      63
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E093",
+    "title": "Operando Cu Aggregation-Induced Spin State Modulation in Fe-Cu Single Atom Catalyst for Enhanced Tandem Electrochemical Nitrate Reduction Reaction.",
+    "doi": "10.1021/jacs.6c00705",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2026-04-01",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 42,
+    "sha256": "3b5f1faae17324c53f52b7a4cee01626af2c84658c7d4b4a2a9843155b35e8e5",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      6,
+      14,
+      41
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E094",
+    "title": "Reverse hydrogen spillover accelerates electrocatalytic nitrate reduction to ammonia on Ru/WO3-x in acidic media.",
+    "doi": "10.1038/s41467-026-69335-x",
+    "journal": "Nature communications",
+    "date": "2026-02-16",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 77,
+    "sha256": "31c2dd0ca29f85e606d9ce9a94f5cde676e12c2a004bb5b11c0ed43fb7252e3b",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      22,
+      34,
+      41,
+      58,
+      64,
+      74,
+      75
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E095",
+    "title": "Multi-modal characterization of nitrate reduction nano-catalysts with periodic strain distribution.",
+    "doi": "10.1038/s41467-026-70447-7",
+    "journal": "Nature communications",
+    "date": "2026-03-11",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 72,
+    "sha256": "433e0ca40c1d10808205bde86539efd39356ce18f91e7a210b790fd2bd984ff7",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      10,
+      14,
+      23,
+      46,
+      70
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E096",
+    "title": "Aryl sulfur ligand-modulated silver catalysts with tailored binding affinity for selective nitrate-to-ammonia conversion.",
+    "doi": "10.1038/s41467-026-69385-1",
+    "journal": "Nature communications",
+    "date": "2026-02-10",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 59,
+    "sha256": "c26d3a64758ad80cdacb689f9a442d406f672c0ae544b76146cd90fd0f0c5aa9",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      11,
+      19,
+      27,
+      45,
+      57
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E097",
+    "title": "Electrocatalytic Nitrate Reduction to Hydroxylamine: Breaking the Activity-Selectivity Trade-Off by Designer Bifunctional Metal-Organic Frameworks.",
+    "doi": "10.1002/anie.202518171",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-02-04",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 47,
+    "sha256": "070b1e09ba46b75075cb85c30f95bd773b9f04d30076250c423eff0a7070b055",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      9,
+      14,
+      38,
+      43
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E098",
+    "title": "Unravelling the Ru-promoted dynamic evolution of Cobalt hydroxide during nitrate reduction towards ammonia production.",
+    "doi": "10.1038/s41467-026-70531-y",
+    "journal": "Nature communications",
+    "date": "2026-03-17",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 63,
+    "sha256": "4508d11065c96def11d3ffdaafc24baae6a29deae86623ad0310e91fffbabffe",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      4,
+      6,
+      23,
+      47,
+      60
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E099",
+    "title": "The Intricate Sabatier Optimality of Anion Electroreduction and Its Consequences for Nitrate Reduction.",
+    "doi": "10.1002/anie.3566312",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-05-07",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 51,
+    "sha256": "334b3dd593b4958cf9892cb82b52312ea4d0647a9f8621cf9feaebdafa59760a",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      6,
+      15,
+      23,
+      30,
+      51
+    ],
+    "document_kind": "primary_theoretical_research"
+  },
+  {
+    "card_id": "E100",
+    "title": "Langmuir-Hinshelwood pathway enables 1000-h stable nitrate-to-ammonia electroreduction at 1 A cm-2.",
+    "doi": "10.1038/s41467-026-74321-4",
+    "journal": "Nature communications",
+    "date": "2026-06-09",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 74,
+    "sha256": "9c7d04b1d76468f9ed95d4d2ced5ab6e4a565b34a49548dff1ae8d61e846679e",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      10,
+      21,
+      24,
+      47,
+      70
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E101",
+    "title": "The Key Steps and Distinct Performance Trends of Pyrrolic vs Pyridinic M-N-C Catalysts in Electrocatalytic Nitrate Reduction.",
+    "doi": "10.1021/jacs.5c09199",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-07-09",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 49,
+    "sha256": "d50adf2764e956e5175cbd0926311d7a81e630443cc929fa8b14d8880129e2d7",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      21,
+      23,
+      27,
+      31,
+      46
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E102",
+    "title": "Hydroxyl-rich nanocavities on perovskite enable nearly barrierless intramolecular hydrogen transfer for nitrate electroreduction to ammonia.",
+    "doi": "10.1038/s41467-026-74405-1",
+    "journal": "Nature communications",
+    "date": "2026-06-29",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 69,
+    "sha256": "c89820157b3ee9e741a20b871e54659c67edd9842d4c34a2d214ada2c897f721",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      7,
+      28,
+      67
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E103",
+    "title": "Dynamic catalytic interface driven three-step synergistic mechanism for boosting ammonia and hydroxylamine synthesis.",
+    "doi": "10.1038/s41467-026-75665-7",
+    "journal": "Nature communications",
+    "date": "2026-07-21",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 100,
+    "sha256": "073de795d5be92042be8917f052bdf01a62bfc9017db6cc903a1511fa71895e4",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      7,
+      29,
+      56,
+      60,
+      97
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E104",
+    "title": "Modulating the Nitrate Reduction Pathway on Unconventional Phase Ultrathin Nanoalloys for Selective Ammonia Electrosynthesis.",
+    "doi": "10.1021/jacs.5c07490",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-06-19",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 50,
+    "sha256": "87f1f8493784231a753efb270bd62fd95f37789c12e8ae8c64186cd4dd8a9ee5",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      11,
+      43
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E105",
+    "title": "Ketazine-Linked Covalent Organic Framework for Metal-Free Electrocatalytic Nitrate-to-Ammonia Conversion.",
+    "doi": "10.1002/anie.6570629",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-06-03",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 46,
+    "sha256": "cc3f34cb3dd5a2d75c0c7afb797a365353d1f21c1d0cf5b0c5c39d04422bf1b2",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      22,
+      37,
+      44
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E106",
+    "title": "Atomically Dispersed Cobalt on Ionic Carbon Nitrides for Selective and Efficient Nitrate Electroreduction to Ammonia.",
+    "doi": "10.1002/anie.2543286",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2026-03-09",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 24,
+    "sha256": "9479bb00084e7e6e18ed015f23a831a70947742df8d2422352782f05073024ee",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      10,
+      12,
+      18,
+      23
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E107",
+    "title": "In-situ electrochemical reconstruction and modulation of adsorbed hydrogen coverage in cobalt/ruthenium-based catalyst boost electroreduction of nitrate to ammonia.",
+    "doi": "10.1038/s41467-024-52780-x",
+    "journal": "Nature communications",
+    "date": "2024-10-03",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 64,
+    "sha256": "3459dc6b7b2c209cf0f6e6998fdb242352e9a0827c1cbeabcaad64af87eb00a5",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      11,
+      28,
+      62
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E108",
+    "title": "Fast Seawater Desalination Driven by Efficient Nitrate Reduction via Bimetallic Iron/Zinc Polyphthalocyanine Frameworks.",
+    "doi": "10.1002/anie.202506712",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2025-06-30",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 47,
+    "sha256": "c690ead64909f10178fb226482a0bc1457f8af597e9243a9cf3ce2156e964999",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      13,
+      14,
+      15,
+      45
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E109",
+    "title": "Tiara Ni Clusters for Electrocatalytic Nitrate Reduction to Ammonia with 97% Faradaic Efficiency.",
+    "doi": "10.1021/jacs.5c04950",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-06-20",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 38,
+    "sha256": "0f5958206bc70f603a5df643f6bc74fa4d4dc3932d9215ff5614aff1fefef181",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      8,
+      27,
+      35
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E110",
+    "title": "Reaction-driven formation of anisotropic strains in FeTeSe nanosheets boosts low-concentration nitrate reduction to ammonia.",
+    "doi": "10.1038/s41467-025-58940-x",
+    "journal": "Nature communications",
+    "date": "2025-04-16",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 54,
+    "sha256": "80e5302122d952f9afa41c6211f996d64d717cbe34629dc8b6d0d88b8ae771f4",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      16,
+      25,
+      41,
+      44,
+      52
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E111",
+    "title": "Gradient-concentration RuCo electrocatalyst for efficient and stable electroreduction of nitrate into ammonia.",
+    "doi": "10.1038/s41467-024-50670-w",
+    "journal": "Nature communications",
+    "date": "2024-07-25",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 60,
+    "sha256": "0bbfb4a69ded29d51ab489ec1661280824d4fa799f026873d7f53077b1b9224b",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      6,
+      11,
+      29,
+      44,
+      57
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E112",
+    "title": "Lattice hydrogen transfer in titanium hydride enhances electrocatalytic nitrate to ammonia conversion.",
+    "doi": "10.1038/s41467-024-53833-x",
+    "journal": "Nature communications",
+    "date": "2024-11-03",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 38,
+    "sha256": "7463146f1232f03a2872684d1ae8cc405ea205f21439fdc64c0b7495a17d898c",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      11,
+      21,
+      36
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E113",
+    "title": "Maximized atom utilization in a high-entropy metallene via single atom alloying for boosted nitrate electroreduction to ammonia.",
+    "doi": "10.1038/s41467-025-63317-1",
+    "journal": "Nature communications",
+    "date": "2025-08-25",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 56,
+    "sha256": "6f701778c1b7cabb797ec7f4d1444362a671dadc3868ae51569579a1380d9245",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      12,
+      14,
+      44,
+      54
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E114",
+    "title": "Dynamic Reconstruction and Microenvironment Modulation of a Pd-Doped CuS Electrocatalyst for Nearly Unity-Efficiency Ammonia Electrosynthesis from Nitrate.",
+    "doi": "10.1021/jacs.5c16232",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-11-06",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 26,
+    "sha256": "5a41e8f6ccb649b769f9cacd7d754e3254e7bbee77ae25d6ee03993008a9c159",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      7,
+      21,
+      24
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E115",
+    "title": "Well-Defined Cu Precatalysts Indicate Design Rules for Reactivity in Nitrate Electroreduction.",
+    "doi": "10.1021/jacs.5c09246",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-09-22",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 48,
+    "sha256": "95cba843dbc15fd4f25380f3dd7ca62059f3f2daad4a88cfc77988d20de5e41f",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      13,
+      34,
+      37,
+      45
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E116",
+    "title": "Revealing and modulating catalyst reconstruction for highly efficient electrosynthesis of ammonia.",
+    "doi": "10.1038/s41467-025-61075-8",
+    "journal": "Nature communications",
+    "date": "2025-07-04",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 91,
+    "sha256": "6e90ce3d08ee9dc2668ad682fb68d0e97655851edfe9f6f12f5d0ce9533395f6",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      5,
+      9,
+      55,
+      88
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E117",
+    "title": "Cascade Electrocatalytic Reduction of Nitrate to Ammonia Using Bimetallic Covalent Organic Frameworks with Tandem Active Sites.",
+    "doi": "10.1002/anie.202507956",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "date": "2025-06-18",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 48,
+    "sha256": "a6f8f479c4b941db2ce8bd09730dbb88e1818818429eb6ba12a705f6a134d839",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      7,
+      31,
+      46
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E118",
+    "title": "Mechanical and Covalent Tailoring of Copper Catenanes for Selective Aqueous Nitrate-to-Ammonia Electrocatalysis.",
+    "doi": "10.1021/jacs.4c18547",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-04-22",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 51,
+    "sha256": "a033f06cf640a68f68ca1c3b4185f0c305dca6b8dd8c8157b32440202fd532bb",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      7,
+      17,
+      21,
+      48
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E119",
+    "title": "Modulating Ru-Co bond lengths in Ru1Co single-atom alloys through crystal phase engineering for electrocatalytic nitrate-to-ammonia conversion.",
+    "doi": "10.1038/s41467-025-61232-z",
+    "journal": "Nature communications",
+    "date": "2025-07-01",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 118,
+    "sha256": "47a30929f4cf55c0a94a67d6b43bb1ae101d72ea0b4dacfe89565d5c7ac8c35b",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      6,
+      18,
+      115
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E120",
+    "title": "Unlocking a Water Coordination Environment in Co-Based Metal-Organic Frameworks for Advanced Nitrate-to-Ammonia Electroreduction.",
+    "doi": "10.1021/jacs.5c07066",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-08-06",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 36,
+    "sha256": "e06aaaaf692b45ecf634368b2406d4a66982ff0f2dd278939acb770c3e9427c4",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      26,
+      34
+    ],
+    "document_kind": "primary_research"
+  },
+  {
+    "card_id": "E121",
+    "title": "Selective electrosynthesis of hydroxylamine from aqueous nitrate/nitrite by suppressing further reduction.",
+    "doi": "10.1038/s41467-024-54204-2",
+    "journal": "Nature communications",
+    "date": "2024-11-12",
+    "source_format": "JATS XML",
+    "source_locator_kind": "indexed JATS body paragraph / figure caption; 1 based, NOT PDF page",
+    "locator_count": 49,
+    "sha256": "adf0754d2be88525991971408736e00f827dca5053b323be86dfdb58bc8b0ee6",
+    "read_scope": "Focused body passages (some passage heads), selected figure and caption, plus main-text software keyword checks; not full-text/SI review.",
+    "read_units": [
+      13,
+      14,
+      17,
+      36,
+      46
+    ],
+    "document_kind": "primary_research"
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "new_source_doi_hash_checks": 30,
+  "new_claims": 90,
+  "source_formats_separate": true,
+  "correct_xml_and_pdf_retrieval": true,
+  "wrong_locator_type_rejected": true,
+  "out_of_bounds_rejected": true,
+  "disclosure_filter": "VESTA returns explicit main-text disclosure cards E096 and E100",
+  "visual_originals": 30,
+  "review_scope": "one original figure each; focused passage review; SI not reviewed"
+}

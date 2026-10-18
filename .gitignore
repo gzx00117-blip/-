@@ -1,5 +1,12 @@
 # Local copyrighted sources and extraction artifacts
 *.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.webp
+*.zip
 *.sqlite
 *.sqlite-*
 *.db
@@ -14,6 +21,7 @@ local_config.json
 __pycache__/
 *.pyc
 validation_deps/
+runtime_deps_local/
 .env
 .env.*
 *.pem

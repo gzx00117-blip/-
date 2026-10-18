@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "checked": "Physical size, vector text, font embedding, PNG pixels, synthetic marker, canvas bounds. Human visual review is separate.",
+  "results": [
+    {
+      "profile": "jacs",
+      "pdf_width_mm": 177.79999999999998,
+      "pdf_height_mm": 116.00000000000165,
+      "svg_text_nodes": 48,
+      "png_pixels": [
+        4200,
+        2740
+      ],
+      "font_resources": [
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        }
+      ],
+      "outside_text": []
+    },
+    {
+      "profile": "angew",
+      "pdf_width_mm": 178.0000000000147,
+      "pdf_height_mm": 116.00000000000165,
+      "svg_text_nodes": 48,
+      "png_pixels": [
+        4204,
+        2740
+      ],
+      "font_resources": [
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        }
+      ],
+      "outside_text": []
+    },
+    {
+      "profile": "ncomms",
+      "pdf_width_mm": 179.99999999998556,
+      "pdf_height_mm": 116.00000000000165,
+      "svg_text_nodes": 48,
+      "png_pixels": [
+        4251,
+        2740
+      ],
+      "font_resources": [
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        },
+        {
+          "type": "/Type0",
+          "embedded": true
+        }
+      ],
+      "outside_text": []
+    }
+  ],
+  "errors": []
+}

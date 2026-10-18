@@ -8,18 +8,27 @@ def main():
         if not cond: errors.append(msg)
     status=json.loads((ROOT/'analysis'/'library_status.json').read_text(encoding='utf-8'))
     check(len(c)==status['papers'],'Paper count differs from snapshot manifest')
-    check(len([x for x in c if int(x['card_id'][1:])>=32])==status['new_papers'],'New batch count mismatch')
+    check(len([x for x in c if int(x['card_id'][1:])>=status.get('new_start_id',32)])==status['new_papers'],'New batch count mismatch')
     check(len({x['doi'].lower() for x in c})==len(c),'Duplicate DOI')
     check(len({x['card_id'] for x in c})==len(c),'Duplicate card ID')
     for x in c:
         cid=x['card_id']
         check(bool(re.fullmatch(r'10\.\d{4,9}/\S+',x['doi'])),cid+' DOI format')
         check(bool(re.fullmatch(r'[a-f0-9]{64}',x['sha256'])),cid+' source hash')
-        check(all(1<=p<=x['page_count'] for p in x['read_pages']),cid+' reading bounds')
+        xml=x.get('source_format')=='JATS XML'
+        read=x.get('read_units',[]) if xml else x.get('read_pages',[])
+        count=x.get('locator_count',0) if xml else x.get('page_count',0)
+        check(bool(read) and all(1<=p<=count for p in read),cid+' reading bounds')
+        if xml:check('page_count' not in x and 'read_pages' not in x,cid+' XML mislabelled as PDF pages')
         check(bool(x['read_scope']),cid+' scope missing')
         for claim in x['claims']:
-            check(bool(claim['statement'] and claim['type'] and claim['pages']),cid+' incomplete claim')
-            check(all(p in x['read_pages'] for p in claim['pages']),cid+' claim outside reading range')
+            loc=claim.get('units',[]) if xml else claim.get('pages',[])
+            check(bool(claim['statement'] and claim['type'] and loc),cid+' incomplete claim')
+            check(all(p in read for p in loc),cid+' claim outside reading range')
+        if xml:
+            v=x.get('visual_review',{})
+            check(bool(v.get('observed') and v.get('recommended_software') and v.get('figure_id')),cid+' visual review missing')
+            check(v.get('caption_unit') in read,cid+' figure caption outside read scope')
         for key in ('conditions','mechanism','limits','writing','figure','experiment'):
             check(bool(x[key]),cid+' missing '+key)
         check((ROOT/'cards'/f'{cid}.md').exists(),cid+' markdown missing')
@@ -28,11 +37,12 @@ def main():
         ids=[x['card_id'] for x in search(q,8)]
         checks[q]=ids; check(expected in ids,'Retrieval failed '+q)
     # A portable repository should have only authored text and executable helpers.
-    allowed={'.md','.json','.py','.gitignore'}
+    allowed={'.md','.json','.py','.gitignore','.svg','.csv','.txt'}
     tracked=[]
     for p in ROOT.rglob('*'):
         rel=p.relative_to(ROOT)
         if not p.is_file() or any(s in rel.parts for s in ('.git','__pycache__','backups_local')) or p.name=='local_config.json': continue
+        if rel.parts[:2]==('figure_examples','generated') and p.suffix in ('.png','.pdf'): continue
         check(p.suffix in allowed or p.name=='.gitignore','Unexpected portable artifact '+str(rel))
         if p.suffix in ('.md','.json','.py'):
             s=p.read_text(encoding='utf-8')

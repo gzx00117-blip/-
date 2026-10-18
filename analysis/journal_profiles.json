@@ -1,0 +1,30 @@
+{
+  "verified_on": "2026-10-18",
+  "scope": "Main research figures. Target journal, article type and submission stage must be checked again before submission. Presets below are our working choices, not editorial acceptance criteria.",
+  "profiles": {
+    "jacs": {
+      "journal": "Journal of the American Chemical Society",
+      "official_source": "https://researcher-resources.acs.org/publish/author_guidelines?coden=jacsat",
+      "source_version": "2026-10-05",
+      "official": {"single_max_pt": 240, "double_range_pt": [300,504], "min_lettering_pt":4.5, "min_line_pt":0.5, "raster_dpi":{"line_art":1200,"grayscale":600,"color":300}},
+      "working_preset": {"single_mm":84.6666667,"double_mm":177.8,"font_pt":8,"panel_pt":10,"line_pt":1.0,"axis_pt":0.6,"font":"Arial"}
+    },
+    "angew": {
+      "journal": "Angewandte Chemie International Edition",
+      "official_source": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/graphics-guidelines",
+      "notice_source": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors",
+      "source_version": "graphics 09/26; notice 10/26",
+      "official": {"single_max_mm":84,"double_max_mm":178,"lettering_guidance_pt":[7,8],"embedded_raster_min_dpi":300,"toc_common_mm":[55,50]},
+      "unresolved": "Landscape TOC width differs: graphics guide 110 mm, notice 115 mm, both height25 mm. Use common55x50 mm training canvas or confirm latest template.",
+      "working_preset": {"single_mm":84,"double_mm":178,"font_pt":7.5,"panel_pt":10,"line_pt":1.0,"axis_pt":0.6,"font":"Arial"}
+    },
+    "ncomms": {
+      "journal": "Nature Communications",
+      "official_source": "https://www.nature.com/ncomms/submit/how-to-submit",
+      "official": {"single_mm":88,"double_mm":180,"bitmap_min_dpi":300,"nonvector_line_art_fallback_dpi":1200,"line_art_preferred":"vector EPS/AI/PDF","font":"consistent clear sans-serif","background":"white"},
+      "working_preset": {"single_mm":88,"double_mm":180,"font_pt":7.5,"panel_pt":10,"line_pt":1.0,"axis_pt":0.6,"font":"Arial"}
+    }
+  },
+  "shared_working_choices": {"palette":{"control":"#555555","modified":"#0072B2","reference":"#D55E00"},"redundant_encoding":["marker shape","line style","direct labels"],"export":"editable SVG, embedded-font PDF, 600dpi PNG preview; vector retains exact physical size"},
+  "not_inferred": ["Authors' unreported plotting software", "Editors' private preferences or reason for acceptance", "Universal Nature-family dimensions", "Main-figure dimensions from cover/TOC dimensions"]
+}
