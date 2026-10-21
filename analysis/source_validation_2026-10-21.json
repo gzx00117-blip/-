@@ -1,0 +1,221 @@
+{
+  "ok": true,
+  "doi_identity_checks": 30,
+  "xml_hash_checks": 30,
+  "original_media_hash_checks": 30,
+  "si_hash_checks": 6,
+  "si_selected_pages": 24,
+  "locator_schema": "main JATS units separate from SI physical PDF pages",
+  "checks": [
+    {
+      "card_id": "E122",
+      "doi": "10.1038/s41467-025-57563-6",
+      "xml_sha256": "013fa9dbd06ca6da173ff316a938d865874906fe708b16a1a3579ac324283451",
+      "media_sha256": "c94465136b2c55a56bab9919ed6d27697835458204fde3bb8be3af6214d50007",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E123",
+      "doi": "10.1038/s42004-025-01691-z",
+      "xml_sha256": "a5db3642ad2722815ff84a006874001c4dae17fa06ceaff8d49d2a37275dcdf5",
+      "media_sha256": "873ab78a6ec68a24c53f2d4a11039a494aac8b4ac55c20eb01719d878713915f",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E124",
+      "doi": "10.1038/s41467-026-75519-2",
+      "xml_sha256": "51cf422f4c5c25e43e5799d7255eb7092f2271f3ca489bb6853ef79275618dfd",
+      "media_sha256": "881e7c56d41073da7f96c330b242029f481ed593f1195fc41928fd478dc9e562",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E125",
+      "doi": "10.1038/s41467-025-65614-1",
+      "xml_sha256": "4a95fda2b22d33c705152fa4290645822d021b43a2c590618c42514f749bdf72",
+      "media_sha256": "3343b0b44b471179e9c5cf00845f3cf17e4bfdce118f7d5461fefd6efb0dedcd",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E126",
+      "doi": "10.1038/s41467-024-52499-9",
+      "xml_sha256": "6db0af1557d29e3c2d353031c4a1f9a6b60a59b799c1215619b9754f1557732a",
+      "media_sha256": "aae5cd9204b6da4f477116ccd8f97a4da3da2f8e3b42677e73b5d3d19cfd5242",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E127",
+      "doi": "10.1038/s41467-025-67494-x",
+      "xml_sha256": "67f860f936d23abb7860e3bf80a52803f694d6642072b53b763c3824f7885228",
+      "media_sha256": "bcba74fda9e5467bfddb267c7eac0dc890f3ef22bcb7f3ddc007d905c1c4e0f1",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E128",
+      "doi": "10.1126/sciadv.aeb9828",
+      "xml_sha256": "d96f037ef552d15f268174fe50c121dc2cdc2a73e1a39e44878831cabb7a5b8e",
+      "media_sha256": "5658381dcf0574f7c06ff99799879fd5a371acb5ab2675bbe40b0777937323d1",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E129",
+      "doi": "10.1038/s41467-026-74392-3",
+      "xml_sha256": "a63d9cd9b4c243a7fd7068c5f7ca4ad824d5c758361169f4bf54f0542572e5c1",
+      "media_sha256": "01ed16504f2cc24983f65398817035fdf3a8f0d7c560d3bf86211d6df41a7515",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E130",
+      "doi": "10.1039/d6sc00812g",
+      "xml_sha256": "4ac97a6cd0148d9c1d48e1ea7b1ed5c2040f445e222de6d96f0e5197de14e7b2",
+      "media_sha256": "2020dc8dfdca45e6c4ee7e993142f2ff01001dfb183ece364319b1d9c95656e7",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E131",
+      "doi": "10.1021/jacs.5c22508",
+      "xml_sha256": "46e1dc01606890c6c8a0f467d6e1a53a9ba9123b2854d140b68afbd8f5bbb838",
+      "media_sha256": "308312d4cdfa95089758b4c5fcb33820cb78fa02c5c9e66f2f0497fbafe867e2",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E132",
+      "doi": "10.1038/s41467-025-58871-7",
+      "xml_sha256": "6fddd795ac5b160d16d8fee7c5343720fc398f696bb73d6bd0af76af755f16b1",
+      "media_sha256": "abb7c5062d1b90b0020619220119fb4af4ccc9366b116ca8ac11be4f88032d74",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E133",
+      "doi": "10.1021/jacs.4c13494",
+      "xml_sha256": "095b0702b6cb34d030d32a9ce6c008f4c048079d989344f58df875f425e98082",
+      "media_sha256": "b79d7493049a36b131db9b46c4dcfbee922e65ba9de12ce897647da4f4b49f02",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E134",
+      "doi": "10.1021/jacs.5c11313",
+      "xml_sha256": "0ad817fe9ce953969dcf9c90f7d25f72f2a3297b74a5da3cfd2f9b8460cdffa7",
+      "media_sha256": "5f8f881614f96b4ac5b5e85019018c22d2f6a7e03f8f5164fe1a17c27cffef9d",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E135",
+      "doi": "10.1002/anie.202504630",
+      "xml_sha256": "5043e12caa514c34ee2e037fd28c7ddb085cb62a9967c708e783a32cba88a1ff",
+      "media_sha256": "6482b22273b18df503fc8f6b17fef68038852c69d2055438fa8501af49c898f9",
+      "si_hash_checked": true
+    },
+    {
+      "card_id": "E136",
+      "doi": "10.1002/anie.202423177",
+      "xml_sha256": "259e54b387307e92c2940566ae40496c009101e094d9e5d2fb1e1e7368980337",
+      "media_sha256": "b4318f5528b145b3607018153e9e8b81ce3b5d569fbaf04ed9522719323eebbf",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E137",
+      "doi": "10.1038/s41467-025-59052-2",
+      "xml_sha256": "f5b648c5aae0f22f108f68a04b0396f2d63854b4e16f124f61cff5661390e71b",
+      "media_sha256": "cb09ca2a9a058f94334c00c85bee8d4e41b77c1b9c9d2227b1cd1e8332ffc467",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E138",
+      "doi": "10.1038/s41467-025-55889-9",
+      "xml_sha256": "b0e533e68dda736ddfcd7e0b1947f406aeb5cbaf1d90038babf4a49e6cbf4ce8",
+      "media_sha256": "78cce831ccf5f3d9e3ef8b9c67217e755f5ecefd38a5190fbe70c015f01fa87f",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E139",
+      "doi": "10.1038/s41467-025-60671-y",
+      "xml_sha256": "b5139355d9359dfe7766a3d01330475299038370b1b0183ed34437f24d594740",
+      "media_sha256": "e06cb4fd012a26380d86f0a793c5ea5d93c62e21d3f061ccba2ae645eda5b0d5",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E140",
+      "doi": "10.1038/s42004-024-01151-0",
+      "xml_sha256": "d796d9e8e9c7671041da52c569edd331aad9ec50b5ea2a0f306ef7adc7cdd85d",
+      "media_sha256": "12afea96340a96940998a3336ef4357984b03a0d25417792432f6f5abe881eae",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E141",
+      "doi": "10.1038/s41467-025-60636-1",
+      "xml_sha256": "51222375cd2858ffa99ffaacf93c391acf35dfad8c549e49b967d9f9b3d33d9c",
+      "media_sha256": "8229ea096059088e35d87af4794b1b9a25da937c90934068bb64e2f93256fd18",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E142",
+      "doi": "10.1039/d6sc03311c",
+      "xml_sha256": "63607cfa10022478096e98d718e9032c25a6aae1c8585c84e0588c25d2250dc1",
+      "media_sha256": "2a1a691da6091aea9a2de82d744e16b4b5e9ec62261ab8322915daa13cf30323",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E143",
+      "doi": "10.1039/d6sc01645f",
+      "xml_sha256": "4feca2e0c99b8b2cad297f2818e3461ba70bc114b9e7f07966301e3e1c317e10",
+      "media_sha256": "34fe00249105e878f52c6afde888d5762bd4b3e54f7e96bba13b345bd7d78f1e",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E144",
+      "doi": "10.1039/d5sc07183f",
+      "xml_sha256": "65246bde05ae369c27bf7777cc9e7e742900089a2ccef9e1d1b67092f44b521c",
+      "media_sha256": "6a82c45b10f92d7b89e1a09b44630908dffa5719d878db5bebb6362e8fc68b8d",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E145",
+      "doi": "10.1039/d5sc09647b",
+      "xml_sha256": "5737c1556d9bc5d022425cf036a1d3ad9c7bd12137f6d3ccbad0ff1c3443bd61",
+      "media_sha256": "4c62c7d61a56d0a8a20085a698539ed08feeddf262b01631519d895a4451427a",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E146",
+      "doi": "10.1021/jacs.5c00316",
+      "xml_sha256": "39850bebf2a3beb7d16fed72841a95410723025ae601d2a67a2afc92b8929af9",
+      "media_sha256": "e703ba16c93964e7f2430ba3e72fdaf03f31f844e21257eca02c5b3589090f79",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E147",
+      "doi": "10.1002/anie.9278631",
+      "xml_sha256": "c029f1dd34f6d2071bebebeb39d7f087d954e5e117887a177c18304f57a029bd",
+      "media_sha256": "32e7ed7f39020ac00250d0996c260b3e068a2ed35b8d3f11ac85b5e398346a8d",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E148",
+      "doi": "10.1021/jacs.5c12205",
+      "xml_sha256": "4e93dff7b601a306fdd29b8b9f4a0ffbc120fa508c4b5fc10db70e1584a745c2",
+      "media_sha256": "7dd51739422884a3be3fd00f3564722e5ba34e84ab8bd0b316ed70ee05406d6f",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E149",
+      "doi": "10.1038/s41467-025-64286-1",
+      "xml_sha256": "95808e72368f75e0268162793ef558de80c69ed900fd33025f85b6aeba32cec5",
+      "media_sha256": "836865bf2fba7a3bd377d7d3634bc7b85f06dc6023f3064b9f11471bb36d76e4",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E150",
+      "doi": "10.1039/d6sc01428c",
+      "xml_sha256": "7714f5180fe3802c95b65d46dbe354450ff2694f6b9c24bd1c05716120739c45",
+      "media_sha256": "c8af273a970be272576cde82383cde93a779c10b63324da4b28d46f0fd990757",
+      "si_hash_checked": false
+    },
+    {
+      "card_id": "E151",
+      "doi": "10.1039/d5sc04774a",
+      "xml_sha256": "073c831ccd554f5cdf1238cf30185f74766f0ef3b0f155a20319b97406bdf696",
+      "media_sha256": "1d72a520991024c52bcb068c6b8815da0334c9b7a998b17bb3a7fb325281e78a",
+      "si_hash_checked": false
+    }
+  ]
+}

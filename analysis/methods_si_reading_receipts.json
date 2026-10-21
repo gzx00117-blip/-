@@ -1,0 +1,92 @@
+[
+  {
+    "card_id": "E124",
+    "source_sha256": "6110b4fb168c0174279c0c25d2e64627f32f816535b3616d19369917f213fec3",
+    "source_filename": "41467_2026_75519_MOESM1_ESM.pdf",
+    "page_count": 60,
+    "read_pages": [
+      5,
+      7,
+      11,
+      12
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "表2跨产品/批次的NH4–N本底不同；表4三次测量来自同批；IB与NMR校准标签以N计。"
+  },
+  {
+    "card_id": "E125",
+    "source_sha256": "0f38ff675365c4f4246495b99bc869d705d7ce2224fd0d7785efa67a9bb08eb6",
+    "source_filename": "41467_2025_65614_MOESM1_ESM.pdf",
+    "page_count": 48,
+    "read_pages": [
+      3,
+      10,
+      36
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "首/后循环差分用以扣除背景；p.36的稳定性属于作者解释，积分重现不能排除全部重构。"
+  },
+  {
+    "card_id": "E131",
+    "source_sha256": "e3bce3e1f63ad471ffce058a41a7263d5de8ff464729b8eb1c060c2c9d7eb878",
+    "source_filename": "ja5c22508_si_001.pdf",
+    "page_count": 13,
+    "read_pages": [
+      6,
+      8,
+      9,
+      12
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "三次来自同晶圆不同区域；共聚焦采用20 μM染料并分析35 s后数据；存在Beer–Lambert修正及不同方向电极的pH修正。"
+  },
+  {
+    "card_id": "E133",
+    "source_sha256": "f43e09f2b0adb4ef9acbaab8b2efcfe627417708d1484ab554416790e08a1c75",
+    "source_filename": "ja4c13494_si_001.pdf",
+    "page_count": 45,
+    "read_pages": [
+      4,
+      5,
+      6,
+      30,
+      31
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "CO剥离以40 min产CO—3 min氧化—1 s短回扫—3 min背景的差分积分；COMSOL忽略近表面对流且设特定润湿边界。"
+  },
+  {
+    "card_id": "E134",
+    "source_sha256": "0ac2009de92841e49b987be00b691c9dd617b28c03d631bb13e3c098634745ea",
+    "source_filename": "ja5c11313_si_001.pdf",
+    "page_count": 51,
+    "read_pages": [
+      2,
+      3,
+      4,
+      27
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "无重氮盐OH浸泡对照已提供；85%iR、1 M KOH性能与0.1 M KHCO3光谱分开；p.3的0.592与p.4的0.0592不一致，原始页面已看。"
+  },
+  {
+    "card_id": "E135",
+    "source_sha256": "44153458e113ac17103b1bf046652071f4ee9b2fa384b3bec5ccac9f8cf68cae",
+    "source_filename": "ANIE-64-e202504630-s001.pdf",
+    "page_count": 84,
+    "read_pages": [
+      48,
+      49,
+      66,
+      73
+    ],
+    "locator_kind": "1-based physical PDF file page, separate from main-text JATS units",
+    "scope": "selected-page text review; only E134 physical p.3 also visually checked for printed equation",
+    "observation": "p.48使用牺牲Fe阳极和顶空气相内标，不能按OER配对装置核能；p.49可接近位点并非全部≥50%；p.73的气体吸附为低温，不直接代表工作液中孔可达性。"
+  }
+]

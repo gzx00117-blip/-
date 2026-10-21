@@ -1,0 +1,172 @@
+{
+  "E151-performance": {
+    "source": {
+      "card_id": "E151",
+      "locator": "U9,U11",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "normalization": "geometric area",
+    "cell": "membrane-separated flow cell",
+    "electrolyte": "1 M NaOH",
+    "pH": 14,
+    "potential_v": null,
+    "flow": "flowing catholyte",
+    "assay": null
+  },
+  "E151-raman": {
+    "source": {
+      "card_id": "E151",
+      "locator": "U11",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "normalization": "geometric area",
+    "cell": "static shared working/counter compartment",
+    "electrolyte": "0.1 M NaOH + 0.5 M Na2SO4",
+    "pH": 13,
+    "potential_v": null,
+    "flow": "static electrolyte with CO2 flow",
+    "assay": "Raman 532 nm"
+  },
+  "E134-performance": {
+    "source": {
+      "card_id": "E134",
+      "locator": "SI physical p.3",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "C2+",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "cell": "separated GDE flow cell",
+    "electrolyte": "1 M KOH",
+    "ir_compensation_fraction": 0.85,
+    "normalization": "geometric area",
+    "duration_s": 600,
+    "assay": "GC gas + 1H NMR liquid",
+    "replicate_unit": "3 independent electrochemical measurements; fabrication independence unresolved"
+  },
+  "E134-ATR": {
+    "source": {
+      "card_id": "E134",
+      "locator": "SI physical p.4",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "C2+",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "cell": "Au-Si ATR cell",
+    "electrolyte": "0.1 M KHCO3",
+    "pH": 6.8,
+    "assay": "ATR-SEIRAS"
+  },
+  "E135-gentle": {
+    "source": {
+      "card_id": "E135",
+      "locator": "U18; SI physical p.48",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "electrolyte": "0.5 M KHCO3",
+    "pH": 7.2,
+    "normalization": "geometric area",
+    "loading": "500 nmol Fe cm-2",
+    "duration_s": 3600,
+    "paired_anode": "sacrificial Fe oxidation",
+    "assay": "headspace GC internal standard",
+    "flow": "approximately1 cm s-1 near-electrode velocity"
+  },
+  "E135-vigorous": {
+    "source": {
+      "card_id": "E135",
+      "locator": "U18; SI physical p.48",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "reference": "RHE",
+    "electrolyte": "0.5 M KHCO3",
+    "pH": 7.2,
+    "normalization": "geometric area",
+    "loading": "500 nmol Fe cm-2",
+    "duration_s": 3600,
+    "paired_anode": "sacrificial Fe oxidation",
+    "assay": "headspace GC internal standard",
+    "flow": "approximately17 cm s-1 near-electrode velocity"
+  },
+  "E131-GC": {
+    "source": {
+      "card_id": "E131",
+      "locator": "SI physical p.6",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "electrolyte": "0.1 M NaClO4",
+    "cell": "vertical electrode separated gas-tight cell",
+    "flow": "CO2 5 sccm; stirred",
+    "duration_s": 1260,
+    "assay": "GC",
+    "replicate_unit": "3 different areas on same wafer"
+  },
+  "E131-confocal": {
+    "source": {
+      "card_id": "E131",
+      "locator": "SI physical p.8,p.9,p.12",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "CO2RR",
+    "target": "CO",
+    "substrate_basis": "CO2",
+    "electrolyte": "0.1 M NaClO4",
+    "cell": "horizontal electrode confocal cell",
+    "flow": "recirculation40 mL/min; CO2 supply",
+    "duration_s": 60,
+    "assay": "20 uM DHPDS ratiometric pH",
+    "replicate_unit": "3 different regions per cathode"
+  },
+  "E139-typical": {
+    "source": {
+      "card_id": "E139",
+      "locator": "U14,U15",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "NO3RR",
+    "target": "NH3",
+    "substrate_basis": "NO3",
+    "reference": "RHE",
+    "normalization": "geometric area",
+    "cell": "flow cell",
+    "substrate_concentration_m": 0.01,
+    "duration_s": 1800
+  },
+  "E139-removal": {
+    "source": {
+      "card_id": "E139",
+      "locator": "U17",
+      "read_scope": "only explicitly entered fields; omitted means unknown, never defaulted"
+    },
+    "reaction": "NO3RR",
+    "target": "NH3",
+    "substrate_basis": "NO3",
+    "reference": "RHE",
+    "normalization": "geometric area",
+    "cell": "H-cell",
+    "substrate_concentration_m": 0.1,
+    "duration_s": 10800,
+    "potential_v": -0.6
+  }
+}

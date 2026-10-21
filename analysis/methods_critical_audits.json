@@ -1,0 +1,422 @@
+[
+  {
+    "card_id": "E122",
+    "doi": "10.1038/s41467-025-57563-6",
+    "capabilities": [
+      "operando",
+      "transport",
+      "spectroscopy",
+      "methodology"
+    ],
+    "strength": "直接讨论仪器与反应器造成的偏差，适合建立实验前核查。",
+    "alternative_or_limit": "综述汇集的例子不等于本工作独立重复；信号增强不自动提高定量有效性。",
+    "falsifiable_next_check": "同时记录电流、产物和谱信号；标定响应延迟，并测试流速改变是否改变结论。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E123",
+    "doi": "10.1038/s42004-025-01691-z",
+    "capabilities": [
+      "benchmarking",
+      "conversion",
+      "charge",
+      "methodology"
+    ],
+    "strength": "把条件变化转成可报告的无量纲电荷尺度，而非只报运行时间。",
+    "alternative_or_limit": "0.1并非生产装置的硬性停机线；低转化公平比较与高转化处理废水是不同任务。",
+    "falsifiable_next_check": "同电位、同浓度下比较相同累计电荷，并另列高转化测试；检查样品是否高于定量限。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E124",
+    "doi": "10.1038/s41467-026-75519-2",
+    "capabilities": [
+      "assay",
+      "blank",
+      "urea",
+      "replication"
+    ],
+    "strength": "用试剂空白、批次差异及正交方法追查假阳性来源。",
+    "alternative_or_limit": "SI表4的三次测量来自同批脲酶，不能当作三个批次；87.2%误差只对应指定产品和条件。",
+    "falsifiable_next_check": "给每批脲酶做基质匹配空白、加标回收与独立方法复核；先明确ppm以N还是化合物计。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E125",
+    "doi": "10.1038/s41467-025-65614-1",
+    "capabilities": [
+      "active_sites",
+      "normalization",
+      "background",
+      "replication"
+    ],
+    "strength": "把吸附、积分电荷、位点化学计量与金属总量分开验证。",
+    "alternative_or_limit": "SI以循环重现支持稳定，但不能凭积分重现排除所有结构变化；总金属量不等于可接近活性位点。",
+    "falsifiable_next_check": "在工作催化剂上验证背景扣除和探针计量，独立报告总金属、可电化学接近位点与TOF分母。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E126",
+    "doi": "10.1038/s41467-024-52499-9",
+    "capabilities": [
+      "kinetics",
+      "temperature",
+      "solvation",
+      "time_resolution"
+    ],
+    "strength": "不仅比较一个Ea，还检查指前因子和反应条件。",
+    "alternative_or_limit": "起始区表观动力学不能直接外推至高电流NO3RR；温度同时影响溶解度和传质。",
+    "falsifiable_next_check": "先证明温度区间未进入传质控制，做升温/降温顺序对照并报告拟合区间。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E127",
+    "doi": "10.1038/s41467-025-67494-x",
+    "capabilities": [
+      "kinetics",
+      "pressure",
+      "order_effect",
+      "replication"
+    ],
+    "strength": "压力、电位和温度多维扰动比单一Tafel斜率包含更多动力学约束。",
+    "alternative_or_limit": "反应级数随电位和表面状态变化；顺序固定不等于已经证明有漂移。",
+    "falsifiable_next_check": "压力和温度正反序交叉测试，独立电极重复；报告稳态判据与气体溶解/传输校正。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E128",
+    "doi": "10.1126/sciadv.aeb9828",
+    "capabilities": [
+      "elementary_steps",
+      "isotope",
+      "working_state",
+      "OER"
+    ],
+    "strength": "多种读出对同一机制施加不同约束。",
+    "alternative_or_limit": "W脱出同时改变配位和表面；18O释出需区分生产性周转、交换与不可逆损失。",
+    "falsifiable_next_check": "将溶出量与O2同位素量及循环数一起记录，设置无偏压交换对照。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E129",
+    "doi": "10.1038/s41467-026-74392-3",
+    "capabilities": [
+      "pulse",
+      "charge",
+      "replication",
+      "OER"
+    ],
+    "strength": "用电位—开路—还原的因果扰动，并对氧生成电荷分配作估计。",
+    "alternative_or_limit": "读出依赖Ni物种与电荷分配模型；谱图不变不能排除所有自放电；单次测量不能给重复精度。",
+    "falsifiable_next_check": "复测独立电极、改变OCV时长及基底，传播MS校准与背景积分不确定度。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E130",
+    "doi": "10.1039/d6sc00812g",
+    "capabilities": [
+      "theory",
+      "lattice_oxygen",
+      "failure",
+      "OER"
+    ],
+    "strength": "把电子条件与结构条件联系起来，而非单一描述符定论。",
+    "alternative_or_limit": "Fig.2的隧穿式捷径是概念类比，不能作为量子隧穿或通用活化能的证据。",
+    "falsifiable_next_check": "同时测同位素产氧、金属溶出和多周转空位修复，预设能反驳LOM的结果。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E131",
+    "doi": "10.1021/jacs.5c22508",
+    "capabilities": [
+      "local_pH",
+      "transport",
+      "replication",
+      "calibration"
+    ],
+    "strength": "通过空间分辨读出检验几何—局部环境—选择性链条。",
+    "alternative_or_limit": "SI三次为同晶圆不同区域；不能称独立合成三批。两种池方向/流动和采样时长不同，作者另作修正。",
+    "falsifiable_next_check": "复现Beer–Lambert修正，去掉初始饱和时段，独立晶圆重复；核查染料对反应的影响。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E132",
+    "doi": "10.1038/s41467-025-58871-7",
+    "capabilities": [
+      "constant_potential",
+      "NQE",
+      "sampling",
+      "theory"
+    ],
+    "strength": "同时处理电荷系综、界面采样与核量子效应，揭示静态单构型的限制。",
+    "alternative_or_limit": "模型中的势垒变化不能直接证明真实CuNi的速率决定步骤；文中CP-VASP讨论含其他组工作。",
+    "falsifiable_next_check": "检查采样收敛、反应坐标、平均电位与电荷分布，对照经典/量子结果及实验KIE。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E133",
+    "doi": "10.1021/jacs.4c13494",
+    "capabilities": [
+      "wetting",
+      "ECSA",
+      "background",
+      "transport"
+    ],
+    "strength": "将润湿可视化、性能和传输模型串联，并给出CO剥离背景扣除程序。",
+    "alternative_or_limit": "相同Cs和纯电容假设未必跨润湿状态成立；模型忽略对流需与实际气泡/倾斜流动核对。",
+    "falsifiable_next_check": "保存两次阶跃原始电流及净CO积分，改变短回扫时长测试充电匹配和残余CO假设。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E134",
+    "doi": "10.1021/jacs.5c11313",
+    "capabilities": [
+      "cation",
+      "KIE",
+      "protocol_mismatch",
+      "formula"
+    ],
+    "strength": "SI给出无重氮盐的OH浸泡对照，并对H/D过电位作热力学差异处理。",
+    "alternative_or_limit": "SI p.3换算式印0.592×pH，p.4又用0.0592；原始页面已确认，标为印刷/执行待澄清，不能照抄计算。",
+    "falsifiable_next_check": "核对原始参比校准和实际补偿日志；分开性能池与光谱池，并保留形貌处理对照。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E135",
+    "doi": "10.1002/anie.202504630",
+    "capabilities": [
+      "fullerene",
+      "counterexample",
+      "active_sites",
+      "stability"
+    ],
+    "strength": "同骨架Fe/Co、空笼/客体及负载/搅拌多重比较，提供反例与边界。",
+    "alternative_or_limit": "SI表3多个可接近位点比例低于50%，须保留分布；低温吸附也不能直接代替工作电解液可达性。",
+    "falsifiable_next_check": "在目标体系用负载、搅拌和活性位点定量区分稳定化/传输；不要从C60存在直接推论电子库。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E136",
+    "doi": "10.1002/anie.202423177",
+    "capabilities": [
+      "time_resolution",
+      "spectral_decomposition",
+      "EDL",
+      "software"
+    ],
+    "strength": "把时间分量、气氛对照和分辨率限制纳入谱图解释。",
+    "alternative_or_limit": "高斯峰及主成分的物理归属需独立验证；噪声下的分量不能等同唯一物种。",
+    "falsifiable_next_check": "在不同阶跃长度、阈值和分解阶数下复算，检查事件计数是否稳健。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E137",
+    "doi": "10.1038/s41467-025-59052-2",
+    "capabilities": [
+      "electrostatics",
+      "protocol_mismatch",
+      "Raman",
+      "NO3RR"
+    ],
+    "strength": "区分底物富集和质子跨膜迁移等相互竞争的环境作用。",
+    "alternative_or_limit": "静态电势模型、无偏压富集和工作反应读出的条件不同，需逐段标注。",
+    "falsifiable_next_check": "在真实电位/产物采样窗口同步测谱与转化，排查几何和增强变化；建立电位相关富集校准。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E138",
+    "doi": "10.1038/s41467-025-55889-9",
+    "capabilities": [
+      "working_state",
+      "rate_closure",
+      "scale_up",
+      "software"
+    ],
+    "strength": "将工作态、产率/电流及放大演示分开交代，可进行数量闭合检查。",
+    "alternative_or_limit": "EPR捕获和KIE仍是条件相关探针；高倍率/放大/寿命不可拼成同一运行点。",
+    "falsifiable_next_check": "逐运行点核算NH3分电流、FE和总电流，并验证面积采样与电极独立批次。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E139",
+    "doi": "10.1038/s41467-025-60671-y",
+    "capabilities": [
+      "enrichment",
+      "conversion",
+      "rate_closure",
+      "conflict"
+    ],
+    "strength": "包含浓度依赖、对照掺杂、复杂水样和后处理，便于检查适用边界。",
+    "alternative_or_limit": "摘要约28.6倍与正文27.6倍待澄清；100 mM去除试验不能说成全程从超低浓度启动。",
+    "falsifiable_next_check": "用同电位同浓度对照富集量与部分电流，分开吸附、FE、转化率与分步回收率。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E140",
+    "doi": "10.1038/s42004-024-01151-0",
+    "capabilities": [
+      "working_state",
+      "XAS",
+      "Raman",
+      "time_resolution"
+    ],
+    "strength": "用不同探测深度与时间尺度拆分表面/次表面演变，并主动讨论荧光展平。",
+    "alternative_or_limit": "残余氧化物与C2+关联不唯一确定活性位；单能量荧光不能无模型直接换算平均价态或相分数。",
+    "falsifiable_next_check": "匹配厚度/几何及能量校准，检查自吸收/展平；比较同步产品、表面与体相时间响应并报告各自带宽。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E141",
+    "doi": "10.1038/s41467-025-60636-1",
+    "capabilities": [
+      "nitrogen_basis",
+      "recovery",
+      "temperature",
+      "system_boundary"
+    ],
+    "strength": "把反应、热管理和产品收集贯通，并区分N物种计量。",
+    "alternative_or_limit": "约2 M收集液浓度不能等同阴极液产率；等温电催化、光热及等离子体输入不同。",
+    "falsifiable_next_check": "分别列各模块N收支、输入功率与回收效率，使用相同温度的暗对照。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E142",
+    "doi": "10.1039/d6sc03311c",
+    "capabilities": [
+      "isotope",
+      "contamination",
+      "COF",
+      "NO3RR"
+    ],
+    "strength": "在含N框架中使用同位素和空白，降低把催化剂N当产物的风险。",
+    "alternative_or_limit": "本轮未读完整SI，不能认证检出限、纯度校准或长期溶出全部完备。",
+    "falsifiable_next_check": "量化15N产物比例、输入杂质和框架N收支，检查不同合成批次与电解后结构。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E143",
+    "doi": "10.1039/d6sc01645f",
+    "capabilities": [
+      "hydrophobicity",
+      "hydrogen",
+      "counterexample",
+      "COF"
+    ],
+    "strength": "对选择性促进和HER抑制进行同框讨论，提供供氢单调论的反例。",
+    "alternative_or_limit": "Tafel斜率不是唯一水解离速率常数；组成/堆积/润湿同时变化有混杂。",
+    "falsifiable_next_check": "保持金属比例和负载，交叉比较连接基团与润湿，分别测HER与NH3分电流。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E144",
+    "doi": "10.1039/d5sc07183f",
+    "capabilities": [
+      "molecular_cage",
+      "conflict",
+      "assay",
+      "NO3RR"
+    ],
+    "strength": "金属中心系列中同时测NH3与NO2，说明总电流排名不等于目标产物排名。",
+    "alternative_or_limit": "选择性峰值存在内部数值不一致；KSCN/TBA扰动还可能改变环境或测定，不能单凭中毒定唯一活性位。",
+    "falsifiable_next_check": "索取或核对原始重复数据和结论条件；中毒实验需做显色空白/加标回收。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E145",
+    "doi": "10.1039/d5sc09647b",
+    "capabilities": [
+      "photocatalysis",
+      "failure",
+      "working_state",
+      "counterexample"
+    ],
+    "strength": "把负面结果转为结构演变问题，为失活研究提供范例。",
+    "alternative_or_limit": "摘要/结论对导带移动方向措辞不一致，本轮不选定一个方向；光催化结果不能作为电催化FE验证。",
+    "falsifiable_next_check": "逐循环测Ti位点、配体流失及N收支，设置再生/恢复实验区分可逆毒化与永久降解。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E146",
+    "doi": "10.1021/jacs.5c00316",
+    "capabilities": [
+      "tandem",
+      "intermediate",
+      "isotope",
+      "CO2RR"
+    ],
+    "strength": "单组分、串联组合和同位素光谱对照共同约束路径。",
+    "alternative_or_limit": "稳态峰强受生成、消耗和增强共同控制；最高15/18%结果需按装置条件引用。",
+    "falsifiable_next_check": "用甲醛进料、位点空间分离与时间响应测试传递路径，测中间体收支而非仅看更强峰。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E147",
+    "doi": "10.1002/anie.9278631",
+    "capabilities": [
+      "solar",
+      "paired_anode",
+      "system_boundary",
+      "NO3RR"
+    ],
+    "strength": "将催化剂与实际供电负载耦合，可追踪间歇光照下工作点。",
+    "alternative_or_limit": "联氨化学能、光照面积、捕集介质与后处理必须进入系统边界；捕集不是CO2电还原。",
+    "falsifiable_next_check": "报告阴阳极物质收支和全输入能量；对比同电流OER配对，不把槽压下降写成总能耗必然下降。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E148",
+    "doi": "10.1021/jacs.5c12205",
+    "capabilities": [
+      "reconstruction",
+      "stability",
+      "normalization",
+      "OER"
+    ],
+    "strength": "关注动态重构与不同起始材料的重构路径。",
+    "alternative_or_limit": "后表征不是全时段工况价态；OER高价Ni不能直接外推至NO3RR阴极。",
+    "falsifiable_next_check": "用时间分辨工况谱和溶出测量验证活性相，分别报告低电流寿命和高电流应力测试。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E149",
+    "doi": "10.1038/s41467-025-64286-1",
+    "capabilities": [
+      "temperature",
+      "lattice_oxygen",
+      "stability",
+      "system_boundary"
+    ],
+    "strength": "通过温控DEMS检验同一材料随温度改变的路径，而非只比不同催化剂。",
+    "alternative_or_limit": "TEA成本依赖论文假设电价/工况，不是当前盈利预测；高温机制不可与室温寿命拼接。",
+    "falsifiable_next_check": "增加无偏压热交换、时间分辨溶出和多次标记周转，验证生产性LOM相对交换贡献。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E150",
+    "doi": "10.1039/d6sc01428c",
+    "capabilities": [
+      "failure",
+      "interface",
+      "MOF",
+      "ORR"
+    ],
+    "strength": "明确报告失败并用补气、分子对照和前后表征排查不同解释。",
+    "alternative_or_limit": "ROS界面失活属于作者机制解释，不能推广为所有MOF必然失效。",
+    "falsifiable_next_check": "记录首秒至长时的活性，做恢复/补料/换电解液，联合界面敏感探针与溶出。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  },
+  {
+    "card_id": "E151",
+    "doi": "10.1039/d5sc04774a",
+    "capabilities": [
+      "protocol_mismatch",
+      "Raman",
+      "counterexample",
+      "software"
+    ],
+    "strength": "主动揭示表征/性能条件差异，并报告没有改善的修饰结果。",
+    "alternative_or_limit": "532 cm−1信号作者讨论水摇摆等归属，不可只凭一个位置认作金属氧化物。",
+    "falsifiable_next_check": "在匹配pH和传质的池中同步测产物，检查激光功率/热点/增强变化，再讨论峰强与反应。",
+    "audit_status": "agent critical-reading judgment; not an independent experimental replication or formal risk-of-bias score"
+  }
+]

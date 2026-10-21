@@ -1,21 +1,22 @@
 ---
 name: electrocatalysis-evidence
-description: Use a traceable electrocatalysis literature library for manuscript arguments, Raman/XPS and figure interpretation, or experiment planning. Covers NO3RR, Cu/Ni, fullerene and molecular microenvironments; apply only when literature evidence is needed.
+description: Use a traceable electrocatalysis literature library for critical reading, condition and assay checks, manuscript arguments, figure interpretation or experiment planning. Covers NO3RR, Cu/Ni, fullerene and molecular microenvironments; apply when literature evidence is needed.
 ---
 
 # Electrocatalysis Evidence
 
-Use the user's 121-paper library to answer a scientific question with traceable evidence and bounded transfer. It is a selected collection, not comprehensive journal coverage or model-weight training. Five papers have main-section reviews; 116 have focused passage reviews. Each card records its actual scope. E092–E121 add30 focused JATS passage reviews and one original figure inspection each; none is a full-SI review.
+Use the user's library of 151 papers to answer a scientific question with traceable evidence and bounded transfer. It is a selected collection, not comprehensive journal coverage or model-weight training. Five papers have main-section reviews; 146 have focused passage reviews. E122–E151 add 30 focused reviews and one selected original figure inspection each; 6 include 24 selected SI physical pages. None is a full-SI review. Each card records its actual scope.
 
 ## Locate and retrieve
 
 The portable repository contains `cards/`, `analysis/` and `scripts/`. When installed, [library-location.md](references/library-location.md) identifies its local clone. If absent, resolve the repository two levels above this skill folder or locate the clone before claiming access.
 
 1. Search authored cards with `python scripts/query_evidence.py "供氢"` or English scientific terms. This is lexical search with limited aliases, not vector retrieval. Use `--card E029` for claims and locators. Read relevant cards, including contrary results.
-2. Use `analysis/121篇论文索引.md` for DOI/title and `analysis/跨论文分析与使用框架.md` for cross-paper synthesis. Also consult `analysis/新增60篇学习总结.md` for the latest conflicts and decision rules. Load only relevant sections, not all 121 cards on every task.
+2. Use `analysis/151篇论文索引.md` for DOI/title and `analysis/跨论文分析与使用框架.md` for cross-paper synthesis. For critical reading and the latest methods/conflicts, read [critical-reading.md](references/critical-reading.md) and `analysis/新增30篇综合文献能力学习总结_2026-10-21.md`. Load relevant sections, not the whole library on every task.
 3. Before a new quantitative claim, peak assignment or method, read complete supporting source sections. `python scripts/query_evidence.py --card E001 --source-pages 7-8 --corpus <local-corpus>` retrieves full extracted pages. Without `--corpus`, a local ignored config or `ELECTROCATALYSIS_CORPUS` may supply it. The ignored local config may contain `source_corpora` for multiple dated corpora. Sources are not included in GitHub.
 4. Inspect original page images when axes, molecular geometry, multipliers, peak shapes or equations matter. Text extraction does not verify a figure. Existing visual checks cover E001 p.7, E002 p.6, E003 p.8, E016 p.3, E029 p.5 E030 pp.5–6, E054 p.4, E055 p.7, E071 p.5, E076 p.3, E088 p.6 and E090 p.6; do not extend that status to other figures.
 For E092–E121, use `--source-units` for indexed JATS paragraphs/captions; these are not PDF pages. Their selected-figure checks are recorded in `analysis/visual_reading_receipts.json`; this does not verify every figure.
+E122–E151 also use JATS units; their figure checks are in `analysis/methods_visual_receipts.json`. SI retrieval is separately `--si-pages`, only for explicitly recorded sources; main-text units never stand for SI pages.
 5. Use verified source identity and SHA256 over filenames; a local attachment named as another paper's SI actually contains E030. Old locators are1-indexed PDF pages; new JATS units are separately labeled. SI is read only when explicitly recorded. Final proof metadata may still need checking.
 
 ## Apply to the task
@@ -44,6 +45,8 @@ Match substrate, NO3 vs NO3–N basis, electrolyte/pH, potential reference/iR, r
 ## Manuscript and visual workflow
 
 Read [visual-workflow.md](references/visual-workflow.md) for argument design, software selection, journal requirements and editable figure generation. Consult `analysis/新增30篇学习总结.md` for recent conflicts and `analysis/软件绘图与期刊风格实操.md` for reproducible steps. Never infer authors' software or acceptance reasons from appearance. Keep official requirements, observed conventions and our presets separate.
+
+For this user, final scientific figures must be made in graphical software with editable native projects: Origin `.opju` for plots; PowerPoint/vector-native layers for schematics and assembly, with ChemDraw/VESTA/Fiji/Blender sources as appropriate. Historic Python-rendered training examples remain archival; do not make them the default for new figure deliveries.
 
 ## Persistence and updates
 

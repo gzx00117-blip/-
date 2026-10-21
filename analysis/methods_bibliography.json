@@ -1,0 +1,1922 @@
+[
+  {
+    "card_id": "E122",
+    "doi": "10.1038/s41467-025-57563-6",
+    "title": "Best practices for in-situ and operando techniques within electrocatalytic systems",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          16
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          16
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "2593",
+    "url": "https://doi.org/10.1038/s41467-025-57563-6",
+    "authors": [
+      {
+        "given": "Aditya",
+        "family": "Prajapati"
+      },
+      {
+        "given": "Christopher",
+        "family": "Hahn"
+      },
+      {
+        "given": "Inez M.",
+        "family": "Weidinger"
+      },
+      {
+        "given": "Yanmei",
+        "family": "Shi"
+      },
+      {
+        "given": "Yonghyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Anastassia N.",
+        "family": "Alexandrova"
+      },
+      {
+        "given": "David",
+        "family": "Thompson"
+      },
+      {
+        "given": "Simon R.",
+        "family": "Bare"
+      },
+      {
+        "given": "Shuai",
+        "family": "Chen"
+      },
+      {
+        "given": "Shuai",
+        "family": "Yan"
+      },
+      {
+        "given": "Nikolay",
+        "family": "Kornienko"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E123",
+    "doi": "10.1038/s42004-025-01691-z",
+    "title": "Robust catalyst assessment for the electrocatalytic nitrate reduction reaction",
+    "journal": "Communications Chemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "1",
+    "page": null,
+    "article_number": "302",
+    "url": "https://doi.org/10.1038/s42004-025-01691-z",
+    "authors": [
+      {
+        "given": "Devesh K.",
+        "family": "Pathak"
+      },
+      {
+        "given": "Rajkumar",
+        "family": "Jana"
+      },
+      {
+        "given": "Ruth",
+        "family": "Bello"
+      },
+      {
+        "given": "Kelly",
+        "family": "White"
+      },
+      {
+        "given": "Kelsey A.",
+        "family": "Stoerzinger"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E124",
+    "doi": "10.1038/s41467-026-75519-2",
+    "title": "Colorimetric correction of electrocatalytic urea quantification",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          13
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          13
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "1",
+    "page": null,
+    "article_number": "8604",
+    "url": "https://doi.org/10.1038/s41467-026-75519-2",
+    "authors": [
+      {
+        "given": "Tianshang",
+        "family": "Shan"
+      },
+      {
+        "given": "Hongpan",
+        "family": "Rong"
+      },
+      {
+        "given": "Zechao",
+        "family": "Zhuang"
+      },
+      {
+        "given": "Jiarui",
+        "family": "Yang"
+      },
+      {
+        "given": "Shenghua",
+        "family": "Li"
+      },
+      {
+        "given": "Jiatao",
+        "family": "Zhang"
+      },
+      {
+        "given": "Siping",
+        "family": "Pang"
+      },
+      {
+        "given": "Dingsheng",
+        "family": "Wang"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E125",
+    "doi": "10.1038/s41467-025-65614-1",
+    "title": "Universal electrochemical quantification of active site density in transition metal nitrogen carbon electrocatalysts",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          27
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          27
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "10626",
+    "url": "https://doi.org/10.1038/s41467-025-65614-1",
+    "authors": [
+      {
+        "given": "Guang",
+        "family": "Li"
+      },
+      {
+        "given": "Shu-Hu",
+        "family": "Yin"
+      },
+      {
+        "given": "Li-Fei",
+        "family": "Ji"
+      },
+      {
+        "given": "Xu-Yuan",
+        "family": "Nie"
+      },
+      {
+        "given": "Ting",
+        "family": "Zhu"
+      },
+      {
+        "given": "Xiao-Yang",
+        "family": "Cheng"
+      },
+      {
+        "given": "Jun",
+        "family": "Xu"
+      },
+      {
+        "given": "Rui",
+        "family": "Huang"
+      },
+      {
+        "given": "Yan-Xia",
+        "family": "Jiang"
+      },
+      {
+        "given": "Bin-Wei",
+        "family": "Zhang"
+      },
+      {
+        "given": "Shi-Gang",
+        "family": "Sun"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E126",
+    "doi": "10.1038/s41467-024-52499-9",
+    "title": "Exploring dynamic solvation kinetics at electrocatalyst surfaces",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          18
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          18
+        ]
+      ]
+    },
+    "volume": "15",
+    "issue": "1",
+    "page": null,
+    "article_number": "8204",
+    "url": "https://doi.org/10.1038/s41467-024-52499-9",
+    "authors": [
+      {
+        "given": "Francisco",
+        "family": "Sarabia"
+      },
+      {
+        "given": "Carlos",
+        "family": "Gomez Rodellar"
+      },
+      {
+        "given": "Beatriz",
+        "family": "Roldan Cuenya"
+      },
+      {
+        "given": "Sebastian Z.",
+        "family": "Oener"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E127",
+    "doi": "10.1038/s41467-025-67494-x",
+    "title": "Pressure and bias dependence of the rate-limiting steps of the oxygen reduction reaction",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          13
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          13
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "11170",
+    "url": "https://doi.org/10.1038/s41467-025-67494-x",
+    "authors": [
+      {
+        "given": "Alex Ricardo",
+        "family": "Silva Olaya"
+      },
+      {
+        "given": "Jody",
+        "family": "Druce"
+      },
+      {
+        "given": "Jose M.",
+        "family": "Gisbert-Gonzalez"
+      },
+      {
+        "given": "Eduardo",
+        "family": "Ortega"
+      },
+      {
+        "given": "Beatriz",
+        "family": "Roldan Cuenya"
+      },
+      {
+        "given": "Sebastian Z.",
+        "family": "Oener"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E128",
+    "doi": "10.1126/sciadv.aeb9828",
+    "title": "Deciphering competing elementary steps to correlate electrocatalyst chemical state with activity",
+    "journal": "Science Advances",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "12",
+    "issue": "22",
+    "page": null,
+    "article_number": "eaeb9828",
+    "url": "https://doi.org/10.1126/sciadv.aeb9828",
+    "authors": [
+      {
+        "given": "Yuanfu",
+        "family": "Ren"
+      },
+      {
+        "given": "Xingzhu",
+        "family": "Chen"
+      },
+      {
+        "given": "Shouwei",
+        "family": "Zuo"
+      },
+      {
+        "given": "Qingxiao",
+        "family": "Wang"
+      },
+      {
+        "given": "Cafer T.",
+        "family": "Yavuz"
+      },
+      {
+        "given": "Di-Jia",
+        "family": "Liu"
+      },
+      {
+        "given": "Deyan",
+        "family": "Luan"
+      },
+      {
+        "given": "Kuo-Wei",
+        "family": "Huang"
+      },
+      {
+        "given": "William A.",
+        "family": "Goddard"
+      },
+      {
+        "given": "Huabin",
+        "family": "Zhang"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E129",
+    "doi": "10.1038/s41467-026-74392-3",
+    "title": "Decoupling electron transfer defines a quantitative kinetic framework for oxygen evolution catalysis",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "1",
+    "page": null,
+    "article_number": "7377",
+    "url": "https://doi.org/10.1038/s41467-026-74392-3",
+    "authors": [
+      {
+        "given": "Haoyin",
+        "family": "Zhong"
+      },
+      {
+        "given": "Junchen",
+        "family": "Yu"
+      },
+      {
+        "given": "Qi",
+        "family": "Zhang"
+      },
+      {
+        "given": "Xin",
+        "family": "Zhang"
+      },
+      {
+        "given": "Shanlin",
+        "family": "Li"
+      },
+      {
+        "given": "Qingli",
+        "family": "Xu"
+      },
+      {
+        "given": "Zhi-Gen",
+        "family": "Yu"
+      },
+      {
+        "given": "Cheng-Hao",
+        "family": "Chuang"
+      },
+      {
+        "given": "Shibo",
+        "family": "Xi"
+      },
+      {
+        "given": "Xiaopeng",
+        "family": "Wang"
+      },
+      {
+        "given": "Junmin",
+        "family": "Xue"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E130",
+    "doi": "10.1039/d6sc00812g",
+    "title": "Why and when does lattice oxygen participate in oxygen evolution?",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "19",
+    "page": "9327-9343",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d6sc00812g",
+    "authors": [
+      {
+        "given": "Arun",
+        "family": "Karmakar"
+      },
+      {
+        "given": "Asha K.",
+        "family": "Satheesan"
+      },
+      {
+        "given": "Subrata",
+        "family": "Kundu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E131",
+    "doi": "10.1021/jacs.5c22508",
+    "title": "Structured Electrodes Induce Local pH as a Primary Determinant of CO\n                    <sub>2</sub>\n                    Reduction Selectivity",
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "volume": "148",
+    "issue": "18",
+    "page": "18562-18567",
+    "article_number": null,
+    "url": "https://doi.org/10.1021/jacs.5c22508",
+    "authors": [
+      {
+        "given": "Mingxuan",
+        "family": "Zhu"
+      },
+      {
+        "given": "Daniel R.",
+        "family": "Morphet"
+      },
+      {
+        "given": "Yiming",
+        "family": "Wang"
+      },
+      {
+        "given": "Zhifei",
+        "family": "Yan"
+      },
+      {
+        "given": "Daniel G.",
+        "family": "Nocera"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E132",
+    "doi": "10.1038/s41467-025-58871-7",
+    "title": "Probing nuclear quantum effects in electrocatalysis via a machine-learning enhanced grand canonical constant potential approach",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          16
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          16
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "3600",
+    "url": "https://doi.org/10.1038/s41467-025-58871-7",
+    "authors": [
+      {
+        "given": "Menglin",
+        "family": "Sun"
+      },
+      {
+        "given": "Bin",
+        "family": "Jin"
+      },
+      {
+        "given": "Xiaolong",
+        "family": "Yang"
+      },
+      {
+        "given": "Shenzhen",
+        "family": "Xu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E133",
+    "doi": "10.1021/jacs.4c13494",
+    "title": "Microenvironment Tailoring for Electrocatalytic CO\n                    <sub>2</sub>\n                    Reduction: Effects of Interfacial Structure on Controlling Activity and Selectivity",
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          12
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          12
+        ]
+      ]
+    },
+    "volume": "147",
+    "issue": "15",
+    "page": "12438-12448",
+    "article_number": null,
+    "url": "https://doi.org/10.1021/jacs.4c13494",
+    "authors": [
+      {
+        "given": "Yaqi",
+        "family": "Cheng"
+      },
+      {
+        "given": "Qixun",
+        "family": "Li"
+      },
+      {
+        "given": "Muhammad Iskandar B.",
+        "family": "Salaman"
+      },
+      {
+        "given": "Chaolong",
+        "family": "Wei"
+      },
+      {
+        "given": "Qilun",
+        "family": "Wang"
+      },
+      {
+        "given": "Xuehu",
+        "family": "Ma"
+      },
+      {
+        "given": "Bin",
+        "family": "Liu"
+      },
+      {
+        "given": "Andrew Barnabas",
+        "family": "Wong"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E134",
+    "doi": "10.1021/jacs.5c11313",
+    "title": "Cation Dehydration by Surface-Grafted Phenyl Groups for Enhanced C<sub>2+</sub> Production in Cu-Catalyzed Electrochemical CO<sub>2</sub> Reduction",
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "volume": "147",
+    "issue": "37",
+    "page": "34001-34010",
+    "article_number": null,
+    "url": "https://doi.org/10.1021/jacs.5c11313",
+    "authors": [
+      {
+        "given": "Miyeon",
+        "family": "Chang"
+      },
+      {
+        "given": "Suhwan",
+        "family": "Yoo"
+      },
+      {
+        "given": "Wenchao",
+        "family": "Ma"
+      },
+      {
+        "given": "Hubert",
+        "family": "Girault"
+      },
+      {
+        "given": "Yun Jeong",
+        "family": "Hwang"
+      },
+      {
+        "given": "Xile",
+        "family": "Hu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E135",
+    "doi": "10.1002/anie.202504630",
+    "title": "Using Host‐Guest Chemistry to Examine the Effects of Porosity and Catalyst‐Support Interactions on CO\n                    <sub>2</sub>\n                    Reduction",
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ]
+    },
+    "volume": "64",
+    "issue": "21",
+    "page": null,
+    "article_number": "e202504630",
+    "url": "https://doi.org/10.1002/anie.202504630",
+    "authors": [
+      {
+        "given": "Daniel A.",
+        "family": "Rothschild"
+      },
+      {
+        "given": "Zeyu",
+        "family": "Cao"
+      },
+      {
+        "given": "Feng",
+        "family": "Xie"
+      },
+      {
+        "given": "Belvin",
+        "family": "Thomas"
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Emge"
+      },
+      {
+        "given": "Jing",
+        "family": "Li"
+      },
+      {
+        "given": "Tewodros",
+        "family": "Asefa"
+      },
+      {
+        "given": "Mark C.",
+        "family": "Lipke"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E136",
+    "doi": "10.1002/anie.202423177",
+    "title": "Decoding Double Layer Dynamics for CO2 Electroreduction over Cu",
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          13
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          13
+        ]
+      ]
+    },
+    "volume": "64",
+    "issue": "26",
+    "page": null,
+    "article_number": "e202423177",
+    "url": "https://doi.org/10.1002/anie.202423177",
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Sinausia"
+      },
+      {
+        "given": "Noam",
+        "family": "Zisser"
+      },
+      {
+        "given": "Thierry Kilian",
+        "family": "Slot"
+      },
+      {
+        "given": "David",
+        "family": "Eisenberg"
+      },
+      {
+        "given": "Florian",
+        "family": "Meirer"
+      },
+      {
+        "given": "Charlotte",
+        "family": "Vogt"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E137",
+    "doi": "10.1038/s41467-025-59052-2",
+    "title": "Multivariate covalent organic frameworks with tailored electrostatic potential promote nitrate electroreduction to ammonia in acid",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          19
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          19
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "3717",
+    "url": "https://doi.org/10.1038/s41467-025-59052-2",
+    "authors": [
+      {
+        "given": "Qiyang",
+        "family": "Cheng"
+      },
+      {
+        "given": "Sisi",
+        "family": "Liu"
+      },
+      {
+        "given": "Yanzheng",
+        "family": "He"
+      },
+      {
+        "given": "Mengfan",
+        "family": "Wang"
+      },
+      {
+        "given": "Haoqing",
+        "family": "Ji"
+      },
+      {
+        "given": "Yunfei",
+        "family": "Huan"
+      },
+      {
+        "given": "Tao",
+        "family": "Qian"
+      },
+      {
+        "given": "Chenglin",
+        "family": "Yan"
+      },
+      {
+        "given": "Jianmei",
+        "family": "Lu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E138",
+    "doi": "10.1038/s41467-025-55889-9",
+    "title": "Ammonia electrosynthesis from nitrate using a stable amorphous/crystalline dual-phase Cu catalyst",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "897",
+    "url": "https://doi.org/10.1038/s41467-025-55889-9",
+    "authors": [
+      {
+        "given": "Yi",
+        "family": "Wang"
+      },
+      {
+        "given": "Shuo",
+        "family": "Wang"
+      },
+      {
+        "given": "Yunfan",
+        "family": "Fu"
+      },
+      {
+        "given": "Jiaqi",
+        "family": "Sang"
+      },
+      {
+        "given": "Pengfei",
+        "family": "Wei"
+      },
+      {
+        "given": "Rongtan",
+        "family": "Li"
+      },
+      {
+        "given": "Dunfeng",
+        "family": "Gao"
+      },
+      {
+        "given": "Guoxiong",
+        "family": "Wang"
+      },
+      {
+        "given": "Xinhe",
+        "family": "Bao"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E139",
+    "doi": "10.1038/s41467-025-60671-y",
+    "title": "Near-Unity Nitrate to Ammonia conversion via reactant enrichment at the solid-liquid interface",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "5715",
+    "url": "https://doi.org/10.1038/s41467-025-60671-y",
+    "authors": [
+      {
+        "given": "Wanru",
+        "family": "Liao"
+      },
+      {
+        "given": "Jun",
+        "family": "Wang"
+      },
+      {
+        "given": "Yao",
+        "family": "Tan"
+      },
+      {
+        "given": "Xin",
+        "family": "Zi"
+      },
+      {
+        "given": "Changxu",
+        "family": "Liu"
+      },
+      {
+        "given": "Qiyou",
+        "family": "Wang"
+      },
+      {
+        "given": "Li",
+        "family": "Zhu"
+      },
+      {
+        "given": "Cheng-Wei",
+        "family": "Kao"
+      },
+      {
+        "given": "Ting-Shan",
+        "family": "Chan"
+      },
+      {
+        "given": "Hongmei",
+        "family": "Li"
+      },
+      {
+        "given": "Yali",
+        "family": "Zhang"
+      },
+      {
+        "given": "Kang",
+        "family": "Liu"
+      },
+      {
+        "given": "Chao",
+        "family": "Cai"
+      },
+      {
+        "given": "Junwei",
+        "family": "Fu"
+      },
+      {
+        "given": "Beidou",
+        "family": "Xi"
+      },
+      {
+        "given": "Emiliano",
+        "family": "Cortés"
+      },
+      {
+        "given": "Liyuan",
+        "family": "Chai"
+      },
+      {
+        "given": "Min",
+        "family": "Liu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E140",
+    "doi": "10.1038/s42004-024-01151-0",
+    "title": "Dynamics of bulk and surface oxide evolution in copper foams for electrochemical CO2 reduction",
+    "journal": "Communications Chemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ]
+    },
+    "volume": "7",
+    "issue": "1",
+    "page": null,
+    "article_number": "66",
+    "url": "https://doi.org/10.1038/s42004-024-01151-0",
+    "authors": [
+      {
+        "given": "Fan",
+        "family": "Yang"
+      },
+      {
+        "given": "Shan",
+        "family": "Jiang"
+      },
+      {
+        "given": "Si",
+        "family": "Liu"
+      },
+      {
+        "given": "Paul",
+        "family": "Beyer"
+      },
+      {
+        "given": "Stefan",
+        "family": "Mebs"
+      },
+      {
+        "given": "Michael",
+        "family": "Haumann"
+      },
+      {
+        "given": "Christina",
+        "family": "Roth"
+      },
+      {
+        "given": "Holger",
+        "family": "Dau"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E141",
+    "doi": "10.1038/s41467-025-60636-1",
+    "title": "Photothermal-electrocatalysis interface for fuel-cell grade ammonia harvesting from the environment",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "5581",
+    "url": "https://doi.org/10.1038/s41467-025-60636-1",
+    "authors": [
+      {
+        "given": "Pengfei",
+        "family": "Wang"
+      },
+      {
+        "given": "Panpan",
+        "family": "Li"
+      },
+      {
+        "given": "Zhicheng",
+        "family": "Pan"
+      },
+      {
+        "given": "Kui",
+        "family": "Liu"
+      },
+      {
+        "given": "Minghao",
+        "family": "Xie"
+      },
+      {
+        "given": "Liwei",
+        "family": "Zhou"
+      },
+      {
+        "given": "Min",
+        "family": "Zhou"
+      },
+      {
+        "given": "Guihua",
+        "family": "Yu"
+      },
+      {
+        "given": "Zhaoyu",
+        "family": "Jin"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E142",
+    "doi": "10.1039/d6sc03311c",
+    "title": "Triazatrinaphthylene-based metal-free polycyclic aromatic frameworks for electrochemical nitrate reduction to ammonia",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "37",
+    "page": "17780-17788",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d6sc03311c",
+    "authors": [
+      {
+        "given": "Ananda",
+        "family": "Basak"
+      },
+      {
+        "given": "Nilmadhab",
+        "family": "Mukherjee"
+      },
+      {
+        "given": "Supratim",
+        "family": "Ghosh"
+      },
+      {
+        "given": "Rahul Kumar",
+        "family": "Sharma"
+      },
+      {
+        "given": "Avishek",
+        "family": "Roy"
+      },
+      {
+        "given": "Ekta",
+        "family": "Nehra"
+      },
+      {
+        "given": "Yusuke",
+        "family": "Nishiyama"
+      },
+      {
+        "given": "Biswarup",
+        "family": "Pathak"
+      },
+      {
+        "given": "Uttam Kumar",
+        "family": "Ghorai"
+      },
+      {
+        "given": "Rahul",
+        "family": "Banerjee"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E143",
+    "doi": "10.1039/d6sc01645f",
+    "title": "Engineering hydrophobic covalent organic frameworks for electroreduction of nitrate to ammonia",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "23",
+    "page": "11693-11704",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d6sc01645f",
+    "authors": [
+      {
+        "given": "Fuzhen",
+        "family": "Li"
+      },
+      {
+        "given": "Huan",
+        "family": "Lin"
+      },
+      {
+        "given": "Chunying",
+        "family": "Chen"
+      },
+      {
+        "given": "Li-Lin",
+        "family": "Tan"
+      },
+      {
+        "given": "Dawei",
+        "family": "Wang"
+      },
+      {
+        "given": "Cunyuan",
+        "family": "Zhao"
+      },
+      {
+        "given": "Li",
+        "family": "Zhang"
+      },
+      {
+        "given": "Cheng-Yong",
+        "family": "Su"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E144",
+    "doi": "10.1039/d5sc07183f",
+    "title": "Strong d–p orbital hybridization in cobalt porphyrin cages promotes electrochemical nitrate reduction to ammonia",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "9",
+    "page": "4697-4705",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d5sc07183f",
+    "authors": [
+      {
+        "given": "You",
+        "family": "Wu"
+      },
+      {
+        "given": "Yangpeng",
+        "family": "Zhang"
+      },
+      {
+        "given": "Hao",
+        "family": "Zhao"
+      },
+      {
+        "given": "Yang",
+        "family": "Peng"
+      },
+      {
+        "given": "Hailing",
+        "family": "Ma"
+      },
+      {
+        "given": "Fangyuan",
+        "family": "Kang"
+      },
+      {
+        "given": "Zhonghua",
+        "family": "Li"
+      },
+      {
+        "given": "Yang",
+        "family": "Liu"
+      },
+      {
+        "given": "Qichun",
+        "family": "Zhang"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E145",
+    "doi": "10.1039/d5sc09647b",
+    "title": "The critical role of isolated Ti\n                    <sup>3+</sup>\n                    sites in MIL-125 for photocatalytic nitrate reduction: performance enhancement and deactivation mechanism",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "16",
+    "page": "8117-8125",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d5sc09647b",
+    "authors": [
+      {
+        "given": "Lijun",
+        "family": "Liao"
+      },
+      {
+        "given": "Guangquan",
+        "family": "Zhao"
+      },
+      {
+        "given": "Ruiwen",
+        "family": "Shu"
+      },
+      {
+        "given": "Xuepeng",
+        "family": "Wang"
+      },
+      {
+        "given": "Jinxin",
+        "family": "Zhang"
+      },
+      {
+        "given": "Ruting",
+        "family": "Yuan"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E146",
+    "doi": "10.1021/jacs.5c00316",
+    "title": "Dual Molecular Catalyst-Based Tandem That Enables Electrocatalytic CO\n                    <sub>2</sub>\n                    −Formaldehyde−Methanol Cascade Conversion",
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "volume": "147",
+    "issue": "24",
+    "page": "20329-20337",
+    "article_number": null,
+    "url": "https://doi.org/10.1021/jacs.5c00316",
+    "authors": [
+      {
+        "given": "Arnab",
+        "family": "Ghatak"
+      },
+      {
+        "given": "G. Shiva",
+        "family": "Shanker"
+      },
+      {
+        "given": "Yanai",
+        "family": "Pearlmutter"
+      },
+      {
+        "given": "Adi",
+        "family": "Fryder"
+      },
+      {
+        "given": "Ran",
+        "family": "Shimoni"
+      },
+      {
+        "given": "Idan",
+        "family": "Hod"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E147",
+    "doi": "10.1002/anie.9278631",
+    "title": "Solar‐Driven Ammonia Synthesis From Nitrate Reduction Paired With CO\n                    <sub>2</sub>\n                    Capture for Sustainable Agriculture via a Robust CuPd Heterojunction",
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ]
+    },
+    "volume": "65",
+    "issue": "25",
+    "page": null,
+    "article_number": "e9278631",
+    "url": "https://doi.org/10.1002/anie.9278631",
+    "authors": [
+      {
+        "given": "Weihua",
+        "family": "Guo"
+      },
+      {
+        "given": "Xiaofeng",
+        "family": "Huang"
+      },
+      {
+        "given": "Yangbo",
+        "family": "Ma"
+      },
+      {
+        "given": "Yun",
+        "family": "Song"
+      },
+      {
+        "given": "Zihao",
+        "family": "Li"
+      },
+      {
+        "given": "Qiang",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yinger",
+        "family": "Xin"
+      },
+      {
+        "given": "Jianjun",
+        "family": "Su"
+      },
+      {
+        "given": "Mingming",
+        "family": "He"
+      },
+      {
+        "given": "Ruixuan",
+        "family": "Wang"
+      },
+      {
+        "given": "Rui",
+        "family": "Xue"
+      },
+      {
+        "given": "Xing",
+        "family": "Li"
+      },
+      {
+        "given": "Shibo",
+        "family": "Xi"
+      },
+      {
+        "given": "Jian",
+        "family": "Wang"
+      },
+      {
+        "given": "Shenlong",
+        "family": "Zhao"
+      },
+      {
+        "given": "Siwei",
+        "family": "Zhang"
+      },
+      {
+        "given": "Ben Zhong",
+        "family": "Tang"
+      },
+      {
+        "given": "Alex K. Y.",
+        "family": "Jen"
+      },
+      {
+        "given": "Ruquan",
+        "family": "Ye"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E148",
+    "doi": "10.1021/jacs.5c12205",
+    "title": "Dynamics and Control of Dual Active Sites in Co-Substituted Ni Coordination Polymers for Enhanced Oxygen Evolution Catalysis",
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "volume": "148",
+    "issue": "4",
+    "page": "3976-3986",
+    "article_number": null,
+    "url": "https://doi.org/10.1021/jacs.5c12205",
+    "authors": [
+      {
+        "given": "Yonggui",
+        "family": "Zhao"
+      },
+      {
+        "given": "Nanchen",
+        "family": "Dongfang"
+      },
+      {
+        "given": "Rolf",
+        "family": "Erni"
+      },
+      {
+        "given": "Marcella",
+        "family": "Iannuzzi"
+      },
+      {
+        "given": "Greta R.",
+        "family": "Patzke"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E149",
+    "doi": "10.1038/s41467-025-64286-1",
+    "title": "Temperature-dependent mechanism evolution on RhRu3Ox for acidic water oxidation",
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          20
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          20
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": null,
+    "article_number": "9261",
+    "url": "https://doi.org/10.1038/s41467-025-64286-1",
+    "authors": [
+      {
+        "given": "Ming-Rong",
+        "family": "Qu"
+      },
+      {
+        "given": "Heng",
+        "family": "Liu"
+      },
+      {
+        "given": "Si-Hua",
+        "family": "Feng"
+      },
+      {
+        "given": "Xiao-Zhi",
+        "family": "Su"
+      },
+      {
+        "given": "Jie",
+        "family": "Xu"
+      },
+      {
+        "given": "Heng-Li",
+        "family": "Duan"
+      },
+      {
+        "given": "Rui-Qi",
+        "family": "Liu"
+      },
+      {
+        "given": "You-Yi",
+        "family": "Qin"
+      },
+      {
+        "given": "Wen-Sheng",
+        "family": "Yan"
+      },
+      {
+        "given": "Sheng",
+        "family": "Zhu"
+      },
+      {
+        "given": "Rui",
+        "family": "Wu"
+      },
+      {
+        "given": "Hao",
+        "family": "Li"
+      },
+      {
+        "given": "Shu-Hong",
+        "family": "Yu"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E150",
+    "doi": "10.1039/d6sc01428c",
+    "title": "Instability of PCN-224(Fe) during the oxygen reduction reaction; metal–organic framework electrocatalysts may have an Achilles heel",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "24",
+    "page": "11932-11940",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d6sc01428c",
+    "authors": [
+      {
+        "given": "Dana",
+        "family": "Rademaker"
+      },
+      {
+        "given": "Roy",
+        "family": "Maas"
+      },
+      {
+        "given": "Stefania",
+        "family": "Tanase"
+      },
+      {
+        "given": "Hongrui",
+        "family": "Kang"
+      },
+      {
+        "given": "Jan P.",
+        "family": "Hofmann"
+      },
+      {
+        "given": "Dennis G. H.",
+        "family": "Hetterscheid"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  },
+  {
+    "card_id": "E151",
+    "doi": "10.1039/d5sc04774a",
+    "title": "Mechanistic insights into the competition between electrochemical CO\n                    <sub>2</sub>\n                    reduction and hydrogen evolution on Ag-based electrocatalysts\n                    <i>via operando</i>\n                    Raman spectroscopy",
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "48",
+    "page": "23160-23173",
+    "article_number": null,
+    "url": "https://doi.org/10.1039/d5sc04774a",
+    "authors": [
+      {
+        "given": "Kinran",
+        "family": "Lau"
+      },
+      {
+        "given": "Muhammad Adib Abdillah",
+        "family": "Mahbub"
+      },
+      {
+        "given": "Nini",
+        "family": "Zhang"
+      },
+      {
+        "given": "Anirudha",
+        "family": "Shekhawat"
+      },
+      {
+        "given": "Xin",
+        "family": "Wang"
+      },
+      {
+        "given": "Sabine",
+        "family": "Seisel"
+      },
+      {
+        "given": "Ridha",
+        "family": "Zerdoumi"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Schuhmann"
+      }
+    ],
+    "verification": "DOI identity resolved through Crossref and matched JATS DOI; metadata snapshot2026-10-21; not comprehensive correction/retraction clearance"
+  }
+]

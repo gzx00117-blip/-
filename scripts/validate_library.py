@@ -11,6 +11,9 @@ def main():
     check(len([x for x in c if int(x['card_id'][1:])>=status.get('new_start_id',32)])==status['new_papers'],'New batch count mismatch')
     check(len({x['doi'].lower() for x in c})==len(c),'Duplicate DOI')
     check(len({x['card_id'] for x in c})==len(c),'Duplicate card ID')
+    check(sum(len(x['claims']) for x in c)==status['claims'],'Claim count differs from manifest')
+    claim_ids=[q.get('claim_id',q.get('id')) for x in c for q in x['claims']]
+    check(all(claim_ids) and len(set(claim_ids))==status['claims'],'Missing or duplicate claim ID')
     for x in c:
         cid=x['card_id']
         check(bool(re.fullmatch(r'10\.\d{4,9}/\S+',x['doi'])),cid+' DOI format')
@@ -32,12 +35,17 @@ def main():
         for key in ('conditions','mechanism','limits','writing','figure','experiment'):
             check(bool(x[key]),cid+' missing '+key)
         check((ROOT/'cards'/f'{cid}.md').exists(),cid+' markdown missing')
+        if x.get('si_review'):
+            s=x['si_review']
+            check(bool(re.fullmatch(r'[a-f0-9]{64}',s['source_sha256'])),cid+' SI source hash')
+            check(bool(s['read_pages']) and all(1<=p<=s['page_count'] for p in s['read_pages']),cid+' SI page bounds')
+            check('physical' in s['locator_kind'] and bool(s['scope']),cid+' SI locator/scope missing')
     checks={}
     for q,expected in [('1128 1266 Raman','E001'),('KSCN','E020'),('Fc/Fc','E029'),('fixed unfixed','E030'),('晶格氮','E056'),('次表层','E074'),('repelling','E091')]:
         ids=[x['card_id'] for x in search(q,8)]
         checks[q]=ids; check(expected in ids,'Retrieval failed '+q)
     # A portable repository should have only authored text and executable helpers.
-    allowed={'.md','.json','.py','.gitignore','.svg','.csv','.txt'}
+    allowed={'.md','.json','.py','.gitignore','.svg','.csv','.txt','.bib'}
     tracked=[]
     for p in ROOT.rglob('*'):
         rel=p.relative_to(ROOT)
@@ -53,6 +61,17 @@ def main():
     check(abs(current_ma(1,'NO3')/current_ma(1,'NO2')-8/6)<1e-12,'NO3/NO2 electron accounting')
     canonical=lambda x:x.lower().replace('10.1002/ange.','10.1002/anie.')
     check(len({canonical(x['doi']) for x in c})==len(c),'German/International DOI alias duplicate')
+    if status.get('new_start_id')==122:
+        new=c[121:];byid={x['card_id']:x for x in new}
+        meta=json.loads((ROOT/'analysis/methods_bibliography.json').read_text(encoding='utf-8'))
+        receipts=json.loads((ROOT/'analysis/methods_visual_receipts.json').read_text(encoding='utf-8'))
+        check(len(meta)==30 and {m['card_id'] for m in meta}==set(byid),'New citation identities incomplete')
+        check(all(canonical(m['doi'])==canonical(byid[m['card_id']]['doi']) for m in meta),'Crossref/card DOI mismatch')
+        check(len(receipts)==30 and {r['card_id'] for r in receipts}==set(byid),'New visual receipts incomplete')
+        check(all(bool(re.fullmatch(r'[a-f0-9]{64}',r['media_sha256'])) for r in receipts),'Visual source hash missing')
+        check(len([x for x in new if x.get('si_review')])==6,'SI source count mismatch')
+        check(sum(len(x['si_review']['read_pages']) for x in new if x.get('si_review'))==24,'SI reading page count mismatch')
+        check(all(x.get('capabilities') and x.get('critical_reading') for x in new),'New critical-reading audit missing')
     result=dict(ok=not errors,papers=len(c),new_papers=status['new_papers'],distinct_dois=len({canonical(x['doi']) for x in c}),claims=sum(len(x['claims']) for x in c),retrieval=checks,portable_files=len(tracked),errors=errors)
     print(json.dumps(result,ensure_ascii=False,indent=2))
     sys.exit(0 if not errors else 1)

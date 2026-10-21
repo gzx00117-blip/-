@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "checks": 20,
+  "passed": [
+    "Find spectro/performance pH and cell mismatch",
+    "Missing ATR iR stays unknown; matrix mismatch retained",
+    "Detect stirring change within one paper",
+    "Two empty profiles never count as matched",
+    "Positive synthetic condition-match control",
+    "N and nitrate mass bases convert to same molar amount",
+    "Equal mg/L with different bases never treated as equal nitrate amount",
+    "0.1 electron per nitrate gives1.25 percent NH3 ceiling",
+    "Enzyme blank and two-N stoichiometry with uncertainty",
+    "Retain negative blank-corrected diagnostic",
+    "Reject negative/nonfinite input",
+    "Retrieve E134 from 0.592",
+    "Retrieve E131 from 同晶圆",
+    "Retrieve E151 from Raman pH13 pH14",
+    "SI receipt scope6 sources24 physical pages",
+    "Failure case has searchable route",
+    "Do not attribute another group CP-VASP mention to this paper software",
+    "Export all30 resolved DOI citations with years",
+    "Reject main-text PDF pages on a JATS card",
+    "Reject mixing SI page and main-unit selectors"
+  ],
+  "scope": "Local behavioral regression; no claim of independent model benchmark improvement"
+}

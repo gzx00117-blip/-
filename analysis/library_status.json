@@ -1,18 +1,21 @@
 {
-  "snapshot_date": "2026-10-18",
-  "papers": 121,
-  "previous_papers": 91,
+  "snapshot_date": "2026-10-21",
+  "papers": 151,
+  "previous_papers": 121,
   "new_papers": 30,
-  "new_start_id": 92,
-  "claims": 369,
+  "new_start_id": 122,
+  "claims": 459,
   "new_journals": {
-    "JACS": 8,
-    "Angewandte Chemie International Edition": 6,
-    "Nature Communications": 16
+    "Nature communications": 12,
+    "Communications chemistry": 2,
+    "Science advances": 1,
+    "Chemical science": 7,
+    "Journal of the American Chemical Society": 5,
+    "Angewandte Chemie (International ed. in English)": 3
   },
-  "new_sources": "30 authorized public PMC JATS full texts and original figure media, deduplicated against prior91",
-  "new_reading_scope": "30 focused passage reviews, including 1 theoretical study; one selected original figure each; SI not reviewed",
-  "reading_scope": "5 main-section reviews; 116 focused passage reviews. No publisher-wide/full-SI coverage.",
-  "source_policy": "Only authored notes, metadata, code and original training illustrations are public; source texts and images stay local.",
-  "date_boundary": "E032 inherited 2027 issue date / online-first unresolved; new30 first-publication dates 2024–2026 from EuropePMC/JATS."
+  "new_sources": "30 DOI-distinct authorized PMC JATS sources plus original media; metadata checked against Crossref",
+  "new_reading_scope": "30 focused reviews, one selected original figure each; 6 selected-SI reviews totaling24 physical pages; 2 reviews/perspectives and 1 theoretical study separately tagged",
+  "reading_scope": "5 main-section reviews;146 focused passage reviews; no claim of publisher-wide/full-SI coverage.",
+  "source_policy": "Only authored notes, identity metadata, code and original training assets are public. No source text/images/PDFs.",
+  "date_boundary": "New30 first-publication records2024–2026; E032 inherited2027 issue/online-first unresolved."
 }

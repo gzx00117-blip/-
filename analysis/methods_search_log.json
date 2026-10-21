@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "selection": "Purposive capability-gap sampling of authorized open-access records, not an exhaustive systematic review or PRISMA flow",
+  "queries": [
+    {
+      "database": "Europe PMC",
+      "topic": "methods",
+      "query": "(TITLE_ABS:electrocatalysis OR TITLE_ABS:electrocatalytic) AND (TITLE_ABS:\"best practices\" OR TITLE_ABS:quantification OR TITLE_ABS:\"Tafel\" OR TITLE_ABS:\"solvation kinetics\")",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3Aelectrocatalysis%20OR%20TITLE_ABS%3Aelectrocatalytic%29%20AND%20%28TITLE_ABS%3A%22best%20practices%22%20OR%20TITLE_ABS%3Aquantification%20OR%20TITLE_ABS%3A%22Tafel%22%20OR%20TITLE_ABS%3A%22solvation%20kinetics%22%29%20AND%20FIRST_PDATE%3A%5B2024-01-01%20TO%202026-10-21%5D%20AND%20OPEN_ACCESS%3AY&format=json&pageSize=100&resultType=core",
+      "hit_count": 272,
+      "retrieved": 100
+    },
+    {
+      "database": "Europe PMC",
+      "topic": "co2",
+      "query": "(TITLE_ABS:\"carbon dioxide reduction\" OR TITLE_ABS:\"CO2 reduction\") AND (TITLE_ABS:kinetic OR TITLE_ABS:operando OR TITLE_ABS:microenvironment OR TITLE_ABS:water)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22carbon%20dioxide%20reduction%22%20OR%20TITLE_ABS%3A%22CO2%20reduction%22%29%20AND%20%28TITLE_ABS%3Akinetic%20OR%20TITLE_ABS%3Aoperando%20OR%20TITLE_ABS%3Amicroenvironment%20OR%20TITLE_ABS%3Awater%29%20AND%20FIRST_PDATE%3A%5B2024-01-01%20TO%202026-10-21%5D%20AND%20OPEN_ACCESS%3AY&format=json&pageSize=100&resultType=core",
+      "hit_count": 164,
+      "retrieved": 100
+    },
+    {
+      "database": "Europe PMC",
+      "topic": "nitrate",
+      "query": "TITLE_ABS:\"nitrate reduction\"",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%22nitrate%20reduction%22%20AND%20FIRST_PDATE%3A%5B2024-01-01%20TO%202026-10-21%5D%20AND%20OPEN_ACCESS%3AY&format=json&pageSize=100&resultType=core",
+      "hit_count": 516,
+      "retrieved": 100
+    },
+    {
+      "database": "Europe PMC",
+      "topic": "molecule",
+      "query": "(TITLE_ABS:electrocatalysis OR TITLE_ABS:electrocatalytic) AND (TITLE_ABS:fullerene OR TITLE_ABS:\"molecular catalyst\" OR TITLE_ABS:\"constant potential\")",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3Aelectrocatalysis%20OR%20TITLE_ABS%3Aelectrocatalytic%29%20AND%20%28TITLE_ABS%3Afullerene%20OR%20TITLE_ABS%3A%22molecular%20catalyst%22%20OR%20TITLE_ABS%3A%22constant%20potential%22%29%20AND%20FIRST_PDATE%3A%5B2024-01-01%20TO%202026-10-21%5D%20AND%20OPEN_ACCESS%3AY&format=json&pageSize=100&resultType=core",
+      "hit_count": 34,
+      "retrieved": 34
+    },
+    {
+      "database": "Europe PMC",
+      "topic": "oxygen",
+      "query": "(TITLE_ABS:\"oxygen evolution\" OR TITLE_ABS:\"oxygen reduction\") AND (TITLE_ABS:isotope OR TITLE_ABS:kinetic OR TITLE_ABS:mechanism OR TITLE_ABS:\"active site\")",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22oxygen%20evolution%22%20OR%20TITLE_ABS%3A%22oxygen%20reduction%22%29%20AND%20%28TITLE_ABS%3Aisotope%20OR%20TITLE_ABS%3Akinetic%20OR%20TITLE_ABS%3Amechanism%20OR%20TITLE_ABS%3A%22active%20site%22%29%20AND%20FIRST_PDATE%3A%5B2024-01-01%20TO%202026-10-21%5D%20AND%20OPEN_ACCESS%3AY&format=json&pageSize=100&resultType=core",
+      "hit_count": 535,
+      "retrieved": 100
+    }
+  ],
+  "candidate_doi_count": 122,
+  "added": 30,
+  "local_recent_pdf_check": "Two apparently new local JACS PDFs matched existing DOI identities and were excluded",
+  "final_deduplication": "An additional manually chosen candidate was found to duplicate E017 at final validation; its extra re-review was excluded from new count and replaced with DOI10.1038/s42004-024-01151-0. Import now rejects any prior/batch canonical DOI duplicate before writing.",
+  "bias": "OA availability, database coverage, journal filter and top100 retrieval per query introduce selection bias. No claim of all top-journal coverage."
+}
