@@ -1,0 +1,2173 @@
+[
+  {
+    "card_id": "E152",
+    "doi": "10.1126/science.abm9257",
+    "title": "Ambient-pressure synthesis of ethylene glycol catalyzed by C 60 -buffered Cu/SiO 2",
+    "authors": [
+      {
+        "given": "Jianwei",
+        "family": "Zheng"
+      },
+      {
+        "given": "Lele",
+        "family": "Huang"
+      },
+      {
+        "given": "Cun-Hao",
+        "family": "Cui"
+      },
+      {
+        "given": "Zuo-Chang",
+        "family": "Chen"
+      },
+      {
+        "given": "Xu-Feng",
+        "family": "Liu"
+      },
+      {
+        "given": "Xinping",
+        "family": "Duan"
+      },
+      {
+        "given": "Xin-Yi",
+        "family": "Cao"
+      },
+      {
+        "given": "Tong-Zong",
+        "family": "Yang"
+      },
+      {
+        "given": "Hongping",
+        "family": "Zhu"
+      },
+      {
+        "given": "Kang",
+        "family": "Shi"
+      },
+      {
+        "given": "Peng",
+        "family": "Du"
+      },
+      {
+        "given": "Si-Wei",
+        "family": "Ying"
+      },
+      {
+        "given": "Chang-Feng",
+        "family": "Zhu"
+      },
+      {
+        "given": "Yuan-Gen",
+        "family": "Yao"
+      },
+      {
+        "given": "Guo-Cong",
+        "family": "Guo"
+      },
+      {
+        "given": "Youzhu",
+        "family": "Yuan"
+      },
+      {
+        "given": "Su-Yuan",
+        "family": "Xie"
+      },
+      {
+        "given": "Lan-Sun",
+        "family": "Zheng"
+      }
+    ],
+    "journal": "Science",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          15
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "376",
+    "issue": "6590",
+    "page": "288-292",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1126/science.abm9257",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2022-04-15"
+  },
+  {
+    "card_id": "E153",
+    "doi": "10.1002/anie.6182981",
+    "title": "Acceptor‐Doped Cerium Oxides Enabling Metallic Nanocatalyst Exsolution for Hydrogen Production From Ammonia",
+    "authors": [
+      {
+        "given": "Andrés",
+        "family": "López‐García"
+      },
+      {
+        "given": "Elena",
+        "family": "Barrio‐Querol"
+      },
+      {
+        "given": "Álvaro",
+        "family": "Represa"
+      },
+      {
+        "given": "Jesús",
+        "family": "Ara"
+      },
+      {
+        "given": "Ana B.",
+        "family": "Hungría"
+      },
+      {
+        "given": "David",
+        "family": "Catalán‐Martínez"
+      },
+      {
+        "given": "Alfonso J.",
+        "family": "Carrillo"
+      },
+      {
+        "given": "Sonia",
+        "family": "Escolástico"
+      },
+      {
+        "given": "José Manuel",
+        "family": "Serra"
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "volume": "65",
+    "issue": "39",
+    "page": null,
+    "article_number": "e6182981",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/anie.6182981",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2026-07-24"
+  },
+  {
+    "card_id": "E154",
+    "doi": "10.1002/aenm.202204346",
+    "title": "C60‐Stabilized Cu+ Sites Boost Electrocatalytic Reduction of CO2 to C2+ Products",
+    "authors": [
+      {
+        "given": "Bohang",
+        "family": "Zhao"
+      },
+      {
+        "given": "Fanpeng",
+        "family": "Chen"
+      },
+      {
+        "given": "Chuanqi",
+        "family": "Cheng"
+      },
+      {
+        "given": "Li",
+        "family": "Li"
+      },
+      {
+        "given": "Cuibo",
+        "family": "Liu"
+      },
+      {
+        "given": "Bin",
+        "family": "Zhang"
+      }
+    ],
+    "journal": "Advanced Energy Materials",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          4
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          4
+        ]
+      ]
+    },
+    "volume": "13",
+    "issue": "19",
+    "page": null,
+    "article_number": "2204346",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/aenm.202204346",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2023-04-04"
+  },
+  {
+    "card_id": "E155",
+    "doi": "10.1021/ja056639q",
+    "title": "Effects of Functionalization, Catenation, and Variation of the Metal Oxide and Organic Linking Units on the Low-Pressure Hydrogen Adsorption Properties of Metal−Organic Frameworks",
+    "authors": [
+      {
+        "given": "Jesse L. C.",
+        "family": "Rowsell"
+      },
+      {
+        "given": "Omar M.",
+        "family": "Yaghi"
+      }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          7
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          7
+        ]
+      ]
+    },
+    "volume": "128",
+    "issue": "4",
+    "page": "1304-1315",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/ja056639q",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2006-01-07"
+  },
+  {
+    "card_id": "E156",
+    "doi": "10.1038/s41929-019-0235-5",
+    "title": "Rational catalyst and electrolyte design for CO2 electroreduction towards multicarbon products",
+    "authors": [
+      {
+        "given": "Dunfeng",
+        "family": "Gao"
+      },
+      {
+        "given": "Rosa M.",
+        "family": "Arán-Ais"
+      },
+      {
+        "given": "Hyo Sang",
+        "family": "Jeon"
+      },
+      {
+        "given": "Beatriz",
+        "family": "Roldan Cuenya"
+      }
+    ],
+    "journal": "Nature Catalysis",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          4
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          4
+        ]
+      ]
+    },
+    "volume": "2",
+    "issue": "3",
+    "page": "198-210",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41929-019-0235-5",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2019-03-04"
+  },
+  {
+    "card_id": "E157",
+    "doi": "10.1002/anie.202108313",
+    "title": "A Metal–Organic Framework derived CuxOyCz Catalyst for Electrochemical CO2 Reduction and Impact of Local pH Change",
+    "authors": [
+      {
+        "given": "Nivedita",
+        "family": "Sikdar"
+      },
+      {
+        "given": "João R. C.",
+        "family": "Junqueira"
+      },
+      {
+        "given": "Stefan",
+        "family": "Dieckhöfer"
+      },
+      {
+        "given": "Thomas",
+        "family": "Quast"
+      },
+      {
+        "given": "Michael",
+        "family": "Braun"
+      },
+      {
+        "given": "Yanfang",
+        "family": "Song"
+      },
+      {
+        "given": "Harshitha B.",
+        "family": "Aiyappa"
+      },
+      {
+        "given": "Sabine",
+        "family": "Seisel"
+      },
+      {
+        "given": "Jonas",
+        "family": "Weidner"
+      },
+      {
+        "given": "Denis",
+        "family": "Öhl"
+      },
+      {
+        "given": "Corina",
+        "family": "Andronescu"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Schuhmann"
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          23
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          23
+        ]
+      ]
+    },
+    "volume": "60",
+    "issue": "43",
+    "page": "23427-23434",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/anie.202108313",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2021-09-23"
+  },
+  {
+    "card_id": "E158",
+    "doi": "10.1039/d0ta02395g",
+    "title": "Metal–organic framework derived copper catalysts for CO 2 to ethylene conversion",
+    "authors": [
+      {
+        "given": "Kaili",
+        "family": "Yao"
+      },
+      {
+        "given": "Yujian",
+        "family": "Xia"
+      },
+      {
+        "given": "Jun",
+        "family": "Li"
+      },
+      {
+        "given": "Ning",
+        "family": "Wang"
+      },
+      {
+        "given": "Jingrui",
+        "family": "Han"
+      },
+      {
+        "given": "Congcong",
+        "family": "Gao"
+      },
+      {
+        "given": "Mei",
+        "family": "Han"
+      },
+      {
+        "given": "Guoqiang",
+        "family": "Shen"
+      },
+      {
+        "given": "Yongchang",
+        "family": "Liu"
+      },
+      {
+        "given": "Ali",
+        "family": "Seifitokaldani"
+      },
+      {
+        "given": "Xuhui",
+        "family": "Sun"
+      },
+      {
+        "given": "Hongyan",
+        "family": "Liang"
+      }
+    ],
+    "journal": "Journal of Materials Chemistry A",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "22",
+    "page": "11117-11123",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1039/d0ta02395g",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2020"
+  },
+  {
+    "card_id": "E159",
+    "doi": "10.1021/jacs.8b06407",
+    "title": "Metal–Organic Frameworks Mediate Cu Coordination for Selective CO 2 Electroreduction",
+    "authors": [
+      {
+        "given": "Dae-Hyun",
+        "family": "Nam"
+      },
+      {
+        "given": "Oleksandr S.",
+        "family": "Bushuyev"
+      },
+      {
+        "given": "Jun",
+        "family": "Li"
+      },
+      {
+        "given": "Phil",
+        "family": "De Luna"
+      },
+      {
+        "given": "Ali",
+        "family": "Seifitokaldani"
+      },
+      {
+        "given": "Cao-Thang",
+        "family": "Dinh"
+      },
+      {
+        "given": "F. Pelayo",
+        "family": "García de Arquer"
+      },
+      {
+        "given": "Yuhang",
+        "family": "Wang"
+      },
+      {
+        "given": "Zhiqin",
+        "family": "Liang"
+      },
+      {
+        "given": "Andrew H.",
+        "family": "Proppe"
+      },
+      {
+        "given": "Chih Shan",
+        "family": "Tan"
+      },
+      {
+        "given": "Petar",
+        "family": "Todorović"
+      },
+      {
+        "given": "Osama",
+        "family": "Shekhah"
+      },
+      {
+        "given": "Christine M.",
+        "family": "Gabardo"
+      },
+      {
+        "given": "Jea Woong",
+        "family": "Jo"
+      },
+      {
+        "given": "Jongmin",
+        "family": "Choi"
+      },
+      {
+        "given": "Min-Jae",
+        "family": "Choi"
+      },
+      {
+        "given": "Se-Woong",
+        "family": "Baek"
+      },
+      {
+        "given": "Junghwan",
+        "family": "Kim"
+      },
+      {
+        "given": "David",
+        "family": "Sinton"
+      },
+      {
+        "given": "Shana O.",
+        "family": "Kelley"
+      },
+      {
+        "given": "Mohamed",
+        "family": "Eddaoudi"
+      },
+      {
+        "given": "Edward H.",
+        "family": "Sargent"
+      }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          16
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          16
+        ]
+      ]
+    },
+    "volume": "140",
+    "issue": "36",
+    "page": "11378-11386",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/jacs.8b06407",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2018-08-16"
+  },
+  {
+    "card_id": "E160",
+    "doi": "10.1002/anie.202209629",
+    "title": "Selective CO 2 Electroreduction to Ethanol over a Carbon‐Coated CuO x Catalyst",
+    "authors": [
+      {
+        "given": "Yipeng",
+        "family": "Zang"
+      },
+      {
+        "given": "Tianfu",
+        "family": "Liu"
+      },
+      {
+        "given": "Pengfei",
+        "family": "Wei"
+      },
+      {
+        "given": "Hefei",
+        "family": "Li"
+      },
+      {
+        "given": "Qi",
+        "family": "Wang"
+      },
+      {
+        "given": "Guoxiong",
+        "family": "Wang"
+      },
+      {
+        "given": "Xinhe",
+        "family": "Bao"
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          23
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          23
+        ]
+      ]
+    },
+    "volume": "61",
+    "issue": "40",
+    "page": null,
+    "article_number": "e202209629",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/anie.202209629",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2022-08-23"
+  },
+  {
+    "card_id": "E161",
+    "doi": "10.1021/jacs.5c13078",
+    "title": "Customizable Aperture Geometry in Metal–Organic Frameworks for Kinetic Hydrocarbon Separation",
+    "authors": [
+      {
+        "given": "Shengyi",
+        "family": "Su"
+      },
+      {
+        "given": "Haomiao",
+        "family": "Xie"
+      },
+      {
+        "given": "Bang",
+        "family": "Hou"
+      },
+      {
+        "given": "Xianhui",
+        "family": "Tang"
+      },
+      {
+        "given": "Kent O.",
+        "family": "Kirlikovali"
+      },
+      {
+        "given": "Zi-Ming",
+        "family": "Ye"
+      },
+      {
+        "given": "Nathan C.",
+        "family": "Gianneschi"
+      },
+      {
+        "given": "Omar K.",
+        "family": "Farha"
+      }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          8
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          8
+        ]
+      ]
+    },
+    "volume": "147",
+    "issue": "42",
+    "page": "38647-38656",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/jacs.5c13078",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2025-10-08"
+  },
+  {
+    "card_id": "E162",
+    "doi": "10.1021/jacs.3c10827",
+    "title": "Transformation of ZIF-67 Nanocubes to ZIF-L Nanoframes",
+    "authors": [
+      {
+        "given": "Wuxin",
+        "family": "Bai"
+      },
+      {
+        "given": "Jiaqi",
+        "family": "Chen"
+      },
+      {
+        "given": "Xin",
+        "family": "Wang"
+      },
+      {
+        "given": "Junwu",
+        "family": "Zhu"
+      },
+      {
+        "given": "Yongsheng",
+        "family": "Fu"
+      }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "volume": "146",
+    "issue": "1",
+    "page": "79-83",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/jacs.3c10827",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2023-11-28"
+  },
+  {
+    "card_id": "E163",
+    "doi": "10.1038/s41467-023-37404-0",
+    "title": "Diversity of platinum-sites at platinum/fullerene interface accelerates alkaline hydrogen evolution",
+    "authors": [
+      {
+        "given": "Jiayi",
+        "family": "Chen"
+      },
+      {
+        "given": "Mohammed",
+        "family": "Aliasgar"
+      },
+      {
+        "given": "Fernando Buendia",
+        "family": "Zamudio"
+      },
+      {
+        "given": "Tianyu",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yilin",
+        "family": "Zhao"
+      },
+      {
+        "given": "Xu",
+        "family": "Lian"
+      },
+      {
+        "given": "Lan",
+        "family": "Wen"
+      },
+      {
+        "given": "Haozhou",
+        "family": "Yang"
+      },
+      {
+        "given": "Wenping",
+        "family": "Sun"
+      },
+      {
+        "given": "Sergey M.",
+        "family": "Kozlov"
+      },
+      {
+        "given": "Wei",
+        "family": "Chen"
+      },
+      {
+        "given": "Lei",
+        "family": "Wang"
+      }
+    ],
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          27
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          27
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "1",
+    "page": null,
+    "article_number": "1711",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41467-023-37404-0",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2023-03-27"
+  },
+  {
+    "card_id": "E164",
+    "doi": "10.1038/s41467-023-38126-z",
+    "title": "Single-atomic platinum on fullerene C60 surfaces for accelerated alkaline hydrogen evolution",
+    "authors": [
+      {
+        "given": "Ruiling",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yaozhou",
+        "family": "Li"
+      },
+      {
+        "given": "Xuan",
+        "family": "Zhou"
+      },
+      {
+        "given": "Ao",
+        "family": "Yu"
+      },
+      {
+        "given": "Qi",
+        "family": "Huang"
+      },
+      {
+        "given": "Tingting",
+        "family": "Xu"
+      },
+      {
+        "given": "Longtao",
+        "family": "Zhu"
+      },
+      {
+        "given": "Ping",
+        "family": "Peng"
+      },
+      {
+        "given": "Shuyan",
+        "family": "Song"
+      },
+      {
+        "given": "Luis",
+        "family": "Echegoyen"
+      },
+      {
+        "given": "Fang-Fang",
+        "family": "Li"
+      }
+    ],
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          28
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          28
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "1",
+    "page": null,
+    "article_number": "2460",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41467-023-38126-z",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2023-04-28"
+  },
+  {
+    "card_id": "E165",
+    "doi": "10.1038/s41467-026-73219-5",
+    "title": "Donor−acceptor catalysis with defective MoS2 and Fe0 breaks barriers to perchlorate reduction under mild conditions",
+    "authors": [
+      {
+        "given": "Hejie",
+        "family": "Qin"
+      },
+      {
+        "given": "Han",
+        "family": "Yang"
+      },
+      {
+        "given": "Zhenmin",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yiran",
+        "family": "Feng"
+      },
+      {
+        "given": "Yuankui",
+        "family": "Sun"
+      },
+      {
+        "given": "Peng",
+        "family": "Fan"
+      },
+      {
+        "given": "Zhimin",
+        "family": "Ao"
+      },
+      {
+        "given": "T. David",
+        "family": "Waite"
+      },
+      {
+        "given": "Xiaohong",
+        "family": "Guan"
+      }
+    ],
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          20
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          20
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "1",
+    "page": null,
+    "article_number": "6721",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41467-026-73219-5",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2026-05-20"
+  },
+  {
+    "card_id": "E166",
+    "doi": "10.1038/s41467-026-74563-2",
+    "title": "Electron-rich dianion vacancies boost diazenide intermediates for efficient chemical looping ammonia synthesis",
+    "authors": [
+      {
+        "given": "Jiaqi",
+        "family": "Wang"
+      },
+      {
+        "given": "Bo",
+        "family": "Dai"
+      },
+      {
+        "given": "Zichuang",
+        "family": "Li"
+      },
+      {
+        "given": "Jiang",
+        "family": "Li"
+      },
+      {
+        "given": "Xiaojun",
+        "family": "Lu"
+      },
+      {
+        "given": "Wen-Qian",
+        "family": "Li"
+      },
+      {
+        "given": "Ruoqian",
+        "family": "Jiang"
+      },
+      {
+        "given": "Kailong",
+        "family": "Qian"
+      },
+      {
+        "given": "Sijia",
+        "family": "Zheng"
+      },
+      {
+        "given": "Shuang",
+        "family": "Liu"
+      },
+      {
+        "given": "Masaaki",
+        "family": "Kitano"
+      },
+      {
+        "given": "Hideo",
+        "family": "Hosono"
+      },
+      {
+        "given": "Yangfan",
+        "family": "Lu"
+      },
+      {
+        "given": "Jie-Sheng",
+        "family": "Chen"
+      },
+      {
+        "given": "Tian-Nan",
+        "family": "Ye"
+      }
+    ],
+    "journal": "Nature Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          19
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          19
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "1",
+    "page": null,
+    "article_number": "7748",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41467-026-74563-2",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2026-06-19"
+  },
+  {
+    "card_id": "E167",
+    "doi": "10.1002/cey2.70000",
+    "title": "Tailoring Ultrashort Inter‐Fullerene Spacing in a Continuous Fullerene Stacking Array to Enhance Electron Transport for Boosting Solar‐Driven Hydrogen Production",
+    "authors": [
+      {
+        "given": "Yupeng",
+        "family": "Song"
+      },
+      {
+        "given": "Chong",
+        "family": "Wang"
+      },
+      {
+        "given": "Ying",
+        "family": "Jiang"
+      },
+      {
+        "given": "Zihui",
+        "family": "Hua"
+      },
+      {
+        "given": "Tianyang",
+        "family": "Dong"
+      },
+      {
+        "given": "Ruizhi",
+        "family": "Liu"
+      },
+      {
+        "given": "Rui",
+        "family": "Wen"
+      },
+      {
+        "given": "Jiechao",
+        "family": "Ge"
+      },
+      {
+        "given": "Chunru",
+        "family": "Wang"
+      },
+      {
+        "given": "Bo",
+        "family": "Wu"
+      }
+    ],
+    "journal": "Carbon Energy",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "volume": "7",
+    "issue": "7",
+    "page": null,
+    "article_number": "e70000",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/cey2.70000",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2025-04"
+  },
+  {
+    "card_id": "E168",
+    "doi": "10.1038/s41557-024-01641-7",
+    "title": "Fullerenes promote transition-metal-catalysed ammonia synthesis",
+    "authors": [
+      {
+        "given": "A.",
+        "family": "Daisley"
+      },
+      {
+        "given": "J. S. J.",
+        "family": "Hargreaves"
+      }
+    ],
+    "journal": "Nature Chemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          15
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          15
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "11",
+    "page": "1739-1740",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1038/s41557-024-01641-7",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2024-10-15"
+  },
+  {
+    "card_id": "E169",
+    "doi": "10.1002/sstr.202200012",
+    "title": "Targeted Molecular Design of Functionalized Fullerenes for High‐Performance and Stable Perovskite Solar Cells",
+    "authors": [
+      {
+        "given": "Zhou",
+        "family": "Xing"
+      },
+      {
+        "given": "Shu-Hui",
+        "family": "Li"
+      },
+      {
+        "given": "Shihe",
+        "family": "Yang"
+      }
+    ],
+    "journal": "Small Structures",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          15
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          15
+        ]
+      ]
+    },
+    "volume": "3",
+    "issue": "6",
+    "page": null,
+    "article_number": "2200012",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/sstr.202200012",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2022-04-15"
+  },
+  {
+    "card_id": "E170",
+    "doi": "10.1002/adfm.202419582",
+    "title": "Terminal Effects of Fulleropyrrolidine Electron Transport Materials for Efficient Perovskite Solar Cells",
+    "authors": [
+      {
+        "given": "Fu",
+        "family": "Liu"
+      },
+      {
+        "given": "Bin‐Wen",
+        "family": "Chen"
+      },
+      {
+        "given": "Ajuan",
+        "family": "Fan"
+      },
+      {
+        "given": "Zuo‐Chang",
+        "family": "Chen"
+      },
+      {
+        "given": "Yanbiao",
+        "family": "Pan"
+      },
+      {
+        "given": "Zhuen",
+        "family": "Tang"
+      },
+      {
+        "given": "Lin‐Long",
+        "family": "Deng"
+      },
+      {
+        "given": "Zhou",
+        "family": "Xing"
+      },
+      {
+        "given": "Shu‐Hui",
+        "family": "Li"
+      }
+    ],
+    "journal": "Advanced Functional Materials",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          6
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          6
+        ]
+      ]
+    },
+    "volume": "35",
+    "issue": "15",
+    "page": null,
+    "article_number": "2419582",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/adfm.202419582",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2024-12-06"
+  },
+  {
+    "card_id": "E171",
+    "doi": "10.1021/acsami.2c10387",
+    "title": "Fullerene-Derived Carbon Nanotubes and Their Electrocatalytic Properties in Oxygen Reduction and Zn–Air Batteries",
+    "authors": [
+      {
+        "given": "Ao",
+        "family": "Yu"
+      },
+      {
+        "given": "Zhiyao",
+        "family": "Peng"
+      },
+      {
+        "given": "Yaozhou",
+        "family": "Li"
+      },
+      {
+        "given": "Longtao",
+        "family": "Zhu"
+      },
+      {
+        "given": "Ping",
+        "family": "Peng"
+      },
+      {
+        "given": "Fang-Fang",
+        "family": "Li"
+      }
+    ],
+    "journal": "ACS Applied Materials & Interfaces",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          12
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          12
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "37",
+    "page": "42337-42346",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/acsami.2c10387",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2022-09-12"
+  },
+  {
+    "card_id": "E172",
+    "doi": "10.1039/d1sc05441d",
+    "title": "Unexpected high selectivity for acetate formation from CO 2 reduction with copper based 2D hybrid catalysts at ultralow potentials",
+    "authors": [
+      {
+        "given": "Rongming",
+        "family": "Cai"
+      },
+      {
+        "given": "Mingzi",
+        "family": "Sun"
+      },
+      {
+        "given": "Jiazheng",
+        "family": "Ren"
+      },
+      {
+        "given": "Min",
+        "family": "Ju"
+      },
+      {
+        "given": "Xia",
+        "family": "Long"
+      },
+      {
+        "given": "Bolong",
+        "family": "Huang"
+      },
+      {
+        "given": "Shihe",
+        "family": "Yang"
+      }
+    ],
+    "journal": "Chemical Science",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "volume": "12",
+    "issue": "46",
+    "page": "15382-15388",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1039/d1sc05441d",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2021"
+  },
+  {
+    "card_id": "E173",
+    "doi": "10.1021/acscatal.2c01750",
+    "title": "Cu Vacancy Induced Product Switching from Formate to CO for CO 2 Reduction on Copper Sulfide",
+    "authors": [
+      {
+        "given": "Simeng",
+        "family": "Li"
+      },
+      {
+        "given": "Huan",
+        "family": "Duan"
+      },
+      {
+        "given": "Jun",
+        "family": "Yu"
+      },
+      {
+        "given": "Chen",
+        "family": "Qiu"
+      },
+      {
+        "given": "Rongxing",
+        "family": "Yu"
+      },
+      {
+        "given": "Yanpeng",
+        "family": "Chen"
+      },
+      {
+        "given": "Yueping",
+        "family": "Fang"
+      },
+      {
+        "given": "Xin",
+        "family": "Cai"
+      },
+      {
+        "given": "Shihe",
+        "family": "Yang"
+      }
+    ],
+    "journal": "ACS Catalysis",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          13
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          13
+        ]
+      ]
+    },
+    "volume": "12",
+    "issue": "15",
+    "page": "9074-9082",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/acscatal.2c01750",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2022-07-13"
+  },
+  {
+    "card_id": "E174",
+    "doi": "10.1016/j.porgcoat.2016.09.025",
+    "title": "A preliminary study of functional coating material of polypropylene itaconate incorporated with [Cu 3 (BTC) 2 ] MOF as CO 2 adsorbent",
+    "authors": [
+      {
+        "given": "Atmanto Heru",
+        "family": "Wibowo"
+      },
+      {
+        "given": "Witri Wahyu",
+        "family": "Lestari"
+      },
+      {
+        "given": "Fitriana Jati",
+        "family": "Teteki"
+      },
+      {
+        "given": "Yuni Krisyuningsih",
+        "family": "Krisnandi"
+      },
+      {
+        "given": "Adhitasari",
+        "family": "Suratman"
+      }
+    ],
+    "journal": "Progress in Organic Coatings",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "101",
+    "issue": null,
+    "page": "537-542",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1016/j.porgcoat.2016.09.025",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2016-12"
+  },
+  {
+    "card_id": "E175",
+    "doi": "10.1016/j.cej.2025.166954",
+    "title": "Cu-MOF-derived two-dimensional Cu@N-doped carbon nanosheets for ultrahigh rate and stable lithium storage",
+    "authors": [
+      {
+        "given": "Bing",
+        "family": "Zhu"
+      },
+      {
+        "given": "Yangai",
+        "family": "Liu"
+      },
+      {
+        "given": "Qingyu",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yaning",
+        "family": "Du"
+      },
+      {
+        "given": "Liming",
+        "family": "Wu"
+      },
+      {
+        "given": "Ruiyu",
+        "family": "Mi"
+      }
+    ],
+    "journal": "Chemical Engineering Journal",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "521",
+    "issue": null,
+    "page": "166954",
+    "article_number": "166954",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1016/j.cej.2025.166954",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2025-10"
+  },
+  {
+    "card_id": "E176",
+    "doi": "10.1002/anie.201903323",
+    "title": "Generation of Hierarchical Porosity in Metal–Organic Frameworks by the Modulation of Cation Valence",
+    "authors": [
+      {
+        "given": "Shi‐Chao",
+        "family": "Qi"
+      },
+      {
+        "given": "Xin‐Yu",
+        "family": "Qian"
+      },
+      {
+        "given": "Qiu‐Xia",
+        "family": "He"
+      },
+      {
+        "given": "Kang‐Jing",
+        "family": "Miao"
+      },
+      {
+        "given": "Yao",
+        "family": "Jiang"
+      },
+      {
+        "given": "Peng",
+        "family": "Tan"
+      },
+      {
+        "given": "Xiao‐Qin",
+        "family": "Liu"
+      },
+      {
+        "given": "Lin‐Bing",
+        "family": "Sun"
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          27
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          27
+        ]
+      ]
+    },
+    "volume": "58",
+    "issue": "30",
+    "page": "10104-10109",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/anie.201903323",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2019-06-27"
+  },
+  {
+    "card_id": "E177",
+    "doi": "10.1002/chem.202101645",
+    "title": "Anion Modulation of Pt‐Group Metals and Electrocatalysis Applications",
+    "authors": [
+      {
+        "given": "Ding",
+        "family": "Chen"
+      },
+      {
+        "given": "Jiawei",
+        "family": "Zhu"
+      },
+      {
+        "given": "Zonghua",
+        "family": "Pu"
+      },
+      {
+        "given": "Shichun",
+        "family": "Mu"
+      }
+    ],
+    "journal": "Chemistry – A European Journal",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          9
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          9
+        ]
+      ]
+    },
+    "volume": "27",
+    "issue": "48",
+    "page": "12257-12271",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/chem.202101645",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2021-07-09"
+  },
+  {
+    "card_id": "E178",
+    "doi": "10.1021/acs.inorgchem.1c01120",
+    "title": "Defect Engineering of Nanoscale Hf-Based Metal–Organic Frameworks for Highly Efficient Iodine Capture",
+    "authors": [
+      {
+        "given": "Yuyao",
+        "family": "Guan"
+      },
+      {
+        "given": "Yite",
+        "family": "Li"
+      },
+      {
+        "given": "Junli",
+        "family": "Zhou"
+      },
+      {
+        "given": "Tao",
+        "family": "Zhang"
+      },
+      {
+        "given": "Jun",
+        "family": "Ding"
+      },
+      {
+        "given": "Zhigang",
+        "family": "Xie"
+      },
+      {
+        "given": "Lei",
+        "family": "Wang"
+      }
+    ],
+    "journal": "Inorganic Chemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          16
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          16
+        ]
+      ]
+    },
+    "volume": "60",
+    "issue": "13",
+    "page": "9848-9856",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/acs.inorgchem.1c01120",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2021-06-16"
+  },
+  {
+    "card_id": "E179",
+    "doi": "10.1021/jacs.4c18074",
+    "title": "Dipolar Carbazole Ammonium for Broadened Electric Field Distribution in High-Performance Perovskite Solar Cells",
+    "authors": [
+      {
+        "given": "Jialin",
+        "family": "Wang"
+      },
+      {
+        "given": "Likai",
+        "family": "Zheng"
+      },
+      {
+        "given": "Hak-Beom",
+        "family": "Kim"
+      },
+      {
+        "given": "Han",
+        "family": "He"
+      },
+      {
+        "given": "Sanlong",
+        "family": "Wang"
+      },
+      {
+        "given": "Felix T.",
+        "family": "Eickemeyer"
+      },
+      {
+        "given": "Yimhyun",
+        "family": "Jo"
+      },
+      {
+        "given": "Ying",
+        "family": "Zhao"
+      },
+      {
+        "given": "Mingyang",
+        "family": "Wei"
+      },
+      {
+        "given": "Jaeki",
+        "family": "Jeong"
+      },
+      {
+        "given": "Michael",
+        "family": "Grätzel"
+      },
+      {
+        "given": "Xiaodan",
+        "family": "Zhang"
+      }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          26
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          26
+        ]
+      ]
+    },
+    "volume": "147",
+    "issue": "10",
+    "page": "8663-8671",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/jacs.4c18074",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2025-02-26"
+  },
+  {
+    "card_id": "E180",
+    "doi": "10.1126/science.1231451",
+    "title": "Shape-Memory Nanopores Induced in Coordination Frameworks by Crystal Downsizing",
+    "authors": [
+      {
+        "given": "Yoko",
+        "family": "Sakata"
+      },
+      {
+        "given": "Shuhei",
+        "family": "Furukawa"
+      },
+      {
+        "given": "Mio",
+        "family": "Kondo"
+      },
+      {
+        "given": "Kenji",
+        "family": "Hirai"
+      },
+      {
+        "given": "Nao",
+        "family": "Horike"
+      },
+      {
+        "given": "Yohei",
+        "family": "Takashima"
+      },
+      {
+        "given": "Hiromitsu",
+        "family": "Uehara"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Louvain"
+      },
+      {
+        "given": "Mikhail",
+        "family": "Meilikhov"
+      },
+      {
+        "given": "Takaaki",
+        "family": "Tsuruoka"
+      },
+      {
+        "given": "Seiji",
+        "family": "Isoda"
+      },
+      {
+        "given": "Wataru",
+        "family": "Kosaka"
+      },
+      {
+        "given": "Osami",
+        "family": "Sakata"
+      },
+      {
+        "given": "Susumu",
+        "family": "Kitagawa"
+      }
+    ],
+    "journal": "Science",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          11
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "339",
+    "issue": "6116",
+    "page": "193-196",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1126/science.1231451",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2013-01-11"
+  },
+  {
+    "card_id": "E181",
+    "doi": "10.1002/smll.202405399",
+    "title": "Non‐Noble‐Metal‐Based Electrocatalysts for Acidic Oxygen Evolution Reaction: Recent Progress, Challenges, and Perspectives",
+    "authors": [
+      {
+        "given": "Tingting",
+        "family": "Liu"
+      },
+      {
+        "given": "Chen",
+        "family": "Chen"
+      },
+      {
+        "given": "Zonghua",
+        "family": "Pu"
+      },
+      {
+        "given": "Qiufeng",
+        "family": "Huang"
+      },
+      {
+        "given": "Xiaofeng",
+        "family": "Zhang"
+      },
+      {
+        "given": "Abdullah M.",
+        "family": "Al‐Enizi"
+      },
+      {
+        "given": "Ayman",
+        "family": "Nafady"
+      },
+      {
+        "given": "Shengyun",
+        "family": "Huang"
+      },
+      {
+        "given": "Ding",
+        "family": "Chen"
+      },
+      {
+        "given": "Shichun",
+        "family": "Mu"
+      }
+    ],
+    "journal": "Small",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          25
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          25
+        ]
+      ]
+    },
+    "volume": "20",
+    "issue": "48",
+    "page": null,
+    "article_number": "2405399",
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1002/smll.202405399",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2024-08-25"
+  },
+  {
+    "card_id": "E182",
+    "doi": "10.1021/acsami.9b03304",
+    "title": "Pyridine-Functionalized Fullerene Electron Transport Layer for Efficient Planar Perovskite Solar Cells",
+    "authors": [
+      {
+        "given": "Hao-Ran",
+        "family": "Liu"
+      },
+      {
+        "given": "Shu-Hui",
+        "family": "Li"
+      },
+      {
+        "given": "Lin-Long",
+        "family": "Deng"
+      },
+      {
+        "given": "Ze-Yu",
+        "family": "Wang"
+      },
+      {
+        "given": "Zhou",
+        "family": "Xing"
+      },
+      {
+        "given": "Xiang",
+        "family": "Rong"
+      },
+      {
+        "given": "Han-Rui",
+        "family": "Tian"
+      },
+      {
+        "given": "Xin",
+        "family": "Li"
+      },
+      {
+        "given": "Su-Yuan",
+        "family": "Xie"
+      },
+      {
+        "given": "Rong-Bin",
+        "family": "Huang"
+      },
+      {
+        "given": "Lan-Sun",
+        "family": "Zheng"
+      }
+    ],
+    "journal": "ACS Applied Materials & Interfaces",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          19
+        ]
+      ]
+    },
+    "published_online": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          19
+        ]
+      ]
+    },
+    "volume": "11",
+    "issue": "27",
+    "page": "23982-23989",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1021/acsami.9b03304",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2019-06-19"
+  },
+  {
+    "card_id": "E183",
+    "doi": "10.1016/j.chempr.2023.08.027",
+    "title": "Engineering Cu(I)/Cu(0) interfaces for efficient ethanol production from CO2 electroreduction",
+    "authors": [
+      {
+        "given": "Rongming",
+        "family": "Cai"
+      },
+      {
+        "given": "Mingzi",
+        "family": "Sun"
+      },
+      {
+        "given": "Fei",
+        "family": "Yang"
+      },
+      {
+        "given": "Min",
+        "family": "Ju"
+      },
+      {
+        "given": "Yanpeng",
+        "family": "Chen"
+      },
+      {
+        "given": "M. Danny",
+        "family": "Gu"
+      },
+      {
+        "given": "Bolong",
+        "family": "Huang"
+      },
+      {
+        "given": "Shihe",
+        "family": "Yang"
+      }
+    ],
+    "journal": "Chem",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1
+        ]
+      ]
+    },
+    "published_online": null,
+    "volume": "10",
+    "issue": "1",
+    "page": "211-233",
+    "article_number": null,
+    "type": "journal-article",
+    "source_url": "https://doi.org/10.1016/j.chempr.2023.08.027",
+    "verification": "DOI identity checked via Crossref2026-10-26; source PDF identity is separately audited; not comprehensive correction/retraction clearance",
+    "date": "2024-01"
+  }
+]

@@ -1,11 +1,14 @@
 # Electrocatalysis Evidence — 电催化证据库与 Skill
 
-151个独立DOI、459条可定位论断，用于论文写作、科学绘图和实验规划。2026-10-21新增30篇：JACS 5、Angew 3、Nature Communications 12、Communications Chemistry 2、Science Advances 1、Chemical Science 7。此轮强化定量、统计、可比性、机理反证、失活及系统边界；包含2篇综述/观点和1篇理论研究，分别标记类型。
+183个独立DOI记录、532条正文可定位论断，用于论文写作、科学绘图和实验规划。2026-10-26新增32篇图文论证分析（27原创、4综述、1评论），覆盖184个主图组；另审8份SI的目录/图注、关键方法与指定图表。类型、年份和领域分别标记，不能把所有记录称近三年原创电催化研究。
 
-**阅读范围**：累计5篇阅读正文主要部分，146篇为重点段落/句段阅读；本轮30篇各看一幅指定原图，6篇额外核查24个SI物理页。不等于全正文/SI通读、近三年全部顶刊覆盖或模型权重训练。E032继承的2027刊期/首发日期仍待核。原文、图像和SI只存本地，公开库仅含原创分析、引用元数据和工具。
+**阅读范围**：旧151条保持原范围（5篇正文主要部分、146篇重点段落）；新32篇进行论证链/全部主图组分析及关键结果方法定点阅读。39份本地来源共665个物理页是来源规模，不是逐字精读页数；SI概览与定点核查不等于全部数值复算。不是近三年全部顶刊覆盖或模型权重训练。E032继承的2027刊期/首发日期仍待核。原文、图像和SI只存本地，公开库仅含原创分析、引用元数据和工具。
 
 ## 从这里开始
 
+- [当前183条目录](analysis/183篇论文索引.md)、[图文论证与科研叙事手册](analysis/图文论证与科研叙事手册_2026-10-26.md)：逐图讲解、组图串联、现象竞争解释与实验规划。
+- [原生软件与期刊规范](analysis/原生软件与期刊图形规范_2026-10-26.md)、[标题工作坊](analysis/标题与证据强度工作坊_2026-10-26.md)、[语义色板](analysis/story_palette_presets.csv)。
+- [184个图组结构化分析](analysis/story_figure_maps.json)、[目视页与来源哈希](analysis/story_visual_receipts.json)、[8份SI审计](analysis/story_si_audits.json)、[新32篇引用元数据](analysis/story_bibliography.json)。E183由原SI06合并文件识别；SI01缺主文，不另计一篇全文研究。
 - [151篇论文目录](analysis/151篇论文索引.md)与[本轮综合文献能力总结](analysis/新增30篇综合文献能力学习总结_2026-10-21.md)。
 - [综合阅读与核查工作流](skill/electrocatalysis-evidence/references/critical-reading.md)：反例检索、条件对比、质量基准/电荷/空白计算和引用导出。
 - [本轮30幅读图记录](analysis/methods_visual_receipts.json)、[6篇SI核查范围](analysis/methods_si_reading_receipts.json)、[30篇引用元数据](analysis/methods_bibliography.json)。
@@ -37,6 +40,10 @@ python scripts/export_citations.py --card E144
 python scripts/check_faraday.py --substrate NO3 --rate-mmol 1 --current-ma 214.41
 python scripts/validate_library.py
 python scripts/test_capabilities.py
+python scripts/story_query.py --card E183
+python scripts/story_query.py --si SI04
+python scripts/audit_argument.py templates/argument_plan_example.json
+python scripts/test_story_tools.py
 ```
 
 安装会把 skill 复制到当前用户 `.agents/skills/electrocatalysis-evidence`，先备份已有版本；只在本机生成库位置文件。可用 `--skills-dir` 指定其他技能目录。下一次会话可显式要求：

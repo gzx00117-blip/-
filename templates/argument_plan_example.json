@@ -1,0 +1,18 @@
+{
+  "purpose": "Literature interpretation example, not new experimental measurement",
+  "question": "Does a Raman peak-area trend establish a universal formation-rate calibration?",
+  "panels": [
+    {
+      "id": "E183-Fig5C",
+      "source": {"card_id": "E183", "doi": "10.1016/j.chempr.2023.08.027", "figure": "Fig.5C", "locator_kind": "physical_pdf_page", "locators": [15, 17]},
+      "conditions": {"sample": "P-Cu1.65/Cu2OF", "reactor": "flow-cell performance and dedicated Raman setup, compare protocol", "electrolyte": "1 M KOH", "potential_reference": "RHE; performance85% iR correction", "normalization": "geometric partial current density versus arbitrary-unit peak area"},
+      "observation": "The reported peak area and oxygenate partial current follow related potential-dependent trends.",
+      "inference": "Supports pathway association, without establishing a universal quantitative rate calibration.",
+      "alternatives": ["coverage and consumption differ", "optical enhancement or sampling differs"],
+      "next_check": "Independent product rate measured with matched optics and dynamic perturbation.",
+      "inference_tags": ["correlation"],
+      "evidence": {"quantitative_calibration": false, "matched_optics": false, "independent_product_rate": true},
+      "replication": {"independent_n": 3, "independent_units": 3, "note": "Author reports three experiments; CI confidence level not established here"}
+    }
+  ]
+}

@@ -1,21 +1,22 @@
 {
-  "snapshot_date": "2026-10-21",
-  "papers": 151,
-  "previous_papers": 121,
-  "new_papers": 30,
-  "new_start_id": 122,
-  "claims": 459,
-  "new_journals": {
-    "Nature communications": 12,
-    "Communications chemistry": 2,
-    "Science advances": 1,
-    "Chemical science": 7,
-    "Journal of the American Chemical Society": 5,
-    "Angewandte Chemie (International ed. in English)": 3
+  "snapshot_date": "2026-10-26",
+  "papers": 183,
+  "previous_papers": 151,
+  "new_papers": 32,
+  "new_start_id": 152,
+  "claims": 532,
+  "new_document_kinds": {
+    "primary_research": 27,
+    "review": 4,
+    "commentary": 1
   },
-  "new_sources": "30 DOI-distinct authorized PMC JATS sources plus original media; metadata checked against Crossref",
-  "new_reading_scope": "30 focused reviews, one selected original figure each; 6 selected-SI reviews totaling24 physical pages; 2 reviews/perspectives and 1 theoretical study separately tagged",
-  "reading_scope": "5 main-section reviews;146 focused passage reviews; no claim of publisher-wide/full-SI coverage.",
-  "source_policy": "Only authored notes, identity metadata, code and original training assets are public. No source text/images/PDFs.",
-  "date_boundary": "New30 first-publication records2024–2026; E032 inherited2027 issue/online-first unresolved."
+  "main_figure_groups": 184,
+  "local_sources": 39,
+  "local_source_pages": 665,
+  "si_audits": 8,
+  "new_sources": "31 article-candidate files plus one new article discovered inside a merged main/SI file; eight SI intake files including that merged source",
+  "new_reading_scope": "32 systematic argument maps and all listed main figure groups visually inspected; eight SI overviews with targeted methods and selected visual pages; not a word-by-word all-SI audit",
+  "reading_scope": "Previous151 preserve their own scopes (5 main-section,146 focused); new32 have systematic argument/all-main-figure analysis. Types are separate; not all recent or all electrocatalysis.",
+  "source_policy": "Public: authored notes, identity metadata and scripts only. Source PDFs/fulltexts/images/configs remain local.",
+  "date_boundary": "Includes historical papers and neighboring applications; E032 inherited issue/online-first uncertainty remains. Not publisher-wide last-three-year coverage."
 }

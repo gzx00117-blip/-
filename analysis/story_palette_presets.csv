@@ -1,0 +1,13 @@
+palette,role,hex,redundant_encoding,caveat
+categorical,reference,#4D4D4D,square,dark_text_on_white
+categorical,sample_2,#0072B2,circle,check_actual_output
+categorical,sample_3,#D55E00,triangle,check_actual_output
+categorical,sample_4,#7A5195,diamond,check_actual_output
+sequential,low,#DCEAF4,value_label,fill_only_not_fine_line
+sequential,level_2,#8FBBD6,value_label,fill_or_thick_line
+sequential,level_3,#3C88B5,value_label,ordered_quantity_only
+sequential,level_4,#155A85,value_label,ordered_quantity_only
+sequential,high,#073B5C,value_label,ordered_quantity_only
+diverging,negative,#2166AC,minus_or_value,meaningful_center_required
+diverging,zero,#F7F7F7,zero_label,not_text_on_white
+diverging,positive,#B35806,plus_or_value,meaningful_center_required

@@ -13187,5 +13187,4646 @@
       "status": "selected original figure visually inspected in local reading contact sheet; not all figures reviewed",
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12581200/#fig3"
     }
+  },
+  {
+    "card_id": "E152",
+    "doc_id": "E152",
+    "title": "Ambient-pressure synthesis of ethylene glycol catalyzed by C 60 -buffered Cu/SiO 2",
+    "doi": "10.1126/science.abm9257",
+    "journal": "Science",
+    "date": "2022-04-15",
+    "sha256": "f69be470ff0ebbfeba00a99f7f28a54f001c7904033cdbfce96f650119e2dbfd",
+    "source_url": "https://doi.org/10.1126/science.abm9257",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 5,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "read_scope": "all five main-PDF pages read for body and captions; all three main figure groups visually inspected; external SI not reviewed",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "DMO热加氢；低压小试与放大1000 h的压力、温度及空速不同，不是电催化。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E152-C1",
+        "statement": "小规模低压DMO加氢和1000 h放大试验的压力、H2/DMO比与温度不同；放大使用12 g催化剂，不能写成千克催化剂。",
+        "pages": [
+          1
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E152-C2",
+        "statement": "作者用相近Cu粒径和可接近面积降低纯面积效应解释，但仍需结合位点/工作态证据。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E152-C3",
+        "statement": "非水CV与DFT支持作者的电子缓冲解释；CV相对Fc/Fc+，不是在热催化工作反应器中直接看到闭合电子周转。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "工业瓶颈先行→小规模性能、组成窗口与长寿命→结构/电子环境→H2活化与可逆电子调节→其他底物检验。Fig.1先证明值得解释，Fig.2约束是不是形貌因素，Fig.3提出怎样解释。",
+    "limits": [
+      "低压数据的1 bar按正文为表压；1000 h采用3 bar表压，不能以标题替代条件。",
+      "热催化DMO加氢不是NO3RR；电子缓冲和氢利用机制仍需在用户材料独立验证。"
+    ],
+    "writing": "应用约束置首（Ambient-pressure synthesis）＋目标产物＋关键机制修饰（C60-buffered）＋具体材料；标题压缩了问题和方案。引用ambient时仍须保留正文表压定义。",
+    "figure": "性能/对照以橙、青绿及黑灰组织，原图三元图用彩虹；复现建议用感知均匀顺序色并显示实测组成点。",
+    "experiment": "可学习其“应用瓶颈→排除几何因素→可逆扰动→底物范围”的论证骨架；用户C60/分子体系应另外区分吸附、润湿、稳定化与电子转移。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "低压瓶颈是否真的改善？",
+        "observation": "A定位两步工艺，B对照收益，C组成三元图，D表观Ea，E长时运行及实物。",
+        "inference_limit": "B与E条件不同；三元图的插值与彩虹色不能代替实际采样点。",
+        "bridge": "性能值得解释→需要排查粒径、面积和化学态。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "C60在什么位置、铜环境怎样变化？",
+        "observation": "显微/EELS、XRD、固态13C NMR、XAS由空间到局部环境递进；EXAFS中修饰样品标×2。",
+        "inference_limit": "伪彩图不是额外独立证据；EXAFS倍率不等于配位数；边位移不直接给唯一价态。",
+        "bridge": "工作结构有差异→用可辨别的电子过程支撑缓冲主张。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "电子调节如何与氢活化关联？",
+        "observation": "A计算含TS的H2活化，B有/无C60及C60的CV，C两种电荷状态的模型和转移示意。",
+        "inference_limit": "模型状态与非水CV不是热反应的原位闭环；箭头是作者综合解释。",
+        "bridge": "再以底物范围和C60回收检验可迁移性，不外推为任何C60材料都能供氢。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "工业瓶颈先行→小规模性能、组成窗口与长寿命→结构/电子环境→H2活化与可逆电子调节→其他底物检验。Fig.1先证明值得解释，Fig.2约束是不是形貌因素，Fig.3提出怎样解释。",
+      "alternative_or_limit": "低压数据的1 bar按正文为表压；1000 h采用3 bar表压，不能以标题替代条件。；热催化DMO加氢不是NO3RR；电子缓冲和氢利用机制仍需在用户材料独立验证。",
+      "falsifiable_next_check": "可学习其“应用瓶颈→排除几何因素→可逆扰动→底物范围”的论证骨架；用户C60/分子体系应另外区分吸附、润湿、稳定化与电子转移。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "性能/对照以橙、青绿及黑灰组织，原图三元图用彩虹；复现建议用感知均匀顺序色并显示实测组成点。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "card_id": "E153",
+    "doc_id": "E153",
+    "title": "Acceptor‐Doped Cerium Oxides Enabling Metallic Nanocatalyst Exsolution for Hydrogen Production From Ammonia",
+    "doi": "10.1002/anie.6182981",
+    "journal": "Angewandte Chemie International Edition",
+    "date": "2026-07-24",
+    "sha256": "98a932b2bceddf03e65bb329a4de12709b3577e74dcabbe2a4cde21cfb016658",
+    "source_url": "https://doi.org/10.1002/anie.6182981",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 17,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "read_scope": "main body/captions physical pp.1–12 read; all six figure groups visually inspected; reference list not independently audited; external SI not reviewed",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "NH3热分解；掺杂CeO2金属析出，温度/床层/TOF位点模型需匹配。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E153-C1",
+        "statement": "受主掺杂和还原共同改变晶格、孔性、粒径与金属析出量，不能把性能单独归因某一缺陷峰。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E153-C2",
+        "statement": "转化率CGORu最高，而估计TOF的Rh/Ru排序不同；TOF分母使用外露半球金属模型。",
+        "pages": [
+          8
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E153-C3",
+        "statement": "260 h由600°C约110 h和400°C约150 h两阶段组成，主图还标不同空速；不等于400°C连续260 h。",
+        "pages": [
+          10
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "材料溶解度限制→掺杂设计→析出是否真实且被锚定→配位/晶格解释→动力学和公平比较→与浸渍对照及寿命闭环。",
+    "limits": [
+      "NH3裂解制H2与NO3RR生成NH3方向相反。",
+      "Fig.5 b/c图注顺序与图面不一致；按图面坐标和正文复核。",
+      "长时试验必须标阶段；未读外部SI，不能认证其全部拟合和制备参数。"
+    ],
+    "writing": "设计手段（Acceptor-Doped）→材料平台→过程使能（Exsolution）→用途；不以最优转化率替代标题主张。",
+    "figure": "Ru红、RuRh紫、Rh蓝、空白灰贯穿多数图；SEM矩阵比任意换色更有说服力。",
+    "experiment": "学习矩阵对照和“设计—结构—活性—失活后结构”闭环；不把拟合较好写成唯一RDS，也不凭晶格峰强宣称缺陷浓度定量。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "Gd是否促进金属进入晶格而非形成副相？",
+        "observation": "概念图配有掺杂/未掺杂及还原后PXRD，先给设计再检验可观察后果。",
+        "inference_limit": "未见副相峰不等于绝对不存在纳米副相；应和局部探针合读。",
+        "bridge": "需要直接看到颗粒怎样出现。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          5
+        ],
+        "question": "颗粒何时析出？",
+        "observation": "三材料×原始/600/700°C构成同尺度SEM矩阵，700°C出现明显颗粒。",
+        "inference_limit": "温度还改变烧结和孔性，矩阵不是只改变一个微观变量。",
+        "bridge": "进一步证实组成、锚定与价态。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          6
+        ],
+        "question": "颗粒是什么、是否嵌入支持体？",
+        "observation": "HAADF/元素图、接触角以及Ru3p/Rh3d前后谱跨尺度对应；用Ru3p避开Ru3d/C1s重叠。",
+        "inference_limit": "二维接触角有投影和选点限制；少量高接触角颗粒也被正文承认。",
+        "bridge": "晶格/配位变化需独立光谱对照。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          7
+        ],
+        "question": "原始晶格掺杂与浸渍颗粒能区分吗？",
+        "observation": "Raman前后及浸渍对照，550–750区放大；图注说明对数强度尺度。",
+        "inference_limit": "对数/偏移谱不能用图高直接定缺陷浓度。",
+        "bridge": "结构成立后才比较反应行为。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          9
+        ],
+        "question": "活性、可接近位点与动力学是否一致？",
+        "observation": "转化—空速、TOF、模型和Ea同组；图面b为TOF、c为模型，图注b/c顺序却相反。",
+        "inference_limit": "TOF分母模型影响排序；拟合RDS并不唯一；箱内75%模拟值的定义不等于默认IQR。",
+        "bridge": "需要同支持体浸渍对照和长时形貌反馈。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          11
+        ],
+        "question": "优势能否持续且超越简单浸渍？",
+        "observation": "a同条件活性比较；b时间轴标温度/空速切换；c/d前后SEM及尺寸。",
+        "inference_limit": "两段温度/空速试验不能被删成单条件寿命；平均尺寸近似不排除所有位点变化。",
+        "bridge": "回到受主掺杂为可操作设计原则，同时保留位点估计限制。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "材料溶解度限制→掺杂设计→析出是否真实且被锚定→配位/晶格解释→动力学和公平比较→与浸渍对照及寿命闭环。",
+      "alternative_or_limit": "NH3裂解制H2与NO3RR生成NH3方向相反。；Fig.5 b/c图注顺序与图面不一致；按图面坐标和正文复核。；长时试验必须标阶段；未读外部SI，不能认证其全部拟合和制备参数。",
+      "falsifiable_next_check": "学习矩阵对照和“设计—结构—活性—失活后结构”闭环；不把拟合较好写成唯一RDS，也不凭晶格峰强宣称缺陷浓度定量。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "Ru红、RuRh紫、Rh蓝、空白灰贯穿多数图；SEM矩阵比任意换色更有说服力。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        5,
+        6,
+        7,
+        9,
+        11
+      ]
+    }
+  },
+  {
+    "card_id": "E154",
+    "doc_id": "E154",
+    "title": "C60‐Stabilized Cu+ Sites Boost Electrocatalytic Reduction of CO2 to C2+ Products",
+    "doi": "10.1002/aenm.202204346",
+    "journal": "Advanced Energy Materials",
+    "date": "2023-04-04",
+    "sha256": "199d989f89ca283818e71983dbb462bbe3b63c45bbee3af4e6987b0e157c0897",
+    "source_url": "https://doi.org/10.1002/aenm.202204346",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 7,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "read_scope": "all main results/discussion/conclusion on physical pp.1–6 read; all five figure groups inspected; external SI not reviewed",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "Cu基CO2RR；Raman与性能的气氛/电位不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E154-C1",
+        "statement": "C2+ FE61%对应−1.6 V，最大分电流366 mA/cm²在−1.8 V；不能写成同一工作点。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E154-C2",
+        "statement": "初始重构Raman采用Ar及−0.4 V；不能直接把该状态当所有CO2性能电位下状态。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E154-C3",
+        "statement": "作者用C2+/CO趋势、Raman与ATR-FTIR及计算提出CO–CHO耦合；比例和峰位本身不唯一确定路径。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "先提出易还原Cu+这一不稳定性→证明重构/化学态→负载—电位—产物完整矩阵→计算电子作用→动态CO探针→将位点稳定性与耦合路径联系。",
+    "limits": [
+      "浅色渐变和细线在缩小后辨识不足；本轮图面FE误差附近略越100%不应擅自归一化。",
+      "外部SI未读，电解液/iR等参数未在本轮完整确认；禁止据此直接作跨文献电位排名。"
+    ],
+    "writing": "“关键稳定物种＋功能＋反应产物”的机制结果式标题；Stabilized承诺需要时间维度证据，不仅一张反应后XPS。",
+    "figure": "蓝—暗粉两组贯穿数据，光谱用浅深渐变表示时间/电位；建议加线型、数值标签和更深主色。",
+    "experiment": "学习同一问题由时间、空间、选择性和理论共同约束的写法；实际用户Raman—速率关系仍为working hypothesis / validation pending。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "修饰是否改变前驱体还原路径？",
+        "observation": "示意、时间Raman、Auger与XANES并排，关注Cu+保留。",
+        "inference_limit": "金属Cu缺乏Raman峰不证明所有表面都是Cu0；峰归属与转移后氧化要另核。",
+        "bridge": "工作态改变是否伴随目标产物改善？"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "选择性与速率能否在宽电位窗口改善？",
+        "observation": "负载热图、完整产物FE、C2+/C1、分电流和寿命分成不同问句。",
+        "inference_limit": "混合产物比值不是直接耦合速率；最佳FE和最大分电流电位不同。",
+        "bridge": "排查C60如何改变局部电子环境。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "模型中Cu局部电子密度怎样变化？",
+        "observation": "三种结构统一色标的形变电荷密度比较。",
+        "inference_limit": "形变密度与形式氧化态不是同义词，不能只凭颜色给Cu+百分比。",
+        "bridge": "结合差分电荷与可响应的吸附探针。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "作用能否在时间维度持续？",
+        "observation": "差分电荷/平面平均图与有无修饰的CO吸附IR时序并列。",
+        "inference_limit": "CO频率还受电场、覆盖度和位点影响，不是无条件价态计。",
+        "bridge": "再解释为什么产物分配不同。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          6
+        ],
+        "question": "是否出现不同耦合路线的相容证据？",
+        "observation": "产物比趋势→Raman/IR中间体→CHO形成自由能→含TS的耦合比较。",
+        "inference_limit": "d是状态自由能，e标TS才可讨论相应模型能垒；CO2带不能迁移为NO3RR峰指认。",
+        "bridge": "以可验证路线收束，措辞用支持/相容而非仅靠多个图就证明唯一机理。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "先提出易还原Cu+这一不稳定性→证明重构/化学态→负载—电位—产物完整矩阵→计算电子作用→动态CO探针→将位点稳定性与耦合路径联系。",
+      "alternative_or_limit": "浅色渐变和细线在缩小后辨识不足；本轮图面FE误差附近略越100%不应擅自归一化。；外部SI未读，电解液/iR等参数未在本轮完整确认；禁止据此直接作跨文献电位排名。",
+      "falsifiable_next_check": "学习同一问题由时间、空间、选择性和理论共同约束的写法；实际用户Raman—速率关系仍为working hypothesis / validation pending。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "蓝—暗粉两组贯穿数据，光谱用浅深渐变表示时间/电位；建议加线型、数值标签和更深主色。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "card_id": "E155",
+    "doc_id": "E155",
+    "title": "Effects of Functionalization, Catenation, and Variation of the Metal Oxide and Organic Linking Units on the Low-Pressure Hydrogen Adsorption Properties of Metal−Organic Frameworks",
+    "doi": "10.1021/ja056639q",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2006-01-07",
+    "sha256": "97a49d71a1d8351fa3e9aeadba5c72ba80dc154ef3ac0ee41d7d9998034f4865",
+    "source_url": "https://doi.org/10.1021/ja056639q",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 12,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "低温H2物理吸附；77/87/195 K及质量/式量分母分开。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E155-C1",
+        "statement": "质量归一化与每化学式单元归一化改变官能化MOF的比较，重配体增加分母会抵消吸附量增益。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E155-C2",
+        "statement": "Qst误差传播考虑拟合参数协方差，但作者明确未包含样品间变异，误差条可能低估总不确定度。",
+        "pages": [
+          10
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E155-C3",
+        "statement": "低覆盖吸附亲和力与最终容量是不同目标；低温H2吸附不证明室温电催化活性氢供应。",
+        "pages": [
+          11
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "以同拓扑系列比较连接基团→互穿改变孔口→开放金属位点→温度扰动估计吸附热→区分低压亲和力与总容量。负面/小效应结果也帮助筛选设计变量。",
+    "limits": [
+      "77 K、1 atm内的物理吸附不能直接支持NO3RR中H*迁移。",
+      "本轮为正文图文及关键方法定点阅读，外部SI未审；历史吸附模型应用需按现行适用条件复核。"
+    ],
+    "writing": "多变量比较型标题明确列功能化、互穿、金属簇/连接单元及低压范围；优点是准确，代价是长，不能照搬成所有论文的标题。",
+    "figure": "黑为常用参比，红蓝绿区分材料，空实符号编码吸脱附；复现时增加不同点形并统一纵轴或明确不同量程。",
+    "experiment": "学会在同一图显示两种归一化、保留交叉/小效应、用正交扰动检验机制；面积代理和模型不确定度应具体报告。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          4
+        ],
+        "question": "比较的是怎样的结构？",
+        "observation": "椭球与孔球分别表示晶体结构和几何孔，不同类型的球有不同语义。",
+        "inference_limit": "孔球是几何表示，不是实测气体占据率。",
+        "bridge": "在同类结构中比较基团效应。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          5
+        ],
+        "question": "官能团是否增加吸附？",
+        "observation": "同一数据同时用mg/g和每式量显示，排序发生改变。",
+        "inference_limit": "每分母回答不同问题，不能挑有利的一个叫本征改善。",
+        "bridge": "继续用互穿区分几何孔约束。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          7
+        ],
+        "question": "互穿怎样改变孔口？",
+        "observation": "灰色第二网络与彩色第一网络，绿色小空隙有明确结构位置。",
+        "inference_limit": "静态晶体孔图不等于工作溶液动态可达性。",
+        "bridge": "用低压等温线检验几何推论。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          7
+        ],
+        "question": "互穿是否提高低压吸附？",
+        "observation": "质量/式量双分母重复对照，空实点区分吸脱附。",
+        "inference_limit": "IRMOF-9结晶度变化限制单结构解释。",
+        "bridge": "开放金属位点是否提供另一种有效调节？"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          9
+        ],
+        "question": "开放位点与容量怎样权衡？",
+        "observation": "MOF-74低压初始斜率大，HKUST-1高压容量更高，曲线相交承载结论。",
+        "inference_limit": "相交曲线没有单一无条件冠军。",
+        "bridge": "改变温度估计能量而非只看等温线。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          10
+        ],
+        "question": "吸附温度依赖是否一致？",
+        "observation": "四材料小多图，77/87/195 K统一编码，纵轴量程不同。",
+        "inference_limit": "不同轴高不能比较容量，195 K低吸附限制拟合区间。",
+        "bridge": "把观测转换成有不确定度的模型量。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          10
+        ],
+        "question": "吸附热怎样随覆盖度变化？",
+        "observation": "Qst曲线带SD，MOF-74不简单单调。",
+        "inference_limit": "模型误差不是样品总不确定度；强吸附不等于大容量或快转移。",
+        "bridge": "收束为孔几何、位点与容量三个设计变量。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "以同拓扑系列比较连接基团→互穿改变孔口→开放金属位点→温度扰动估计吸附热→区分低压亲和力与总容量。负面/小效应结果也帮助筛选设计变量。",
+      "alternative_or_limit": "77 K、1 atm内的物理吸附不能直接支持NO3RR中H*迁移。；本轮为正文图文及关键方法定点阅读，外部SI未审；历史吸附模型应用需按现行适用条件复核。",
+      "falsifiable_next_check": "学会在同一图显示两种归一化、保留交叉/小效应、用正交扰动检验机制；面积代理和模型不确定度应具体报告。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "黑为常用参比，红蓝绿区分材料，空实符号编码吸脱附；复现时增加不同点形并统一纵轴或明确不同量程。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        4,
+        5,
+        7,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "card_id": "E156",
+    "doc_id": "E156",
+    "title": "Rational catalyst and electrolyte design for CO2 electroreduction towards multicarbon products",
+    "doi": "10.1038/s41929-019-0235-5",
+    "journal": "Nature Catalysis",
+    "date": "2019-03-04",
+    "sha256": "d1b4b386bab44402b8dc666fd0db2605fbd947432ed4487920f7600de47b4185",
+    "source_url": "https://doi.org/10.1038/s41929-019-0235-5",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 13,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "review",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "2019 CO2RR综述；跨体系/工作态/电解液需回原文。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E156-C1",
+        "statement": "综述强调ECSA归一化不能自动给出本征活性，少数特殊位点可能主导反应。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E156-C2",
+        "statement": "电解液既可能直接调节界面，也能使催化剂重构；须把两条路径分开。",
+        "pages": [
+          8
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E156-C3",
+        "statement": "高电流GDE成果并未消除寿命、单产物选择性与分离成本等约束。",
+        "pages": [
+          10
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "围绕多碳选择性，按粒径/配位→动态工作态→双金属→替代材料→电解液改变结构/反应→装置与缺口组织，不是把文献逐篇罗列。",
+    "limits": [
+      "2019综述有历史边界，不是最新共识或每个被引结果的复验。",
+      "改编原图须按原始来源和许可处理，本库只公开原创分析。"
+    ],
+    "writing": "对象和干预范围型综述题目：Catalyst AND electrolyte指明共同解释变量；Rational design承诺的是组织原则，不是一个最高性能值。",
+    "figure": "多来源图颜色不完全统一；可借鉴共同问题/小图对齐，不能继承每个来源中颜色相同就语义相同。",
+    "experiment": "最适合建立“电子—几何—环境—工作态—传质”竞争解释地图；实验现象必须问清改变了哪条路径，再选择能区分的对照。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "尺寸和负载怎样改变产物？",
+        "observation": "粒径—选择性、配位分布、负载—FE、重构图拼成同一变量链。",
+        "inference_limit": "几篇来源不能当一组受控实验；图中趋势需回原始工作核查。",
+        "bridge": "静态尺寸不足，需要动态证据。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "运行时结构和产物是否共同变化？",
+        "observation": "中间体IR、形貌随时间、Cu状态与FE属于不同原始实验的拼合。",
+        "inference_limit": "1584 cm−1来自CO/D2O/LiOH语境，不能直接指认用户NO3RR的Raman带。",
+        "bridge": "工作态变化也会发生在双金属中。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          6
+        ],
+        "question": "双金属作用是否只是电子效应？",
+        "observation": "d带、吸附示意、混合方式和Co表面偏析并列，扩展到几何/串联效应。",
+        "inference_limit": "图中的路径箭头是原作者提议，不能当实测通量。",
+        "bridge": "检查Cu以外体系，划清适用范围。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          7
+        ],
+        "question": "非Cu材料能否产生多碳？",
+        "observation": "Ag泡沫与掺N碳材料在各自偏压范围给不同产物。",
+        "inference_limit": "相邻排版不等于测试条件相同，历史报道不等于本轮独立验证。",
+        "bridge": "回到反应环境变量。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          8
+        ],
+        "question": "电解液会不会先改变催化剂？",
+        "observation": "时间序列、OCP浸泡和不同阴离子处理的电镜连接成结构演变证据。",
+        "inference_limit": "有形貌变化不自动指定唯一活性晶面。",
+        "bridge": "除了结构作用，还需检查直接界面作用。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          9
+        ],
+        "question": "离子和传质如何共同影响选择性？",
+        "observation": "DEMS、FE/分电流、理论自由能、GDE截面和浓碱对比共同组织。",
+        "inference_limit": "CO还原与CO2还原、SHE与RHE、模型与实验不可混为同一尺度。",
+        "bridge": "以需匹配工况的表征和装置寿命提出未来问题。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "围绕多碳选择性，按粒径/配位→动态工作态→双金属→替代材料→电解液改变结构/反应→装置与缺口组织，不是把文献逐篇罗列。",
+      "alternative_or_limit": "2019综述有历史边界，不是最新共识或每个被引结果的复验。；改编原图须按原始来源和许可处理，本库只公开原创分析。",
+      "falsifiable_next_check": "最适合建立“电子—几何—环境—工作态—传质”竞争解释地图；实验现象必须问清改变了哪条路径，再选择能区分的对照。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "多来源图颜色不完全统一；可借鉴共同问题/小图对齐，不能继承每个来源中颜色相同就语义相同。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "card_id": "E157",
+    "doc_id": "E157",
+    "title": "A Metal–Organic Framework derived CuxOyCz Catalyst for Electrochemical CO2 Reduction and Impact of Local pH Change",
+    "doi": "10.1002/anie.202108313",
+    "journal": "Angewandte Chemie International Edition",
+    "date": "2021-09-23",
+    "sha256": "2a2152c20a3220ef04c4c2930260b1c6adaff7c224ee0839c92dee936e4f3e93",
+    "source_url": "https://doi.org/10.1002/anie.202108313",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 8,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "PTFE修饰Cu CO2RR；疏水性、离子/水活度及传质共变。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E157-C1",
+        "statement": "PTFE与负载改变产物分布；更高接触角不意味着更高C2+选择性。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E157-C2",
+        "statement": "Pt微电极测到的是OH−/H2O活度比的响应，不是无假设的局部OH−摩尔浓度；不同PTFE样品相近趋势限制单纯pH解释。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "热解变量→碳壳结构→PTFE/负载/电流矩阵→反应后结构→用局部探针挑战直觉pH解释。",
+    "limits": [
+      "1 M KOH、GDE工况与H型池不可直接排名。",
+      "外部SI未完整读。"
+    ],
+    "writing": "材料来源＋明确反应＋需要检验的环境变量；题目中的impact不应被改写为已证实的单一路径。",
+    "figure": "多PTFE剂量颜色较多；建议剂量用顺序色和不同符号，产品用固定分类色。",
+    "experiment": "负结果和相近曲线同样能推进故事：它们限制了“更疏水→更高pH→更好”这一简单叙述。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "热解形成什么？",
+        "observation": "制备、SEM与XRD组成温度序列。",
+        "inference_limit": "温度同时改变相、尺寸与孔性。",
+        "bridge": "转向表面和壳层。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "是否有碳/氧化物界面？",
+        "observation": "TEM、元素分布与XPS共同描述前驱体。",
+        "inference_limit": "初始晶面不是自动等于工作态金属晶面。",
+        "bridge": "测试电极环境。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "PTFE改变哪些电极性质？",
+        "observation": "润湿角、组成和形貌对照。",
+        "inference_limit": "润湿不是局部pH或传质的直接测量。",
+        "bridge": "把这些变量与产物联系。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "何种组合有效？",
+        "observation": "PTFE/负载/电流对应完整FE矩阵，HER也显示。",
+        "inference_limit": "不要隐藏H2；最疏水样品并非最好。",
+        "bridge": "排查工作态变化。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          5
+        ],
+        "question": "使用后发生什么？",
+        "observation": "XRD/光谱前后比较。",
+        "inference_limit": "Cu2p的Cu0/CuI重叠不能独立定量两者；反应后不等于原位。",
+        "bridge": "直接检验pH假说。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          7
+        ],
+        "question": "pH能解释PTFE增益吗？",
+        "observation": "Pt微电极读出活度响应；多PTFE曲线相近。",
+        "inference_limit": "至少10次CV不是10个独立电极；超出校准不得强给浓度。",
+        "bridge": "把单变量直觉改成环境—传质多解释。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "热解变量→碳壳结构→PTFE/负载/电流矩阵→反应后结构→用局部探针挑战直觉pH解释。",
+      "alternative_or_limit": "1 M KOH、GDE工况与H型池不可直接排名。；外部SI未完整读。",
+      "falsifiable_next_check": "负结果和相近曲线同样能推进故事：它们限制了“更疏水→更高pH→更好”这一简单叙述。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "多PTFE剂量颜色较多；建议剂量用顺序色和不同符号，产品用固定分类色。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E158",
+    "doc_id": "E158",
+    "title": "Metal–organic framework derived copper catalysts for CO 2 to ethylene conversion",
+    "doi": "10.1039/d0ta02395g",
+    "journal": "Journal of Materials Chemistry A",
+    "date": "2020",
+    "sha256": "202c42f48ab71afbc24533919cad16f850ec009a049adf8f0fc2252261e9ab2a",
+    "source_url": "https://doi.org/10.1039/d0ta02395g",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 8,
+    "schema_version": 4,
+    "read_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "CO2RR；H-cell与流动池工况、最大FE和j取点分开。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E158-C1",
+        "statement": "H型池乙烯FE51±3%与碱性流动池高电流结果不属于同一工作条件。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E158-C2",
+        "statement": "表面/体相与反应前后证据有采样深度差异，作者也承认空气再氧化无法排除。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "热处理窗口→混合氧化物和结构→两种装置性能→表面/体相状态→明确标为proposed的路线。",
+    "limits": [
+      "物理p1是期刊封面；引用正文物理p2起。",
+      "Cdl不是最大只能限制面积解释，不能彻底排除ECSA作用。"
+    ],
+    "writing": "转化来源＋性能目标型标题；不要把“derived”写成完整MOF在工作中保持不变。",
+    "figure": "不同样品多色、光谱用时间序列；同一时间在不同技术间应统一颜色含义。",
+    "experiment": "学习用采样深度和取样时点化解表面Cu+与体相金属Cu的表面矛盾。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "为何选该温度？",
+        "observation": "相和形貌随温度变化，265°C形成混合氧化物。",
+        "inference_limit": "相、粒径、孔性、应变共同变化。",
+        "bridge": "比较性能。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "提高的是选择性还是速率？",
+        "observation": "FE、电流、稳定性和装置分开表达。",
+        "inference_limit": "320×49.8%=159.36，与文字约150的关系需核原始条件，不能默改。",
+        "bridge": "解释工作状态。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "表面和体相为何不同？",
+        "observation": "XRD、Cu2p/Auger、表面TEY和体相K边并排。",
+        "inference_limit": "反应后空气暴露；不同深度不应强行给唯一平均价态。",
+        "bridge": "给出受证据约束的路线。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "哪些路径相容？",
+        "observation": "示意保留多个分支并标Proposed。",
+        "inference_limit": "约120 mV/dec Tafel不能唯一指定RDS；示意不是独立证据。",
+        "bridge": "明确需要下一步中间体/扰动实验。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "热处理窗口→混合氧化物和结构→两种装置性能→表面/体相状态→明确标为proposed的路线。",
+      "alternative_or_limit": "物理p1是期刊封面；引用正文物理p2起。；Cdl不是最大只能限制面积解释，不能彻底排除ECSA作用。",
+      "falsifiable_next_check": "学习用采样深度和取样时点化解表面Cu+与体相金属Cu的表面矛盾。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "不同样品多色、光谱用时间序列；同一时间在不同技术间应统一颜色含义。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "card_id": "E159",
+    "doc_id": "E159",
+    "title": "Metal–Organic Frameworks Mediate Cu Coordination for Selective CO 2 Electroreduction",
+    "doi": "10.1021/jacs.8b06407",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2018-08-16",
+    "sha256": "a8a69cdc169163a309804308a7a00d3ddd375a01205d36205eff8984d17d77a8",
+    "source_url": "https://doi.org/10.1021/jacs.8b06407",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 9,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "MOF还原重构Cu团簇CO2RR；结构演化随时间，XAS工况/参比单列。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E159-C1",
+        "statement": "原位XAS显示前驱体在CO2RR中变为金属Cu簇；初始MOF配位不是反应中完整结构。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E159-C2",
+        "statement": "250°C处理3 h的平均Cu–Cu CN9.5±0.9低于1 h与10 h；更长热解并非单调更优。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "可控制的MOF配位→保持骨架但调二聚体→原位追踪所形成Cu簇→选择性矩阵与非MOF对照。",
+    "limits": [
+      "图4工况与性能图的iR定义需分别保留。",
+      "外部SI未审，不能把非单调CN关系推广成越低越好。"
+    ],
+    "writing": "“框架材料＋调控对象＋具体反应”结构，Mediate比唯一机制宣言更克制。",
+    "figure": "处理时间青到深绿，产物H2青/乙烯绿/CO灰贯穿；时间与样品不要混用同一色序。",
+    "experiment": "最可迁移的是初始结构—形成过程—工作态—结果的时间链。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "如何选择激活窗口？",
+        "observation": "分子/骨架、热分析、相与形貌对应温度。",
+        "inference_limit": "CuAc与HKUST热分解路径不同，不能假定单变量。",
+        "bridge": "固定温度改变时间。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "哪些键先变？",
+        "observation": "衍射与FTIR/Raman配对，保留和改变的信息同时展示。",
+        "inference_limit": "相对峰强受归一化和结晶度影响。",
+        "bridge": "用自旋和表面探针补充。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "局部环境怎样随时间改变？",
+        "observation": "4列处理时间×3行EPR/XPS/SEM。",
+        "inference_limit": "初始自旋不是工作态活性簇的直接测量。",
+        "bridge": "转到原位。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "工作态是否继承前驱体差异？",
+        "observation": "四样品900 s EXAFS时间序列，给平均CN。",
+        "inference_limit": "−1.38 V注明未iR校正；FT峰位不是直接键长，CN须依赖拟合误差。",
+        "bridge": "将工作态与选择性联系。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          7
+        ],
+        "question": "产物改变是否相符？",
+        "observation": "统一产物颜色，四处理小多图＋CuAc对照。",
+        "inference_limit": "各样品电位点不同；262 mA/cm²不能擅标乙烯分电流。",
+        "bridge": "收束为前驱体调控工作态，而非MOF原封不动催化。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "可控制的MOF配位→保持骨架但调二聚体→原位追踪所形成Cu簇→选择性矩阵与非MOF对照。",
+      "alternative_or_limit": "图4工况与性能图的iR定义需分别保留。；外部SI未审，不能把非单调CN关系推广成越低越好。",
+      "falsifiable_next_check": "最可迁移的是初始结构—形成过程—工作态—结果的时间链。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "处理时间青到深绿，产物H2青/乙烯绿/CO灰贯穿；时间与样品不要混用同一色序。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E160",
+    "doc_id": "E160",
+    "title": "Selective CO 2 Electroreduction to Ethanol over a Carbon‐Coated CuO x Catalyst",
+    "doi": "10.1002/anie.202209629",
+    "journal": "Angewandte Chemie International Edition",
+    "date": "2022-08-23",
+    "sha256": "bf3615238c9e52900a8de2e7cb080bead939e5b186da5f4424396b57ff4fd9a7",
+    "source_url": "https://doi.org/10.1002/anie.202209629",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 6,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "Cu基CO2RR；原位CO强度下降和消耗解释需区分。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E160-C1",
+        "statement": "C2+与乙醇FE峰值约在−1.0 V；分电流曲线另有最优点，不能拼成同一点。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E160-C2",
+        "statement": "更活跃样品的吸附CO Raman强度下降更快，作者提出快速消耗解释；该例说明强度与生成速率不能直接等同。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "简短制备→性能建立意义→反应后结构→原位光谱→分开解释耦合与乙醇分支→增加Cu@C验证对照。",
+    "limits": [
+      "碳皮、氧化态、热解温度有耦合；Cu@C可缩小但不完全消除混杂。",
+      "用户Raman与速率关系仍为working hypothesis / validation pending。"
+    ],
+    "writing": "材料结构＋反应＋产物目标，短标题让核心贡献可检索。",
+    "figure": "红色目标与黑色基准简洁；光谱序列色加明确电流标签，计算色义另注明。",
+    "experiment": "把“增加多碳总量”与“多碳中选乙醇”拆成两个机制问题，每个对应独立图块。",
+    "figure_story": [
+      {
+        "figure_id": "Scheme 1",
+        "pages": [
+          2
+        ],
+        "question": "如何构建碳皮？",
+        "observation": "低/高温分叉制备示意。",
+        "inference_limit": "350与800°C同时改变多变量。",
+        "bridge": "先看性能。"
+      },
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "改善了什么指标？",
+        "observation": "C2+和乙醇分别用FE、分电流两行显示。",
+        "inference_limit": "最高FE不等于最高速率；相似Cdl不证明位点完全相同。",
+        "bridge": "解释反应后状态。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "反应后碳皮和Cu物种怎样？",
+        "observation": "XRD/TEM/Cu2p/Auger互补。",
+        "inference_limit": "反应后XPS不是全过程稳定性的直接录像。",
+        "bridge": "用原位电流序列。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "中间体如何响应电流？",
+        "observation": "两样品同坐标Raman，CO随电流衰减不同。",
+        "inference_limit": "峰位指认依赖体系；覆盖度下降不唯一证明消耗加快。",
+        "bridge": "选择可区分的理论问题。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          4
+        ],
+        "question": "耦合和分支是否同一原因？",
+        "observation": "TS能垒、CO吸附、差分密度、COHP、产物分支自由能分开。",
+        "inference_limit": "只有标TS的部分是该模型能垒；分支热力学不能直接给分支速率。",
+        "bridge": "结合额外Cu@C对照限制壳层/价态解释。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "简短制备→性能建立意义→反应后结构→原位光谱→分开解释耦合与乙醇分支→增加Cu@C验证对照。",
+      "alternative_or_limit": "碳皮、氧化态、热解温度有耦合；Cu@C可缩小但不完全消除混杂。；用户Raman与速率关系仍为working hypothesis / validation pending。",
+      "falsifiable_next_check": "把“增加多碳总量”与“多碳中选乙醇”拆成两个机制问题，每个对应独立图块。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "红色目标与黑色基准简洁；光谱序列色加明确电流标签，计算色义另注明。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "card_id": "E161",
+    "doc_id": "E161",
+    "title": "Customizable Aperture Geometry in Metal–Organic Frameworks for Kinetic Hydrocarbon Separation",
+    "doi": "10.1021/jacs.5c13078",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-10-08",
+    "sha256": "50dcf92245baa6c1a2cfe828701b1eec73a49490946d23cf07f975e790600833",
+    "source_url": "https://doi.org/10.1021/jacs.5c13078",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 10,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "富勒烯选择性制备/分离体系；早期与24 h选择性不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E161-C1",
+        "statement": "液相混合物选择性随时间下降，1 min与24 h回答不同问题，短时高选择性不是永久排斥。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E161-C2",
+        "statement": "单组分动力学、吸附热与主客晶体结构共同限制热力学/动力学解释；快速早期过程未被充分采样。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "孔径难以只用直径描述→混配体改变孔口形状→结构/稳定性→混合物分离→单组分时间曲线与热量→主客结构。",
+    "limits": [
+      "源PDF p10注明Fig.6在ASAP发布后同日更正；本轮仅核本地版本，未做完整勘误检索。",
+      "不是电催化研究；分子筛规律需在电解液独立验证。"
+    ],
+    "writing": "可调对象（孔口几何）＋材料平台＋功能机制（动力学分离），焦点比“优异吸附”更具体。",
+    "figure": "客体蓝/紫/橙在结构与曲线对应；过浅颜色对比弱，建议加深且加点形。",
+    "experiment": "学习用时间交叉和热量区分速率与平衡；同样适用于中间体覆盖度与生成速率。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "如何改变同拓扑几何？",
+        "observation": "单/混配体结构分叉，对齐节点与连接体。",
+        "inference_limit": "静态理想结构不等于所有缺陷/动态孔。",
+        "bridge": "量化孔口。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "孔腔大小与孔口形状一样吗？",
+        "observation": "四列材料×四行连接体/笼/孔口，标几何距离。",
+        "inference_limit": "几何中线距离不是有效溶剂化分子尺寸。",
+        "bridge": "证明体相样品可比。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "结构是否代表实际粉末？",
+        "observation": "衍射、77 K吸附与SEM交叉检查。",
+        "inference_limit": "77 K孔分布模型不是液体扩散系数。",
+        "bridge": "进入实际混合物。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "选择性怎样随时间变化？",
+        "observation": "两材料三列：等温线、混合物吸附、选择性时间。",
+        "inference_limit": "对数轴/1 min与24 h须保留；高选择性会下降。",
+        "bridge": "区分动力学与亲和力。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          6
+        ],
+        "question": "慢进入还是不喜欢吸附？",
+        "observation": "单组分时间曲线与DSC吸附热并置。",
+        "inference_limit": "拟二级拟合不是证明化学吸附；早期采样受限。",
+        "bridge": "用主客几何解释可能通道。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          7
+        ],
+        "question": "客体处于哪里？",
+        "observation": "三客体×两笼结构，同一视角标相互作用距离。",
+        "inference_limit": "静态接触不能直接证明越过孔口的过渡路径。",
+        "bridge": "提出可调孔口设计边界。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "孔径难以只用直径描述→混配体改变孔口形状→结构/稳定性→混合物分离→单组分时间曲线与热量→主客结构。",
+      "alternative_or_limit": "源PDF p10注明Fig.6在ASAP发布后同日更正；本轮仅核本地版本，未做完整勘误检索。；不是电催化研究；分子筛规律需在电解液独立验证。",
+      "falsifiable_next_check": "学习用时间交叉和热量区分速率与平衡；同样适用于中间体覆盖度与生成速率。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "客体蓝/紫/橙在结构与曲线对应；过浅颜色对比弱，建议加深且加点形。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E162",
+    "doc_id": "E162",
+    "title": "Transformation of ZIF-67 Nanocubes to ZIF-L Nanoframes",
+    "doi": "10.1021/jacs.3c10827",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2023-11-28",
+    "sha256": "495331d30734a630095e33fe8ec92d0ac3f2ad3eec06934788e9cfa9fd4ccff8",
+    "source_url": "https://doi.org/10.1021/jacs.3c10827",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 5,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "开放液滴MOF 3D→2D；温度与液滴直径共同调控。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E162-C1",
+        "statement": "3D到2D转化发生在蒸发液滴的非平衡条件，不是推翻封闭平衡条件的热力学。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E162-C2",
+        "statement": "温度/液滴尺寸对照与有限元浓度、流速、温度场相互对应，限制只凭终态形貌的解释。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "常见方向的例外→四阶段形貌→传质/热耦合模型→改变边界条件产生不同终态。",
+    "limits": [
+      "正文CTAB 2 mg与5.4 mmol、2-Hmim 4.54 g与5.5 mmol量纲疑似不符，应按分子量复核后再复现实验。",
+      "外部视频/SI未观看。"
+    ],
+    "writing": "起点到终点的简短发现型标题，不依赖最高性能或华丽形容词。",
+    "figure": "蓝/橙区分两相、浅蓝箭头表示过程；场图彩虹需替换成等感知色并保留色条。",
+    "experiment": "学习异常—过程—模型—扰动验证的短篇结构；发现有趣现象后先设计区别替代解释的实验。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          1
+        ],
+        "question": "现有直觉的边界是什么？",
+        "observation": "自由能概念图与两拓扑并排。",
+        "inference_limit": "概念能量曲线不是实测自由能；开放蒸发体系不同于平衡转化。",
+        "bridge": "展示过程证据。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          2
+        ],
+        "question": "是否真有中间阶段？",
+        "observation": "四阶段示意上排、SEM下排一一对应。",
+        "inference_limit": "时间截取不独自证明原子连续转化；溶解再生仍需考虑。",
+        "bridge": "用环境扰动检验机制。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "热与流共同改变结果吗？",
+        "observation": "液滴几何/原位光学→场模拟→曲线→三条件SEM。",
+        "inference_limit": "模拟取决于边界和参数；三条件不是完整因子设计；彩虹视觉不能代替数值。",
+        "bridge": "在受控条件下提出可迁移的过程设计。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "常见方向的例外→四阶段形貌→传质/热耦合模型→改变边界条件产生不同终态。",
+      "alternative_or_limit": "正文CTAB 2 mg与5.4 mmol、2-Hmim 4.54 g与5.5 mmol量纲疑似不符，应按分子量复核后再复现实验。；外部视频/SI未观看。",
+      "falsifiable_next_check": "学习异常—过程—模型—扰动验证的短篇结构；发现有趣现象后先设计区别替代解释的实验。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "蓝/橙区分两相、浅蓝箭头表示过程；场图彩虹需替换成等感知色并保留色条。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "card_id": "E163",
+    "doc_id": "E163",
+    "title": "Diversity of platinum-sites at platinum/fullerene interface accelerates alkaline hydrogen evolution",
+    "doi": "10.1038/s41467-023-37404-0",
+    "journal": "Nature Communications",
+    "date": "2023-03-27",
+    "sha256": "7b40908049613b7add816dadd45033757f7871c2700e19b7ed05eef9c80e5d45",
+    "source_url": "https://doi.org/10.1038/s41467-023-37404-0",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 12,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "HER；低负载验证Tafel与高负载器件性能不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E163-C1",
+        "statement": "高负载0.4 mg/cm²的较小Tafel斜率受H2传质影响；作者降至0.004 mg/cm²再评估动力学。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E163-C2",
+        "statement": "AEM整槽1 A/cm²约2.01 V和20 h稳定性不能写成单电极过电位或工业寿命认证。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "碱性HER瓶颈→C60限域结构→真空沉积排查氧化与界面电荷→先性能再发现传质→低负载归一化→多位点理论→整槽。",
+    "limits": [
+      "HER促进与NO3RR中抑制HER是不同目标。",
+      "外部SI/微动力学参数未完整复算。"
+    ],
+    "writing": "性质差异（Diversity of sites）＋界面＋功能，题目要求分布/分工证据而不只平均电荷。",
+    "figure": "目标暗红、Pt/C绿、簇黑，符号冗余；WT两图应统一数值范围才比强度。",
+    "experiment": "把反常Tafel转成负载扰动，而非硬套RDS；用能量分布说明多位点而非平均最优。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "界面怎样形成？",
+        "observation": "制备示意与多尺度显微/AFM相互定位。",
+        "inference_limit": "漂亮界面示意不是工作态逐位点证明。",
+        "bridge": "追踪电子作用。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "位移来自氧化还是界面？",
+        "observation": "XPS/UPS随Pt沉积量变化，再配XAS/WT。",
+        "inference_limit": "平均白线插值价态不是Ptδ+精确比例；WT色条上限不同不能比颜色深浅。",
+        "bridge": "检验动力学。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "性能能否排除传质？",
+        "observation": "两种相差100倍负载、TOF、Tafel、EIS。",
+        "inference_limit": "表面积/TOF分母需核；小半圆不能单独证明特定Volmer步骤。",
+        "bridge": "解释位点分工。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "为何多样性可能有益？",
+        "observation": "位点吸附能分布而非单平均值→步骤速率→微动力学LSV。",
+        "inference_limit": "模型预测不是直接观测氢溢流，适用结构有限。",
+        "bridge": "整槽测试可用性。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          7
+        ],
+        "question": "整槽是否受益？",
+        "observation": "统一样品色的电压、电能效率、寿命和装置。",
+        "inference_limit": "能效定义、阳极和温度必须一起保留；20 h不等于长期部署。",
+        "bridge": "收束为多位点界面设计。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "碱性HER瓶颈→C60限域结构→真空沉积排查氧化与界面电荷→先性能再发现传质→低负载归一化→多位点理论→整槽。",
+      "alternative_or_limit": "HER促进与NO3RR中抑制HER是不同目标。；外部SI/微动力学参数未完整复算。",
+      "falsifiable_next_check": "把反常Tafel转成负载扰动，而非硬套RDS；用能量分布说明多位点而非平均最优。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "目标暗红、Pt/C绿、簇黑，符号冗余；WT两图应统一数值范围才比强度。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E164",
+    "doc_id": "E164",
+    "title": "Single-atomic platinum on fullerene C60 surfaces for accelerated alkaline hydrogen evolution",
+    "doi": "10.1038/s41467-023-38126-z",
+    "journal": "Nature Communications",
+    "date": "2023-04-28",
+    "sha256": "ddce701628de491d725d41e02baa59d7fff203a8283b68d31fd9eaa457b7edb4",
+    "source_url": "https://doi.org/10.1038/s41467-023-38126-z",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 12,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "C60稳定Ru原子/簇HER；90%iR、相/位点共存。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E164-C1",
+        "statement": "样品同时含单Pt与约1.7 nm Pt簇；不能简称100%单原子。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E164-C2",
+        "statement": "Fig.7e显示吸附状态自由能，不是过渡态水解离能垒，正文kinetic energy/barrier用语需谨慎引用。",
+        "pages": [
+          8
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "室温高负载难题→成键/显微/局域配位→性能→毒化与比例对照区分贡献→计算解释。",
+    "limits": [
+      "100 h过电位仍增加31.5 mV，不宜写完全无衰减。",
+      "方法中36 mg C60标50 mmol疑似应为μmol；复制配方前核单位。"
+    ],
+    "writing": "活性结构＋载体＋具体反应，清晰但single-atomic字眼须在正文保留簇共存事实。",
+    "figure": "红目标蓝参比橙物理混合；元素图紫C60/红Pt与曲线颜色有不同语义，应分层图例。",
+    "experiment": "学习承认混合位点并用干预对照缩小贡献；用户材料不能从Pt直接外推Cu/Ni的电子方向。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "构筑方式为何不同？",
+        "observation": "室温配体交换与C60-Pt-C60示意。",
+        "inference_limit": "简图省略实际共存Pt簇。",
+        "bridge": "用光谱核实成键。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "配体是否被替换？",
+        "observation": "XRD/IR/Raman/XPS依次核结构和电子。",
+        "inference_limit": "Raman移频不是跨体系通用电子计。",
+        "bridge": "看分散程度。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "是否只有孤立Pt？",
+        "observation": "从微米到原子尺度，保留少量簇。",
+        "inference_limit": "选区图不能精确定总体单原子分数。",
+        "bridge": "平均配位互证。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "配位模型相容吗？",
+        "observation": "XANES、FT/拟合和三参考WT。",
+        "inference_limit": "低FT半径不是未校正直接键长；CN约3的混合解释依赖模型。",
+        "bridge": "比较功能。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          6
+        ],
+        "question": "活性与稳定性怎样？",
+        "observation": "9面板按活性、分母、寿命、负载、苛刻环境分组。",
+        "inference_limit": "90%iR、负载和温度需保留；EIS图注1.5 V措辞疑似异常不照搬。",
+        "bridge": "需要区分单原子/簇贡献。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          7
+        ],
+        "question": "哪些位点参与？",
+        "observation": "EDTA/KSCN毒化＋投料比/簇形貌/XPS。",
+        "inference_limit": "毒化选择性不是完美；投料比同时改负载/分散。",
+        "bridge": "计算合理结构解释。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          8
+        ],
+        "question": "为何吸附适中？",
+        "observation": "单原子/簇模型、密度、自由能和PDOS。",
+        "inference_limit": "热力学吸附图不能冒充解离TS能垒；模型不是完整工作态。",
+        "bridge": "提出仍需原位验证的位点图景。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "室温高负载难题→成键/显微/局域配位→性能→毒化与比例对照区分贡献→计算解释。",
+      "alternative_or_limit": "100 h过电位仍增加31.5 mV，不宜写完全无衰减。；方法中36 mg C60标50 mmol疑似应为μmol；复制配方前核单位。",
+      "falsifiable_next_check": "学习承认混合位点并用干预对照缩小贡献；用户材料不能从Pt直接外推Cu/Ni的电子方向。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "红目标蓝参比橙物理混合；元素图紫C60/红Pt与曲线颜色有不同语义，应分层图例。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "card_id": "E165",
+    "doc_id": "E165",
+    "title": "Donor−acceptor catalysis with defective MoS2 and Fe0 breaks barriers to perchlorate reduction under mild conditions",
+    "doi": "10.1038/s41467-026-73219-5",
+    "journal": "Nature Communications",
+    "date": "2026-05-20",
+    "sha256": "fdd3b2eb9e326e3746869339a8fd5d7b4234401ca34892607058f09e9d8156a7",
+    "source_url": "https://doi.org/10.1038/s41467-026-73219-5",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 30,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "Fe0驱动硝酸盐转化；牺牲电子供体和非外加电路条件。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E165-C1",
+        "statement": "Fe2+/H2替代、捕获剂及两室电偶实验约束供电子路径；捕获剂无效仍受可达性和选择性限制。",
+        "pages": [
+          12
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E165-C2",
+        "statement": "半原位EXAFS的Mo–O与D2O效应支持涉及质子/氧转移，不能仅由KIE7.38唯一指定某一步。",
+        "pages": [
+          15
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "仿生的供电子—活化分工→理论先给可检验预测→缺陷结构→活性/物料和电子账→供体、位点修复、载体、同位素逐项排他。",
+    "limits": [
+      "非外加电源的牺牲Fe体系，其电子效率不是电化学FE。",
+      "本地为未编辑article-in-press；Fig.2正文e/f顺序与图面有交叉，按图面核。",
+      "TEA为初步耗材比较，非完整部署成本。"
+    ],
+    "writing": "供受体概念＋具体组分＋解决的反应约束；breaks barriers需要真正TS与条件边界，不能只靠吸附能。",
+    "figure": "青/橙/绿加空心符号；图3颜色较浅，建议加深，场图用统一色条；9面板需按问题分行。",
+    "experiment": "特别适合学双功能催化：分别测电子来源、位点可达性、电子消耗和中间体，而不是把所有性能增益叫协同。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          27
+        ],
+        "question": "为什么需要中介层？",
+        "observation": "三界面电荷/吸附/首步TS及去氧状态能量比较。",
+        "inference_limit": "转移电子更多不意味着反应更好；模型不能替代实测。",
+        "bridge": "制备相应材料。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          28
+        ],
+        "question": "缺陷和负载如何关联？",
+        "observation": "形貌、XRD/XPS/Raman、XAS/拟合CN随负载。",
+        "inference_limit": "多信号同向不等于唯一缺陷定量；CN与粒径/无序耦合。",
+        "bridge": "寻找活性窗口。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          29
+        ],
+        "question": "应用约束有哪些？",
+        "observation": "氯收支、Fe剂量、Mo负载、pH、电子效率、循环、真实水。",
+        "inference_limit": "硝酸根明显竞争；两次独立实验SD不等于充分总体估计；pH比较同时换缓冲剂。",
+        "bridge": "将竞争解释逐个干预。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          30
+        ],
+        "question": "谁供电子、谁反应？",
+        "observation": "替代供体→修复S空位→不同支持体→Fe2+释放→半原位→KIE→路径。",
+        "inference_limit": "修复剂可能改润湿/堵位；自由能更低不证明速率更快；未检出中间体受LOD限制。",
+        "bridge": "给出证据相容的OAT模型与应用边界。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "仿生的供电子—活化分工→理论先给可检验预测→缺陷结构→活性/物料和电子账→供体、位点修复、载体、同位素逐项排他。",
+      "alternative_or_limit": "非外加电源的牺牲Fe体系，其电子效率不是电化学FE。；本地为未编辑article-in-press；Fig.2正文e/f顺序与图面有交叉，按图面核。；TEA为初步耗材比较，非完整部署成本。",
+      "falsifiable_next_check": "特别适合学双功能催化：分别测电子来源、位点可达性、电子消耗和中间体，而不是把所有性能增益叫协同。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "青/橙/绿加空心符号；图3颜色较浅，建议加深，场图用统一色条；9面板需按问题分行。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  },
+  {
+    "card_id": "E166",
+    "doc_id": "E166",
+    "title": "Electron-rich dianion vacancies boost diazenide intermediates for efficient chemical looping ammonia synthesis",
+    "doi": "10.1038/s41467-026-74563-2",
+    "journal": "Nature Communications",
+    "date": "2026-06-19",
+    "sha256": "669152bc73bb6081e6ac1e6310fd41ac18685ee097ce092c2897f021958dbc98",
+    "source_url": "https://doi.org/10.1038/s41467-026-74563-2",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 28,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "化学链氨合成；循环数不等于小时，步骤气氛不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E166-C1",
+        "statement": "化学循环与共进料催化有不同速率/表观Ea，2040为循环数不是小时。",
+        "pages": [
+          8
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E166-C2",
+        "statement": "14N2/15N2的IR峰由1461变1411 cm−1，结合分步氢化支持活化含氮物种；并非NO3RR中间体指认。",
+        "pages": [
+          12
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "双阴离子空位假说→循环与共进料差别→空位形成→分开进料追踪氮与氢化→含TS路线→跨稀土材料检验适度活化。",
+    "limits": [
+      "本地article-in-press；p15把25.6/26.4称高于42.3，文字与数字相反。",
+      "p13吸附能符号与能量图不一致；引用按图/定义核，不静默复制。",
+      "热化学N2/H2不等于NO3RR；不能直接搬运同一氢供给结论。"
+    ],
+    "writing": "电子特征＋结构变量＋可观测中间体＋过程用途，机制密度高，需每个核心词有独立证据。",
+    "figure": "红La/蓝Ce/绿Y并有符号；空实/填充编码两过程，比仅换色更清晰。",
+    "experiment": "学习进料顺序作为机制干预；强吸附不一定好，要同时考虑后续转化和再生。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          6
+        ],
+        "question": "为什么改变进料顺序？",
+        "observation": "ELF模型、两种过程、Arrhenius、循环与文献背景。",
+        "inference_limit": "模型键长非直接实测；循环数不能写寿命小时。",
+        "bridge": "证明空位形成。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          9
+        ],
+        "question": "H2是否造成表面碳缺失？",
+        "observation": "形成能→CH4→表面/刻蚀XPS→EPR/局部显微。",
+        "inference_limit": "无相变不能排除所有少量副相；刻蚀本身改变表面。",
+        "bridge": "引入N2看反应。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          11
+        ],
+        "question": "N2怎样被捕获和氢化？",
+        "observation": "MS排CO干扰、N1s、同位素IR、TPD/TPR与短时产量。",
+        "inference_limit": "短时累积产量平台不是持续高产率；移频不单独给唯一构型。",
+        "bridge": "计算竞争路线。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          13
+        ],
+        "question": "哪些氢化路线更可行？",
+        "observation": "中心TS路径图与周围12中间体对应。",
+        "inference_limit": "只在指定模型可比；多结构过小应分主图和SI；整体能量基准须闭合。",
+        "bridge": "检验材料外推。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          14
+        ],
+        "question": "越强活化是否越好？",
+        "observation": "La/Ce/Y过程、Ea、空位形成、氮态、释放难度形成闭环。",
+        "inference_limit": "Ni尺寸相近不排除全部表面差别；Y强氮结合反而不利释放。",
+        "bridge": "收束为适中活化和分工。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "双阴离子空位假说→循环与共进料差别→空位形成→分开进料追踪氮与氢化→含TS路线→跨稀土材料检验适度活化。",
+      "alternative_or_limit": "本地article-in-press；p15把25.6/26.4称高于42.3，文字与数字相反。；p13吸附能符号与能量图不一致；引用按图/定义核，不静默复制。；热化学N2/H2不等于NO3RR；不能直接搬运同一氢供给结论。",
+      "falsifiable_next_check": "学习进料顺序作为机制干预；强吸附不一定好，要同时考虑后续转化和再生。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "红La/蓝Ce/绿Y并有符号；空实/填充编码两过程，比仅换色更清晰。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        6,
+        9,
+        11,
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "card_id": "E167",
+    "doc_id": "E167",
+    "title": "Tailoring Ultrashort Inter‐Fullerene Spacing in a Continuous Fullerene Stacking Array to Enhance Electron Transport for Boosting Solar‐Driven Hydrogen Production",
+    "doi": "10.1002/cey2.70000",
+    "journal": "Carbon Energy",
+    "date": "2025-04",
+    "sha256": "9b0acd5966a63924d6f5707f94fb32dbc3f911069144a416d97726a6544ddaab",
+    "source_url": "https://doi.org/10.1002/cey2.70000",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 11,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "光催化串联；外光、Pt和牺牲剂投入需计系统边界。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E167-C1",
+        "statement": "对照具有交替27.15与0.14 meV耦合，目标约15.1/15.1；连续链的弱环节比最大单对耦合更关键。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E167-C2",
+        "statement": "80.95 mmol/g/h在约280 mW/cm²、Pt助催化和抗坏血酸牺牲剂下获得，不是无牺牲整体水分解或标准1 sun效率。",
+        "pages": [
+          8
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "电子传输瓶颈→轴向配位几何→晶体/纳米片→瞬态分离→连续耦合弱环节模型→光电响应→产氢。",
+    "limits": [
+      "Table2为27.15而正文27.55 meV，本轮按图表记录并标不一致。",
+      "外部SI/TA原始拟合未复算。"
+    ],
+    "writing": "结构控制→传输→产氢的长链标题，优点方向具体，代价过长，可压缩为continuous fullerene arrays与目标功能。",
+    "figure": "粉红目标/蓝对照/橙组分连续使用；光谱和时间须有单独图例；浅色细线建议加深。",
+    "experiment": "对分子界面应关注连续路径的最弱连接；学会区分累积量、斜率、量子效率。",
+    "figure_story": [
+      {
+        "figure_id": "Scheme 1",
+        "pages": [
+          3
+        ],
+        "question": "设计想解决什么？",
+        "observation": "制备/结构/传输/产氢概览。",
+        "inference_limit": "示意中水到氢必须同时标牺牲剂氧化。",
+        "bridge": "核结构。"
+      },
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          4
+        ],
+        "question": "距离和排列是否相符？",
+        "observation": "AFM/cryoTEM/STEM与晶体多视角、PXRD/IR/DRS。",
+        "inference_limit": "1.19 nm晶面间距、10.017 Å质心距、3.119 Å最近原子距不可混称。",
+        "bridge": "检验光激发过程。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          5
+        ],
+        "question": "是否出现长寿命分离态？",
+        "observation": "KPFM、TA谱/热图、全局组分、ns寿命与模型。",
+        "inference_limit": "KPFM电势不直接等于场；好拟合不证明唯一动力学模型。",
+        "bridge": "解释连续传输。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          6
+        ],
+        "question": "平均距离能解释一切吗？",
+        "observation": "规则/锯齿链两行，对应两种二聚体耦合。",
+        "inference_limit": "距离更短不总是耦合更强；取向同样重要。",
+        "bridge": "看可观测光电输出。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          7
+        ],
+        "question": "响应是否一致？",
+        "observation": "光电流、SPV、EIS和OCP衰减。",
+        "inference_limit": "这些是不同代理，不能把小Rct直接等为宏观迁移率。",
+        "bridge": "实际产物验证。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          8
+        ],
+        "question": "产氢及量子效率如何？",
+        "observation": "累积H2—时间、重复循环、AQE/吸收、文献背景。",
+        "inference_limit": "a/b纵轴单位是累积mmol/g却称rate；斜率才是每小时速率；文献光强不一不能直接排冠军。",
+        "bridge": "保留条件给结构—传输设计建议。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "电子传输瓶颈→轴向配位几何→晶体/纳米片→瞬态分离→连续耦合弱环节模型→光电响应→产氢。",
+      "alternative_or_limit": "Table2为27.15而正文27.55 meV，本轮按图表记录并标不一致。；外部SI/TA原始拟合未复算。",
+      "falsifiable_next_check": "对分子界面应关注连续路径的最弱连接；学会区分累积量、斜率、量子效率。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "粉红目标/蓝对照/橙组分连续使用；光谱和时间须有单独图例；浅色细线建议加深。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "card_id": "E168",
+    "doc_id": "E168",
+    "title": "Fullerenes promote transition-metal-catalysed ammonia synthesis",
+    "doi": "10.1038/s41557-024-01641-7",
+    "journal": "Nature Chemistry",
+    "date": "2024-10-15",
+    "sha256": "928b1b2e8ed1b1cb44033cc3a89d7e161a55fad6d95e2dc6209ceddf220d9514",
+    "source_url": "https://doi.org/10.1038/s41557-024-01641-7",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 2,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2
+    ],
+    "read_scope": "both commentary pages and its sole adapted figure read/inspected; cited primary paper not independently re-read in this batch",
+    "document_kind": "commentary",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "2024 News & Views评论；不是独立原创实验。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E168-C1",
+        "statement": "本PDF是News & Views，主图改编自另一研究；不能当作新的独立实验重复证据。",
+        "pages": [
+          1
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E168-C2",
+        "statement": "评论明确指出C60负载存在最优值，并非通用增益；电子缓冲和氢作用为被评论作者的机制解释。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "大问题意义→现有催化剂的氢中毒限制→新工作核心突破→多个作用的解释→实际边界和未来意义。",
+    "limits": [
+      "被评论主论文DOI10.1038/s41557-024-01626-6；应回原研究引用具体机制/数据。"
+    ],
+    "writing": "动词句“某组分促进某反应”便于跨领域理解；评论标题的概括程度不能当研究论文因果证据门槛。",
+    "figure": "蓝空白/灰K/橙C60清楚；断轴柱图和不同压力组应改为小多图以免夸大。",
+    "experiment": "学习从行业约束到一个关键限制的压缩写法；不以评论声望增加独立证据数量。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          1
+        ],
+        "question": "怎样用一图向非本领域读者解释？",
+        "observation": "上方界面示意、下方多载体三促进剂性能。",
+        "inference_limit": "图有断轴、双轴及0.1/0.2 MPa条件差异；改编图不是评论作者新实验。",
+        "bridge": "引到机制与火山型负载限制。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "大问题意义→现有催化剂的氢中毒限制→新工作核心突破→多个作用的解释→实际边界和未来意义。",
+      "alternative_or_limit": "被评论主论文DOI10.1038/s41557-024-01626-6；应回原研究引用具体机制/数据。",
+      "falsifiable_next_check": "学习从行业约束到一个关键限制的压缩写法；不以评论声望增加独立证据数量。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "蓝空白/灰K/橙C60清楚；断轴柱图和不同压力组应改为小多图以免夸大。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        1
+      ]
+    }
+  },
+  {
+    "card_id": "E169",
+    "doc_id": "E169",
+    "title": "Targeted Molecular Design of Functionalized Fullerenes for High‐Performance and Stable Perovskite Solar Cells",
+    "doi": "10.1002/sstr.202200012",
+    "journal": "Small Structures",
+    "date": "2022-04-15",
+    "sha256": "6a00cf0a03cd426a9d882cffbda437df4f9ffde0fd1a0075d0b3e0b3bfb3e523",
+    "source_url": "https://doi.org/10.1002/sstr.202200012",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 28,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "review",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "富勒烯太阳能电池界面层综述；角色随器件位置变化。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E169-C1",
+        "statement": "按器件位置和构型定义材料需求，比把所有富勒烯功能笼统合并更有解释力。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E169-C2",
+        "statement": "溶解性、层内/层间电子过程、稳定性、多功能化需要权衡；汇总LUMO分布不是统一方法测量的概率分布。",
+        "pages": [
+          23
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "先用器件地图定位用途→合成入口→正置/倒置分别讨论ETL、界面层、添加剂→提炼功能化设计约束。",
+    "limits": [
+      "2022综述的纪录和不可替代性判断有历史边界。",
+      "本轮图文框架阅读，未逐条复验全部被引研究/七张大数据表。"
+    ],
+    "writing": "Targeted design指向具体设计需求；综述标题不要求一个新实验机制。",
+    "figure": "紫粉统一层位、黑结构线、淡黄局部强调；取消文字阴影、减少粗框会更清晰。",
+    "experiment": "PyCEE可提供锚定/润湿/堆积候选解释，PSC证据不能直接认证CuNi反应机制。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "材料用在哪里？",
+        "observation": "器件层位与全文路线图。",
+        "inference_limit": "不同位置有不同工艺要求，不能只按分子名字分类。",
+        "bridge": "解释合成可调变量。"
+      },
+      {
+        "figure_id": "Scheme 1",
+        "pages": [
+          3
+        ],
+        "question": "如何功能化？",
+        "observation": "加成环类别与PCBM/Prato路线。",
+        "inference_limit": "路线简图不是完整可复现配方。",
+        "bridge": "按用途分类。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "正置CTL需什么？",
+        "observation": "按锚定/水溶/交联等功能框列结构，PyCEE在锚定组。",
+        "inference_limit": "结构罗列不证明各分子都由同一机制起效。",
+        "bridge": "看超薄界面层。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          7
+        ],
+        "question": "正置界面层怎样选？",
+        "observation": "N/O/S/卤素等类别及用途。",
+        "inference_limit": "材料作用须回原研究核，不能仅凭官能团命名推因果。",
+        "bridge": "进入活性层添加。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          10
+        ],
+        "question": "正置添加剂需什么？",
+        "observation": "功能基团/多加成/交联分组。",
+        "inference_limit": "溶剂和结晶影响不能与电子效应混同。",
+        "bridge": "转到倒置构型。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          13
+        ],
+        "question": "倒置单ETL怎样比较？",
+        "observation": "13类分子结构大表式图。",
+        "inference_limit": "高密度结构适合查表，讲述时需局部放大而非一屏讲完。",
+        "bridge": "考虑混合层。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          17
+        ],
+        "question": "混合是否更好？",
+        "observation": "组分、二聚体及异构体分组。",
+        "inference_limit": "混合带来的变化不自动超越单组分。",
+        "bridge": "看界面兼容。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          19
+        ],
+        "question": "界面层为何需正交溶剂？",
+        "observation": "可溶、含氮、交联、含氟分组。",
+        "inference_limit": "偶极/钝化/阻水可能共同作用。",
+        "bridge": "进入厚度分布。"
+      },
+      {
+        "figure_id": "Fig.8",
+        "pages": [
+          21
+        ],
+        "question": "添加位置和分布怎样影响？",
+        "observation": "PHJ/BHJ/GHJ平面剖面与分子列表。",
+        "inference_limit": "示意分布需深度表征，不能由投料位置直接证明。",
+        "bridge": "提炼约束。"
+      },
+      {
+        "figure_id": "Fig.9",
+        "pages": [
+          23
+        ],
+        "question": "有哪些共通设计变量？",
+        "observation": "LUMO案例散点＋四条材料到器件的关系链。",
+        "inference_limit": "案例横轴无连续物理意义，红曲线只是sketch而非统计密度。",
+        "bridge": "把综述变成需求先行的筛选图。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "先用器件地图定位用途→合成入口→正置/倒置分别讨论ETL、界面层、添加剂→提炼功能化设计约束。",
+      "alternative_or_limit": "2022综述的纪录和不可替代性判断有历史边界。；本轮图文框架阅读，未逐条复验全部被引研究/七张大数据表。",
+      "falsifiable_next_check": "PyCEE可提供锚定/润湿/堆积候选解释，PSC证据不能直接认证CuNi反应机制。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "紫粉统一层位、黑结构线、淡黄局部强调；取消文字阴影、减少粗框会更清晰。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        7,
+        10,
+        13,
+        17,
+        19,
+        21,
+        23
+      ]
+    }
+  },
+  {
+    "card_id": "E170",
+    "doc_id": "E170",
+    "title": "Terminal Effects of Fulleropyrrolidine Electron Transport Materials for Efficient Perovskite Solar Cells",
+    "doi": "10.1002/adfm.202419582",
+    "journal": "Advanced Functional Materials",
+    "date": "2024-12-06",
+    "sha256": "0fbed83a80d2da61fa2460d8f9ac156e7f644c0921be578a319b3b4d800e9575",
+    "source_url": "https://doi.org/10.1002/adfm.202419582",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 8,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "分子末端基团太阳能电池；模型器件与优化冠军器件条件不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E170-C1",
+        "statement": "六分子model device比较与叠加HTL/钙钛矿钝化后的25.18%冠军器件不同；不能把全增益归于末端基团。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E170-C2",
+        "statement": "单晶堆积、溶液CV和薄膜SCLC分别对应不同状态；相关性不等于逐路径独立因果。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "同骨架六末端的性能差异→晶体几何→分子电子→薄膜形貌与迁移率→两条结构—器件作用链。",
+    "limits": [
+      "外部SI未审，SCLC厚度/介电常数和器件统计独立性待复核。"
+    ],
+    "writing": "变量（Terminal effects）＋材料族＋器件用途，适合系列规律研究，不用冠军数字占满标题。",
+    "figure": "六样品绿黄青蓝紫符号固定；黄色偏浅需加深；轨道相位/ESP/样品色三套语义分开。",
+    "experiment": "最有价值是固定样品顺序跨图阅读；同一干预的形貌与电子路径要分别检验。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "改变末端有什么现象？",
+        "observation": "合成/器件＋模型器件分布＋额外钝化冠军。",
+        "inference_limit": "冠军与系列统计不是同一种器件；文献年份点非统一条件排行。",
+        "bridge": "解释排序。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "几何有什么差别？",
+        "observation": "六列固定顺序、三行堆积/最近原子距/质心距。",
+        "inference_limit": "最近原子距与质心距不可混用；单晶未必等于工作薄膜。",
+        "bridge": "看电子变量。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "电子结构怎样变？",
+        "observation": "HOMO/LUMO/ESP同顺序矩阵。",
+        "inference_limit": "轨道相位颜色不是电子积累/耗尽；ESP须给单位与统一色标。",
+        "bridge": "薄膜验证。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "这些趋势在薄膜是否存在？",
+        "observation": "AFM共尺度、RMS点分布、Fc参比CV、光谱、SCLC及统计。",
+        "inference_limit": "可逆CV不直接证明高迁移率；KPFM电势不是电导。",
+        "bridge": "综合成可检验关系。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          7
+        ],
+        "question": "怎样串成一句话？",
+        "observation": "末端→位阻/电子两路径→分子/薄膜→Jsc和FF。",
+        "inference_limit": "artist view是综合解释，不是额外实验；箭头不能把混杂变成因果。",
+        "bridge": "下一研究需解耦位阻与给电子性。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "同骨架六末端的性能差异→晶体几何→分子电子→薄膜形貌与迁移率→两条结构—器件作用链。",
+      "alternative_or_limit": "外部SI未审，SCLC厚度/介电常数和器件统计独立性待复核。",
+      "falsifiable_next_check": "最有价值是固定样品顺序跨图阅读；同一干预的形貌与电子路径要分别检验。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "六样品绿黄青蓝紫符号固定；黄色偏浅需加深；轨道相位/ESP/样品色三套语义分开。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E171",
+    "doc_id": "E171",
+    "title": "Fullerene-Derived Carbon Nanotubes and Their Electrocatalytic Properties in Oxygen Reduction and Zn–Air Batteries",
+    "doi": "10.1021/acsami.2c10387",
+    "journal": "ACS Applied Materials & Interfaces",
+    "date": "2022-09-12",
+    "sha256": "4358f196cebd0ff01c629f0cb31aa6a5bc6e05e0eb82132c8ea425b5b31b3ba4",
+    "source_url": "https://doi.org/10.1021/acsami.2c10387",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 10,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "富勒烯热解衍生CNT的ORR；K–L估n非RRDE，保留热解状态。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E171-C1",
+        "statement": "K–L估算n约3.95支持偏四电子ORR但不是直接RRDE过氧化物定量。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E171-C2",
+        "statement": "更高BET/N含量的830°C样品未给最好ORR；结构可达性和位点需共同考虑。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "分子前驱体自组装→温度/气氛/未组装对照→CNT结构→ORR→酸处理/毒化→柔性电池。",
+    "limits": [
+      "全文主图已查，外部SI未读。",
+      "主图2图注样品名与面板有出入，按图内标记记录。"
+    ],
+    "writing": "材料来源＋两类功能，准确但机制聚焦弱；研究核心在前驱体到CNT的新路线。",
+    "figure": "黑/红/蓝代表温度样品，Pt/C部分图绿部分蓝，建议统一全篇参比色。",
+    "experiment": "不要只拿最大面积讲活性；对照设计应覆盖气氛、组装、温度和后处理。",
+    "figure_story": [
+      {
+        "figure_id": "Scheme 1",
+        "pages": [
+          2
+        ],
+        "question": "前驱体怎样转为管？",
+        "observation": "三温度分叉，Fe3C生成管的概念。",
+        "inference_limit": "热解后不能假定完整C60仍是电子缓冲体。",
+        "bridge": "看实际形貌。"
+      },
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "管的差别是什么？",
+        "observation": "温度三列、SEM/TEM两行与相参考。",
+        "inference_limit": "不同放大倍率须看标尺；局部晶格不代表全部相。",
+        "bridge": "补孔与化学环境。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "孔和N/Fe怎样变？",
+        "observation": "Raman、吸附/XPS及N比例。",
+        "inference_limit": "ID/IG不跨所有碳材料单调等于缺陷数；拟合Fe–Nx不是原子结构独证。",
+        "bridge": "测功能。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "ORR和稳定性如何？",
+        "observation": "气氛/转速/K–L/Tafel/EIS/甲醇/寿命。",
+        "inference_limit": "图注g/h顺序与图面甲醇加入标记不一致；依实际横轴判读。",
+        "bridge": "位点贡献需干预。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "颗粒和Fe–Nx是否都参与？",
+        "observation": "酸洗后元素图与KSCN前后极化。",
+        "inference_limit": "酸洗/毒化同时可改润湿、传质和残留物，不完全位点选择性。",
+        "bridge": "器件验证。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          7
+        ],
+        "question": "器件能否运行？",
+        "observation": "剖面、弯折照片、OCV、功率、恒流放电。",
+        "inference_limit": "点亮LED不是完整寿命；5000 s约1.39 h，不宜称长期工业稳定。",
+        "bridge": "收束为新制备路径。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "分子前驱体自组装→温度/气氛/未组装对照→CNT结构→ORR→酸处理/毒化→柔性电池。",
+      "alternative_or_limit": "全文主图已查，外部SI未读。；主图2图注样品名与面板有出入，按图内标记记录。",
+      "falsifiable_next_check": "不要只拿最大面积讲活性；对照设计应覆盖气氛、组装、温度和后处理。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "黑/红/蓝代表温度样品，Pt/C部分图绿部分蓝，建议统一全篇参比色。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "card_id": "E172",
+    "doc_id": "E172",
+    "title": "Unexpected high selectivity for acetate formation from CO 2 reduction with copper based 2D hybrid catalysts at ultralow potentials",
+    "doi": "10.1039/d1sc05441d",
+    "journal": "Chemical Science",
+    "date": "2021",
+    "sha256": "b0dd61c8c148af3e3418a5a51083f22ce45d42837e8f55c675e94d4304e03dbd",
+    "source_url": "https://doi.org/10.1039/d1sc05441d",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 7,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "1 M KOH流动池CO2RR；不iR校正；乙酸选择性与总CO2RR不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E172-C1",
+        "statement": "−0.3 V下乙酸FE27%、分电流约4 mA/cm²；不能将全部CO2RR FE约72%称乙酸FE。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E172-C2",
+        "statement": "反应前后XPS近似不变支持回收态相似，不直接证明整个电位区间原位状态恒定。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "F保留的工作条件重构→二维/多相结构→表面化学→完整产物矩阵→电子态与竞争分支计算。",
+    "limits": [
+      "SI08将在本轮单独记录方法、定量与校正，不能仅由摘要作跨文献排名。"
+    ],
+    "writing": "反常现象＋具体产物＋催化剂＋电位窗口；unexpected和ultralow必须由明确基准与校正支撑。",
+    "figure": "三材料黑红蓝清楚；完整产物浅色堆叠需加标签/纹理；去掉装饰渐变。",
+    "experiment": "把目标产物FE、总CO2RR FE与HER拆开；“副产物少”与“目标产物多”不是同一指标。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "重构后是什么？",
+        "observation": "示意/SEM/XRD/TEM/AFM从相到厚度。",
+        "inference_limit": "二维尺寸与多相成分需各自证明；前驱体不是活性相。",
+        "bridge": "核电子环境。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "F/O/Cu怎样相互影响？",
+        "observation": "XPS/Auger及28 h分段电位后的比较。",
+        "inference_limit": "Cu2p分峰须约束与Auger互证；外测存在再氧化。",
+        "bridge": "测产物。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "乙酸优势处于什么区间？",
+        "observation": "总电流、完整FE、CO2RR/HER、五产物小多图。",
+        "inference_limit": "E/H等部分柱图纵轴截断夸大差异；低电位优势不能由高电位总量替代。",
+        "bridge": "解释分支。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "哪条路线相容？",
+        "observation": "轨道/PDOS、吸附与多产物路线，局部标TS。",
+        "inference_limit": "PDOS变化不能直接推出电子转移速率；热力学下坡不保证唯一路线。",
+        "bridge": "用独立中间体/动力学进一步核查。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "F保留的工作条件重构→二维/多相结构→表面化学→完整产物矩阵→电子态与竞争分支计算。",
+      "alternative_or_limit": "SI08将在本轮单独记录方法、定量与校正，不能仅由摘要作跨文献排名。",
+      "falsifiable_next_check": "把目标产物FE、总CO2RR FE与HER拆开；“副产物少”与“目标产物多”不是同一指标。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "三材料黑红蓝清楚；完整产物浅色堆叠需加标签/纹理；去掉装饰渐变。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "card_id": "E173",
+    "doc_id": "E173",
+    "title": "Cu Vacancy Induced Product Switching from Formate to CO for CO 2 Reduction on Copper Sulfide",
+    "doi": "10.1021/acscatal.2c01750",
+    "journal": "ACS Catalysis",
+    "date": "2022-07-13",
+    "sha256": "537dbb0ea829d524793da44ab7d875dbfb5c2a3cf83fcebbda598829769fe8b6",
+    "source_url": "https://doi.org/10.1021/acscatal.2c01750",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 9,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "H-cell 0.5 M KHCO3 CO2RR；无iR校正，最大FE和jCO电位不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E173-C1",
+        "statement": "CO最大FE85.2%在−0.84 V，最大CO分电流37.2 mA/cm²另在更负电位；H型池0.5 M KHCO3且未iR校正。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E173-C2",
+        "statement": "状态自由能支持CO/甲酸/HER竞争的模型解释，不是所有步骤都计算过渡态。",
+        "pages": [
+          7
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "硫化铜常产甲酸的先验→Cu缺位的产物切换→近似面积/吸附/阻抗→缺位程度系列与产物全图→计算竞争分支。",
+    "limits": [
+      "正文COOH−/OCHO命名有混用，应按结构核对。",
+      "SI07另记原位和定量方法，不能据文献图宣称今天仍最高。"
+    ],
+    "writing": "明确结构变量＋从A到B的产物切换＋材料/反应，信息密度高；Induced是强因果承诺，需注意共变因素。",
+    "figure": "红缺位/蓝对照/灰碳，产物图红CO/蓝H2另成语义；用分图图例防冲突。",
+    "experiment": "产物切换比单纯电流增大更能限制解释；必须给全产品和副反应。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "怎样引入结构差异？",
+        "observation": "硫模板/聚多巴胺/热解空壳。",
+        "inference_limit": "投料比同时改变相、组成与缺陷。",
+        "bridge": "证实材料差别。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          2
+        ],
+        "question": "缺位判断依据什么？",
+        "observation": "多尺度显微、XRD、EPR和XPS。",
+        "inference_limit": "g值和XPS比例不独自给空位浓度；需要组成/结构互证。",
+        "bridge": "排查面积与吸附。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "总活性差别来自哪？",
+        "observation": "LSV、EIS、Cdl和气体吸附。",
+        "inference_limit": "类似Cdl不完全等于活性面积；气体吸附不是工作界面浓度。",
+        "bridge": "看产物。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          4
+        ],
+        "question": "产物是否真的切换？",
+        "observation": "三样品FE、CO分电流、文献图、恒电位寿命。",
+        "inference_limit": "FE与最大jCO不同点；13 h曲线有变化，不宜宣称不衰减；3D柱装饰可删。",
+        "bridge": "解释竞争通道。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          6
+        ],
+        "question": "为什么CO优于甲酸？",
+        "observation": "吸附构型、两材料/两电位自由能、H吸附和PDOS。",
+        "inference_limit": "b/c实际按材料分组，图注概括按产物易混淆；上坡ΔG不是TS能垒。",
+        "bridge": "用中间体/位点扰动检验模型。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "硫化铜常产甲酸的先验→Cu缺位的产物切换→近似面积/吸附/阻抗→缺位程度系列与产物全图→计算竞争分支。",
+      "alternative_or_limit": "正文COOH−/OCHO命名有混用，应按结构核对。；SI07另记原位和定量方法，不能据文献图宣称今天仍最高。",
+      "falsifiable_next_check": "产物切换比单纯电流增大更能限制解释；必须给全产品和副反应。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "红缺位/蓝对照/灰碳，产物图红CO/蓝H2另成语义；用分图图例防冲突。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "card_id": "E174",
+    "doc_id": "E174",
+    "title": "A preliminary study of functional coating material of polypropylene itaconate incorporated with [Cu 3 (BTC) 2 ] MOF as CO 2 adsorbent",
+    "doi": "10.1016/j.porgcoat.2016.09.025",
+    "journal": "Progress in Organic Coatings",
+    "date": "2016-12",
+    "sha256": "2853b6202b9fd8bdea8f6bfc56f547c5ae5009599fe0f26331e7cf77a6c35c11",
+    "source_url": "https://doi.org/10.1016/j.porgcoat.2016.09.025",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 6,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "MOF/聚合物CO2吸附；出口吸收滴定差量、膜总量/填料分母区分。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E174-C1",
+        "statement": "CO2吸附用出口NaOH吸收再滴定的差量法，需核气路收支与误差，不是直接称量。",
+        "pages": [
+          2
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E174-C2",
+        "statement": "20%MOF复合膜约84%纯MOF响应，却不是简单按MOF质量的本征容量结论，分母与测量流程必须复核。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "聚合物可成膜但不吸附→MOF赋功能→从外观/显微到含量梯度→吸附与柔韧/热稳折中。",
+    "limits": [
+      "不是电催化或顶刊范式；可以学实验权衡，也要学其定量/展示局限。",
+      "不能由无新IR峰推导绝对无化学作用。"
+    ],
+    "writing": "A preliminary study明确探索级别；对象和用途准确，但可缩短化学全名。",
+    "figure": "原图IR红绿蓝、吸附红色3D柱；建议平面点图加重复点/误差，照片只作辅助。",
+    "experiment": "复合材料比较总复合物分母、活性填料分母和实际器件分母；差量法要做误差传播和空白。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "聚合反应发生吗？",
+        "observation": "原料与聚合物IR比较。",
+        "inference_limit": "峰消失受重叠/尺度影响，非分子量直接证明。",
+        "bridge": "看基底形貌。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "空白是否致密？",
+        "observation": "两倍率SEM。",
+        "inference_limit": "未见孔不等于绝对无分子自由体积。",
+        "bridge": "核填料相。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "是否是目标MOF？",
+        "observation": "实测和晶体参考衍射。",
+        "inference_limit": "三强峰对应不足以完整排杂相。",
+        "bridge": "看颗粒尺度。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          4
+        ],
+        "question": "填料多大？",
+        "observation": "两倍率颗粒图。",
+        "inference_limit": "择区不代表完整尺寸分布。",
+        "bridge": "观察膜变化。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          4
+        ],
+        "question": "填料影响外观吗？",
+        "observation": "0–40%实物序列。",
+        "inference_limit": "照片照明不同不定量颜色或机械性。",
+        "bridge": "显微对应。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          5
+        ],
+        "question": "含量如何改变表面？",
+        "observation": "六浓度SEM同量级标尺。",
+        "inference_limit": "末图外观不同需核取样面，caption字母有重复。",
+        "bridge": "检验功能/代价。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          5
+        ],
+        "question": "最大填料是否最优？",
+        "observation": "同一滴定流程的含量响应、空白和纯MOF。",
+        "inference_limit": "纵轴mass/0.1g与正文mmol/g需统一；无误差条不可假装重复很精确。",
+        "bridge": "以应用折中而非最大吸附收束。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "聚合物可成膜但不吸附→MOF赋功能→从外观/显微到含量梯度→吸附与柔韧/热稳折中。",
+      "alternative_or_limit": "不是电催化或顶刊范式；可以学实验权衡，也要学其定量/展示局限。；不能由无新IR峰推导绝对无化学作用。",
+      "falsifiable_next_check": "复合材料比较总复合物分母、活性填料分母和实际器件分母；差量法要做误差传播和空白。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "原图IR红绿蓝、吸附红色3D柱；建议平面点图加重复点/误差，照片只作辅助。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "card_id": "E175",
+    "doc_id": "E175",
+    "title": "Cu-MOF-derived two-dimensional Cu@N-doped carbon nanosheets for ultrahigh rate and stable lithium storage",
+    "doi": "10.1016/j.cej.2025.166954",
+    "journal": "Chemical Engineering Journal",
+    "date": "2025-10",
+    "sha256": "a658688999ac6de6bbfd633eacb785af1c63ce965db96d8e3126faad63576ac0",
+    "source_url": "https://doi.org/10.1016/j.cej.2025.166954",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 11,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "MOF衍生锂电材料；首圈效率、半电池/全电池质量分母不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E175-C1",
+        "statement": "首次充放电621.9/1796.1 mAh/g，初始库仑效率34.63%；高后期容量不能隐藏首圈损失。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E175-C2",
+        "statement": "全电池容量以正极LFP质量归一，不能与半电池负极质量容量直接同轴排名。",
+        "pages": [
+          9
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "层状前驱体→热解温度结构窗口→孔/组成→半电池性能→速率/GITT/功函数→取样后结构→全电池。",
+    "limits": [
+      "本地首页标Review但有原创制备/实验/结果，按内容标primary_research并保留元数据异常。",
+      "样品色在不同图500/700有交换，不能只按颜色追踪。"
+    ],
+    "writing": "材料来源＋形貌＋用途，ultrahigh和stable须同时保留倍率、首圈效率和负载边界。",
+    "figure": "多样品紫橙绿且部分图换序；建议固定样品颜色/顺序，删3D框和过多渐变。",
+    "experiment": "学会把性能提升与首圈代价、半/全电池分母一起讲；不把拟合代理当唯一机制。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "温度怎样影响层结构？",
+        "observation": "制备上排、形貌矩阵、界面和元素图。",
+        "inference_limit": "纳米/微米颗粒不可仅按文中atomic clusters称原子簇。",
+        "bridge": "补体相组成。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "组成与孔性差在哪里？",
+        "observation": "9图覆盖相、D/G、TG、孔、XPS。",
+        "inference_limit": "cm²/g正文与表格m²/g有单位差异；Cu0/Cu+不能只靠2p独立分离。",
+        "bridge": "功能验证。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "容量、倍率、效率如何？",
+        "observation": "首圈、倍率、循环、EIS与跨研究3D图。",
+        "inference_limit": "容量回升需检验副反应/活化；3D文献图条件不可比。",
+        "bridge": "探动力学。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "离子与电子过程一致吗？",
+        "observation": "b值、储能分解、GITT、UPS。",
+        "inference_limit": "经验b值/电流分解不唯一识别微观机理；UPS不是直接电解液阻抗。",
+        "bridge": "看循环后状态。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          8
+        ],
+        "question": "储锂后留下什么？",
+        "observation": "SEM/TEM、XPS、分电位ex-situ Raman及示意。",
+        "inference_limit": "ex-situ不是operando；面板d图为HRTEM而caption称EDS。",
+        "bridge": "检验整器件。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          9
+        ],
+        "question": "全电池能否工作？",
+        "observation": "器件、充放电/循环/倍率、LED。",
+        "inference_limit": "预循环/正极分母影响解释；LED照片不能证明文称3 W连续24 h能量收支。",
+        "bridge": "明确实用性仍需负载/配比/能量核验。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "层状前驱体→热解温度结构窗口→孔/组成→半电池性能→速率/GITT/功函数→取样后结构→全电池。",
+      "alternative_or_limit": "本地首页标Review但有原创制备/实验/结果，按内容标primary_research并保留元数据异常。；样品色在不同图500/700有交换，不能只按颜色追踪。",
+      "falsifiable_next_check": "学会把性能提升与首圈代价、半/全电池分母一起讲；不把拟合代理当唯一机制。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "多样品紫橙绿且部分图换序；建议固定样品颜色/顺序，删3D框和过多渐变。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "card_id": "E176",
+    "doc_id": "E176",
+    "title": "Generation of Hierarchical Porosity in Metal–Organic Frameworks by the Modulation of Cation Valence",
+    "doi": "10.1002/anie.201903323",
+    "journal": "Angewandte Chemie International Edition",
+    "date": "2019-06-27",
+    "sha256": "29cbea5693ac651f0616e47427bb17bb2063eca27dce1a998964ff76e306cc3b",
+    "source_url": "https://doi.org/10.1002/anie.201903323",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 6,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "甲醇蒸汽还原HKUST-1与噻吩吸附；CuI和孔性共变。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E176-C1",
+        "statement": "还原时间增加CuI比例同时改变孔结构，12 h过度破坏后吸附下降。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E176-C2",
+        "statement": "最高CuI含量样品不是最高噻吩容量，位点与结构可达性需共同解释。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "微孔限制→价态调配位的概念→时间系列结构/价态→孔结构/形貌→穿透性能→含TS的节点解离模型。",
+    "limits": [
+      "噻吩吸附不是电催化；CuI比例与孔性共变不能给单独贡献。",
+      "外部SI中滴定/其他还原剂未完整复审。"
+    ],
+    "writing": "目标结果＋材料平台＋干预手段，强调可复用制备策略。",
+    "figure": "时间黑红蓝紫绿加不同符号；理论主/支路用清晰线型，避免原子配色与样品色混用。",
+    "experiment": "保留过度处理失败样品可建立边界，比只放最好样品有说服力。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "如何从价态造孔？",
+        "observation": "甲醇蒸汽示意与晶体颜色/形貌。",
+        "inference_limit": "颜色不是CuI浓度定量。",
+        "bridge": "谱学检查。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "骨架和价态如何变化？",
+        "observation": "XRD与Cu2p时间序列。",
+        "inference_limit": "CuI定量依赖拟合和正文滴定互证；保持衍射不等于无缺陷。",
+        "bridge": "孔性结果。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "孔是越多越好吗？",
+        "observation": "等温线/孔分布显示12 h坍塌。",
+        "inference_limit": "模型孔分布需适用范围，不能只看一个峰。",
+        "bridge": "直接看孔。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          3
+        ],
+        "question": "孔在哪里？",
+        "observation": "多倍率SEM与元素图。",
+        "inference_limit": "二维投影不能独自给连通性。",
+        "bridge": "穿透功能。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          4
+        ],
+        "question": "位点比例与可达性如何折中？",
+        "observation": "穿透曲线及容量随处理时间的峰值。",
+        "inference_limit": "横轴流出体积/g不是时间；无独立误差不可写显著。",
+        "bridge": "解释制备过程。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          4
+        ],
+        "question": "配位键如何可能解离？",
+        "observation": "主/支路线的中间体与TS。",
+        "inference_limit": "局部簇模型说明可能过程，不定量整个多孔晶体生成率。",
+        "bridge": "形成可控但不过度处理原则。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "微孔限制→价态调配位的概念→时间系列结构/价态→孔结构/形貌→穿透性能→含TS的节点解离模型。",
+      "alternative_or_limit": "噻吩吸附不是电催化；CuI比例与孔性共变不能给单独贡献。；外部SI中滴定/其他还原剂未完整复审。",
+      "falsifiable_next_check": "保留过度处理失败样品可建立边界，比只放最好样品有说服力。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "时间黑红蓝紫绿加不同符号；理论主/支路用清晰线型，避免原子配色与样品色混用。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "card_id": "E177",
+    "doc_id": "E177",
+    "title": "Anion Modulation of Pt‐Group Metals and Electrocatalysis Applications",
+    "doi": "10.1002/chem.202101645",
+    "journal": "Chemistry – A European Journal",
+    "date": "2021-07-09",
+    "sha256": "e38d5b30bccc0101774f0b90eff2e0b14e5681992d9606a4cb1937ac20729bb6",
+    "source_url": "https://doi.org/10.1002/chem.202101645",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 15,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "review",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "阴离子调PGM综述；跨反应/酸碱/负载/电流目标不可合并。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E177-C1",
+        "statement": "ΔGH接近零有利但不足以独自预测HER；不同状态自由能差不是已经求过渡态的动力学势垒。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E177-C2",
+        "statement": "综述明确提示多数体系仍在低电流和较短时间测试，实际器件与工作态稳定性需要补证。",
+        "pages": [
+          12
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "按活性来源→制备手段→分反应实例→工作态和规模化缺口组织；每个实例回答共同问题，而非累加最高数字。",
+    "limits": [
+      "跨论文图的条件和色义不同；不作定量元分析。",
+      "本轮系统读综述论证和全部主图，未逐一重审其全部被引原文。"
+    ],
+    "writing": "材料调控策略＋应用范围型综述题目；题目宽，正文必须给分类和边界而不只案例清单。",
+    "figure": "保留来源内图例，跨来源用共同问题和标题建立层级；不靠统一颜色暗示条件可比。",
+    "experiment": "建立来源—制备—状态—功能—边界五段地图；每种描述符同时记录失效条件。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "阴离子能调哪些金属？",
+        "observation": "周期表式材料范围图。",
+        "inference_limit": "组织图不是实验证据。",
+        "bridge": "解释电子与吸附路径。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "电子调节如何描述？",
+        "observation": "多来源DOS/COHP比较带形状、带宽与成键。",
+        "inference_limit": "必须核能量零点与COHP符号；不是一组受控系列。",
+        "bridge": "连接到反应吸附。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          5
+        ],
+        "question": "怎样影响反应过程？",
+        "observation": "多反应吸附能和中间体图。",
+        "inference_limit": "最佳描述符不是充分条件；状态ΔG不等于TS势垒。",
+        "bridge": "需要制得可检验样品。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          6
+        ],
+        "question": "如何形成阴离子化合物？",
+        "observation": "CVD/热解/溶剂热示意配显微。",
+        "inference_limit": "形貌、载体和相共变。",
+        "bridge": "扩展低温或快速路线。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          8
+        ],
+        "question": "其他路线的作用点是什么？",
+        "observation": "络合、熔盐、等离子和微波四组流程。",
+        "inference_limit": "流程箭头不能替代成分/相验证。",
+        "bridge": "回到电催化检验。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          9
+        ],
+        "question": "HER案例支持什么？",
+        "observation": "16面板连接计算、酸碱性能与稳定性。",
+        "inference_limit": "5与10 mA目标不同；不同论文不能拼成同一最佳材料。",
+        "bridge": "看其他阴离子。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          10
+        ],
+        "question": "策略是否可迁移？",
+        "observation": "20面板汇总B/S/Se/Te系列。",
+        "inference_limit": "适合查阅，不适合照搬成一张原创主图；条件需回原始文献。",
+        "bridge": "考察氧化工况。"
+      },
+      {
+        "figure_id": "Fig.8",
+        "pages": [
+          11
+        ],
+        "question": "OER工作态是什么？",
+        "observation": "酸碱OER、重构、插层和计算。",
+        "inference_limit": "无氧前驱体不能排除运行时氧化或LOM；需工况证据。",
+        "bridge": "划分其他反应边界。"
+      },
+      {
+        "figure_id": "Fig.9",
+        "pages": [
+          12
+        ],
+        "question": "其他反应有何不同？",
+        "observation": "ORR、HOR、氮还原、甲醇及CO2/亚硝酸盐制尿素实例。",
+        "inference_limit": "亚硝酸盐不是硝酸盐；细胞实验不等于普遍安全。",
+        "bridge": "以机理、稳定性、器件和合成规模缺口收束。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "按活性来源→制备手段→分反应实例→工作态和规模化缺口组织；每个实例回答共同问题，而非累加最高数字。",
+      "alternative_or_limit": "跨论文图的条件和色义不同；不作定量元分析。；本轮系统读综述论证和全部主图，未逐一重审其全部被引原文。",
+      "falsifiable_next_check": "建立来源—制备—状态—功能—边界五段地图；每种描述符同时记录失效条件。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "保留来源内图例，跨来源用共同问题和标题建立层级；不靠统一颜色暗示条件可比。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "card_id": "E178",
+    "doc_id": "E178",
+    "title": "Defect Engineering of Nanoscale Hf-Based Metal–Organic Frameworks for Highly Efficient Iodine Capture",
+    "doi": "10.1021/acs.inorgchem.1c01120",
+    "journal": "Inorganic Chemistry",
+    "date": "2021-06-16",
+    "sha256": "51dc54fe7084c7317859e1633037a03b869e32c9de6d03346b88cd38d7329b5d",
+    "source_url": "https://doi.org/10.1021/acs.inorgchem.1c01120",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 9,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "Hf-MOF碘吸附；环己烷捕获、乙醇释放与CT体模分开。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E178-C1",
+        "statement": "酸化处理同时增加孔径、BET和开放Hf位点，不能独立定量哪一因素贡献。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E178-C2",
+        "statement": "环己烷523 nm与乙醇357 nm分别跟踪不同介质中碘信号，吸光度数值不能直接跨溶剂比较。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E178-C3",
+        "statement": "CT衰减线性只是体模功能演示，不是临床成像有效性或安全性证明。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "缺陷制备→结构与孔→捕获过程→释放/保留→结合证据→体模CT响应。",
+    "limits": [
+      "外部SI的消解NMR与实验原始重复未独立审计。",
+      "保留量、总捕获量和捕获速率是三个不同终点。"
+    ],
+    "writing": "缺陷工程＋明确对象＋应用型题目，Highly efficient应对应同工况的容量和动力学。",
+    "figure": "缺陷样红/对照蓝稳定，时间序列适合单色深浅；不同量程明确标示。",
+    "experiment": "按同一问题左右对照更易读；现象解释至少同时检验孔可达性和结合能。",
+    "figure_story": [
+      {
+        "figure_id": "Scheme.1",
+        "pages": [
+          2
+        ],
+        "question": "如何造缺陷？",
+        "observation": "酸化DMF去调节剂的概念。",
+        "inference_limit": "示意需消解NMR等验证，外部SI本轮未审。",
+        "bridge": "用同尺寸结构对照约束。"
+      },
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "缺陷伴随哪些变化？",
+        "observation": "形貌、PXRD和孔分析。",
+        "inference_limit": "孔和开放位点同时变化。",
+        "bridge": "检验捕获。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "吸附过程更快/更多吗？",
+        "observation": "照片、UV-vis和时间拟合。",
+        "inference_limit": "高R²不唯一证明微观动力学模型。",
+        "bridge": "比较释放与保留。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "强结合还是总容量？",
+        "observation": "两材料成对展示吸附位置、释放光谱与实物。",
+        "inference_limit": "两列纵轴量程不同；溶剂/波长不同不可比曲线高度。",
+        "bridge": "谱学约束位点。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "碘可能在哪里？",
+        "observation": "EDS、PXRD、Raman、XPS互证。",
+        "inference_limit": "Raman图轴误标Wavelength(nm)，正文谈cm−1；不可照抄。强度不直接等于量。",
+        "bridge": "测试功能后果。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          6
+        ],
+        "question": "负载后衰减如何？",
+        "observation": "体模阵列与浓度响应。",
+        "inference_limit": "Hf本底、质量分母和溶液条件需保留；未做临床验证。",
+        "bridge": "限定为材料/体模用途。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "缺陷制备→结构与孔→捕获过程→释放/保留→结合证据→体模CT响应。",
+      "alternative_or_limit": "外部SI的消解NMR与实验原始重复未独立审计。；保留量、总捕获量和捕获速率是三个不同终点。",
+      "falsifiable_next_check": "按同一问题左右对照更易读；现象解释至少同时检验孔可达性和结合能。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "缺陷样红/对照蓝稳定，时间序列适合单色深浅；不同量程明确标示。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "card_id": "E179",
+    "doc_id": "E179",
+    "title": "Dipolar Carbazole Ammonium for Broadened Electric Field Distribution in High-Performance Perovskite Solar Cells",
+    "doi": "10.1021/jacs.4c18074",
+    "journal": "Journal of the American Chemical Society",
+    "date": "2025-02-26",
+    "sha256": "fc32c711d618714d3576561daf180e21f1d443f3e4bc381b800fecd1dbdefdca",
+    "source_url": "https://doi.org/10.1021/jacs.4c18074",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 9,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "PSC；混合/顺序处理、表面/截面KPFM、储存/热/光寿命分开。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E179-C1",
+        "statement": "截面KPFM的电场是电势空间导数，微分会放大噪声；场宽依赖配准、平滑和阈值。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E179-C2",
+        "statement": "冠军25.16%、认证24.35%及MPP起点21.39%不是一个效率；三种寿命协议不可合并成一个热光湿测试。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "分子偶极与处理方式→能级和表面电势→截面场分布及载流子损失→器件统计、认证和分协议稳定性。",
+    "limits": [
+      "PSC体系电场证据不能直接证明PyCEE–CuNi的NO3RR机制。",
+      "混合处理和顺序堆叠并非等价；需保持浓度/组分匹配。"
+    ],
+    "writing": "分子特征＋空间现象＋应用的标题有清楚因果承诺，必须有直接空间测量。",
+    "figure": "灰蓝绿红紫固定组别；KPFM比较先统一数值色标，场轴红色不要兼任样品身份。",
+    "experiment": "原始信号与导出量成对画；样品层级、器件层级与像素层级分开统计。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "改变分子和接触后发生什么？",
+        "observation": "分子/器件、XRD、ESP、UPS和能级。",
+        "inference_limit": "计算分子偶极不等于整薄膜电场；UPS去表层10 nm带来状态边界。",
+        "bridge": "直接看电势。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "表面与覆盖后电势如何？",
+        "observation": "处理组×C60前后KPFM及XPS。",
+        "inference_limit": "行间色标不同不可看颜色比绝对电势；像素不是独立器件重复。",
+        "bridge": "测空间场宽。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "场分布能否连接损失？",
+        "observation": "截面电势/导数、PL和QFLS/Voc。",
+        "inference_limit": "PL强弱意义随是否有抽取层变化；4器件×3位置属于嵌套重复。",
+        "bridge": "以器件输出检验。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "改善可重复且耐久吗？",
+        "observation": "分布、冠军J–V、EQE和3类寿命。",
+        "inference_limit": "1103 h热储、500 h光MPP、常温储存条件不同；不可合并。",
+        "bridge": "把空间机制与实际输出相连但保留协议差别。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "分子偶极与处理方式→能级和表面电势→截面场分布及载流子损失→器件统计、认证和分协议稳定性。",
+      "alternative_or_limit": "PSC体系电场证据不能直接证明PyCEE–CuNi的NO3RR机制。；混合处理和顺序堆叠并非等价；需保持浓度/组分匹配。",
+      "falsifiable_next_check": "原始信号与导出量成对画；样品层级、器件层级与像素层级分开统计。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "灰蓝绿红紫固定组别；KPFM比较先统一数值色标，场轴红色不要兼任样品身份。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "card_id": "E180",
+    "doc_id": "E180",
+    "title": "Shape-Memory Nanopores Induced in Coordination Frameworks by Crystal Downsizing",
+    "doi": "10.1126/science.1231451",
+    "journal": "Science",
+    "date": "2013-01-11",
+    "sha256": "6498a43b3277f3590696abd0ab2b0f95d8c5458f9702860429bc25298eab8feb",
+    "source_url": "https://doi.org/10.1126/science.1231451",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 5,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "脱客体/尺寸系列MOF；303 K与298 K吸附，热重置历史必须记录。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E180-C1",
+        "statement": "纳米化后空的开放相可保持，并可经加热关闭、溶剂重开；记忆需要保持与重置闭环。",
+        "pages": [
+          3
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E180-C2",
+        "statement": "另一框架在更小尺寸时不能热重置，说明存在尺寸窗口而非越小越好。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "定义新现象→结构两态→尺寸扰动→吸附历史的保持和可控重置→机制候选及适用边界。",
+    "limits": [
+      "源PDF第1页上部是上一篇无关文章，第5页是版权页，已排除其证据。",
+      "20次循环只在正文引SI，外部SI未获取，本轮未独立复核。"
+    ],
+    "writing": "新现象＋材料平台＋可控变量，适合机制发现型论文，不依赖最高性能形容词。",
+    "figure": "结构态绿/紫，尺寸系列顺序色；给符号和明确标尺，不只靠彩色。",
+    "experiment": "一次前后对照不足以称记忆；必须有保持、读取、重置以及失败边界。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "何谓孔记忆？",
+        "observation": "弹性和记忆/重置概念对照。",
+        "inference_limit": "概念示意不是观察本身。",
+        "bridge": "明确两种结构状态。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "开放和关闭怎样区别？",
+        "observation": "两种尺度显示互穿框架/空隙。",
+        "inference_limit": "几何孔球不是实测占据；客体省略需说明。",
+        "bridge": "检验尺寸系列。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          3
+        ],
+        "question": "尺寸如何影响脱客体状态？",
+        "observation": "TEM/SEM系列加衍射参考。",
+        "inference_limit": "微米图标尺不同；峰宽不单独证明相变，脱溶剂历史必须匹配。",
+        "bridge": "回到功能与可逆性。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          4
+        ],
+        "question": "是否真的可保持和重置？",
+        "observation": "尺寸吸附系列及同材料热关/溶剂重开闭环。",
+        "inference_limit": "A为303 K，B–D为298 K；表面热力学和成核动力学尚不能唯一拆分。",
+        "bridge": "以尺寸窗口和历史依赖收束。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "定义新现象→结构两态→尺寸扰动→吸附历史的保持和可控重置→机制候选及适用边界。",
+      "alternative_or_limit": "源PDF第1页上部是上一篇无关文章，第5页是版权页，已排除其证据。；20次循环只在正文引SI，外部SI未获取，本轮未独立复核。",
+      "falsifiable_next_check": "一次前后对照不足以称记忆；必须有保持、读取、重置以及失败边界。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "结构态绿/紫，尺寸系列顺序色；给符号和明确标尺，不只靠彩色。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "card_id": "E181",
+    "doc_id": "E181",
+    "title": "Non‐Noble‐Metal‐Based Electrocatalysts for Acidic Oxygen Evolution Reaction: Recent Progress, Challenges, and Perspectives",
+    "doi": "10.1002/smll.202405399",
+    "journal": "Small",
+    "date": "2024-08-25",
+    "sha256": "457725e22f93df10bb2e4b356f24264a3a1acd91611b0d95df057ea3ea2cc527",
+    "source_url": "https://doi.org/10.1002/smll.202405399",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 27,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "review",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "酸性OER综述；半/全电池、产氧与腐蚀、电流/寿命条件分开。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E181-C1",
+        "statement": "MnO2在10与100 mA/cm²下寿命明显不同，低电流长寿命不外推高电流。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E181-C2",
+        "statement": "FT-EXAFS未相位校正峰位不是直接键长；不变的峰位不独自证明唯一OER路径。",
+        "pages": [
+          21
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E181-C3",
+        "statement": "综述强调工业PEM条件的高电流、温度与压力差距，实验室排名不能取代器件验证。",
+        "pages": [
+          22
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "器件需求→酸性OER三类机制→按材料家族列解决策略和稳定性→耦合装置→原位证据与工业缺口。",
+    "limits": [
+      "综述不是全部引用的独立复验；各原始图条件保留。",
+      "实用化必须加产物FE、金属溶出和碳腐蚀收支。"
+    ],
+    "writing": "范围＋问题＋展望型综述题目；Recent应按发表年份理解；正文出现贵金属比较/机制案例时需明确身份。",
+    "figure": "多来源混合色图；按材料家族分组，用共享问题串联，避免彩虹热图和过密网格。",
+    "experiment": "将机制鉴定与失活机制一起规划；表征价值在能排除哪一竞争解释。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          3
+        ],
+        "question": "不同水电解器约束是什么？",
+        "observation": "四类装置同构示意及比较表。",
+        "inference_limit": "历史范围非2026实时报价/行业寿命；表内不同系统基准需核。",
+        "bridge": "需要机制与稳定性框架。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          4
+        ],
+        "question": "可能走哪些路径？",
+        "observation": "AEM/LOM/OPM并列循环。",
+        "inference_limit": "示意路径非实测通量；不是所有材料只走一条。",
+        "bridge": "看材料如何应对酸腐蚀。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          6
+        ],
+        "question": "Mn材料活性与寿命怎样折中？",
+        "observation": "Pourbaix、不同电流寿命与掺杂实例。",
+        "inference_limit": "横轴断裂、工况不同；高电流120 h失活不能被低电流长线掩盖。",
+        "bridge": "扩展Co体系。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          8
+        ],
+        "question": "Co氧化物如何保护？",
+        "observation": "包覆/异质结/掺杂到器件。",
+        "inference_limit": "膜电解器整电池与三电极曲线不同口径。",
+        "bridge": "考虑酸稳骨架。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          9
+        ],
+        "question": "锑酸盐的理论稳定如何检验？",
+        "observation": "计算Pourbaix、衍射、极化、寿命。",
+        "inference_limit": "热力学稳定区不等于工作电极动力学寿命。",
+        "bridge": "扩展非氧化物。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          10
+        ],
+        "question": "硫属化合物的代价？",
+        "observation": "结构、极化与快速退化。",
+        "inference_limit": "2 h曲线不能称工业耐久，酸/中性协议不同。",
+        "bridge": "继续P系。"
+      },
+      {
+        "figure_id": "Fig.7",
+        "pages": [
+          11
+        ],
+        "question": "磷化物实际活性相是什么？",
+        "observation": "制备、显微与半/全反应曲线。",
+        "inference_limit": "整体水分解电压不是阳极过电位；保护氧化层可能是工作态。",
+        "bridge": "检查碳/硼化物重构。"
+      },
+      {
+        "figure_id": "Fig.8",
+        "pages": [
+          12
+        ],
+        "question": "重构如何随时间发生？",
+        "observation": "TiB2时间系列SEM/XPS与运行曲线。",
+        "inference_limit": "反应后取样不是同时原位；重构无变化的说法需核。",
+        "bridge": "考虑金属间化合物。"
+      },
+      {
+        "figure_id": "Fig.9",
+        "pages": [
+          13
+        ],
+        "question": "合金与孔化如何影响功能？",
+        "observation": "三组结构—极化—运行。",
+        "inference_limit": "参比SCE/RHE、mA/A、左右时间轴不同；不可直接排名。",
+        "bridge": "看分子与原子位点。"
+      },
+      {
+        "figure_id": "Fig.10",
+        "pages": [
+          14
+        ],
+        "question": "POM负载和组分怎样影响？",
+        "observation": "结构族与碳糊含量系列。",
+        "inference_limit": "复合电极分母和导电基底贡献要分开。",
+        "bridge": "需要位点鉴定。"
+      },
+      {
+        "figure_id": "Fig.11",
+        "pages": [
+          15
+        ],
+        "question": "单原子证据如何组合？",
+        "observation": "原子图、元素分布、XAS、性能。",
+        "inference_limit": "局部亮点和平均XAS不能独自排除所有团簇/工作重构。",
+        "bridge": "再看多元素体系。"
+      },
+      {
+        "figure_id": "Fig.12",
+        "pages": [
+          16
+        ],
+        "question": "高熵怎样兼顾钝化和活性？",
+        "observation": "自选择/重构示意与多元素映射。",
+        "inference_limit": "映射含Au/Ir/Pd/Pt等，不能把此例整体称完全无贵金属。",
+        "bridge": "转向碳体系。"
+      },
+      {
+        "figure_id": "Fig.13",
+        "pages": [
+          17
+        ],
+        "question": "金属自由体系需要排查什么？",
+        "observation": "C60/CNT和氧化碳、活化谱学。",
+        "inference_limit": "须量化O2并排除碳腐蚀；f图注归属与所画官能团机制需回原始文献。",
+        "bridge": "连接装置。"
+      },
+      {
+        "figure_id": "Fig.14",
+        "pages": [
+          19
+        ],
+        "question": "怎样与还原反应耦合？",
+        "observation": "N2/CO2器件和离子跨膜。",
+        "inference_limit": "N2还原不等于NO3RR；示意不是已完成工业验证。",
+        "bridge": "需要工况测量。"
+      },
+      {
+        "figure_id": "Fig.15",
+        "pages": [
+          20
+        ],
+        "question": "振动谱怎样限制解释？",
+        "observation": "时间/电位/同位素谱与多种吸附中间体。",
+        "inference_limit": "峰归属、覆盖与速率不同；同位素需背景交换对照。",
+        "bridge": "元素局域结构和产物互证。"
+      },
+      {
+        "figure_id": "Fig.16",
+        "pages": [
+          21
+        ],
+        "question": "XAS与DEMS分别证明什么？",
+        "observation": "工况XAS和氧同位素产物。",
+        "inference_limit": "e/f图注与正文4Ru/12Ru指向存在反转疑点；不同纵标不能比峰高；需回原文。",
+        "bridge": "以证据组合和装置边界收束。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "器件需求→酸性OER三类机制→按材料家族列解决策略和稳定性→耦合装置→原位证据与工业缺口。",
+      "alternative_or_limit": "综述不是全部引用的独立复验；各原始图条件保留。；实用化必须加产物FE、金属溶出和碳腐蚀收支。",
+      "falsifiable_next_check": "将机制鉴定与失活机制一起规划；表征价值在能排除哪一竞争解释。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "多来源混合色图；按材料家族分组，用共享问题串联，避免彩虹热图和过密网格。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "card_id": "E182",
+    "doc_id": "E182",
+    "title": "Pyridine-Functionalized Fullerene Electron Transport Layer for Efficient Planar Perovskite Solar Cells",
+    "doi": "10.1021/acsami.9b03304",
+    "journal": "ACS Applied Materials & Interfaces",
+    "date": "2019-06-19",
+    "sha256": "a9fd5360e847052e515e35bf2b0aac0a90a17c87577b13f904120b4e8997a2b0",
+    "source_url": "https://doi.org/10.1021/acsami.9b03304",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 8,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "PyCEE电子传输层PSC；刚性MAPbI3与柔性混离子钙钛矿不同。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E182-C1",
+        "statement": "冠军PCE18.27%、表格均值16.81±0.70%与稳态17.70%是不同统计口径。",
+        "pages": [
+          4
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E182-C2",
+        "statement": "Pb4f约0.2 eV移动支持作者界面作用解释，不直接证明Cu/Ni配位或NO3RR工作机制。",
+        "pages": [
+          5
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E182-C3",
+        "statement": "柔性器件换用混离子钙钛矿和一步制备，不能把15.25%与刚性冠军差异全归因衬底。",
+        "pages": [
+          6
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "TiO2高温/迟滞瓶颈→分子身份和器件设计→输出与重复性→形貌/界面/动力学解释→柔性拓展。",
+    "limits": [
+      "外部SI未获取；NMR/迁移率/接触角等正文引用SI的数字属于作者报告。",
+      "PSC中的Pb配位与电子抽取不能作为PyCEE–CuNi电催化的直接证明。"
+    ],
+    "writing": "官能化方式＋材料器件角色＋明确应用；全文具体功能比efficiency形容词更可迁移。",
+    "figure": "黑TiO2/红PyCEE/蓝PCBM；Fig.2d同材料在两指标中换色可改为颜色编码材料、线型编码指标。",
+    "experiment": "先建立材料身份，再区分形貌、润湿、界面和电子过程；优先设计可区分这些路径的对照。",
+    "figure_story": [
+      {
+        "figure_id": "Scheme.1",
+        "pages": [
+          2
+        ],
+        "question": "怎样得到明确分子？",
+        "observation": "反应式与PyCEE结构。",
+        "inference_limit": "命名和取代位置依原始结构，不能混作任意吡啶/C60。",
+        "bridge": "用晶体与器件图定位。"
+      },
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          2
+        ],
+        "question": "结构怎样连接用途？",
+        "observation": "ORTEP、晶体堆积、器件和能级。",
+        "inference_limit": "单晶堆积不等于实际薄膜结构；能级来自多方法。",
+        "bridge": "先看收益。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          3
+        ],
+        "question": "输出改善可重复吗？",
+        "observation": "最佳J–V、EQE、50器件分布和稳态。",
+        "inference_limit": "均值/冠军/稳态区分；400 s稳定输出不是长期寿命。",
+        "bridge": "解释形貌贡献。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          4
+        ],
+        "question": "薄膜和生长怎样改变？",
+        "observation": "相同尺度的AFM/SEM左右证据。",
+        "inference_limit": "润湿/粗糙度/晶粒同时改变，不能只归电子效应。",
+        "bridge": "看界面与动力学。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          5
+        ],
+        "question": "配位有何线索？",
+        "observation": "Pb4f整体小位移。",
+        "inference_limit": "需能量校准及N侧互证；不自动等于唯一配位几何。",
+        "bridge": "载流子响应互证。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          5
+        ],
+        "question": "抽取是否更有效？",
+        "observation": "PL淬灭与TRPL缩短。",
+        "inference_limit": "需区分抽取和非辐射损失，不能无结构语境称短寿命总更好。",
+        "bridge": "验证低温用途。"
+      },
+      {
+        "figure_id": "Fig.6",
+        "pages": [
+          6
+        ],
+        "question": "柔性应用是否可行？",
+        "observation": "器件J–V、实物和10 mm半径1000次弯折。",
+        "inference_limit": "机械循环不是热/湿/光长期运行；不同吸收层限制直接比较。",
+        "bridge": "收束低温可加工用途。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "TiO2高温/迟滞瓶颈→分子身份和器件设计→输出与重复性→形貌/界面/动力学解释→柔性拓展。",
+      "alternative_or_limit": "外部SI未获取；NMR/迁移率/接触角等正文引用SI的数字属于作者报告。；PSC中的Pb配位与电子抽取不能作为PyCEE–CuNi电催化的直接证明。",
+      "falsifiable_next_check": "先建立材料身份，再区分形貌、润湿、界面和电子过程；优先设计可区分这些路径的对照。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "黑TiO2/红PyCEE/蓝PCBM；Fig.2d同材料在两指标中换色可改为颜色编码材料、线型编码指标。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "card_id": "E183",
+    "doc_id": "SI06",
+    "title": "Engineering Cu(I)/Cu(0) interfaces for efficient ethanol production from CO2 electroreduction",
+    "doi": "10.1016/j.chempr.2023.08.027",
+    "journal": "Chem",
+    "date": "2024-01",
+    "sha256": "5bfb0421b13d0385ce5f7efebf8170a8ac89d246d23bd31f7a449434005c1286",
+    "source_url": "https://doi.org/10.1016/j.chempr.2023.08.027",
+    "source_format": "PDF",
+    "source_locator_kind": "physical PDF file page, 1 based; not printed page number or JATS unit",
+    "page_count": 68,
+    "schema_version": 4,
+    "read_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "read_scope": "systematic argument and all main-figure-group analysis; supporting results/method passages reviewed; not a word-by-word bibliography audit",
+    "document_kind": "primary_research",
+    "identity_status": "Crossref DOI metadata checked 2026-10-26; local PDF identity checked in source reading; not a complete correction/retraction audit",
+    "conditions": "1 M KOH流动池CO2RR；1 cm²、85%iR、20 mL/min CO2；Raman与换CO进料另列。",
+    "capabilities": [
+      "figure_story",
+      "title_design",
+      "critical_reading",
+      "scope_boundary"
+    ],
+    "claims": [
+      {
+        "claim_id": "E183-C1",
+        "statement": "1 M KOH流动池报告FE乙醇35.4%、C2+80.2%，增强倍数基于不同指标不可混用。",
+        "pages": [
+          10
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E183-C2",
+        "statement": "1028 cm−1峰面积与含氧产物分电流随电位相关，支持路径关联但不是普适强度—速率标定。",
+        "pages": [
+          17
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      },
+      {
+        "claim_id": "E183-C3",
+        "statement": "性能测试85%iR校正；CO进料试验是通道扰动而不是直接空间迁移成像。",
+        "pages": [
+          20
+        ],
+        "type": "authored_summary_or_critical_audit_of_author_report_not_independent_replication"
+      }
+    ],
+    "mechanism": "争议源于Cu价态/界面不可控→脉冲转化动力学→核壳模型确认→组成×电位的产物地图→电子结构→原位谱/换CO进料/计算整合位点功能。",
+    "limits": [
+      "实际源文件SI06包含24页主文/封面与44页SI，新建E183而非误算又一SI。",
+      "TOF用假定五层界面区域与纳米盘几何估位点，属于模型估计；约500 min稳定性不是500 h。",
+      "与E172相关但DOI、材料形态和主要产物不同，非重复计数。"
+    ],
+    "writing": "Engineering＋明确界面＋目标反应/产物，方法和用途清楚；正文必须兑现界面身份和选择性区别。",
+    "figure": "Cu0棕/界面粉/CuI橙建立语义；粉色很浅需加深；电位/组成热图应改连续顺序色并标采样点。",
+    "experiment": "把模型样品、动态制备、产物分支、谱学和底物替换编成可反驳的链；强度与速率相关仍不能代替校准。",
+    "figure_story": [
+      {
+        "figure_id": "Fig.1",
+        "pages": [
+          5
+        ],
+        "question": "怎样控制模型界面形成？",
+        "observation": "EQCM质量与电流同步，阶段和单周期放大。",
+        "inference_limit": "质量变化还可能含溶剂/离子/粘弹性，非单物种唯一计量。",
+        "bridge": "独立结构检验。"
+      },
+      {
+        "figure_id": "Fig.2",
+        "pages": [
+          8
+        ],
+        "question": "什么是界面模型？",
+        "observation": "两组对照AFM/高度/HAADF/示意加XRD、Auger、Raman。",
+        "inference_limit": "两样品大小与厚度不同；示意不是实测原子分布。",
+        "bridge": "看选择性而非总电流。"
+      },
+      {
+        "figure_id": "Fig.3",
+        "pages": [
+          10
+        ],
+        "question": "界面比例怎样影响分支？",
+        "observation": "FE和j分开、组成×电位图、倍数与文献坐标。",
+        "inference_limit": "热图插值需原始采样点；3D柱遮挡；跨研究散点需条件分层。",
+        "bridge": "解释空间电子差异。"
+      },
+      {
+        "figure_id": "Fig.4",
+        "pages": [
+          13
+        ],
+        "question": "电子结构有空间梯度吗？",
+        "observation": "模型轨道与分区域PDOS。",
+        "inference_limit": "静态模型不是实测通量，浅色面积对比不足；非唯一活性判据。",
+        "bridge": "与中间体和底物扰动相连。"
+      },
+      {
+        "figure_id": "Fig.5",
+        "pages": [
+          15
+        ],
+        "question": "怎样连接路径与产物？",
+        "observation": "Raman、吸附能、峰面积/j相关、反应状态能图和位点分工示意。",
+        "inference_limit": "Fig.5D/F画状态能级，本页未显示TS；不能把上坡数值自动当动力学势垒。CO迁移为综合推断。",
+        "bridge": "用独立进料与定量约束机制，不把示意闭环当证明。"
+      }
+    ],
+    "critical_reading": {
+      "strength": "争议源于Cu价态/界面不可控→脉冲转化动力学→核壳模型确认→组成×电位的产物地图→电子结构→原位谱/换CO进料/计算整合位点功能。",
+      "alternative_or_limit": "实际源文件SI06包含24页主文/封面与44页SI，新建E183而非误算又一SI。；TOF用假定五层界面区域与纳米盘几何估位点，属于模型估计；约500 min稳定性不是500 h。；与E172相关但DOI、材料形态和主要产物不同，非重复计数。",
+      "falsifiable_next_check": "把模型样品、动态制备、产物分支、谱学和底物替换编成可反驳的链；强度与速率相关仍不能代替校准。",
+      "audit_status": "agent-authored critical reading; not experiment replication"
+    },
+    "visual_review": {
+      "figure_id": "all_main_figure_groups",
+      "observed": "Cu0棕/界面粉/CuI橙建立语义；粉色很浅需加深；电位/组成热图应改连续顺序色并标采样点。",
+      "recommended_software": "Origin .opju for data; PowerPoint/vector native for assembly; ChemDraw/VESTA/Fiji for chemistry/coordinates/microscopy as needed. Recommendation, not attribution.",
+      "software_disclosure": [
+        {
+          "name": "CASTEP",
+          "role": "DFT calculation; not established as manuscript plotting software",
+          "pages": [
+            21
+          ],
+          "scope": "explicit main-text disclosure"
+        }
+      ],
+      "other_plotting_software": "Not established by appearance; absence here does not certify absence in unreviewed text.",
+      "status": "all main figure groups listed in figure_story visually inspected; not all SI panels",
+      "pages": [
+        5,
+        8,
+        10,
+        13,
+        15,
+        17,
+        18
+      ]
+    }
   }
 ]

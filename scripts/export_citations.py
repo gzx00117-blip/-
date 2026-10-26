@@ -15,11 +15,12 @@ def bibtex(m):
     fields={'author':a,'title':'{'+safe(m['title'])+'}','journal':safe(m['journal']),'year':year,'volume':m.get('volume'),'number':m.get('issue'),'pages':m.get('page') or m.get('article_number'),'doi':m['doi'],'url':'https://doi.org/'+m['doi']}
     return '@article{'+m['card_id']+',\n'+',\n'.join('  '+k+' = {'+str(v)+'}' for k,v in fields.items() if v is not None and v!='')+'\n}'
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--card');p.add_argument('--output',type=Path);a=p.parse_args()
-    m=json.loads((ROOT/'analysis/methods_bibliography.json').read_text(encoding='utf-8'))
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--card');p.add_argument('--output',type=Path);p.add_argument('--batch',choices=['methods','story','all'],default='methods');a=p.parse_args()
+    names=['methods_bibliography.json','story_bibliography.json'] if a.card or a.batch=='all' else ['story_bibliography.json' if a.batch=='story' else 'methods_bibliography.json']
+    m=[x for name in names for x in json.loads((ROOT/'analysis'/name).read_text(encoding='utf-8'))]
     if a.card:
         m=[x for x in m if x['card_id']==a.card.upper()]
-        if not m:p.error('Only E122–E151 have verified metadata in this export snapshot.')
+        if not m:p.error('This export supports verified metadata E122–E183; earlier records are not silently upgraded.')
     out='\n\n'.join(bibtex(x) for x in m)+'\n'
     if a.output:a.output.write_text(out,encoding='utf-8')
     else:print(out,end='')

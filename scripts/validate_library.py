@@ -72,6 +72,29 @@ def main():
         check(len([x for x in new if x.get('si_review')])==6,'SI source count mismatch')
         check(sum(len(x['si_review']['read_pages']) for x in new if x.get('si_review'))==24,'SI reading page count mismatch')
         check(all(x.get('capabilities') and x.get('critical_reading') for x in new),'New critical-reading audit missing')
+    if status.get('new_start_id')==152:
+        byid={x['card_id']:x for x in c[151:]}
+        maps=json.loads((ROOT/'analysis/story_figure_maps.json').read_text(encoding='utf-8'))
+        receipts=json.loads((ROOT/'analysis/story_visual_receipts.json').read_text(encoding='utf-8'))
+        meta=json.loads((ROOT/'analysis/story_bibliography.json').read_text(encoding='utf-8'))
+        si=json.loads((ROOT/'analysis/story_si_audits.json').read_text(encoding='utf-8'))
+        check({x['card_id'] for x in maps}==set(byid),'New story map coverage')
+        check(len(receipts)==32 and {x['card_id'] for x in receipts}==set(byid),'New visual receipt coverage')
+        check(len(meta)==32 and all(m['doi'].lower()==byid[m['card_id']]['doi'].lower() for m in meta),'New bibliography DOI mismatch')
+        check(sum(len(x['figure_story']) for x in maps)==status['main_figure_groups'],'Main figure-group count mismatch')
+        for r in receipts:
+            card=byid[r['card_id']];vp={v['page'] for v in r['visual_pages']}
+            check(r['source_sha256']==card['sha256'],'Receipt/card source mismatch '+r['card_id'])
+            check(all(1<=v<=card['page_count'] for v in vp),'Visual page bounds '+r['card_id'])
+            check(all(re.fullmatch(r'[a-f0-9]{64}',v['render_sha256']) for v in r['visual_pages']),'Render hash missing')
+            check(all(set(f['pages'])<=vp for f in r['figure_groups']),'Uninspected main figure group '+r['card_id'])
+        check(len(si)==8 and len({x['doc_id'] for x in si})==8,'SI audit count/identity')
+        for s in si:
+            check(bool(re.fullmatch(r'[a-f0-9]{64}',s['source_sha256'])),'SI source hash '+s['doc_id'])
+            check(all(1<=p<=s['page_count'] for p in s['overview_pages']+s['detail_pages']+s['visual_pages']),'SI physical bounds '+s['doc_id'])
+            check(all(set(q['pages'])<=set(s['overview_pages']+s['detail_pages']) for q in s['notes']),'SI note outside scope '+s['doc_id'])
+        check(byid['E168']['document_kind']=='commentary','Commentary misclassified')
+        check(byid['E183']['doc_id']=='SI06' and byid['E183']['page_count']==68,'Merged source identity')
     result=dict(ok=not errors,papers=len(c),new_papers=status['new_papers'],distinct_dois=len({canonical(x['doi']) for x in c}),claims=sum(len(x['claims']) for x in c),retrieval=checks,portable_files=len(tracked),errors=errors)
     print(json.dumps(result,ensure_ascii=False,indent=2))
     sys.exit(0 if not errors else 1)

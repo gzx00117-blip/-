@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "old151_records_and_markdown_unchanged_after_git_line_ending_normalization": true,
+  "source_pdf_hashes_verified": 39,
+  "render_receipts_verified": 191,
+  "date": "2026-10-26",
+  "library_integrity": "passed:183 DOI records,532 claims,184 figure groups and8 separate SI audits",
+  "behavioral_checks": 31,
+  "skill_schema": "passed",
+  "source_query": "E183 main physical page20 and SI04 physical page5 resolved from local corpus",
+  "scope": "Integrity/retrieval and explicit-field checks, not independent experimental replication or proof of scientific truth."
+}

@@ -1,0 +1,897 @@
+[
+  {
+    "doc_id": "SI01",
+    "parent_card_id": null,
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "detail_pages": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      15,
+      18
+    ],
+    "visual_pages": [
+      8,
+      9,
+      10
+    ],
+    "notes": [
+      {
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "statement": "氨/亚硝酸盐按各自稀释KOH背景标定；14NH4与15NH4核磁各自拟合，不能只认裂分而省定量。"
+      },
+      {
+        "pages": [
+          9,
+          10
+        ],
+        "statement": "用Cs=0.04 mF/cm²由Cdl估ECSA，Cu-60/Cu-25约3.90倍；ECSA归一后仍有差别，但Cs恒定是假设。"
+      },
+      {
+        "pages": [
+          15,
+          18
+        ],
+        "statement": "H-cell和single-pass流动池的电位、NO3浓度与进液速率不同，不可直接配对最大FE与另一条件的j。"
+      }
+    ],
+    "lesson": "把标定—原始电流—产物FE—面积归一—装置边界放成可追踪序列。",
+    "limits": [
+      "parent DOI 10.1021/acsami.6c00755主文未获取，不计为一篇全文研究；本SI不含完整正文方法。",
+      "Cdl图纵轴mA/mF与caption面积归一符号需核几何面积。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "5432f82db495f0fb22b6bd0682f32fc56e53195cbe29c7558a5588db78a65501",
+    "page_count": 19,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 8,
+        "render_sha256": "9ab6f4ba1c859e248614a80faa7f5af0eb6aaeb2fa4ece46c3d99d9d5682899c"
+      },
+      {
+        "page": 9,
+        "render_sha256": "c37c0c553c4a6aa777e4efc1887838d9cabaa7cf75867cebf678a523b1aa53a6"
+      },
+      {
+        "page": 10,
+        "render_sha256": "13e80040395393fdf06a8f68fff1413760ebee237c19c1a07a743b060fbd83ba"
+      }
+    ],
+    "parent_doi": "10.1021/acsami.6c00755"
+  },
+  {
+    "doc_id": "SI02",
+    "parent_card_id": "E031",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "detail_pages": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      17,
+      24,
+      27,
+      28
+    ],
+    "visual_pages": [
+      17,
+      24,
+      28
+    ],
+    "notes": [
+      {
+        "pages": [
+          3,
+          4
+        ],
+        "statement": "先包覆再350°C转化与先转化再包覆不同；GDL背面另有PTFE防淹处理，寿命不可全归材料分子键。"
+      },
+      {
+        "pages": [
+          5,
+          6
+        ],
+        "statement": "Raman 1 M KOH、ATR 0.1 M KOH与性能1 M KOH不同，性能85%iR；表征条件应分开列。"
+      },
+      {
+        "pages": [
+          24
+        ],
+        "statement": "700 mA/cm²六次每次1 h且换新电解液，属于循环复用，不等于连续6 h无维护。"
+      },
+      {
+        "pages": [
+          25,
+          26
+        ],
+        "statement": "两个表中本工作jC2H4分别496.93与513.6，条件/取点需核，不能挑较大值。"
+      },
+      {
+        "pages": [
+          28
+        ],
+        "statement": "Cu–O–Cu/Si合并路径拟合没有给独立CN误差，低R因子不独自唯一识别Si配位。"
+      }
+    ],
+    "lesson": "材料寿命、基底防淹与电解液维护分开；接触角柱从60°起会放大视觉差别，改点图或从零柱。",
+    "limits": [
+      "旧E031卡保持原样，新增SI发现通过本审计引用。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "e9bcd540e44158c7ddcc5f9b5055aec92833b70b187e7f70d77ab8b56335900b",
+    "page_count": 29,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 17,
+        "render_sha256": "664effe79f29b000c7f8a1ec41d9b949a17d34988780f9cba0c2eae703fc26d6"
+      },
+      {
+        "page": 24,
+        "render_sha256": "cd85e44ef52270b8b6fecd52970786928a7755df5f02ed0f6a45243a7d12812c"
+      },
+      {
+        "page": 28,
+        "render_sha256": "a79b1a8eab37d3727d0f457ae2b72b22c06c0543983a50daaf83ddae4a31ddfd"
+      }
+    ],
+    "parent_doi": "10.1002/anie.202508366"
+  },
+  {
+    "doc_id": "SI03",
+    "parent_card_id": "E045",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "detail_pages": [
+      4,
+      5,
+      11,
+      26,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "visual_pages": [
+      26,
+      36,
+      37
+    ],
+    "notes": [
+      {
+        "pages": [
+          4
+        ],
+        "statement": "富乙烯进料下乙烯FE由1减副产物FE求得，非直接量新生成乙烯；需闭合全部副产物和流量收支。"
+      },
+      {
+        "pages": [
+          4,
+          17,
+          25
+        ],
+        "statement": "所有金属统一Cs=0.04的ECSA估算及Cu尺寸系列，均需说明表面比电容差异。"
+      },
+      {
+        "pages": [
+          5,
+          40
+        ],
+        "statement": "TEA假设高负载线性放大，文中承认传质会破坏该近似；2.3 V、20/10 mA/cm²为基准假设。"
+      },
+      {
+        "pages": [
+          11,
+          36,
+          37
+        ],
+        "statement": "LCA边界仅乙炔杂质处理，排除粗乙烯制备；成本饼图和单因素敏感性不是实测工厂盈利或全生命周期零排放。"
+      },
+      {
+        "pages": [
+          26
+        ],
+        "statement": "流量改变电流和FE，说明活性比较必须考虑传质；图中总FE超过100需查误差/定量，而非强制归一隐藏。"
+      }
+    ],
+    "lesson": "成本图先给系统边界和基准；用敏感性图找真正限制放大的变量。",
+    "limits": [
+      "未复算整套TEA现金流和全部GC标定；实验尺寸1×1与5×5 cm²分开。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "101643066889724f6a4783a9c612a7df76d217580e41467e892df801bbb91ec7",
+    "page_count": 44,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 26,
+        "render_sha256": "596c25160d2965fbf5314fbcd201953e9d4bbda0d408c87b05e650ded63fec94"
+      },
+      {
+        "page": 36,
+        "render_sha256": "eda859c6e5be9fadedaee2f92563b572e078fd798d8dc639e993dc551911d772"
+      },
+      {
+        "page": 37,
+        "render_sha256": "18efe1247848e24debfa89b61af6a245df8d74da65e47a9ed2573ba4a27e234f"
+      }
+    ],
+    "parent_doi": "10.1073/pnas.2505151122"
+  },
+  {
+    "doc_id": "SI04",
+    "parent_card_id": "E030",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "detail_pages": [
+      4,
+      5,
+      6,
+      7,
+      11,
+      13,
+      14,
+      17,
+      24,
+      28,
+      29
+    ],
+    "visual_pages": [
+      11,
+      13,
+      29
+    ],
+    "notes": [
+      {
+        "pages": [
+          5
+        ],
+        "statement": "方法明确CO进料，却列尿素16e、CH4 8e、C2H4 12e；这些数对应CO2碳源。纯CO+NO3生成尿素净14e，需确认实际碳源/记账约定后核FE。"
+      },
+      {
+        "pages": [
+          13,
+          14
+        ],
+        "statement": "15N核磁支持硝酸盐为氮源，不能单独证明碳来自CO而非碳酸氢盐；CO/CO2进料不可混写。"
+      },
+      {
+        "pages": [
+          7,
+          24
+        ],
+        "statement": "披露Gaussian16和Multiwfn用于计算/画DOS；固定/柔性模型能检验结构适应性，不能推断组图用同软件。"
+      },
+      {
+        "pages": [
+          11
+        ],
+        "statement": "S6a caption称标准尿素但b和图轴NH4；保留原图/图注矛盾。"
+      },
+      {
+        "pages": [
+          29
+        ],
+        "statement": "EXAFS表拟合范围不同且Cu3-rigid-before ΔE0=44.44 eV，需原始拟合、约束和敏感性；仅低R因子不足以证明唯一距离变化。"
+      }
+    ],
+    "lesson": "题目最强的机制词必须对应工作态与可反驳模型；先平衡净反应电子数再比较FE。",
+    "limits": [
+      "电子计数为基于纯CO碳源的化学计量审计，不擅自改论文结果或指控；需碳来源确认。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "5ee8dc2f39fdd40cebc3355d37ba47bda926223650c8f4eb840f0363129dc3b5",
+    "page_count": 31,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 11,
+        "render_sha256": "8603dde24a35ce6ad7e3e0ef4543b071277d8bc0d77a4e570e12513894368840"
+      },
+      {
+        "page": 13,
+        "render_sha256": "fcd236ba7b5faae4d0b0b80e01b165ae59823cfc87be131a50e5eacdbab4f1fd"
+      },
+      {
+        "page": 29,
+        "render_sha256": "5bf4459f3b7cb1083a7cb6b4de3b14342286cebc9f501aed8a050c583f604cdb"
+      }
+    ],
+    "parent_doi": "10.1021/jacs.5c15109"
+  },
+  {
+    "doc_id": "SI05",
+    "parent_card_id": "E005",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "detail_pages": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      30,
+      41,
+      47,
+      50,
+      51,
+      52,
+      53
+    ],
+    "visual_pages": [
+      41,
+      47,
+      51,
+      53
+    ],
+    "notes": [
+      {
+        "pages": [
+          3,
+          51,
+          52
+        ],
+        "statement": "Athena/Artemis0.9.26和Hama Fortran WT已披露；作者提醒CN–σ²强相关。Cu–Cu CN14.0±4.0与13.4±3.5大幅重叠，不宜称显著下降。"
+      },
+      {
+        "pages": [
+          41
+        ],
+        "statement": "WT四图量程不同，且b第一壳Cu–Cu/较高R Cu–O/C标注需回模型核对；颜色/峰位不独自识别Cu–C。"
+      },
+      {
+        "pages": [
+          47
+        ],
+        "statement": "o-Cu2O–C60行Cu+64.9%、Cu0 13.0%，比值应约4.99，表写0.20似取倒数；分母为0的比值写0也不严谨。"
+      },
+      {
+        "pages": [
+          4,
+          5,
+          53
+        ],
+        "statement": "H-cell0.1 M KHCO3与flow catholyte1 M KHCO3/anolyte1 M KOH；衍生物表各自电位−1.2/−1.4/−1.5 V不同，不是同电位官能团效应。"
+      },
+      {
+        "pages": [
+          6
+        ],
+        "statement": "理论明确未显式处理电解液、覆盖度和工作电位；Bader静态电荷不证明工作中持续电子缓冲周转。"
+      }
+    ],
+    "lesson": "软件方法、模型限制和误差必须一起学习；不把CN小差别或热图色深过度解释。",
+    "limits": [
+      "表格算术疑点不是原始谱重新拟合；未获取可独立重算的所有原始XAS/GC数据。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "6209195a8e89233c956db454706b1fe0146da812a11ce6ede20510a954e32b9a",
+    "page_count": 56,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 41,
+        "render_sha256": "32520abf0d1eb12a10398f41822a1dd7902bff7587ae19996c5775a25040f27f"
+      },
+      {
+        "page": 47,
+        "render_sha256": "f63f2ec79026e4699fd04927824327e9a2e2954fe48f56635f0a0cc87d6f1f39"
+      },
+      {
+        "page": 51,
+        "render_sha256": "60e40ed8aa76564f4991d61ca0487186977f16052e55c0f3e26379b2fbe9d529"
+      },
+      {
+        "page": 53,
+        "render_sha256": "8b2f209b68a2e23750ab5d8d322f407cf8990e11fd346f78e21fd77c75f0d9c5"
+      }
+    ],
+    "parent_doi": "10.1021/acsnano.5c13950"
+  },
+  {
+    "doc_id": "SI06",
+    "parent_card_id": "E183",
+    "overview_pages": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "detail_pages": [
+      26,
+      48,
+      50,
+      53,
+      56,
+      57,
+      63,
+      64,
+      65,
+      67
+    ],
+    "visual_pages": [
+      56,
+      65,
+      67
+    ],
+    "notes": [
+      {
+        "pages": [
+          26,
+          56,
+          67
+        ],
+        "statement": "TOF按纳米盘几何和五层(111)界面厚度估位点；模型界面面积不等于实验直接数位点。"
+      },
+      {
+        "pages": [
+          50,
+          63,
+          64
+        ],
+        "statement": "加KF提高总活性而未明显提高乙醇FE，换CO进料对两样品影响不同，有助区分供CO与界面分支；仍非直接追踪迁移。"
+      },
+      {
+        "pages": [
+          57,
+          58
+        ],
+        "statement": "约500 min测试且壳厚7.5→5 nm，不能称完全不变或500 h。"
+      },
+      {
+        "pages": [
+          65
+        ],
+        "statement": "材料下标1.65与XPS CuI/Cu0=1.21不是同一变量，报告组成时注明具体定义。"
+      }
+    ],
+    "lesson": "同一PDF含主文和SI要按物理页分段；TOF图旁放位点模型和参数敏感性。",
+    "limits": [
+      "E183主文另计一次，SI06不重复增加论文数；三次实验CI置信水平未在所读图注定义。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "5bfb0421b13d0385ce5f7efebf8170a8ac89d246d23bd31f7a449434005c1286",
+    "page_count": 68,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 56,
+        "render_sha256": "62f9a8c34cb6d38a75f4621625b7590f9ffd9b05984e8f8b4d0f27e590deccc0"
+      },
+      {
+        "page": 65,
+        "render_sha256": "169fc7c6c4a554ebadb119c65b3b1653f736875f0682665692fc64a0d51415aa"
+      },
+      {
+        "page": 67,
+        "render_sha256": "acba48386ef70ccb1e8b47a7a2206a368cfbdf00f6be67dae9df82f193922ae1"
+      }
+    ],
+    "parent_doi": "10.1016/j.chempr.2023.08.027"
+  },
+  {
+    "doc_id": "SI07",
+    "parent_card_id": "E173",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "detail_pages": [
+      4,
+      5,
+      24,
+      28,
+      30,
+      32,
+      35,
+      36
+    ],
+    "visual_pages": [
+      24,
+      28,
+      32
+    ],
+    "notes": [
+      {
+        "pages": [
+          4,
+          5,
+          28
+        ],
+        "statement": "Raman0.5 cm²与性能1 cm²且无iR校正；S21峰随电位出现支持中间体存在，不直接给生成速率。"
+      },
+      {
+        "pages": [
+          24
+        ],
+        "statement": "EPR图给自旋数标记而caption称空位浓度，需标准、质量归一和缺陷—自旋化学对应才能给绝对空位分数。"
+      },
+      {
+        "pages": [
+          32
+        ],
+        "statement": "图注/讨论(110)/(220)混用；C–C距离差和吸附能差不能代替直接TS二聚势垒。"
+      },
+      {
+        "pages": [
+          25,
+          35
+        ],
+        "statement": "S18图注漏负号写0.84 V，主文工作条件−0.84 V；最大jCO37.2在−1.14 V的FE81.4%，不要配成最大FE85.2%。"
+      }
+    ],
+    "lesson": "从峰存在到覆盖再到速率有不同证据门槛；每个最值附电位与图号。",
+    "limits": [
+      "旧E173主卡只覆盖正文，SI新增发现单列；本轮未做EPR自旋重积分。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "aa7ce50f2a676fcd411b8de1e48fadf6d433ce55f2c8005045d8db6158a89070",
+    "page_count": 40,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 24,
+        "render_sha256": "2df3e2469e16490bcde5365f16ca763012ef6883bf4a1bd105bab06269d33a63"
+      },
+      {
+        "page": 28,
+        "render_sha256": "c2ee48d68b8303c5b3fd18df6cb31cbc00a0b19f56cf1f68490bdf00fd32dda5"
+      },
+      {
+        "page": 32,
+        "render_sha256": "b357a07fc12e5763466c2797e6ad6a482ae5c1b613f5befe482059288a25e8e3"
+      }
+    ],
+    "parent_doi": "10.1021/acscatal.2c01750"
+  },
+  {
+    "doc_id": "SI08",
+    "parent_card_id": "E172",
+    "overview_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "detail_pages": [
+      3,
+      10,
+      18,
+      22,
+      24
+    ],
+    "visual_pages": [
+      10,
+      22,
+      24
+    ],
+    "notes": [
+      {
+        "pages": [
+          3
+        ],
+        "statement": "性能1 M KOH流动池、负载约2 mg/cm²且不iR校正；计算用CASTEP，不据此推断整图软件。"
+      },
+      {
+        "pages": [
+          10,
+          18
+        ],
+        "statement": "EQCM-D的Δf/n是频率变化，转质量需Sauerbrey适用条件及粘弹/溶剂排查；周期信号不独自证明单一物种。"
+      },
+      {
+        "pages": [
+          16,
+          22
+        ],
+        "statement": "28 h稳定性跨−0.3至−0.7 V分段测试且横轴多断裂，不是最佳乙酸选择性电位连续28 h。"
+      },
+      {
+        "pages": [
+          24
+        ],
+        "statement": "低/高过电位路径属于作者提议；结构位点配色是解释模型，不能当直接测得反应位置。"
+      }
+    ],
+    "lesson": "历史、偏压段与维护协议画在时间轴上；用共同数值轴减少断轴造成的印象偏差。",
+    "limits": [
+      "25页源的末页含参考文献和比较表；比较表不作2026最高性能结论。"
+    ],
+    "read_scope": "page/caption map and targeted methods review; selected original figure/table pages visually inspected; not a full-SI/raw-data replication audit",
+    "source_sha256": "8d43358d02f752bfa7df2ea5511237cb6a3d204d9dd5b94a75bb199e60ed721a",
+    "page_count": 25,
+    "locator_kind": "physical PDF file page, 1 based",
+    "visual_receipts": [
+      {
+        "page": 10,
+        "render_sha256": "f91c7a3e4a8000935c7afa70912f276f4a6109ff8a5e4e6d071a055639b932c6"
+      },
+      {
+        "page": 22,
+        "render_sha256": "d6412b68acd62758c0dc2e5989ec79554c64b7838081f02bf822a601af4957c3"
+      },
+      {
+        "page": 24,
+        "render_sha256": "faa4e7dafd20dc02876e064e52e4512e6d345922f03570d9d8314031aea709a5"
+      }
+    ],
+    "parent_doi": "10.1039/d1sc05441d"
+  }
+]
