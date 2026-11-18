@@ -1,6 +1,6 @@
 ---
 name: electrocatalysis-evidence
-description: Use a traceable electrocatalysis literature library for critical reading, condition and assay checks, manuscript arguments, figure interpretation or experiment planning. Covers NO3RR, Cu/Ni, fullerene and molecular microenvironments; apply when literature evidence is needed.
+description: Use traceable electrocatalysis literature for critical reading, figure interpretation, manuscript positioning, journal fit and experiment planning. Covers NO3RR, Cu/Ni, fullerenes and molecular interfaces. Use for comparing journals or evidence needs for a catalysis submission.
 ---
 
 # Electrocatalysis Evidence
@@ -26,6 +26,8 @@ E152–E183 main figure groups and exact image receipts are in `analysis/story_v
 Read [task-workflows.md](references/task-workflows.md) for writing, figures, experiments or updates. For each substantive conclusion report claim ID, DOI/PDF page, author-reported observation, interpretation, and applicability to the actual sample. Do not turn a literature mechanism into a measured fact about the user's material.
 
 Match substrate, NO3 vs NO3–N basis, electrolyte/pH, potential reference/iR, reactor, loading, denominator, time and product assay before numerical comparison. Prioritize product FE and partial current/yield over total current alone.
+
+For journal selection, editorial patterns or a desk-review simulation, use [journal-fit.md](references/journal-fit.md). Assess the manuscript's strongest supported advance against current public criteria and close precedents. Give a conditional recommendation, its strongest objection, the check most likely to change the choice, and concrete title/abstract/figure changes. Open [journal-fit-cases.md](references/journal-fit-cases.md) for the JACS, Angew and Nature Communications pilot.
 
 ## High-value evidence routes
 
