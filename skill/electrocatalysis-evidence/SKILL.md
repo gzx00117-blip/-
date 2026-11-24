@@ -1,6 +1,6 @@
 ---
 name: electrocatalysis-evidence
-description: Use traceable electrocatalysis literature for critical reading, figure interpretation, manuscript positioning, journal fit and experiment planning. Covers NO3RR, Cu/Ni, fullerenes and molecular interfaces. Use for comparing journals or evidence needs for a catalysis submission.
+description: Use traceable electrocatalysis literature for critical reading, figure interpretation, manuscript positioning, Angew-style English writing, journal fit and experiment planning. Covers NO3RR, Cu/Ni, fullerenes and molecular interfaces.
 ---
 
 # Electrocatalysis Evidence
@@ -48,6 +48,8 @@ For journal selection, editorial patterns or a desk-review simulation, use [jour
 - **Separate review and neighboring reactions:** E058/E064/E078 are reviews, not independently repeated data. E036/E047/E060/E067 involve light/heat/cascades. E032's 2027 issue date has no confirmed online-first date; do not claim every record is verified recent publication.
 
 ## Manuscript and visual workflow
+
+For Angew-style English drafting, Chinese-to-English manuscript revisions, sentence rhythm, or paragraph transitions, use [angew-english.md](references/angew-english.md). Apply its examples to the requested section and keep measured trends, conditions and mechanistic claims at their original strength.
 
 Read [visual-workflow.md](references/visual-workflow.md) for argument design, software selection, journal requirements and editable figure generation. Consult `analysis/新增30篇学习总结.md` for recent conflicts and `analysis/软件绘图与期刊风格实操.md` for reproducible steps. Never infer authors' software or acceptance reasons from appearance. Keep official requirements, observed conventions and our presets separate.
 Current practical guides: `analysis/图文论证与科研叙事手册_2026-10-26.md`, `analysis/原生软件与期刊图形规范_2026-10-26.md`, and `analysis/标题与证据强度工作坊_2026-10-26.md`. Explain observations before interpretations; each main figure needs a central claim, alternatives and a bridge. Use `templates/argument_plan_example.json` with `scripts/audit_argument.py` to flag explicit missing conditions/controls and unsupported signal-to-rate/ΔG-to-barrier jumps; this is a checklist, not scientific certification.

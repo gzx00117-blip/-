@@ -2,6 +2,8 @@
 
 ## Writing
 
+For Angew-targeted English, use [angew-english.md](angew-english.md) to draft or revise sentence structure, information flow and paragraph handoffs after establishing the actual evidence below.
+
 Build the argument from actual results to bounded interpretation: question → measured difference → relevant working-state evidence → discriminating test → remaining alternatives. Search conflicting evidence as well as supporting precedents. Local manuscript methods come from actual records; literature supplies neither missing measurements nor exact unrecorded synthesis conditions.
 
 For a molecularly modified CuNi sample, distinguish possible wetting/area, electronic/working-state, and proton/H supply effects. E003 is Ni4N/Cu, E004 is CuCOF, E005 is C60/Cu2O CO2RR, E028 is Pd ethanol oxidation. None proves the same mechanism in CuNi. Confirm actual sample identity and real control treatment.
