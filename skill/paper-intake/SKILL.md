@@ -1,11 +1,13 @@
 ---
 name: paper-intake
-description: Read supplied papers from PDF, DOI, URL, citation, or Zotero. Analyze the evidence, manuscript writing, figure choice, panel layout, colors, and journal-specific review questions. Use for close reading, 逐图分析, and cross-paper or cross-journal synthesis.
+description: Find and read papers from local PDFs, Zotero, DOI, or scholarly search, including rolling recent-literature coverage. Analyze evidence, writing, figures, colors, and journal-specific review questions. Use for 近三年文献, 逐图分析, and cross-journal synthesis.
 ---
 
 # 文献精读
 
 用户提交或指定论文并希望阅读、学习或分析时，直接开始。一条消息只附上一份可识别的论文、DOI 或文章链接，且没有更具体的任务时，默认做标准精读。给定研究问题时优先回答该问题。用户指定只找 DOI、整理文件或检查引用时，按明确的任务处理。
+
+要求“近三年”“全部文献”“漏读哪些”或没有给来源而要求主动查读时，先读[近三年覆盖与续读](references/recent-coverage.md)。合并本地、Zotero 和公开检索，核对日期、题材、可访问性及已读范围。处理电催化时，在这里完成新文献获取和阅读，遇到需要领域先例、反例、定量核查或期刊对比的问题，若可用则调用 `electrocatalysis-evidence`。
 
 ## 获取原文
 
@@ -25,4 +27,4 @@ description: Read supplied papers from PDF, DOI, URL, citation, or Zotero. Analy
 
 标准精读在核心证据之外，简要指出这篇怎样起题和推进正文、哪张图决定论证、哪种图形与颜色编码值得迁移，以及一条针对核心主张的审稿追问。用户要学习写作、配图、配色或比较期刊时，读[写作、图形和审稿分析](references/writing-figures-and-review.md)，把观察转成自己的段落顺序、面板和补证建议。分析 Angew、JACS、Nature Communications、ACS Nano 的电催化先例时，用[四刊案例](references/electrocatalysis-journal-cases.md)作为起点，并逐次纳入新论文。刊间比较分别标注正式指南、发表样本的做法、实际取得的审稿意见和推演中的追问。
 
-多篇、逐图、持续积累或明确要输出文件时，按 [深读记录](references/reading-record.md) 选用对应结构。以聊天直接交付为默认；用户要求保存、入库或更新技能时，按指定位置保存原创研究笔记和可溯源引用。当前会话中的读取流程从用户提交材料开始。
+多篇、逐图、持续积累或明确要输出文件时，按 [深读记录](references/reading-record.md) 选用对应结构。以聊天直接交付为默认；用户要求保存、入库或更新技能时，按指定位置保存原创研究笔记和可溯源引用。

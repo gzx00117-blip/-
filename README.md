@@ -53,6 +53,8 @@ python scripts/test_story_tools.py
 
 要安装独立的文献精读 skill，运行 `python scripts/install_skill.py --skill paper-intake`。安装后可在新会话提交 PDF、DOI、论文链接或 Zotero 条目，或显式使用 `$paper-intake`。可以一起指定重点，例如“逐图看作者怎么证明机制，找一个能区分替代解释的对照”。
 
+也可直接要求“读近三年电催化文献，把本地和网上的合并，先读与我课题相关的”。从 [近三年覆盖与续读](skill/paper-intake/references/recent-coverage.md) 查本地清点、主动检索和逐批阅读的做法。需要电催化先例、反例或期刊比较时，精读入口可调用电催化证据 skill。
+
 ## 可选：连接自己的本地全文
 
 本仓库不含 PDF、提取全文或 Zotero 数据库。若已有配套本地语料（含 `inventory.json` 和 `texts/{doc_id}.json`），运行：
