@@ -28,18 +28,22 @@ def canonical_doi(value):
 def date_status(dates, start, end):
     periods = set()
     for raw in dates:
-        match = re.match(r"^(\d{4}(?:-\d{2}(?:-\d{2})?)?)(?:\s|$)", str(raw).strip())
-        if not match:
+        value = str(raw).strip()
+        iso = re.match(r"^(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?(?:\s|$)", value)
+        crossref = re.fullmatch(r"\[\[\s*(\d{4})(?:,\s*(\d{1,2})(?:,\s*(\d{1,2}))?)?\s*\]\]", value)
+        match = iso or crossref
+        if match is None:
             continue
-        parts = [int(part) for part in match[1].split("-")]
+        year, month, day = (int(part or 0) for part in match.groups())
+        if day and not month:
+            continue
         try:
-            if len(parts) == 3:
-                low = high = date(*parts)
-            elif len(parts) == 2:
-                year, month = parts
+            if day:
+                low = high = date(year, month, day)
+            elif month:
                 low, high = date(year, month, 1), date(year, month, monthrange(year, month)[1])
             else:
-                low, high = date(parts[0], 1, 1), date(parts[0], 12, 31)
+                low, high = date(year, 1, 1), date(year, 12, 31)
         except ValueError:
             continue
         if low >= start and high <= end:
