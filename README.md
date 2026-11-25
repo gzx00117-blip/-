@@ -19,6 +19,7 @@
 - [新增60篇目录](analysis/新增60篇论文索引.md)与[本轮学习总结](analysis/新增60篇学习总结.md)：新增证据、相反结果和复核项。
 - [跨论文分析与使用框架](analysis/跨论文分析与使用框架.md)：机制、反例、证据边界、写作/图/实验路线。
 - [Skill](skill/electrocatalysis-evidence/SKILL.md)：让代理检索、核查与应用知识。
+- [文献精读 Skill](skill/paper-intake/SKILL.md) 用于收到新论文后直接读取正文、图表与可访问的补充材料。
 - [机器可读卡片](cards/evidence_cards.json)：claim ID、PDF页码或JATS单元、条件、解释、限制和迁移建议。
 
 E001–E091的页码为**1起始PDF文件页**；E092–E151的U编号为**JATS段落/图注单元**，不是PDF页码。新批次SI以独立PDF物理页定位，三类选择器分开校验。旧卡DOI在PDF、新卡DOI在JATS article-id中核对；E122–E151另经Crossref核验身份/引用元数据。历史记录最终卷页/出版日期未全部外部核验，元数据核验不等于完整撤稿/更正排查。
@@ -49,6 +50,8 @@ python scripts/test_story_tools.py
 安装会把 skill 复制到当前用户 `.agents/skills/electrocatalysis-evidence`，先备份已有版本；只在本机生成库位置文件。可用 `--skills-dir` 指定其他技能目录。下一次会话可显式要求：
 
 > 使用 $electrocatalysis-evidence，检索支持和反对“分子修饰促进有效供氢”的证据，逐条给出 DOI、claim ID 和PDF页码或JATS单元，并区分文献结果与我的样品假设。
+
+要安装独立的文献精读 skill，运行 `python scripts/install_skill.py --skill paper-intake`。安装后可在新会话提交 PDF、DOI、论文链接或 Zotero 条目，或显式使用 `$paper-intake`。可以一起指定重点，例如“逐图看作者怎么证明机制，找一个能区分替代解释的对照”。
 
 ## 可选：连接自己的本地全文
 
